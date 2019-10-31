@@ -1,0 +1,247 @@
+{ "timestamp":"2018-02-17T03:01:10Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r160439/r0 " }
+{ "timestamp":"2018-02-17T03:01:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:01:10Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-02-17T03:02:49Z", "event":"Friends", "Status":"Online", "Name":"Klutz" }
+{ "timestamp":"2018-02-17T03:02:49Z", "event":"Friends", "Status":"Online", "Name":"Aquafunkalisticbooty" }
+{ "timestamp":"2018-02-17T03:02:49Z", "event":"Friends", "Status":"Online", "Name":"John Allbright" }
+{ "timestamp":"2018-02-17T03:02:49Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-02-17T03:02:58Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-02-17T03:02:58Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2018-02-17T03:02:58Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":115 }, { "Name":"vanadium", "Count":162 }, { "Name":"sulphur", "Count":69 }, { "Name":"iron", "Count":96 }, { "Name":"germanium", "Count":96 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"molybdenum", "Count":66 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":42 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":56 }, { "Name":"cadmium", "Count":63 }, { "Name":"zirconium", "Count":7 }, { "Name":"selenium", "Count":12 }, { "Name":"tungsten", "Count":3 }, { "Name":"yttrium", "Count":12 }, { "Name":"chromium", "Count":34 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Count":7 }, { "Name":"wakesolutions", "Count":1 }, { "Name":"scrambledemissiondata", "Count":2 }, { "Name":"legacyfirmware", "Count":4 }, { "Name":"shielddensityreports", "Count":3 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Count":3 }, { "Name":"securityfirmware", "Count":1 }, { "Name":"fsdtelemetry", "Count":1 } ] }
+{ "timestamp":"2018-02-17T03:02:58Z", "event":"LoadGame", "Commander":"JaredCrue", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":30.740002, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-02-17T03:02:58Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-02-17T03:02:58Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":71, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-02-17T03:03:08Z", "event":"Friends", "Status":"Online", "Name":"Klutz" }
+{ "timestamp":"2018-02-17T03:03:08Z", "event":"Friends", "Status":"Online", "Name":"Aquafunkalisticbooty" }
+{ "timestamp":"2018-02-17T03:03:08Z", "event":"Friends", "Status":"Online", "Name":"John Allbright" }
+{ "timestamp":"2018-02-17T03:03:08Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-02-17T03:03:20Z", "event":"Location", "Docked":false, "StarSystem":"Dryiqia FZ-Y b20-2", "StarPos":[5357.188,-64.469,40340.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Dryiqia FZ-Y b20-2 AB", "BodyType":"Null" }
+{ "timestamp":"2018-02-17T03:03:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:03:21Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-17T03:03:43Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-17T03:03:54Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-17T03:03:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:03:59Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-17T03:04:02Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-17T03:04:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:04:28Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-17T03:04:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:04:51Z", "event":"Friends", "Status":"Online", "Name":"Twenty9er" }
+{ "timestamp":"2018-02-17T03:05:06Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-17T03:05:08Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-17T03:05:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryiqia RH-M c10-20", "StarClass":"K" }
+{ "timestamp":"2018-02-17T03:05:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:05:52Z", "event":"FSDJump", "StarSystem":"Dryiqia RH-M c10-20", "StarPos":[5371.844,-69.906,40361.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.205, "FuelUsed":3.697510, "FuelLevel":27.042492 }
+{ "timestamp":"2018-02-17T03:05:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:06:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:06:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:06:15Z", "event":"Scan", "BodyName":"Dryiqia RH-M c10-20 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.781250, "Radius":631251968.000000, "AbsoluteMagnitude":5.632477, "Age_MY":1112, "SurfaceTemperature":5042.000000, "Luminosity":"Va", "SemiMajorAxis":2923224367104.000000, "Eccentricity":0.018748, "OrbitalInclination":11.320395, "Periapsis":358.838165, "OrbitalPeriod":14247385088.000000, "RotationPeriod":287124.000000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-17T03:06:36Z", "event":"FuelScoop", "Scooped":4.957480, "Total":32.000000 }
+{ "timestamp":"2018-02-17T03:06:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:06:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:07:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryiqia QG-V b22-6", "StarClass":"M" }
+{ "timestamp":"2018-02-17T03:07:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:07:22Z", "event":"FSDJump", "StarSystem":"Dryiqia QG-V b22-6", "StarPos":[5379.063,-72.344,40387.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.003, "FuelUsed":4.012781, "FuelLevel":27.987219 }
+{ "timestamp":"2018-02-17T03:07:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:07:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:07:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:07:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:07:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:07:51Z", "event":"Scan", "BodyName":"Dryiqia QG-V b22-6", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.371094, "Radius":398371552.000000, "AbsoluteMagnitude":9.226288, "Age_MY":1514, "SurfaceTemperature":2775.000000, "Luminosity":"Va", "RotationPeriod":206775.015625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-17T03:08:19Z", "event":"FuelScoop", "Scooped":4.012781, "Total":32.000000 }
+{ "timestamp":"2018-02-17T03:08:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryiqia WN-K c11-22", "StarClass":"K" }
+{ "timestamp":"2018-02-17T03:08:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:09:07Z", "event":"FSDJump", "StarSystem":"Dryiqia WN-K c11-22", "StarPos":[5389.000,-66.750,40411.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.543, "FuelUsed":3.847008, "FuelLevel":28.152992 }
+{ "timestamp":"2018-02-17T03:09:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:09:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:09:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:09:29Z", "event":"Scan", "BodyName":"Dryiqia WN-K c11-22", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.726563, "Radius":607904512.000000, "AbsoluteMagnitude":5.691986, "Age_MY":7436, "SurfaceTemperature":5068.000000, "Luminosity":"Vab", "RotationPeriod":324401.375000, "AxialTilt":0.000000, "Rings":[ { "Name":"Dryiqia WN-K c11-22 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":3.814e+13, "InnerRad":1.1759e+09, "OuterRad":2.1693e+09 } ] }
+{ "timestamp":"2018-02-17T03:09:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:09:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:09:47Z", "event":"FuelScoop", "Scooped":3.847006, "Total":32.000000 }
+{ "timestamp":"2018-02-17T03:10:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryiqia YG-S d5-66", "StarClass":"F" }
+{ "timestamp":"2018-02-17T03:10:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:11:05Z", "event":"FSDJump", "StarSystem":"Dryiqia YG-S d5-66", "StarPos":[5394.125,-62.688,40437.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.477, "FuelUsed":3.823694, "FuelLevel":28.176306 }
+{ "timestamp":"2018-02-17T03:11:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:11:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:11:26Z", "event":"Scan", "BodyName":"Dryiqia YG-S d5-66", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.367188, "Radius":865023808.000000, "AbsoluteMagnitude":3.525330, "Age_MY":1762, "SurfaceTemperature":6996.000000, "Luminosity":"Vb", "RotationPeriod":202291.375000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-17T03:11:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:11:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:11:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:11:48Z", "event":"FuelScoop", "Scooped":3.823713, "Total":32.000000 }
+{ "timestamp":"2018-02-17T03:11:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:12:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:13:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:13:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:13:45Z", "event":"Scan", "BodyName":"Dryiqia YG-S d5-66 3", "DistanceFromArrivalLS":629.427673, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.653046 }, { "Name":"SulphurDioxide", "Percent":0.986530 }, { "Name":"Nitrogen", "Percent":0.360214 } ], "Volcanism":"", "MassEM":1.086409, "Radius":6238547.500000, "SurfaceGravity":11.125916, "SurfaceTemperature":933.902405, "SurfacePressure":18029958.000000, "Landable":false, "SemiMajorAxis":178174480.000000, "Eccentricity":0.056212, "OrbitalInclination":-5.676235, "Periapsis":70.554840, "OrbitalPeriod":2089186.375000, "RotationPeriod":3257754.750000, "AxialTilt":0.140335 }
+{ "timestamp":"2018-02-17T03:13:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:13:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:13:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:13:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:14:09Z", "event":"Scan", "BodyName":"Dryiqia YG-S d5-66 4", "DistanceFromArrivalLS":630.693420, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":99.009689 }, { "Name":"SulphurDioxide", "Percent":0.990097 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.758906, "Radius":5603021.500000, "SurfaceGravity":9.635029, "SurfaceTemperature":901.108337, "SurfacePressure":13472933.000000, "Landable":false, "SemiMajorAxis":255064896.000000, "Eccentricity":0.056212, "OrbitalInclination":-5.676235, "Periapsis":250.554855, "OrbitalPeriod":2089186.375000, "RotationPeriod":2722800.250000, "AxialTilt":-0.193676 }
+{ "timestamp":"2018-02-17T03:14:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:14:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:15:00Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryiqia FK-O b26-6", "StarClass":"M" }
+{ "timestamp":"2018-02-17T03:15:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:15:18Z", "event":"FSDJump", "StarSystem":"Dryiqia FK-O b26-6", "StarPos":[5397.031,-59.906,40464.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.082, "FuelUsed":4.024680, "FuelLevel":27.345322 }
+{ "timestamp":"2018-02-17T03:15:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:15:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:15:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:15:41Z", "event":"Scan", "BodyName":"Dryiqia FK-O b26-6", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.355469, "Radius":366555296.000000, "AbsoluteMagnitude":8.667557, "Age_MY":4098, "SurfaceTemperature":3290.000000, "Luminosity":"Va", "RotationPeriod":152968.250000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-17T03:15:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:15:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:16:00Z", "event":"FuelScoop", "Scooped":4.654677, "Total":32.000000 }
+{ "timestamp":"2018-02-17T03:16:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:16:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:17:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryiqia CN-Q d6-52", "StarClass":"K" }
+{ "timestamp":"2018-02-17T03:17:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:17:29Z", "event":"FSDJump", "StarSystem":"Dryiqia CN-Q d6-52", "StarPos":[5412.250,-49.156,40483.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.152, "FuelUsed":4.066636, "FuelLevel":27.933365 }
+{ "timestamp":"2018-02-17T03:17:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:19:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:19:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:19:17Z", "event":"Scan", "BodyName":"Dryiqia CN-Q d6-52 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.898438, "Radius":685587904.000000, "AbsoluteMagnitude":5.366119, "Age_MY":742, "SurfaceTemperature":5144.000000, "Luminosity":"Va", "SemiMajorAxis":773006819328.000000, "Eccentricity":0.208181, "OrbitalInclination":-0.979865, "Periapsis":344.973724, "OrbitalPeriod":1785890304.000000, "RotationPeriod":248723.656250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-17T03:19:36Z", "event":"FuelScoop", "Scooped":4.066619, "Total":32.000000 }
+{ "timestamp":"2018-02-17T03:19:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:19:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:20:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryiqia OW-K b28-0", "StarClass":"M" }
+{ "timestamp":"2018-02-17T03:20:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:20:21Z", "event":"FSDJump", "StarSystem":"Dryiqia OW-K b28-0", "StarPos":[5419.906,-62.156,40502.813], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.237, "FuelUsed":3.079018, "FuelLevel":28.920982 }
+{ "timestamp":"2018-02-17T03:20:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:20:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:20:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:20:43Z", "event":"Scan", "BodyName":"Dryiqia OW-K b28-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.410156, "Radius":426834240.000000, "AbsoluteMagnitude":8.273972, "Age_MY":5438, "SurfaceTemperature":3338.000000, "Luminosity":"Va", "RotationPeriod":197484.000000, "AxialTilt":0.000000, "Rings":[ { "Name":"Dryiqia OW-K b28-0 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.6464e+13, "InnerRad":6.5814e+08, "OuterRad":1.7929e+09 } ] }
+{ "timestamp":"2018-02-17T03:20:59Z", "event":"FuelScoop", "Scooped":3.079037, "Total":32.000000 }
+{ "timestamp":"2018-02-17T03:21:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:21:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:21:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryiqia HL-F c14-6", "StarClass":"G" }
+{ "timestamp":"2018-02-17T03:21:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:21:57Z", "event":"FSDJump", "StarSystem":"Dryiqia HL-F c14-6", "StarPos":[5440.156,-58.281,40520.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.084, "FuelUsed":4.041957, "FuelLevel":27.958042 }
+{ "timestamp":"2018-02-17T03:21:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:22:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:22:13Z", "event":"Friends", "Status":"Offline", "Name":"Twenty9er" }
+{ "timestamp":"2018-02-17T03:22:19Z", "event":"Scan", "BodyName":"Dryiqia HL-F c14-6", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.855469, "Radius":676164032.000000, "AbsoluteMagnitude":5.325836, "Age_MY":10448, "SurfaceTemperature":5228.000000, "Luminosity":"Va", "RotationPeriod":263754.812500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-17T03:22:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:22:51Z", "event":"FuelScoop", "Scooped":3.073957, "Total":31.032011 }
+{ "timestamp":"2018-02-17T03:22:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:22:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:23:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:23:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:23:48Z", "event":"Scan", "BodyName":"Dryiqia HL-F c14-6 1", "DistanceFromArrivalLS":243.738358, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.972336 }, { "Name":"SulphurDioxide", "Percent":1.027563 } ], "Volcanism":"", "MassEM":0.732733, "Radius":5534070.000000, "SurfaceGravity":9.535995, "SurfaceTemperature":939.447449, "SurfacePressure":11218340.000000, "Landable":false, "SemiMajorAxis":72447582208.000000, "Eccentricity":0.010000, "OrbitalInclination":0.079345, "Periapsis":346.446198, "OrbitalPeriod":11497673.000000, "RotationPeriod":17246614.000000, "AxialTilt":-0.429299 }
+{ "timestamp":"2018-02-17T03:23:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:23:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:24:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:24:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:25:01Z", "event":"Scan", "BodyName":"Dryiqia HL-F c14-6 2", "DistanceFromArrivalLS":459.516052, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":85.322327 }, { "Name":"Oxygen", "Percent":11.172682 }, { "Name":"Ammonia", "Percent":3.444111 } ], "Volcanism":"", "MassEM":0.526925, "Radius":4996653.000000, "SurfaceGravity":8.412014, "SurfaceTemperature":258.243652, "SurfacePressure":87319.960938, "Landable":false, "SemiMajorAxis":137758130176.000000, "Eccentricity":0.000021, "OrbitalInclination":0.040721, "Periapsis":118.323341, "OrbitalPeriod":30147402.000000, "RotationPeriod":78855.484375, "AxialTilt":-1.887715 }
+{ "timestamp":"2018-02-17T03:25:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:25:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:25:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:25:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:25:36Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryiqia XI-H b30-3", "StarClass":"M" }
+{ "timestamp":"2018-02-17T03:25:42Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:25:55Z", "event":"FSDJump", "StarSystem":"Dryiqia XI-H b30-3", "StarPos":[5449.625,-52.813,40544.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.374, "FuelUsed":3.763056, "FuelLevel":27.268955 }
+{ "timestamp":"2018-02-17T03:25:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:26:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:26:18Z", "event":"Scan", "BodyName":"Dryiqia XI-H b30-3", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.324219, "Radius":342019232.000000, "AbsoluteMagnitude":9.290421, "Age_MY":3384, "SurfaceTemperature":2951.000000, "Luminosity":"Va", "RotationPeriod":176317.046875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-17T03:26:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:26:38Z", "event":"FuelScoop", "Scooped":4.731021, "Total":32.000000 }
+{ "timestamp":"2018-02-17T03:27:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryiqia BP-F b31-6", "StarClass":"M" }
+{ "timestamp":"2018-02-17T03:27:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:27:22Z", "event":"FSDJump", "StarSystem":"Dryiqia BP-F b31-6", "StarPos":[5448.469,-48.813,40570.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.084, "FuelUsed":3.686071, "FuelLevel":28.313929 }
+{ "timestamp":"2018-02-17T03:27:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:27:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:27:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:27:44Z", "event":"Scan", "BodyName":"Dryiqia BP-F b31-6", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.390625, "Radius":420530400.000000, "AbsoluteMagnitude":8.284241, "Age_MY":2320, "SurfaceTemperature":3355.000000, "Luminosity":"Va", "RotationPeriod":216126.265625, "AxialTilt":0.000000, "Rings":[ { "Name":"Dryiqia BP-F b31-6 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":2.5827e+13, "InnerRad":6.6124e+08, "OuterRad":1.764e+09 } ] }
+{ "timestamp":"2018-02-17T03:27:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:27:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:28:03Z", "event":"FuelScoop", "Scooped":3.686070, "Total":32.000000 }
+{ "timestamp":"2018-02-17T03:29:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:29:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:30:15Z", "event":"Scan", "BodyName":"Dryiqia BP-F b31-6 1", "DistanceFromArrivalLS":287.347107, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":93.858162 }, { "Name":"Argon", "Percent":5.555401 }, { "Name":"Oxygen", "Percent":0.586430 } ], "Volcanism":"", "MassEM":0.225809, "Radius":3906569.000000, "SurfaceGravity":5.897383, "SurfaceTemperature":167.776230, "SurfacePressure":1223534.375000, "Landable":false, "SemiMajorAxis":86144196608.000000, "Eccentricity":0.000117, "OrbitalInclination":0.022667, "Periapsis":201.803635, "OrbitalPeriod":22057590.000000, "RotationPeriod":193527.031250, "AxialTilt":0.216503 }
+{ "timestamp":"2018-02-17T03:30:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:30:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:35:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:35:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:35:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:35:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:35:35Z", "event":"Scan", "BodyName":"Dryiqia BP-F b31-6 2", "DistanceFromArrivalLS":462.534851, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":99.968765 } ], "Volcanism":"", "MassEM":0.297122, "Radius":4256716.000000, "SurfaceGravity":6.535752, "SurfaceTemperature":136.642227, "SurfacePressure":8547276.000000, "Landable":false, "SemiMajorAxis":101398624.000000, "Eccentricity":0.112418, "OrbitalInclination":-1.090750, "Periapsis":226.281342, "OrbitalPeriod":1269086.125000, "RotationPeriod":1828387.750000, "AxialTilt":0.430232 }
+{ "timestamp":"2018-02-17T03:35:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:35:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:36:01Z", "event":"Scan", "BodyName":"Dryiqia BP-F b31-6 3", "DistanceFromArrivalLS":462.443970, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":99.968163 } ], "Volcanism":"", "MassEM":0.276226, "Radius":4160977.250000, "SurfaceGravity":6.358912, "SurfaceTemperature":136.232758, "SurfacePressure":8091047.000000, "Landable":false, "SemiMajorAxis":109069576.000000, "Eccentricity":0.112418, "OrbitalInclination":-1.090750, "Periapsis":46.281330, "OrbitalPeriod":1269086.125000, "RotationPeriod":1762920.000000, "AxialTilt":0.083829 }
+{ "timestamp":"2018-02-17T03:36:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:36:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:36:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryiqia QX-B c16-16", "StarClass":"K" }
+{ "timestamp":"2018-02-17T03:36:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-17T03:36:50Z", "event":"FSDJump", "StarSystem":"Dryiqia QX-B c16-16", "StarPos":[5466.938,-53.156,40588.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.217, "FuelUsed":3.732521, "FuelLevel":28.267479 }
+{ "timestamp":"2018-02-17T03:36:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:42:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:42:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:42:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:42:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:42:14Z", "event":"Scan", "BodyName":"Dryiqia QX-B c16-16 B", "DistanceFromArrivalLS":6.204470, "StarType":"M", "StellarMass":0.472656, "Radius":423332128.000000, "AbsoluteMagnitude":7.987823, "Age_MY":9782, "SurfaceTemperature":3580.000000, "Luminosity":"Va", "SemiMajorAxis":1189470976.000000, "Eccentricity":0.005944, "OrbitalInclination":58.881279, "Periapsis":179.790161, "OrbitalPeriod":38304.820313, "RotationPeriod":169260.531250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-17T03:42:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:42:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:42:32Z", "event":"Scan", "BodyName":"Dryiqia QX-B c16-16 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.835938, "Radius":596443008.000000, "AbsoluteMagnitude":5.816406, "Age_MY":9782, "SurfaceTemperature":4972.000000, "Luminosity":"Vab", "SemiMajorAxis":672551296.000000, "Eccentricity":0.005944, "OrbitalInclination":58.881279, "Periapsis":359.790161, "OrbitalPeriod":38304.820313, "RotationPeriod":361574.468750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-17T03:43:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:43:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:43:24Z", "event":"Scan", "BodyName":"Dryiqia QX-B c16-16 C", "DistanceFromArrivalLS":65.518372, "StarType":"M", "StellarMass":0.406250, "Radius":429062848.000000, "AbsoluteMagnitude":8.547714, "Age_MY":9782, "SurfaceTemperature":3126.000000, "Luminosity":"Va", "SemiMajorAxis":15115249664.000000, "Eccentricity":0.030348, "OrbitalInclination":-15.741663, "Periapsis":178.671066, "OrbitalPeriod":1160964.750000, "RotationPeriod":190923.531250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-17T03:43:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:43:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:43:57Z", "event":"FuelScoop", "Scooped":0.160607, "Total":27.798090 }
+{ "timestamp":"2018-02-17T03:44:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:45:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:47:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:47:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:47:23Z", "event":"Scan", "BodyName":"Dryiqia QX-B c16-16 D", "DistanceFromArrivalLS":10239.127930, "StarType":"M", "StellarMass":0.359375, "Radius":399729952.000000, "AbsoluteMagnitude":8.829849, "Age_MY":9782, "SurfaceTemperature":3035.000000, "Luminosity":"Va", "SemiMajorAxis":2475934089216.000000, "Eccentricity":0.103895, "OrbitalInclination":-111.973274, "Periapsis":196.505875, "OrbitalPeriod":1962482688.000000, "RotationPeriod":223396.125000, "AxialTilt":0.000000, "Rings":[ { "Name":"Dryiqia QX-B c16-16 D A Belt", "RingClass":"eRingClass_Metalic", "MassMT":7.898e+13, "InnerRad":6.5495e+08, "OuterRad":1.7156e+09 } ] }
+{ "timestamp":"2018-02-17T03:47:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:47:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:50:36Z", "event":"Scan", "BodyName":"Dryiqia QX-B c16-16 D 1", "DistanceFromArrivalLS":10007.521484, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thin carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":94.934540 }, { "Name":"SulphurDioxide", "Percent":5.065461 } ], "Volcanism":"", "MassEM":0.106439, "Radius":3040340.000000, "SurfaceGravity":4.589518, "SurfaceTemperature":246.171875, "SurfacePressure":5986.123535, "Landable":false, "SemiMajorAxis":69458952192.000000, "Eccentricity":0.000876, "OrbitalInclination":-0.093255, "Periapsis":184.392792, "OrbitalPeriod":16653105.000000, "RotationPeriod":433981.250000, "AxialTilt":0.170156 }
+{ "timestamp":"2018-02-17T03:51:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:51:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:52:03Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-02-17T03:54:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:54:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:55:02Z", "event":"Scan", "BodyName":"Dryiqia QX-B c16-16 D 2", "DistanceFromArrivalLS":10286.837891, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide rich atmosphere", "AtmosphereType":"CarbonDioxideRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":64.059006 }, { "Name":"CarbonDioxide", "Percent":35.581787 }, { "Name":"SulphurDioxide", "Percent":0.355818 } ], "Volcanism":"", "MassEM":0.301472, "Radius":4218465.500000, "SurfaceGravity":6.752231, "SurfaceTemperature":272.180908, "SurfacePressure":183652.328125, "Landable":false, "SemiMajorAxis":98748563456.000000, "Eccentricity":0.004639, "OrbitalInclination":0.055256, "Periapsis":159.722580, "OrbitalPeriod":28229226.000000, "RotationPeriod":61914.878906, "AxialTilt":-2.245852 }
+{ "timestamp":"2018-02-17T03:55:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:55:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:55:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:55:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:55:43Z", "event":"Scan", "BodyName":"Dryiqia QX-B c16-16 D 2 a", "DistanceFromArrivalLS":10286.875000, "TidalLock":true, "TerraformState":"", "PlanetClass":"Rocky body", "Atmosphere":"thin ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":100.000000 } ], "Volcanism":"", "MassEM":0.004719, "Radius":1160595.750000, "SurfaceGravity":1.396335, "SurfaceTemperature":170.353699, "SurfacePressure":119.591553, "Landable":false, "SemiMajorAxis":156362144.000000, "Eccentricity":0.000000, "OrbitalInclination":68.037712, "Periapsis":192.879974, "OrbitalPeriod":1112043.750000, "RotationPeriod":1120713.375000, "AxialTilt":0.469519 }
+{ "timestamp":"2018-02-17T03:56:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:56:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:58:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:58:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T03:58:32Z", "event":"Scan", "BodyName":"Dryiqia QX-B c16-16 D 3", "DistanceFromArrivalLS":10564.849609, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":99.009911 }, { "Name":"SulphurDioxide", "Percent":0.990099 } ], "Volcanism":"", "MassEM":0.142052, "Radius":3332535.750000, "SurfaceGravity":5.098080, "SurfaceTemperature":232.897537, "SurfacePressure":37788.953125, "Landable":false, "SemiMajorAxis":128819519488.000000, "Eccentricity":0.000190, "OrbitalInclination":-0.114249, "Periapsis":274.034241, "OrbitalPeriod":42060592.000000, "RotationPeriod":107965.617188, "AxialTilt":0.320452 }
+{ "timestamp":"2018-02-17T03:58:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T03:58:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:00:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:00:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:00:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:01:15Z", "event":"Scan", "BodyName":"Dryiqia QX-B c16-16 D 4", "DistanceFromArrivalLS":10461.604492, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":92.749565 }, { "Name":"Argon", "Percent":6.873335 }, { "Name":"Oxygen", "Percent":0.377097 } ], "Volcanism":"", "MassEM":0.235558, "Radius":3959059.250000, "SurfaceGravity":5.989942, "SurfaceTemperature":154.258942, "SurfacePressure":1053946.250000, "Landable":false, "SemiMajorAxis":175915008000.000000, "Eccentricity":0.000119, "OrbitalInclination":-0.009424, "Periapsis":35.396610, "OrbitalPeriod":67120824.000000, "RotationPeriod":104376.437500, "AxialTilt":-2.670705 }
+{ "timestamp":"2018-02-17T04:01:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:01:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:01:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:03:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:03:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:06:57Z", "event":"Scan", "BodyName":"Dryiqia QX-B c16-16 D 5", "DistanceFromArrivalLS":10461.816406, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":99.934349 }, { "Name":"Argon", "Percent":0.065652 } ], "Volcanism":"", "MassEM":0.162040, "Radius":3524578.250000, "SurfaceGravity":5.198974, "SurfaceTemperature":148.377686, "SurfacePressure":5708010.000000, "Landable":false, "SemiMajorAxis":213786099712.000000, "Eccentricity":0.014009, "OrbitalInclination":0.124390, "Periapsis":1.161088, "OrbitalPeriod":89923280.000000, "RotationPeriod":165914.578125, "AxialTilt":0.343886 }
+{ "timestamp":"2018-02-17T04:07:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:07:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:07:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:07:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:10:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:10:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:10:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:10:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:11:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:11:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:14:32Z", "event":"Friends", "Status":"Online", "Name":"Klutz" }
+{ "timestamp":"2018-02-17T04:16:35Z", "event":"Scan", "BodyName":"Dryiqia QX-B c16-16 D 4 a", "DistanceFromArrivalLS":10461.327148, "TidalLock":true, "TerraformState":"", "PlanetClass":"Rocky body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.004885, "Radius":1215796.750000, "SurfaceGravity":1.317255, "SurfaceTemperature":122.748711, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"sulphur", "Percent":18.908964 }, { "Name":"iron", "Percent":18.333860 }, { "Name":"carbon", "Percent":15.900480 }, { "Name":"nickel", "Percent":13.866964 }, { "Name":"phosphorus", "Percent":10.179760 }, { "Name":"chromium", "Percent":8.245346 }, { "Name":"manganese", "Percent":7.571697 }, { "Name":"vanadium", "Percent":4.502158 }, { "Name":"molybdenum", "Percent":1.197191 }, { "Name":"mercury", "Percent":0.800609 }, { "Name":"polonium", "Percent":0.492974 } ], "SemiMajorAxis":371646208.000000, "Eccentricity":0.000000, "OrbitalInclination":-61.942333, "Periapsis":358.407654, "OrbitalPeriod":4598426.500000, "RotationPeriod":4645864.500000, "AxialTilt":0.026663 }
+{ "timestamp":"2018-02-17T04:16:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:16:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:16:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:16:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-17T04:20:34Z", "event":"SupercruiseExit", "StarSystem":"Dryiqia QX-B c16-16", "Body":"Dryiqia QX-B c16-16 D 4 a", "BodyType":"Planet" }
+{ "timestamp":"2018-02-17T04:20:35Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-17T04:25:16Z", "event":"Touchdown", "PlayerControlled":true, "Latitude":36.272602, "Longitude":-79.798958 }
+{ "timestamp":"2018-02-17T04:34:14Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-17T04:34:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-17T04:34:38Z", "event":"Music", "MusicTrack":"Exploration" }

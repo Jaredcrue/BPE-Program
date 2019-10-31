@@ -1,0 +1,536 @@
+{ "timestamp":"2018-01-25T21:52:15Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r160439/r0 " }
+{ "timestamp":"2018-01-25T21:52:15Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T21:52:15Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-01-25T21:53:08Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-01-25T21:53:08Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2018-01-25T21:53:08Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":115 }, { "Name":"vanadium", "Count":162 }, { "Name":"sulphur", "Count":70 }, { "Name":"iron", "Count":96 }, { "Name":"germanium", "Count":96 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"molybdenum", "Count":66 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":43 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":56 }, { "Name":"cadmium", "Count":63 }, { "Name":"zirconium", "Count":7 }, { "Name":"selenium", "Count":12 }, { "Name":"tungsten", "Count":3 }, { "Name":"yttrium", "Count":12 }, { "Name":"chromium", "Count":34 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Count":7 }, { "Name":"wakesolutions", "Count":1 }, { "Name":"scrambledemissiondata", "Count":2 }, { "Name":"legacyfirmware", "Count":4 }, { "Name":"shielddensityreports", "Count":3 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Count":3 }, { "Name":"securityfirmware", "Count":1 }, { "Name":"fsdtelemetry", "Count":1 } ] }
+{ "timestamp":"2018-01-25T21:53:08Z", "event":"LoadGame", "Commander":"JaredCrue", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":32.000000, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-01-25T21:53:08Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-01-25T21:53:08Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":71, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-01-25T21:53:52Z", "event":"Location", "Docked":false, "StarSystem":"Hypoe Flyi KC-M d7-817", "StarPos":[-844.750,-1167.625,22687.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Hypoe Flyi KC-M d7-817", "BodyType":"Star" }
+{ "timestamp":"2018-01-25T21:53:56Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T21:53:56Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-25T21:54:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T21:54:14Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-25T21:54:23Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-01-25T21:54:28Z", "event":"SupercruiseEntry", "StarSystem":"Hypoe Flyi KC-M d7-817" }
+{ "timestamp":"2018-01-25T21:54:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T21:54:50Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T21:55:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T21:56:01Z", "event":"Friends", "Status":"Online", "Name":"is0kix" }
+{ "timestamp":"2018-01-25T21:57:08Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi OI-K d8-544", "StarClass":"F" }
+{ "timestamp":"2018-01-25T21:57:13Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T21:57:26Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi OI-K d8-544", "StarPos":[-819.969,-1163.125,22697.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.065, "FuelUsed":4.035098, "FuelLevel":27.964903 }
+{ "timestamp":"2018-01-25T21:57:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T21:57:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T21:57:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T21:57:49Z", "event":"Scan", "BodyName":"Hypoe Flyi OI-K d8-544", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.312500, "Radius":812046336.000000, "AbsoluteMagnitude":3.519669, "Age_MY":1386, "SurfaceTemperature":7230.000000, "Luminosity":"VI", "RotationPeriod":216792.234375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T21:58:10Z", "event":"FuelScoop", "Scooped":4.035075, "Total":32.000000 }
+{ "timestamp":"2018-01-25T21:58:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi OI-K d8-2669", "StarClass":"F" }
+{ "timestamp":"2018-01-25T21:58:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T21:58:54Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi OI-K d8-2669", "StarPos":[-793.781,-1159.969,22703.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.144, "FuelUsed":4.064069, "FuelLevel":27.935930 }
+{ "timestamp":"2018-01-25T21:58:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T21:59:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T21:59:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T21:59:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T21:59:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T21:59:43Z", "event":"Scan", "BodyName":"Hypoe Flyi OI-K d8-2669 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.441406, "Radius":915645440.000000, "AbsoluteMagnitude":3.432327, "Age_MY":1982, "SurfaceTemperature":6947.000000, "Luminosity":"Vb", "SemiMajorAxis":773180358656.000000, "Eccentricity":0.114806, "OrbitalInclination":-37.782883, "Periapsis":315.516022, "OrbitalPeriod":2551217664.000000, "RotationPeriod":237491.671875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T21:59:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T21:59:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:04:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:04:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:04:39Z", "event":"Scan", "BodyName":"Hypoe Flyi OI-K d8-2669 B 4", "DistanceFromArrivalLS":12647.443359, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"carbon dioxide rich atmosphere", "AtmosphereType":"CarbonDioxideRich", "AtmosphereComposition":[ { "Name":"Oxygen", "Percent":70.383690 }, { "Name":"CarbonDioxide", "Percent":28.974375 }, { "Name":"SulphurDioxide", "Percent":0.415882 } ], "Volcanism":"", "MassEM":0.163319, "Radius":3470499.250000, "SurfaceGravity":5.404580, "SurfaceTemperature":301.668365, "SurfacePressure":23130.521484, "Landable":false, "SemiMajorAxis":75773296640.000000, "Eccentricity":0.000316, "OrbitalInclination":0.013352, "Periapsis":308.411987, "OrbitalPeriod":17594608.000000, "RotationPeriod":84066.906250, "AxialTilt":-2.157146 }
+{ "timestamp":"2018-01-25T22:04:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:04:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:05:24Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi CW-U c16-237", "StarClass":"K" }
+{ "timestamp":"2018-01-25T22:05:29Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:05:42Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi CW-U c16-237", "StarPos":[-767.594,-1158.594,22709.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.738, "FuelUsed":3.813393, "FuelLevel":24.122538 }
+{ "timestamp":"2018-01-25T22:05:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:05:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:05:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:06:09Z", "event":"Scan", "BodyName":"Hypoe Flyi CW-U c16-237 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.742188, "Radius":607501248.000000, "AbsoluteMagnitude":6.110550, "Age_MY":11196, "SurfaceTemperature":4604.000000, "Luminosity":"Va", "SemiMajorAxis":41838178205696.000000, "Eccentricity":0.033172, "OrbitalInclination":14.400243, "Periapsis":295.422882, "OrbitalPeriod":514119565312.000000, "RotationPeriod":267633.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T22:06:26Z", "event":"FuelScoop", "Scooped":5.000268, "Total":29.122799 }
+{ "timestamp":"2018-01-25T22:06:30Z", "event":"FuelScoop", "Scooped":2.877194, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:06:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:06:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:06:57Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi PI-K d8-4469", "StarClass":"A" }
+{ "timestamp":"2018-01-25T22:07:02Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:07:15Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi PI-K d8-4469", "StarPos":[-741.469,-1163.125,22714.625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.079, "FuelUsed":4.040422, "FuelLevel":27.959578 }
+{ "timestamp":"2018-01-25T22:07:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:07:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:07:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:07:40Z", "event":"Scan", "BodyName":"Hypoe Flyi PI-K d8-4469", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.750000, "Radius":909893440.000000, "AbsoluteMagnitude":2.422363, "Age_MY":1536, "SurfaceTemperature":8793.000000, "Luminosity":"VI", "RotationPeriod":64904.062500, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi PI-K d8-4469 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":4.6288e+15, "InnerRad":4.4256e+10, "OuterRad":2.8101e+11 } ] }
+{ "timestamp":"2018-01-25T22:07:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:07:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:08:11Z", "event":"Scan", "BodyName":"Hypoe Flyi PI-K d8-4469 1", "DistanceFromArrivalLS":14.833286, "TidalLock":true, "TerraformState":"", "PlanetClass":"Metal rich body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"major silicate vapour geysers volcanism", "MassEM":1.237935, "Radius":5157256.000000, "SurfaceGravity":18.551104, "SurfaceTemperature":2525.207764, "SurfacePressure":1.269931, "Landable":false, "SemiMajorAxis":4446759424.000000, "Eccentricity":0.000034, "OrbitalInclination":-0.000267, "Periapsis":1.545901, "OrbitalPeriod":121980.968750, "RotationPeriod":122243.351563, "AxialTilt":0.248559 }
+{ "timestamp":"2018-01-25T22:12:25Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi PI-K d8-3699", "StarClass":"A" }
+{ "timestamp":"2018-01-25T22:12:30Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:12:44Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi PI-K d8-3699", "StarPos":[-716.094,-1159.656,22721.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.408, "FuelUsed":3.684230, "FuelLevel":23.645348 }
+{ "timestamp":"2018-01-25T22:12:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:12:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:12:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:13:05Z", "event":"Scan", "BodyName":"Hypoe Flyi PI-K d8-3699 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.441406, "Radius":889114176.000000, "AbsoluteMagnitude":3.146713, "Age_MY":646, "SurfaceTemperature":7529.000000, "Luminosity":"VI", "SemiMajorAxis":33017257000960.000000, "Eccentricity":0.299422, "OrbitalInclination":-25.422691, "Periapsis":19.818806, "OrbitalPeriod":297075507200.000000, "RotationPeriod":140428.656250, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi PI-K d8-3699 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.2254e+16, "InnerRad":3.3636e+10, "OuterRad":2.1358e+11 } ] }
+{ "timestamp":"2018-01-25T22:13:25Z", "event":"FuelScoop", "Scooped":5.007558, "Total":28.652910 }
+{ "timestamp":"2018-01-25T22:13:29Z", "event":"FuelScoop", "Scooped":3.347095, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:13:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:13:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:14:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi UY-S e3-1398", "StarClass":"A" }
+{ "timestamp":"2018-01-25T22:14:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:14:19Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi UY-S e3-1398", "StarPos":[-689.875,-1157.188,22725.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.656, "FuelUsed":3.887117, "FuelLevel":28.112883 }
+{ "timestamp":"2018-01-25T22:14:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:14:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:14:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:14:41Z", "event":"Scan", "BodyName":"Hypoe Flyi UY-S e3-1398", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":2.058594, "Radius":1361688192.000000, "AbsoluteMagnitude":2.089066, "Age_MY":1200, "SurfaceTemperature":7761.000000, "Luminosity":"Vab", "RotationPeriod":62728.367188, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi UY-S e3-1398 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.5964e+15, "InnerRad":1.0608e+10, "OuterRad":2.6943e+11 } ] }
+{ "timestamp":"2018-01-25T22:14:58Z", "event":"FuelScoop", "Scooped":3.887131, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:15:28Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi QI-K d8-1631", "StarClass":"F" }
+{ "timestamp":"2018-01-25T22:15:33Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:15:47Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi QI-K d8-1631", "StarPos":[-664.938,-1155.125,22735.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.088, "FuelUsed":4.043215, "FuelLevel":27.956785 }
+{ "timestamp":"2018-01-25T22:15:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:16:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:16:12Z", "event":"Scan", "BodyName":"Hypoe Flyi QI-K d8-1631", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.292969, "Radius":797592064.000000, "AbsoluteMagnitude":4.176147, "Age_MY":858, "SurfaceTemperature":6272.000000, "Luminosity":"Vab", "RotationPeriod":450777.843750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T22:16:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:16:30Z", "event":"FuelScoop", "Scooped":4.043206, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:17:02Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi UY-S e3-6767", "StarClass":"B" }
+{ "timestamp":"2018-01-25T22:17:07Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:17:20Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi UY-S e3-6767", "StarPos":[-638.719,-1159.875,22740.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.188, "FuelUsed":4.080083, "FuelLevel":27.919916 }
+{ "timestamp":"2018-01-25T22:17:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:17:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:17:42Z", "event":"Scan", "BodyName":"Hypoe Flyi UY-S e3-6767 A", "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":6.058594, "Radius":2321290496.000000, "AbsoluteMagnitude":-2.520386, "Age_MY":152, "SurfaceTemperature":17176.000000, "Luminosity":"Vz", "SemiMajorAxis":175867887616.000000, "Eccentricity":0.036987, "OrbitalInclination":73.709938, "Periapsis":6.339997, "OrbitalPeriod":55359364.000000, "RotationPeriod":114801.867188, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T22:17:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:18:03Z", "event":"FuelScoop", "Scooped":4.080083, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:18:41Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi KC-T c17-100", "StarClass":"G" }
+{ "timestamp":"2018-01-25T22:18:46Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:18:59Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi KC-T c17-100", "StarPos":[-612.000,-1159.500,22741.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.728, "FuelUsed":3.912973, "FuelLevel":28.087027 }
+{ "timestamp":"2018-01-25T22:19:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:19:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:19:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:19:21Z", "event":"Scan", "BodyName":"Hypoe Flyi KC-T c17-100 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.804688, "Radius":640378688.000000, "AbsoluteMagnitude":5.260056, "Age_MY":11712, "SurfaceTemperature":5454.000000, "Luminosity":"Vab", "SemiMajorAxis":39387278606336.000000, "Eccentricity":0.179065, "OrbitalInclination":-19.855921, "Periapsis":250.010025, "OrbitalPeriod":421587550208.000000, "RotationPeriod":360783.812500, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi KC-T c17-100 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.1147e+14, "InnerRad":1.0198e+09, "OuterRad":2.2445e+09 }, { "Name":"Hypoe Flyi KC-T c17-100 A B Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.2609e+14, "InnerRad":4.5933e+10, "OuterRad":2.9165e+11 } ] }
+{ "timestamp":"2018-01-25T22:19:37Z", "event":"FuelScoop", "Scooped":3.912959, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:19:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:19:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:20:06Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi RI-K d8-488", "StarClass":"G" }
+{ "timestamp":"2018-01-25T22:20:11Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:20:24Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi RI-K d8-488", "StarPos":[-586.094,-1158.156,22748.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.797, "FuelUsed":3.937974, "FuelLevel":28.062027 }
+{ "timestamp":"2018-01-25T22:20:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:20:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:20:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:20:46Z", "event":"Scan", "BodyName":"Hypoe Flyi RI-K d8-488", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.152344, "Radius":822955904.000000, "AbsoluteMagnitude":4.407776, "Age_MY":6014, "SurfaceTemperature":5854.000000, "Luminosity":"Vab", "RotationPeriod":383063.906250, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi RI-K d8-488 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.0039e+14, "InnerRad":1.5245e+09, "OuterRad":2.5299e+09 }, { "Name":"Hypoe Flyi RI-K d8-488 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":8.0929e+15, "InnerRad":2.8386e+09, "OuterRad":4.5778e+11 } ] }
+{ "timestamp":"2018-01-25T22:21:02Z", "event":"FuelScoop", "Scooped":3.937962, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:21:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi RI-K d8-381", "StarClass":"F" }
+{ "timestamp":"2018-01-25T22:21:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:22:05Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi RI-K d8-381", "StarPos":[-560.156,-1152.781,22754.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.126, "FuelUsed":4.057376, "FuelLevel":27.942623 }
+{ "timestamp":"2018-01-25T22:22:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:22:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:22:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:22:27Z", "event":"Scan", "BodyName":"Hypoe Flyi RI-K d8-381 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.394531, "Radius":837219136.000000, "AbsoluteMagnitude":3.414474, "Age_MY":2132, "SurfaceTemperature":7295.000000, "Luminosity":"VI", "SemiMajorAxis":5644139626496.000000, "Eccentricity":0.450967, "OrbitalInclination":-22.986626, "Periapsis":309.884186, "OrbitalPeriod":57072623616.000000, "RotationPeriod":229500.156250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T22:22:42Z", "event":"FuelScoop", "Scooped":4.057391, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:23:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi SI-K d8-1414", "StarClass":"F" }
+{ "timestamp":"2018-01-25T22:23:20Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:23:33Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi SI-K d8-1414", "StarPos":[-534.875,-1152.781,22761.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.452, "FuelUsed":3.814742, "FuelLevel":28.185259 }
+{ "timestamp":"2018-01-25T22:23:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:23:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:23:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:23:55Z", "event":"Scan", "BodyName":"Hypoe Flyi SI-K d8-1414", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.152344, "Radius":829790400.000000, "AbsoluteMagnitude":3.935089, "Age_MY":3320, "SurfaceTemperature":6500.000000, "Luminosity":"Vb", "RotationPeriod":582809.875000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T22:24:00Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T22:24:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:24:31Z", "event":"FuelScoop", "Scooped":3.814745, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:24:59Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi MC-T c17-261", "StarClass":"K" }
+{ "timestamp":"2018-01-25T22:25:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:25:17Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi MC-T c17-261", "StarPos":[-508.406,-1156.438,22765.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.913, "FuelUsed":3.979558, "FuelLevel":28.020441 }
+{ "timestamp":"2018-01-25T22:25:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:25:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:25:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:25:34Z", "event":"Friends", "Status":"Online", "Name":"John Allbright" }
+{ "timestamp":"2018-01-25T22:25:39Z", "event":"Scan", "BodyName":"Hypoe Flyi MC-T c17-261", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.832031, "Radius":674317440.000000, "AbsoluteMagnitude":5.677551, "Age_MY":7722, "SurfaceTemperature":4828.000000, "Luminosity":"Va", "RotationPeriod":293281.125000, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi MC-T c17-261 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":6.8237e+13, "InnerRad":1.0125e+09, "OuterRad":2.2696e+09 }, { "Name":"Hypoe Flyi MC-T c17-261 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":6.463e+14, "InnerRad":4.0638e+10, "OuterRad":2.5804e+11 } ] }
+{ "timestamp":"2018-01-25T22:26:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:26:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:26:26Z", "event":"FuelScoop", "Scooped":3.979555, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:26:51Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T22:27:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:27:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi VY-S e3-607", "StarClass":"A" }
+{ "timestamp":"2018-01-25T22:27:24Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:27:37Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi VY-S e3-607", "StarPos":[-482.500,-1152.563,22770.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.728, "FuelUsed":3.912924, "FuelLevel":28.087076 }
+{ "timestamp":"2018-01-25T22:27:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:27:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:27:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:27:59Z", "event":"Scan", "BodyName":"Hypoe Flyi VY-S e3-607 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.816406, "Radius":1093913856.000000, "AbsoluteMagnitude":2.015900, "Age_MY":2092, "SurfaceTemperature":8806.000000, "Luminosity":"Vb", "SemiMajorAxis":9988643749888.000000, "Eccentricity":0.030311, "OrbitalInclination":12.508419, "Periapsis":157.246582, "OrbitalPeriod":29421817856.000000, "RotationPeriod":61777.937500, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi VY-S e3-607 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.2023e+15, "InnerRad":3.2847e+09, "OuterRad":3.3371e+11 } ] }
+{ "timestamp":"2018-01-25T22:28:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:28:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:28:17Z", "event":"FuelScoop", "Scooped":3.912921, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:31:36Z", "event":"Scan", "BodyName":"Hypoe Flyi VY-S e3-607 A 5", "DistanceFromArrivalLS":4528.766113, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":93.780785 }, { "Name":"Argon", "Percent":2.390887 }, { "Name":"Oxygen", "Percent":2.092082 } ], "Volcanism":"major silicate vapour geysers volcanism", "MassEM":12.076046, "Radius":15054639.000000, "SurfaceGravity":21.237017, "SurfaceTemperature":258.061432, "SurfacePressure":782191.875000, "Landable":false, "SemiMajorAxis":1361228857344.000000, "Eccentricity":0.004128, "OrbitalInclination":-0.462718, "Periapsis":307.359253, "OrbitalPeriod":640711488.000000, "RotationPeriod":159975.234375, "AxialTilt":-0.210004, "Rings":[ { "Name":"Hypoe Flyi VY-S e3-607 A 5 A Ring", "RingClass":"eRingClass_Rocky", "MassMT":2.6236e+09, "InnerRad":2.484e+07, "OuterRad":8.3474e+07 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2018-01-25T22:35:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:35:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:36:06Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi TI-K d8-3866", "StarClass":"F" }
+{ "timestamp":"2018-01-25T22:36:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:36:25Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi TI-K d8-3866", "StarPos":[-455.969,-1152.563,22772.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.635, "FuelUsed":3.879728, "FuelLevel":28.120272 }
+{ "timestamp":"2018-01-25T22:36:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:36:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:36:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:36:48Z", "event":"Scan", "BodyName":"Hypoe Flyi TI-K d8-3866", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.542969, "Radius":853817088.000000, "AbsoluteMagnitude":3.632584, "Age_MY":1976, "SurfaceTemperature":6870.000000, "Luminosity":"Vb", "RotationPeriod":98886.281250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T22:36:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:36:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:37:15Z", "event":"FuelScoop", "Scooped":3.879738, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:38:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:38:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:39:00Z", "event":"Scan", "BodyName":"Hypoe Flyi TI-K d8-3866 5", "DistanceFromArrivalLS":969.930115, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick water atmosphere", "AtmosphereType":"Water", "AtmosphereComposition":[ { "Name":"Water", "Percent":99.964905 } ], "Volcanism":"", "MassEM":0.173568, "Radius":3543225.000000, "SurfaceGravity":5.510365, "SurfaceTemperature":657.484314, "SurfacePressure":804295.750000, "Landable":false, "SemiMajorAxis":290684239872.000000, "Eccentricity":0.000482, "OrbitalInclination":-0.061016, "Periapsis":329.976105, "OrbitalPeriod":68806176.000000, "RotationPeriod":56612.867188, "AxialTilt":0.237690 }
+{ "timestamp":"2018-01-25T22:39:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:39:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:44:59Z", "event":"Friends", "Status":"Online", "Name":"Voodoo Le Strange" }
+{ "timestamp":"2018-01-25T22:45:08Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T22:45:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:48:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:48:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:48:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:48:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:49:17Z", "event":"Scan", "BodyName":"Hypoe Flyi TI-K d8-3866 6", "DistanceFromArrivalLS":1407.996948, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":71.029541 }, { "Name":"Nitrogen", "Percent":23.463825 }, { "Name":"Oxygen", "Percent":5.330892 } ], "Volcanism":"", "MassEM":0.621162, "Radius":5253788.500000, "SurfaceGravity":8.969521, "SurfaceTemperature":273.098907, "SurfacePressure":266690.187500, "Landable":false, "SemiMajorAxis":431103904.000000, "Eccentricity":0.124190, "OrbitalInclination":7.390670, "Periapsis":219.391815, "OrbitalPeriod":12419913.000000, "RotationPeriod":42218.472656, "AxialTilt":-0.086684 }
+{ "timestamp":"2018-01-25T22:49:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:49:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:49:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:49:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:49:57Z", "event":"Scan", "BodyName":"Hypoe Flyi TI-K d8-3866 7", "DistanceFromArrivalLS":1405.715332, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":82.893318 }, { "Name":"Oxygen", "Percent":14.269368 }, { "Name":"CarbonDioxide", "Percent":2.784806 } ], "Volcanism":"", "MassEM":0.369635, "Radius":4480022.500000, "SurfaceGravity":7.340442, "SurfaceTemperature":243.215164, "SurfacePressure":75098.601563, "Landable":false, "SemiMajorAxis":724459136.000000, "Eccentricity":0.124190, "OrbitalInclination":7.390670, "Periapsis":39.391815, "OrbitalPeriod":12419913.000000, "RotationPeriod":368072.937500, "AxialTilt":0.110618 }
+{ "timestamp":"2018-01-25T22:50:27Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi XO-I d9-431", "StarClass":"F" }
+{ "timestamp":"2018-01-25T22:50:33Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:50:46Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi XO-I d9-431", "StarPos":[-431.438,-1147.625,22781.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.427, "FuelUsed":3.790640, "FuelLevel":27.579361 }
+{ "timestamp":"2018-01-25T22:50:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:50:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:50:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:51:08Z", "event":"Scan", "BodyName":"Hypoe Flyi XO-I d9-431", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.039063, "Radius":648762560.000000, "AbsoluteMagnitude":4.727066, "Age_MY":854, "SurfaceTemperature":6126.000000, "Luminosity":"VI", "RotationPeriod":297601.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T22:51:26Z", "event":"FuelScoop", "Scooped":4.420639, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:51:58Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi XO-I d9-2643", "StarClass":"A" }
+{ "timestamp":"2018-01-25T22:52:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:52:17Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi XO-I d9-2643", "StarPos":[-406.281,-1146.375,22789.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.563, "FuelUsed":3.853863, "FuelLevel":28.146137 }
+{ "timestamp":"2018-01-25T22:52:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:52:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:52:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:52:39Z", "event":"Scan", "BodyName":"Hypoe Flyi XO-I d9-2643", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.738281, "Radius":898071104.000000, "AbsoluteMagnitude":2.437454, "Age_MY":1228, "SurfaceTemperature":8820.000000, "Luminosity":"VI", "RotationPeriod":56222.371094, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T22:52:54Z", "event":"FuelScoop", "Scooped":3.853831, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:53:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi SN-R c18-37", "StarClass":"K" }
+{ "timestamp":"2018-01-25T22:53:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:53:52Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi SN-R c18-37", "StarPos":[-380.406,-1144.531,22795.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.537, "FuelUsed":3.845017, "FuelLevel":28.154984 }
+{ "timestamp":"2018-01-25T22:53:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:54:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:54:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:54:14Z", "event":"Scan", "BodyName":"Hypoe Flyi SN-R c18-37", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.628906, "Radius":520457600.000000, "AbsoluteMagnitude":6.489090, "Age_MY":5576, "SurfaceTemperature":4559.000000, "Luminosity":"Va", "RotationPeriod":225348.703125, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi SN-R c18-37 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":3.2663e+12, "InnerRad":1.0365e+09, "OuterRad":2.0674e+09 } ] }
+{ "timestamp":"2018-01-25T22:54:30Z", "event":"FuelScoop", "Scooped":3.845008, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:54:56Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi SN-R c18-259", "StarClass":"M" }
+{ "timestamp":"2018-01-25T22:55:02Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:55:15Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi SN-R c18-259", "StarPos":[-355.625,-1137.750,22803.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.091, "FuelUsed":4.044424, "FuelLevel":27.955576 }
+{ "timestamp":"2018-01-25T22:55:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:55:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:55:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:55:37Z", "event":"Scan", "BodyName":"Hypoe Flyi SN-R c18-259", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.464844, "Radius":433031936.000000, "AbsoluteMagnitude":8.151230, "Age_MY":11752, "SurfaceTemperature":3409.000000, "Luminosity":"Va", "RotationPeriod":213602.156250, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi SN-R c18-259 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":9.7831e+13, "InnerRad":7.145e+08, "OuterRad":1.9842e+09 } ] }
+{ "timestamp":"2018-01-25T22:55:52Z", "event":"FuelScoop", "Scooped":4.044428, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:56:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi WT-I d9-3009", "StarClass":"G" }
+{ "timestamp":"2018-01-25T22:56:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:56:38Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi WT-I d9-3009", "StarPos":[-329.813,-1136.313,22812.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.156, "FuelUsed":4.068351, "FuelLevel":27.931648 }
+{ "timestamp":"2018-01-25T22:56:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:56:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:56:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:57:00Z", "event":"Scan", "BodyName":"Hypoe Flyi WT-I d9-3009 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.109375, "Radius":783880768.000000, "AbsoluteMagnitude":4.453735, "Age_MY":1094, "SurfaceTemperature":5935.000000, "Luminosity":"Vab", "SemiMajorAxis":32791388160.000000, "Eccentricity":0.132730, "OrbitalInclination":18.330465, "Periapsis":249.226578, "OrbitalPeriod":20663412.000000, "RotationPeriod":469895.593750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T22:57:17Z", "event":"FuelScoop", "Scooped":4.068359, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:57:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi XT-I d9-4208", "StarClass":"F" }
+{ "timestamp":"2018-01-25T22:57:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:58:07Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi XT-I d9-4208", "StarPos":[-303.781,-1133.031,22819.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.139, "FuelUsed":4.062027, "FuelLevel":27.937973 }
+{ "timestamp":"2018-01-25T22:58:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:58:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:58:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:58:29Z", "event":"Scan", "BodyName":"Hypoe Flyi XT-I d9-4208", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.300781, "Radius":828304704.000000, "AbsoluteMagnitude":3.559723, "Age_MY":786, "SurfaceTemperature":7093.000000, "Luminosity":"Vb", "RotationPeriod":220405.328125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T22:58:44Z", "event":"FuelScoop", "Scooped":4.062008, "Total":32.000000 }
+{ "timestamp":"2018-01-25T22:59:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi XT-I d9-3819", "StarClass":"A" }
+{ "timestamp":"2018-01-25T22:59:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T22:59:35Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi XT-I d9-3819", "StarPos":[-277.219,-1135.219,22824.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.165, "FuelUsed":4.071281, "FuelLevel":27.928719 }
+{ "timestamp":"2018-01-25T22:59:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:59:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T22:59:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T22:59:57Z", "event":"Scan", "BodyName":"Hypoe Flyi XT-I d9-3819 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.437500, "Radius":852798272.000000, "AbsoluteMagnitude":3.048737, "Age_MY":1742, "SurfaceTemperature":7863.000000, "Luminosity":"VI", "SemiMajorAxis":1331694010368.000000, "Eccentricity":0.086915, "OrbitalInclination":50.596458, "Periapsis":191.973465, "OrbitalPeriod":18344476672.000000, "RotationPeriod":160150.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:00:12Z", "event":"FuelScoop", "Scooped":4.071299, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:01:13Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi XT-I d9-1883", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:01:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:01:32Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi XT-I d9-1883", "StarPos":[-250.875,-1138.594,22828.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.863, "FuelUsed":3.961787, "FuelLevel":28.038214 }
+{ "timestamp":"2018-01-25T23:01:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:01:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:01:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:01:54Z", "event":"Scan", "BodyName":"Hypoe Flyi XT-I d9-1883", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.359375, "Radius":862434368.000000, "AbsoluteMagnitude":3.488586, "Age_MY":3118, "SurfaceTemperature":7066.000000, "Luminosity":"Vb", "RotationPeriod":211213.625000, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi XT-I d9-1883 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":3.2412e+13, "InnerRad":1.0563e+10, "OuterRad":2.6828e+11 } ] }
+{ "timestamp":"2018-01-25T23:02:12Z", "event":"FuelScoop", "Scooped":3.961781, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:02:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:02:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:02:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi AU-P c19-224", "StarClass":"M" }
+{ "timestamp":"2018-01-25T23:02:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:03:04Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi AU-P c19-224", "StarPos":[-224.063,-1138.094,22831.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.981, "FuelUsed":4.004612, "FuelLevel":27.995388 }
+{ "timestamp":"2018-01-25T23:03:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:03:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:03:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:03:27Z", "event":"Scan", "BodyName":"Hypoe Flyi AU-P c19-224 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.464844, "Radius":438762656.000000, "AbsoluteMagnitude":8.050629, "Age_MY":5712, "SurfaceTemperature":3466.000000, "Luminosity":"Va", "SemiMajorAxis":12996103372800.000000, "Eccentricity":0.078521, "OrbitalInclination":59.321960, "Periapsis":223.244431, "OrbitalPeriod":216207687680.000000, "RotationPeriod":215863.953125, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi AU-P c19-224 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.0518e+09, "InnerRad":8.5699e+08, "OuterRad":1.8693e+09 } ] }
+{ "timestamp":"2018-01-25T23:03:42Z", "event":"FuelScoop", "Scooped":4.004626, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:03:49Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T23:03:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:03:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:04:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:04:18Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi YT-I d9-2780", "StarClass":"M" }
+{ "timestamp":"2018-01-25T23:04:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:04:36Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi YT-I d9-2780", "StarPos":[-197.813,-1134.375,22834.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.651, "FuelUsed":3.885270, "FuelLevel":28.114729 }
+{ "timestamp":"2018-01-25T23:04:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:04:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:04:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:05:10Z", "event":"Scan", "BodyName":"Hypoe Flyi YT-I d9-2780", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.335938, "Radius":356664480.000000, "AbsoluteMagnitude":9.097504, "Age_MY":1312, "SurfaceTemperature":3021.000000, "Luminosity":"Va", "RotationPeriod":221194.734375, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi YT-I d9-2780 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":7.6722e+13, "InnerRad":6.0975e+08, "OuterRad":1.6775e+09 } ] }
+{ "timestamp":"2018-01-25T23:05:27Z", "event":"FuelScoop", "Scooped":3.885274, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:06:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:06:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:06:22Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi YT-I d9-4987", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:06:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:06:41Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi YT-I d9-4987", "StarPos":[-172.625,-1126.188,22835.813], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.539, "FuelUsed":3.845183, "FuelLevel":28.154818 }
+{ "timestamp":"2018-01-25T23:06:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:06:43Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-01-25T23:06:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:06:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:07:02Z", "event":"Scan", "BodyName":"Hypoe Flyi YT-I d9-4987", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.027344, "Radius":729926848.000000, "AbsoluteMagnitude":4.430771, "Age_MY":1628, "SurfaceTemperature":6183.000000, "Luminosity":"Vb", "RotationPeriod":377699.687500, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi YT-I d9-4987 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.1924e+14, "InnerRad":1.4221e+09, "OuterRad":2.4349e+09 }, { "Name":"Hypoe Flyi YT-I d9-4987 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.7491e+15, "InnerRad":2.5448e+09, "OuterRad":2.5853e+11 } ] }
+{ "timestamp":"2018-01-25T23:07:18Z", "event":"FuelScoop", "Scooped":3.845193, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:07:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi BU-P c19-248", "StarClass":"K" }
+{ "timestamp":"2018-01-25T23:07:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:08:05Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi BU-P c19-248", "StarPos":[-149.000,-1121.875,22846.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.124, "FuelUsed":3.699983, "FuelLevel":28.300016 }
+{ "timestamp":"2018-01-25T23:08:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:08:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:08:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:08:28Z", "event":"Scan", "BodyName":"Hypoe Flyi BU-P c19-248", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.457031, "Radius":388735392.000000, "AbsoluteMagnitude":7.879776, "Age_MY":7142, "SurfaceTemperature":3830.000000, "Luminosity":"Va", "RotationPeriod":156990.203125, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi BU-P c19-248 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.8585e+11, "InnerRad":6.0972e+08, "OuterRad":1.8587e+09 } ] }
+{ "timestamp":"2018-01-25T23:08:43Z", "event":"FuelScoop", "Scooped":3.699985, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:08:54Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T23:09:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:09:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:09:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:09:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi ZT-I d9-1838", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:09:48Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:10:01Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi ZT-I d9-1838", "StarPos":[-121.969,-1121.438,22845.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.044, "FuelUsed":4.010807, "FuelLevel":27.359194 }
+{ "timestamp":"2018-01-25T23:10:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:10:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:10:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:10:23Z", "event":"Scan", "BodyName":"Hypoe Flyi ZT-I d9-1838 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.105469, "Radius":813892864.000000, "AbsoluteMagnitude":4.300980, "Age_MY":3886, "SurfaceTemperature":6033.000000, "Luminosity":"Vab", "SemiMajorAxis":8342260416512.000000, "Eccentricity":0.043199, "OrbitalInclination":50.726490, "Periapsis":45.574551, "OrbitalPeriod":45352452096.000000, "RotationPeriod":407880.375000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:10:42Z", "event":"FuelScoop", "Scooped":4.640791, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:11:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi DA-H d10-3490", "StarClass":"G" }
+{ "timestamp":"2018-01-25T23:11:18Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:11:31Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi DA-H d10-3490", "StarPos":[-96.938,-1119.719,22855.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.998, "FuelUsed":4.010371, "FuelLevel":27.989628 }
+{ "timestamp":"2018-01-25T23:11:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:11:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:11:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:11:53Z", "event":"Scan", "BodyName":"Hypoe Flyi DA-H d10-3490", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.937500, "Radius":702589056.000000, "AbsoluteMagnitude":4.889938, "Age_MY":824, "SurfaceTemperature":5670.000000, "Luminosity":"Vab", "RotationPeriod":349881.375000, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypoe Flyi DA-H d10-3490 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.1826e+14, "InnerRad":1.3416e+09, "OuterRad":2.3617e+09 } ] }
+{ "timestamp":"2018-01-25T23:12:08Z", "event":"FuelScoop", "Scooped":4.010363, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:12:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypoe Flyi DA-H d10-1163", "StarClass":"K" }
+{ "timestamp":"2018-01-25T23:12:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:12:57Z", "event":"FSDJump", "StarSystem":"Hypoe Flyi DA-H d10-1163", "StarPos":[-71.375,-1118.438,22862.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.518, "FuelUsed":3.838124, "FuelLevel":28.161877 }
+{ "timestamp":"2018-01-25T23:12:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:13:22Z", "event":"Scan", "BodyName":"Hypoe Flyi DA-H d10-1163", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.675781, "Radius":551000320.000000, "AbsoluteMagnitude":6.197922, "Age_MY":362, "SurfaceTemperature":4738.000000, "Luminosity":"Va", "RotationPeriod":223122.031250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:13:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:13:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:14:03Z", "event":"FuelScoop", "Scooped":3.838133, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:14:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:14:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:14:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip OZ-G d10-3904", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:14:40Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:14:53Z", "event":"FSDJump", "StarSystem":"Athaip OZ-G d10-3904", "StarPos":[-44.813,-1120.688,22867.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.140, "FuelUsed":4.062155, "FuelLevel":27.937845 }
+{ "timestamp":"2018-01-25T23:14:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:15:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:15:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:15:13Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T23:15:15Z", "event":"Scan", "BodyName":"Athaip OZ-G d10-3904 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.394531, "Radius":939650816.000000, "AbsoluteMagnitude":3.354935, "Age_MY":1228, "SurfaceTemperature":6981.000000, "Luminosity":"Vb", "SemiMajorAxis":1020689514496.000000, "Eccentricity":0.067092, "OrbitalInclination":7.189009, "Periapsis":135.187119, "OrbitalPeriod":5779596288.000000, "RotationPeriod":238027.546875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:15:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:15:49Z", "event":"FuelScoop", "Scooped":4.062119, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:15:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:16:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:16:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip OZ-G d10-1815", "StarClass":"G" }
+{ "timestamp":"2018-01-25T23:16:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:16:41Z", "event":"FSDJump", "StarSystem":"Athaip OZ-G d10-1815", "StarPos":[-18.031,-1120.719,22870.813], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.997, "FuelUsed":4.010444, "FuelLevel":27.989555 }
+{ "timestamp":"2018-01-25T23:16:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:16:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:16:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:17:03Z", "event":"Scan", "BodyName":"Athaip OZ-G d10-1815", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.761719, "Radius":507064640.000000, "AbsoluteMagnitude":5.729797, "Age_MY":11696, "SurfaceTemperature":5501.000000, "Luminosity":"Vb", "RotationPeriod":264812.093750, "AxialTilt":0.000000, "Rings":[ { "Name":"Athaip OZ-G d10-1815 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.2121e+14, "InnerRad":9.9909e+08, "OuterRad":2.2038e+09 } ] }
+{ "timestamp":"2018-01-25T23:17:18Z", "event":"FuelScoop", "Scooped":4.010442, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:17:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip OZ-G d10-2393", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:17:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:18:06Z", "event":"FSDJump", "StarSystem":"Athaip OZ-G d10-2393", "StarPos":[8.063,-1125.969,22874.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.884, "FuelUsed":3.969401, "FuelLevel":28.030598 }
+{ "timestamp":"2018-01-25T23:18:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:18:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:18:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:18:29Z", "event":"Scan", "BodyName":"Athaip OZ-G d10-2393", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.320313, "Radius":784857088.000000, "AbsoluteMagnitude":3.466339, "Age_MY":726, "SurfaceTemperature":7445.000000, "Luminosity":"VI", "RotationPeriod":288069.000000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:18:45Z", "event":"FuelScoop", "Scooped":3.969411, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:18:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:18:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:19:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip PZ-G d10-3416", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:19:29Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:19:42Z", "event":"FSDJump", "StarSystem":"Athaip PZ-G d10-3416", "StarPos":[34.406,-1127.688,22879.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.852, "FuelUsed":3.957794, "FuelLevel":28.042206 }
+{ "timestamp":"2018-01-25T23:19:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:19:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:19:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:20:04Z", "event":"Scan", "BodyName":"Athaip PZ-G d10-3416", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.269531, "Radius":792816448.000000, "AbsoluteMagnitude":4.101440, "Age_MY":514, "SurfaceTemperature":6400.000000, "Luminosity":"Vb", "RotationPeriod":468927.156250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:20:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:20:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:21:35Z", "event":"Scan", "BodyName":"Athaip PZ-G d10-3416 2", "DistanceFromArrivalLS":741.619751, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":99.009689 }, { "Name":"SulphurDioxide", "Percent":0.990097 } ], "Volcanism":"", "MassEM":0.536768, "Radius":5038290.500000, "SurfaceGravity":8.428101, "SurfaceTemperature":702.267029, "SurfacePressure":10254994.000000, "Landable":false, "SemiMajorAxis":222874157056.000000, "Eccentricity":0.002578, "OrbitalInclination":0.009130, "Periapsis":165.081161, "OrbitalPeriod":50888412.000000, "RotationPeriod":137111.765625, "AxialTilt":0.405026 }
+{ "timestamp":"2018-01-25T23:21:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:21:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:24:21Z", "event":"Scan", "BodyName":"Athaip PZ-G d10-3416 5", "DistanceFromArrivalLS":1814.785767, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":81.830482 }, { "Name":"Oxygen", "Percent":17.317795 }, { "Name":"SulphurDioxide", "Percent":0.835690 } ], "Volcanism":"", "MassEM":0.209894, "Radius":3764714.500000, "SurfaceGravity":5.902636, "SurfaceTemperature":249.796402, "SurfacePressure":75332.789063, "Landable":false, "SemiMajorAxis":544629948416.000000, "Eccentricity":0.001213, "OrbitalInclination":-0.102995, "Periapsis":94.927193, "OrbitalPeriod":194393456.000000, "RotationPeriod":103562.281250, "AxialTilt":-0.150782 }
+{ "timestamp":"2018-01-25T23:24:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip MJ-A b42-1", "StarClass":"M" }
+{ "timestamp":"2018-01-25T23:24:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:25:05Z", "event":"FSDJump", "StarSystem":"Athaip MJ-A b42-1", "StarPos":[59.375,-1123.906,22889.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.173, "FuelUsed":3.969980, "FuelLevel":24.072226 }
+{ "timestamp":"2018-01-25T23:25:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:25:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:25:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:25:28Z", "event":"Scan", "BodyName":"Athaip MJ-A b42-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.429688, "Radius":425603200.000000, "AbsoluteMagnitude":8.153259, "Age_MY":5306, "SurfaceTemperature":3437.000000, "Luminosity":"Va", "SemiMajorAxis":169277374464.000000, "Eccentricity":0.232609, "OrbitalInclination":-3.273091, "Periapsis":319.925171, "OrbitalPeriod":303868000.000000, "RotationPeriod":174116.203125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:25:44Z", "event":"FuelScoop", "Scooped":5.012234, "Total":29.084463 }
+{ "timestamp":"2018-01-25T23:25:49Z", "event":"FuelScoop", "Scooped":2.915544, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:26:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:26:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:26:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:26:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:26:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip NJ-A b42-0", "StarClass":"M" }
+{ "timestamp":"2018-01-25T23:26:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:26:50Z", "event":"FSDJump", "StarSystem":"Athaip NJ-A b42-0", "StarPos":[83.844,-1112.156,22889.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.144, "FuelUsed":4.063938, "FuelLevel":27.936062 }
+{ "timestamp":"2018-01-25T23:26:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:27:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:27:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:27:14Z", "event":"Scan", "BodyName":"Athaip NJ-A b42-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.207031, "Radius":279363104.000000, "AbsoluteMagnitude":10.985992, "Age_MY":7266, "SurfaceTemperature":2210.000000, "Luminosity":"Va", "RotationPeriod":107960.593750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:27:29Z", "event":"FuelScoop", "Scooped":4.063942, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:27:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:27:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:27:57Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip QZ-G d10-1757", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:28:02Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:28:15Z", "event":"FSDJump", "StarSystem":"Athaip QZ-G d10-1757", "StarPos":[109.625,-1106.000,22895.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.136, "FuelUsed":4.061139, "FuelLevel":27.938862 }
+{ "timestamp":"2018-01-25T23:28:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:28:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:28:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:28:38Z", "event":"Scan", "BodyName":"Athaip QZ-G d10-1757", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.343750, "Radius":910806080.000000, "AbsoluteMagnitude":3.182938, "Age_MY":2346, "SurfaceTemperature":7377.000000, "Luminosity":"Vb", "RotationPeriod":250597.656250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:28:54Z", "event":"FuelScoop", "Scooped":4.061129, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:28:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:28:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:29:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip QZ-G d10-2413", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:29:38Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:29:51Z", "event":"FSDJump", "StarSystem":"Athaip QZ-G d10-2413", "StarPos":[133.125,-1108.719,22904.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.169, "FuelUsed":3.377399, "FuelLevel":28.622601 }
+{ "timestamp":"2018-01-25T23:29:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:29:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:30:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:30:13Z", "event":"Scan", "BodyName":"Athaip QZ-G d10-2413 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.203125, "Radius":842864960.000000, "AbsoluteMagnitude":3.999817, "Age_MY":6426, "SurfaceTemperature":6354.000000, "Luminosity":"Vab", "SemiMajorAxis":782267645952.000000, "Eccentricity":0.260951, "OrbitalInclination":36.174351, "Periapsis":356.659637, "OrbitalPeriod":1235492864.000000, "RotationPeriod":371868.406250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:30:28Z", "event":"FuelScoop", "Scooped":3.377411, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:30:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:30:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:31:22Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip QZ-G d10-1064", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:31:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:31:40Z", "event":"FSDJump", "StarSystem":"Athaip QZ-G d10-1064", "StarPos":[159.125,-1103.594,22907.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.739, "FuelUsed":3.916757, "FuelLevel":28.083242 }
+{ "timestamp":"2018-01-25T23:31:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:31:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:31:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:32:02Z", "event":"Scan", "BodyName":"Athaip QZ-G d10-1064 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.398438, "Radius":920527168.000000, "AbsoluteMagnitude":3.759445, "Age_MY":2372, "SurfaceTemperature":6426.000000, "Luminosity":"Vab", "SemiMajorAxis":15196914450432.000000, "Eccentricity":0.028478, "OrbitalInclination":-34.904675, "Periapsis":5.975337, "OrbitalPeriod":144225943552.000000, "RotationPeriod":224021.140625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:32:20Z", "event":"FuelScoop", "Scooped":3.916764, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:33:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip RZ-G d10-2551", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:33:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:33:27Z", "event":"FSDJump", "StarSystem":"Athaip RZ-G d10-2551", "StarPos":[184.719,-1105.531,22913.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.317, "FuelUsed":3.767419, "FuelLevel":28.232582 }
+{ "timestamp":"2018-01-25T23:33:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:33:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:33:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:33:49Z", "event":"Scan", "BodyName":"Athaip RZ-G d10-2551 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.152344, "Radius":830002624.000000, "AbsoluteMagnitude":4.262726, "Age_MY":520, "SurfaceTemperature":6027.000000, "Luminosity":"Vab", "SemiMajorAxis":599803625472.000000, "Eccentricity":0.161594, "OrbitalInclination":66.655739, "Periapsis":225.301773, "OrbitalPeriod":1684931456.000000, "RotationPeriod":513922.812500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:34:03Z", "event":"FuelScoop", "Scooped":3.767403, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:34:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:34:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:34:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip RZ-G d10-4460", "StarClass":"A" }
+{ "timestamp":"2018-01-25T23:34:40Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:34:53Z", "event":"FSDJump", "StarSystem":"Athaip RZ-G d10-4460", "StarPos":[211.281,-1100.875,22915.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.016, "FuelUsed":4.017377, "FuelLevel":27.982622 }
+{ "timestamp":"2018-01-25T23:34:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:35:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:35:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:35:15Z", "event":"Friends", "Status":"Online", "Name":"Aquafunkalisticbooty" }
+{ "timestamp":"2018-01-25T23:35:16Z", "event":"Scan", "BodyName":"Athaip RZ-G d10-4460 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.375000, "Radius":856236672.000000, "AbsoluteMagnitude":3.166672, "Age_MY":2954, "SurfaceTemperature":7637.000000, "Luminosity":"VI", "SemiMajorAxis":128255131648.000000, "Eccentricity":0.069213, "OrbitalInclination":-128.580536, "Periapsis":108.980186, "OrbitalPeriod":188364736.000000, "RotationPeriod":262936.843750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:35:31Z", "event":"FuelScoop", "Scooped":4.017385, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:35:35Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T23:36:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:36:28Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip RZ-G d10-3387", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:36:34Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:36:45Z", "event":"Friends", "Status":"Online", "Name":"Alex 'Alkhol' Hardin" }
+{ "timestamp":"2018-01-25T23:36:47Z", "event":"FSDJump", "StarSystem":"Athaip RZ-G d10-3387", "StarPos":[237.813,-1102.969,22917.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.765, "FuelUsed":3.926133, "FuelLevel":28.073868 }
+{ "timestamp":"2018-01-25T23:36:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:36:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:36:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:37:09Z", "event":"Scan", "BodyName":"Athaip RZ-G d10-3387", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.082031, "Radius":689132480.000000, "AbsoluteMagnitude":4.329865, "Age_MY":5324, "SurfaceTemperature":6513.000000, "Luminosity":"VI", "RotationPeriod":388613.187500, "AxialTilt":0.000000, "Rings":[ { "Name":"Athaip RZ-G d10-3387 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.4936e+14, "InnerRad":1.1709e+09, "OuterRad":2.4773e+09 }, { "Name":"Athaip RZ-G d10-3387 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.3097e+15, "InnerRad":2.9258e+09, "OuterRad":4.7184e+11 } ] }
+{ "timestamp":"2018-01-25T23:37:24Z", "event":"FuelScoop", "Scooped":3.926119, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:37:58Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip SZ-G d10-3527", "StarClass":"G" }
+{ "timestamp":"2018-01-25T23:38:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:38:17Z", "event":"FSDJump", "StarSystem":"Athaip SZ-G d10-3527", "StarPos":[263.250,-1104.750,22922.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.979, "FuelUsed":3.649768, "FuelLevel":28.350233 }
+{ "timestamp":"2018-01-25T23:38:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:38:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:38:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:38:39Z", "event":"Scan", "BodyName":"Athaip SZ-G d10-3527 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.078125, "Radius":686988736.000000, "AbsoluteMagnitude":5.117050, "Age_MY":750, "SurfaceTemperature":5442.000000, "Luminosity":"Vab", "SemiMajorAxis":4644894408704.000000, "Eccentricity":0.346283, "OrbitalInclination":18.399883, "Periapsis":72.055267, "OrbitalPeriod":26313922560.000000, "RotationPeriod":316925.375000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:38:46Z", "event":"Friends", "Status":"Online", "Name":"Twenty9er" }
+{ "timestamp":"2018-01-25T23:38:53Z", "event":"FuelScoop", "Scooped":3.649742, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:39:01Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T23:39:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:39:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip SZ-G d10-2540", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:39:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:40:06Z", "event":"FSDJump", "StarSystem":"Athaip SZ-G d10-2540", "StarPos":[288.813,-1098.406,22928.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.999, "FuelUsed":4.010816, "FuelLevel":27.359184 }
+{ "timestamp":"2018-01-25T23:40:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:40:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:40:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:40:28Z", "event":"Scan", "BodyName":"Athaip SZ-G d10-2540 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.300781, "Radius":782649728.000000, "AbsoluteMagnitude":4.230408, "Age_MY":1096, "SurfaceTemperature":6253.000000, "Luminosity":"Vab", "SemiMajorAxis":494229094400.000000, "Eccentricity":0.206811, "OrbitalInclination":-5.899069, "Periapsis":113.844589, "OrbitalPeriod":469343200.000000, "RotationPeriod":198777.140625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:40:45Z", "event":"FuelScoop", "Scooped":4.640826, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:40:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:40:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:41:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip RQ-K c22-23", "StarClass":"K" }
+{ "timestamp":"2018-01-25T23:41:24Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:41:38Z", "event":"FSDJump", "StarSystem":"Athaip RQ-K c22-23", "StarPos":[314.094,-1094.969,22937.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.922, "FuelUsed":3.983122, "FuelLevel":28.016878 }
+{ "timestamp":"2018-01-25T23:41:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:41:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:41:48Z", "event":"Friends", "Status":"Online", "Name":"John Allbright" }
+{ "timestamp":"2018-01-25T23:41:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:41:59Z", "event":"Scan", "BodyName":"Athaip RQ-K c22-23", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.820313, "Radius":648147072.000000, "AbsoluteMagnitude":5.458649, "Age_MY":11164, "SurfaceTemperature":5179.000000, "Luminosity":"Va", "RotationPeriod":296084.531250, "AxialTilt":0.000000, "Rings":[ { "Name":"Athaip RQ-K c22-23 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.2716e+14, "InnerRad":1.0272e+09, "OuterRad":2.2589e+09 } ] }
+{ "timestamp":"2018-01-25T23:42:14Z", "event":"FuelScoop", "Scooped":3.983119, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:42:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:42:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:42:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:42:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:42:44Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip XF-F d11-2882", "StarClass":"G" }
+{ "timestamp":"2018-01-25T23:42:49Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:43:02Z", "event":"FSDJump", "StarSystem":"Athaip XF-F d11-2882", "StarPos":[340.344,-1091.938,22942.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.972, "FuelUsed":4.000803, "FuelLevel":27.999197 }
+{ "timestamp":"2018-01-25T23:43:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:43:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:43:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:43:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:43:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:43:39Z", "event":"Scan", "BodyName":"Athaip XF-F d11-2882", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.914063, "Radius":638595840.000000, "AbsoluteMagnitude":5.145966, "Age_MY":2012, "SurfaceTemperature":5607.000000, "Luminosity":"Vab", "RotationPeriod":329099.500000, "AxialTilt":0.000000, "Rings":[ { "Name":"Athaip XF-F d11-2882 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.7962e+12, "InnerRad":1.2677e+09, "OuterRad":2.3419e+09 } ] }
+{ "timestamp":"2018-01-25T23:43:53Z", "event":"FuelScoop", "Scooped":4.000797, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:43:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:43:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:44:22Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip XF-F d11-4490", "StarClass":"K" }
+{ "timestamp":"2018-01-25T23:44:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:44:41Z", "event":"FSDJump", "StarSystem":"Athaip XF-F d11-4490", "StarPos":[366.344,-1089.594,22950.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.187, "FuelUsed":4.079687, "FuelLevel":27.920313 }
+{ "timestamp":"2018-01-25T23:44:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:44:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:45:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:45:03Z", "event":"Scan", "BodyName":"Athaip XF-F d11-4490 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.878906, "Radius":603341120.000000, "AbsoluteMagnitude":5.873428, "Age_MY":1468, "SurfaceTemperature":4879.000000, "Luminosity":"Va", "SemiMajorAxis":794574144.000000, "Eccentricity":0.000793, "OrbitalInclination":-25.366579, "Periapsis":341.698090, "OrbitalPeriod":32584.320313, "RotationPeriod":274501.625000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:46:56Z", "event":"Friends", "Status":"Online", "Name":"John Allbright" }
+{ "timestamp":"2018-01-25T23:47:01Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T23:47:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:47:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip XF-F d11-4019", "StarClass":"F" }
+{ "timestamp":"2018-01-25T23:47:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:48:01Z", "event":"FSDJump", "StarSystem":"Athaip XF-F d11-4019", "StarPos":[390.563,-1089.906,22961.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.812, "FuelUsed":3.839047, "FuelLevel":24.081266 }
+{ "timestamp":"2018-01-25T23:48:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:48:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:48:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:48:22Z", "event":"Scan", "BodyName":"Athaip XF-F d11-4019", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.203125, "Radius":703714048.000000, "AbsoluteMagnitude":4.529938, "Age_MY":1778, "SurfaceTemperature":6155.000000, "Luminosity":"Vb", "RotationPeriod":342500.843750, "AxialTilt":0.000000, "Rings":[ { "Name":"Athaip XF-F d11-4019 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.6376e+14, "InnerRad":1.108e+09, "OuterRad":2.5665e+09 } ] }
+{ "timestamp":"2018-01-25T23:48:39Z", "event":"FuelScoop", "Scooped":5.002298, "Total":29.083557 }
+{ "timestamp":"2018-01-25T23:48:42Z", "event":"FuelScoop", "Scooped":2.916432, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:49:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip YF-F d11-3815", "StarClass":"A" }
+{ "timestamp":"2018-01-25T23:49:22Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:49:35Z", "event":"FSDJump", "StarSystem":"Athaip YF-F d11-3815", "StarPos":[416.344,-1088.031,22967.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.390, "FuelUsed":3.792628, "FuelLevel":28.207371 }
+{ "timestamp":"2018-01-25T23:49:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:50:00Z", "event":"Scan", "BodyName":"Athaip YF-F d11-3815 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.500000, "Radius":946718784.000000, "AbsoluteMagnitude":2.753845, "Age_MY":1948, "SurfaceTemperature":7987.000000, "Luminosity":"Vb", "SemiMajorAxis":4090591969280.000000, "Eccentricity":0.086640, "OrbitalInclination":-26.281538, "Periapsis":43.385384, "OrbitalPeriod":11949124608.000000, "RotationPeriod":109103.007813, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:50:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:50:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:50:50Z", "event":"FuelScoop", "Scooped":3.792616, "Total":32.000000 }
+{ "timestamp":"2018-01-25T23:51:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Athaip ZP-P e5-6688", "StarClass":"N" }
+{ "timestamp":"2018-01-25T23:51:48Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-25T23:52:01Z", "event":"FSDJump", "StarSystem":"Athaip ZP-P e5-6688", "StarPos":[426.406,-1091.938,22967.625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":10.800, "FuelUsed":0.424880, "FuelLevel":31.575119 }
+{ "timestamp":"2018-01-25T23:52:01Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2018-01-25T23:52:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:52:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:52:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:52:20Z", "event":"Scan", "BodyName":"Athaip ZP-P e5-6688 A", "DistanceFromArrivalLS":0.000000, "StarType":"N", "StellarMass":1.832031, "Radius":8230.468750, "AbsoluteMagnitude":4.555450, "Age_MY":288, "SurfaceTemperature":9380884.000000, "Luminosity":"VII", "SemiMajorAxis":2710094217216.000000, "Eccentricity":0.217150, "OrbitalInclination":-24.605314, "Periapsis":34.931561, "OrbitalPeriod":4896800768.000000, "RotationPeriod":1.835142, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-25T23:55:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-25T23:55:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:58:57Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T23:59:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-25T23:59:12Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-25T23:59:49Z", "event":"Music", "MusicTrack":"Supercruise" }

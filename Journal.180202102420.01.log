@@ -1,0 +1,321 @@
+{ "timestamp":"2018-02-02T15:24:20Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r160439/r0 " }
+{ "timestamp":"2018-02-02T15:24:20Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:24:20Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-02-02T15:24:56Z", "event":"Friends", "Status":"Online", "Name":"Huskeer42" }
+{ "timestamp":"2018-02-02T15:25:10Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-02-02T15:25:10Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2018-02-02T15:25:10Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":115 }, { "Name":"vanadium", "Count":162 }, { "Name":"sulphur", "Count":69 }, { "Name":"iron", "Count":96 }, { "Name":"germanium", "Count":96 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"molybdenum", "Count":66 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":42 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":56 }, { "Name":"cadmium", "Count":63 }, { "Name":"zirconium", "Count":7 }, { "Name":"selenium", "Count":12 }, { "Name":"tungsten", "Count":3 }, { "Name":"yttrium", "Count":12 }, { "Name":"chromium", "Count":34 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Count":7 }, { "Name":"wakesolutions", "Count":1 }, { "Name":"scrambledemissiondata", "Count":2 }, { "Name":"legacyfirmware", "Count":4 }, { "Name":"shielddensityreports", "Count":3 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Count":3 }, { "Name":"securityfirmware", "Count":1 }, { "Name":"fsdtelemetry", "Count":1 } ] }
+{ "timestamp":"2018-02-02T15:25:10Z", "event":"LoadGame", "Commander":"JaredCrue", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":31.717516, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-02-02T15:25:10Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-02-02T15:25:10Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":71, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-02-02T15:25:26Z", "event":"Location", "Docked":false, "StarSystem":"Eorld Byoe YA-W e2-4084", "StarPos":[-1259.844,-177.438,30270.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Eorld Byoe YA-W e2-4084", "BodyType":"Star" }
+{ "timestamp":"2018-02-02T15:25:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:25:27Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-02T15:25:40Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-02T15:26:03Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-02T15:27:00Z", "event":"Friends", "Status":"Online", "Name":"Huskeer42" }
+{ "timestamp":"2018-02-02T15:27:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eorld Byoe FW-E c14-3471", "StarClass":"K" }
+{ "timestamp":"2018-02-02T15:27:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:27:52Z", "event":"FSDJump", "StarSystem":"Eorld Byoe FW-E c14-3471", "StarPos":[-1273.188,-184.750,30292.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.852, "FuelUsed":3.950651, "FuelLevel":27.766865 }
+{ "timestamp":"2018-02-02T15:27:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:28:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:28:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:28:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:28:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:28:16Z", "event":"Scan", "BodyName":"Eorld Byoe FW-E c14-3471 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.527344, "Radius":474017344.000000, "AbsoluteMagnitude":7.221405, "Age_MY":5572, "SurfaceTemperature":4036.000000, "Luminosity":"Va", "SemiMajorAxis":30340303290368.000000, "Eccentricity":0.201471, "OrbitalInclination":-117.837891, "Periapsis":95.386215, "OrbitalPeriod":537115557888.000000, "RotationPeriod":193821.718750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T15:28:34Z", "event":"FuelScoop", "Scooped":4.233138, "Total":32.000000 }
+{ "timestamp":"2018-02-02T15:28:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:28:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:32:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eorld Byoe GJ-O d7-4020", "StarClass":"A" }
+{ "timestamp":"2018-02-02T15:32:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:32:41Z", "event":"FSDJump", "StarSystem":"Eorld Byoe GJ-O d7-4020", "StarPos":[-1286.219,-193.000,30314.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.099, "FuelUsed":4.047382, "FuelLevel":27.952618 }
+{ "timestamp":"2018-02-02T15:32:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:32:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:32:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:33:05Z", "event":"Scan", "BodyName":"Eorld Byoe GJ-O d7-4020 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.453125, "Radius":959029184.000000, "AbsoluteMagnitude":2.967896, "Age_MY":1584, "SurfaceTemperature":7554.000000, "Luminosity":"Vb", "SemiMajorAxis":161380597760.000000, "Eccentricity":0.204674, "OrbitalInclination":-1.691385, "Periapsis":74.721024, "OrbitalPeriod":207378496.000000, "RotationPeriod":191553.593750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T15:33:29Z", "event":"FuelScoop", "Scooped":4.677366, "Total":32.000000 }
+{ "timestamp":"2018-02-02T15:33:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:33:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:34:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eorld Byoe LX-C c15-1038", "StarClass":"K" }
+{ "timestamp":"2018-02-02T15:34:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:34:41Z", "event":"FSDJump", "StarSystem":"Eorld Byoe LX-C c15-1038", "StarPos":[-1299.906,-204.844,30334.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.091, "FuelUsed":4.044367, "FuelLevel":27.955633 }
+{ "timestamp":"2018-02-02T15:34:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:34:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:35:06Z", "event":"Scan", "BodyName":"Eorld Byoe LX-C c15-1038 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.890625, "Radius":707407168.000000, "AbsoluteMagnitude":5.258514, "Age_MY":5000, "SurfaceTemperature":5191.000000, "Luminosity":"Va", "SemiMajorAxis":11235596288.000000, "Eccentricity":0.246486, "OrbitalInclination":34.612419, "Periapsis":229.220703, "OrbitalPeriod":6173101.000000, "RotationPeriod":306489.031250, "AxialTilt":0.000000, "Rings":[ { "Name":"Eorld Byoe LX-C c15-1038 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":6.8822e+12, "InnerRad":1.2507e+09, "OuterRad":2.3217e+09 } ] }
+{ "timestamp":"2018-02-02T15:35:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:35:09Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-02T15:35:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:35:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:35:29Z", "event":"FuelScoop", "Scooped":4.044378, "Total":32.000000 }
+{ "timestamp":"2018-02-02T15:42:43Z", "event":"Scan", "BodyName":"Eorld Byoe LX-C c15-1038 E 2", "DistanceFromArrivalLS":25281.984375, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":96.589165 }, { "Name":"Nitrogen", "Percent":1.937408 }, { "Name":"SulphurDioxide", "Percent":0.965892 } ], "Volcanism":"major silicate vapour geysers volcanism", "MassEM":3.716329, "Radius":8943062.000000, "SurfaceGravity":18.520430, "SurfaceTemperature":2224.152344, "SurfacePressure":258325952.000000, "Landable":false, "SemiMajorAxis":5989502464.000000, "Eccentricity":0.253345, "OrbitalInclination":129.775543, "Periapsis":22.389545, "OrbitalPeriod":455054.218750, "RotationPeriod":455062.812500, "AxialTilt":0.343140 }
+{ "timestamp":"2018-02-02T15:42:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:43:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:44:18Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eorld Byoe OD-B c16-2269", "StarClass":"K" }
+{ "timestamp":"2018-02-02T15:44:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:44:37Z", "event":"FSDJump", "StarSystem":"Eorld Byoe OD-B c16-2269", "StarPos":[-1311.969,-213.281,30357.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.757, "FuelUsed":3.923662, "FuelLevel":28.076338 }
+{ "timestamp":"2018-02-02T15:44:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:44:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:44:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:44:58Z", "event":"Scan", "BodyName":"Eorld Byoe OD-B c16-2269 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.636719, "Radius":541151936.000000, "AbsoluteMagnitude":6.791824, "Age_MY":5646, "SurfaceTemperature":4170.000000, "Luminosity":"Va", "SemiMajorAxis":8032050216960.000000, "Eccentricity":0.236555, "OrbitalInclination":4.540963, "Periapsis":15.691041, "OrbitalPeriod":50003390464.000000, "RotationPeriod":269715.562500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T15:45:14Z", "event":"FuelScoop", "Scooped":3.923660, "Total":32.000000 }
+{ "timestamp":"2018-02-02T15:45:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:45:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:45:22Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-02T15:46:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:46:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eorld Byoe KP-M d8-8077", "StarClass":"A" }
+{ "timestamp":"2018-02-02T15:46:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:46:52Z", "event":"FSDJump", "StarSystem":"Eorld Byoe KP-M d8-8077", "StarPos":[-1327.219,-221.156,30378.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.097, "FuelUsed":4.047036, "FuelLevel":27.952965 }
+{ "timestamp":"2018-02-02T15:46:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:47:15Z", "event":"Scan", "BodyName":"Eorld Byoe KP-M d8-8077", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.718750, "Radius":1036309376.000000, "AbsoluteMagnitude":2.417770, "Age_MY":2166, "SurfaceTemperature":8248.000000, "Luminosity":"Vab", "RotationPeriod":67182.859375, "AxialTilt":0.000000, "Rings":[ { "Name":"Eorld Byoe KP-M d8-8077 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":6.831e+16, "InnerRad":3.8906e+09, "OuterRad":3.9526e+11 } ] }
+{ "timestamp":"2018-02-02T15:47:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:47:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:47:57Z", "event":"FuelScoop", "Scooped":4.047029, "Total":32.000000 }
+{ "timestamp":"2018-02-02T15:48:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:48:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:48:28Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eorld Byoe UE-Z c16-3474", "StarClass":"G" }
+{ "timestamp":"2018-02-02T15:48:34Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:48:47Z", "event":"FSDJump", "StarSystem":"Eorld Byoe UE-Z c16-3474", "StarPos":[-1340.750,-229.250,30400.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.194, "FuelUsed":4.082445, "FuelLevel":27.917555 }
+{ "timestamp":"2018-02-02T15:48:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:48:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:48:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:49:09Z", "event":"Scan", "BodyName":"Eorld Byoe UE-Z c16-3474 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.796875, "Radius":599881472.000000, "AbsoluteMagnitude":5.418732, "Age_MY":2278, "SurfaceTemperature":5433.000000, "Luminosity":"Vab", "SemiMajorAxis":3094282502144.000000, "Eccentricity":0.337853, "OrbitalInclination":-94.141808, "Periapsis":118.797112, "OrbitalPeriod":30879293440.000000, "RotationPeriod":241703.531250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T15:49:25Z", "event":"FuelScoop", "Scooped":4.082483, "Total":32.000000 }
+{ "timestamp":"2018-02-02T15:49:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:49:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:49:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:49:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:49:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree ZP-M d8-7088", "StarClass":"F" }
+{ "timestamp":"2018-02-02T15:50:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:50:13Z", "event":"FSDJump", "StarSystem":"Eok Gree ZP-M d8-7088", "StarPos":[-1355.000,-238.688,30421.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.052, "FuelUsed":4.030369, "FuelLevel":27.969631 }
+{ "timestamp":"2018-02-02T15:50:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:50:38Z", "event":"Scan", "BodyName":"Eok Gree ZP-M d8-7088", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.250000, "Radius":775454400.000000, "AbsoluteMagnitude":4.185654, "Age_MY":2592, "SurfaceTemperature":6347.000000, "Luminosity":"Vb", "RotationPeriod":406878.156250, "AxialTilt":0.000000, "Rings":[ { "Name":"Eok Gree ZP-M d8-7088 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.63e+14, "InnerRad":1.2509e+09, "OuterRad":2.5994e+09 }, { "Name":"Eok Gree ZP-M d8-7088 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.1296e+14, "InnerRad":3.101e+09, "OuterRad":5.001e+11 } ] }
+{ "timestamp":"2018-02-02T15:50:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:50:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:51:05Z", "event":"FuelScoop", "Scooped":4.030359, "Total":32.000000 }
+{ "timestamp":"2018-02-02T15:51:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:51:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:51:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:51:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:51:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:51:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:51:44Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-02T15:52:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:52:25Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree ZP-M d8-6784", "StarClass":"F" }
+{ "timestamp":"2018-02-02T15:52:30Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:52:44Z", "event":"FSDJump", "StarSystem":"Eok Gree ZP-M d8-6784", "StarPos":[-1362.125,-257.625,30438.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.813, "FuelUsed":3.943786, "FuelLevel":28.056213 }
+{ "timestamp":"2018-02-02T15:52:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:52:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:52:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:53:07Z", "event":"Scan", "BodyName":"Eok Gree ZP-M d8-6784", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.402344, "Radius":832570816.000000, "AbsoluteMagnitude":3.754227, "Age_MY":1704, "SurfaceTemperature":6765.000000, "Luminosity":"Vb", "RotationPeriod":139395.515625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T15:53:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:53:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:53:15Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-02T15:53:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:53:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:53:38Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-02T15:53:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:54:02Z", "event":"FuelScoop", "Scooped":3.224548, "Total":31.280766 }
+{ "timestamp":"2018-02-02T15:54:25Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree MZ-S b36-3", "StarClass":"M" }
+{ "timestamp":"2018-02-02T15:54:31Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:54:44Z", "event":"FSDJump", "StarSystem":"Eok Gree MZ-S b36-3", "StarPos":[-1365.906,-284.500,30439.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.147, "FuelUsed":4.046101, "FuelLevel":27.234665 }
+{ "timestamp":"2018-02-02T15:54:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:54:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:54:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:55:06Z", "event":"Scan", "BodyName":"Eok Gree MZ-S b36-3", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.328125, "Radius":334038624.000000, "AbsoluteMagnitude":9.303589, "Age_MY":3278, "SurfaceTemperature":2977.000000, "Luminosity":"Va", "RotationPeriod":161040.578125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T15:55:24Z", "event":"FuelScoop", "Scooped":4.765340, "Total":32.000000 }
+{ "timestamp":"2018-02-02T15:55:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:55:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:55:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree HC-X c17-3758", "StarClass":"K" }
+{ "timestamp":"2018-02-02T15:55:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:56:05Z", "event":"FSDJump", "StarSystem":"Eok Gree HC-X c17-3758", "StarPos":[-1367.813,-311.594,30440.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.194, "FuelUsed":4.082415, "FuelLevel":27.917585 }
+{ "timestamp":"2018-02-02T15:56:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:56:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:56:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:56:27Z", "event":"Scan", "BodyName":"Eok Gree HC-X c17-3758 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.683594, "Radius":550639552.000000, "AbsoluteMagnitude":6.318344, "Age_MY":3128, "SurfaceTemperature":4610.000000, "Luminosity":"Vab", "SemiMajorAxis":9351422017536.000000, "Eccentricity":0.091708, "OrbitalInclination":-30.725981, "Periapsis":295.380493, "OrbitalPeriod":56702111744.000000, "RotationPeriod":388864.375000, "AxialTilt":0.000000, "Rings":[ { "Name":"Eok Gree HC-X c17-3758 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.6205e+11, "InnerRad":1.008e+09, "OuterRad":2.1257e+09 }, { "Name":"Eok Gree HC-X c17-3758 A B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.6606e+16, "InnerRad":4.1126e+10, "OuterRad":2.6113e+11 } ] }
+{ "timestamp":"2018-02-02T15:56:42Z", "event":"FuelScoop", "Scooped":4.082397, "Total":32.000000 }
+{ "timestamp":"2018-02-02T15:57:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:57:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:57:25Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree BL-M d8-936", "StarClass":"G" }
+{ "timestamp":"2018-02-02T15:57:31Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:57:44Z", "event":"FSDJump", "StarSystem":"Eok Gree BL-M d8-936", "StarPos":[-1366.688,-338.438,30437.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.086, "FuelUsed":4.042619, "FuelLevel":27.957382 }
+{ "timestamp":"2018-02-02T15:57:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:57:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:58:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:58:08Z", "event":"Scan", "BodyName":"Eok Gree BL-M d8-936 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.023438, "Radius":758983872.000000, "AbsoluteMagnitude":4.580551, "Age_MY":3948, "SurfaceTemperature":5858.000000, "Luminosity":"Vab", "SemiMajorAxis":7168472064.000000, "Eccentricity":0.471126, "OrbitalInclination":-28.031809, "Periapsis":22.819399, "OrbitalPeriod":774916.062500, "RotationPeriod":416405.062500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T15:58:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:58:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:58:30Z", "event":"FuelScoop", "Scooped":4.042626, "Total":32.000000 }
+{ "timestamp":"2018-02-02T15:58:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:58:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:59:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree JX-W c17-559", "StarClass":"K" }
+{ "timestamp":"2018-02-02T15:59:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T15:59:19Z", "event":"FSDJump", "StarSystem":"Eok Gree JX-W c17-559", "StarPos":[-1368.469,-365.313,30434.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.133, "FuelUsed":4.059814, "FuelLevel":27.940186 }
+{ "timestamp":"2018-02-02T15:59:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:59:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:59:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:59:41Z", "event":"Scan", "BodyName":"Eok Gree JX-W c17-559", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.492188, "Radius":483398784.000000, "AbsoluteMagnitude":7.352341, "Age_MY":9450, "SurfaceTemperature":3878.000000, "Luminosity":"Va", "RotationPeriod":224318.078125, "AxialTilt":0.000000, "Rings":[ { "Name":"Eok Gree JX-W c17-559 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.145e+10, "InnerRad":8.9473e+08, "OuterRad":1.9052e+09 } ] }
+{ "timestamp":"2018-02-02T15:59:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T15:59:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T15:59:59Z", "event":"FuelScoop", "Scooped":4.059827, "Total":32.000000 }
+{ "timestamp":"2018-02-02T16:00:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:00:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:00:44Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree LS-W c17-1970", "StarClass":"K" }
+{ "timestamp":"2018-02-02T16:00:49Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:01:03Z", "event":"FSDJump", "StarSystem":"Eok Gree LS-W c17-1970", "StarPos":[-1372.188,-388.063,30435.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.076, "FuelUsed":2.730247, "FuelLevel":29.269753 }
+{ "timestamp":"2018-02-02T16:01:03Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2018-02-02T16:01:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:01:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:01:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:01:26Z", "event":"Scan", "BodyName":"Eok Gree LS-W c17-1970 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.617188, "Radius":500336320.000000, "AbsoluteMagnitude":6.695480, "Age_MY":11426, "SurfaceTemperature":4434.000000, "Luminosity":"Va", "SemiMajorAxis":1280065536000.000000, "Eccentricity":0.223940, "OrbitalInclination":-50.761806, "Periapsis":96.701393, "OrbitalPeriod":3092525056.000000, "RotationPeriod":267628.468750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T16:01:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:01:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:01:40Z", "event":"FuelScoop", "Scooped":2.730245, "Total":32.000000 }
+{ "timestamp":"2018-02-02T16:01:45Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-02T16:01:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:02:17Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree PY-U c18-2708", "StarClass":"M" }
+{ "timestamp":"2018-02-02T16:02:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:02:36Z", "event":"FSDJump", "StarSystem":"Eok Gree PY-U c18-2708", "StarPos":[-1384.875,-385.031,30459.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.179, "FuelUsed":4.076669, "FuelLevel":27.923332 }
+{ "timestamp":"2018-02-02T16:02:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:02:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:02:59Z", "event":"Scan", "BodyName":"Eok Gree PY-U c18-2708", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.468750, "Radius":412146560.000000, "AbsoluteMagnitude":8.403732, "Age_MY":3204, "SurfaceTemperature":3297.000000, "Luminosity":"Va", "RotationPeriod":215874.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T16:03:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:03:13Z", "event":"FuelScoop", "Scooped":1.083355, "Total":28.376694 }
+{ "timestamp":"2018-02-02T16:04:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:04:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:04:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:04:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:04:30Z", "event":"Scan", "BodyName":"Eok Gree PY-U c18-2708 1", "DistanceFromArrivalLS":599.959351, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":99.278511 }, { "Name":"Argon", "Percent":0.694204 } ], "Volcanism":"", "MassEM":0.178966, "Radius":3656613.500000, "SurfaceGravity":5.334852, "SurfaceTemperature":107.254601, "SurfacePressure":194444.484375, "Landable":false, "SemiMajorAxis":179834339328.000000, "Eccentricity":0.000205, "OrbitalInclination":0.119770, "Periapsis":152.894211, "OrbitalPeriod":60745540.000000, "RotationPeriod":131979.625000, "AxialTilt":0.051100 }
+{ "timestamp":"2018-02-02T16:04:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:04:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:05:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree MD-V c18-1741", "StarClass":"K" }
+{ "timestamp":"2018-02-02T16:05:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:05:22Z", "event":"FSDJump", "StarSystem":"Eok Gree MD-V c18-1741", "StarPos":[-1395.688,-379.281,30483.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.000, "FuelUsed":3.916569, "FuelLevel":24.460125 }
+{ "timestamp":"2018-02-02T16:05:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:05:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:05:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:05:45Z", "event":"Scan", "BodyName":"Eok Gree MD-V c18-1741 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.617188, "Radius":524108320.000000, "AbsoluteMagnitude":6.836411, "Age_MY":6254, "SurfaceTemperature":4194.000000, "Luminosity":"Va", "SemiMajorAxis":11090289229824.000000, "Eccentricity":0.046935, "OrbitalInclination":2.809675, "Periapsis":289.367706, "OrbitalPeriod":99370803200.000000, "RotationPeriod":246899.953125, "AxialTilt":0.000000, "Rings":[ { "Name":"Eok Gree MD-V c18-1741 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":9.8885e+13, "InnerRad":1.035e+09, "OuterRad":2.0545e+09 } ] }
+{ "timestamp":"2018-02-02T16:06:02Z", "event":"FuelScoop", "Scooped":5.010376, "Total":29.470469 }
+{ "timestamp":"2018-02-02T16:06:06Z", "event":"FuelScoop", "Scooped":2.529537, "Total":32.000000 }
+{ "timestamp":"2018-02-02T16:06:37Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree HM-K d9-1765", "StarClass":"F" }
+{ "timestamp":"2018-02-02T16:06:42Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:06:56Z", "event":"FSDJump", "StarSystem":"Eok Gree HM-K d9-1765", "StarPos":[-1408.094,-371.906,30505.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.048, "FuelUsed":4.028871, "FuelLevel":27.971130 }
+{ "timestamp":"2018-02-02T16:06:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:07:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:07:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:07:19Z", "event":"Scan", "BodyName":"Eok Gree HM-K d9-1765 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.203125, "Radius":801497472.000000, "AbsoluteMagnitude":4.085251, "Age_MY":2574, "SurfaceTemperature":6389.000000, "Luminosity":"Vb", "SemiMajorAxis":443227897856.000000, "Eccentricity":0.227331, "OrbitalInclination":18.627686, "Periapsis":230.301559, "OrbitalPeriod":1091532672.000000, "RotationPeriod":338427.437500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T16:07:39Z", "event":"FuelScoop", "Scooped":4.028860, "Total":32.000000 }
+{ "timestamp":"2018-02-02T16:07:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:07:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:08:14Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree HM-K d9-1009", "StarClass":"F" }
+{ "timestamp":"2018-02-02T16:08:20Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:08:33Z", "event":"FSDJump", "StarSystem":"Eok Gree HM-K d9-1009", "StarPos":[-1419.813,-369.063,30530.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.195, "FuelUsed":4.082287, "FuelLevel":27.917713 }
+{ "timestamp":"2018-02-02T16:08:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:08:56Z", "event":"Scan", "BodyName":"Eok Gree HM-K d9-1009 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.265625, "Radius":738501760.000000, "AbsoluteMagnitude":4.470551, "Age_MY":5228, "SurfaceTemperature":6091.000000, "Luminosity":"Vb", "SemiMajorAxis":121743237120.000000, "Eccentricity":0.069503, "OrbitalInclination":-47.683300, "Periapsis":101.471466, "OrbitalPeriod":66441748.000000, "RotationPeriod":432178.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T16:09:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:09:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:09:35Z", "event":"FuelScoop", "Scooped":4.082275, "Total":32.000000 }
+{ "timestamp":"2018-02-02T16:09:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:09:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:10:06Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree KS-I d10-6375", "StarClass":"A" }
+{ "timestamp":"2018-02-02T16:10:11Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:10:25Z", "event":"FSDJump", "StarSystem":"Eok Gree KS-I d10-6375", "StarPos":[-1432.156,-364.438,30553.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.054, "FuelUsed":4.030829, "FuelLevel":27.969172 }
+{ "timestamp":"2018-02-02T16:10:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:10:48Z", "event":"Scan", "BodyName":"Eok Gree KS-I d10-6375 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.570313, "Radius":970151168.000000, "AbsoluteMagnitude":2.760422, "Age_MY":708, "SurfaceTemperature":7878.000000, "Luminosity":"Vb", "SemiMajorAxis":430819606528.000000, "Eccentricity":0.032084, "OrbitalInclination":-48.195465, "Periapsis":353.815552, "OrbitalPeriod":1107801088.000000, "RotationPeriod":119413.554688, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T16:10:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:10:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:11:12Z", "event":"FuelScoop", "Scooped":4.030841, "Total":32.000000 }
+{ "timestamp":"2018-02-02T16:11:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:11:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:11:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree XV-P c21-3597", "StarClass":"K" }
+{ "timestamp":"2018-02-02T16:11:48Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:12:01Z", "event":"FSDJump", "StarSystem":"Eok Gree XV-P c21-3597", "StarPos":[-1445.438,-356.406,30576.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.103, "FuelUsed":4.048964, "FuelLevel":27.951036 }
+{ "timestamp":"2018-02-02T16:12:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:12:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:12:23Z", "event":"Scan", "BodyName":"Eok Gree XV-P c21-3597 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.765625, "Radius":577149504.000000, "AbsoluteMagnitude":6.098145, "Age_MY":1156, "SurfaceTemperature":4737.000000, "Luminosity":"Va", "SemiMajorAxis":1880662605824.000000, "Eccentricity":0.130703, "OrbitalInclination":-8.933079, "Periapsis":347.390106, "OrbitalPeriod":7957337600.000000, "RotationPeriod":278789.062500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T16:12:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:12:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:12:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:14:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:14:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:14:40Z", "event":"Scan", "BodyName":"Eok Gree XV-P c21-3597 A 1", "DistanceFromArrivalLS":1864.670166, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick methane rich atmosphere", "AtmosphereType":"MethaneRich", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":33.079311 }, { "Name":"Methane", "Percent":33.079311 }, { "Name":"Nitrogen", "Percent":33.079311 } ], "Volcanism":"major silicate vapour geysers volcanism", "MassEM":9.285986, "Radius":11191884.000000, "SurfaceGravity":29.548203, "SurfaceTemperature":523.607361, "SurfacePressure":135444576.000000, "Landable":false, "SemiMajorAxis":503393779712.000000, "Eccentricity":0.809623, "OrbitalInclination":-43.202068, "Periapsis":113.542900, "OrbitalPeriod":222599360.000000, "RotationPeriod":52359.085938, "AxialTilt":0.437854 }
+{ "timestamp":"2018-02-02T16:15:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:15:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:15:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:15:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:20:52Z", "event":"Scan", "BodyName":"Eok Gree XV-P c21-3597 B 1", "DistanceFromArrivalLS":23004.947266, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"oxygen atmosphere", "AtmosphereType":"Oxygen", "AtmosphereComposition":[ { "Name":"Oxygen", "Percent":58.892120 }, { "Name":"Nitrogen", "Percent":28.315290 }, { "Name":"CarbonDioxide", "Percent":9.435652 } ], "Volcanism":"", "MassEM":0.318420, "Radius":4286557.000000, "SurfaceGravity":6.907052, "SurfaceTemperature":260.860077, "SurfacePressure":27136.230469, "Landable":false, "SemiMajorAxis":57164759040.000000, "Eccentricity":0.000561, "OrbitalInclination":0.048010, "Periapsis":181.025757, "OrbitalPeriod":12859902.000000, "RotationPeriod":693569.437500, "AxialTilt":0.468014 }
+{ "timestamp":"2018-02-02T16:20:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:21:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:21:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:21:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:21:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:21:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:21:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree XV-P c21-1374", "StarClass":"K" }
+{ "timestamp":"2018-02-02T16:21:49Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:22:02Z", "event":"FSDJump", "StarSystem":"Eok Gree XV-P c21-1374", "StarPos":[-1460.969,-352.031,30598.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.132, "FuelUsed":3.953000, "FuelLevel":23.998037 }
+{ "timestamp":"2018-02-02T16:22:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:22:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:22:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:22:24Z", "event":"Scan", "BodyName":"Eok Gree XV-P c21-1374 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.769531, "Radius":632928768.000000, "AbsoluteMagnitude":5.857620, "Age_MY":290, "SurfaceTemperature":4781.000000, "Luminosity":"Va", "SemiMajorAxis":954932199424.000000, "Eccentricity":0.199926, "OrbitalInclination":24.142256, "Periapsis":88.174011, "OrbitalPeriod":3302138880.000000, "RotationPeriod":266034.750000, "AxialTilt":0.000000, "Rings":[ { "Name":"Eok Gree XV-P c21-1374 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.0864e+14, "InnerRad":1.1965e+09, "OuterRad":2.2113e+09 } ] }
+{ "timestamp":"2018-02-02T16:22:41Z", "event":"FuelScoop", "Scooped":5.002365, "Total":29.000433 }
+{ "timestamp":"2018-02-02T16:22:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:22:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:22:47Z", "event":"FuelScoop", "Scooped":2.084395, "Total":31.084814 }
+{ "timestamp":"2018-02-02T16:23:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree AC-O c22-3180", "StarClass":"K" }
+{ "timestamp":"2018-02-02T16:23:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:23:25Z", "event":"FSDJump", "StarSystem":"Eok Gree AC-O c22-3180", "StarPos":[-1470.688,-345.375,30622.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.960, "FuelUsed":3.972799, "FuelLevel":27.112015 }
+{ "timestamp":"2018-02-02T16:23:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:23:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:23:47Z", "event":"Scan", "BodyName":"Eok Gree AC-O c22-3180", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.730469, "Radius":580439360.000000, "AbsoluteMagnitude":6.213303, "Age_MY":4100, "SurfaceTemperature":4600.000000, "Luminosity":"Va", "RotationPeriod":453135.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-02T16:23:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:24:05Z", "event":"FuelScoop", "Scooped":4.887998, "Total":32.000000 }
+{ "timestamp":"2018-02-02T16:25:47Z", "event":"Scan", "BodyName":"Eok Gree AC-O c22-3180 1", "DistanceFromArrivalLS":1143.811768, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":81.349670 }, { "Name":"Oxygen", "Percent":18.638016 } ], "Volcanism":"", "MassEM":0.502853, "Radius":4933332.000000, "SurfaceGravity":8.235113, "SurfaceTemperature":136.041122, "SurfacePressure":189883.406250, "Landable":false, "SemiMajorAxis":229531968.000000, "Eccentricity":0.135648, "OrbitalInclination":-5.507803, "Periapsis":318.844849, "OrbitalPeriod":5567382.000000, "RotationPeriod":9210679.000000, "AxialTilt":-0.114161 }
+{ "timestamp":"2018-02-02T16:25:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:25:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:26:13Z", "event":"Scan", "BodyName":"Eok Gree AC-O c22-3180 2", "DistanceFromArrivalLS":1143.788452, "TidalLock":false, "TerraformState":"", "PlanetClass":"Ammonia world", "Atmosphere":"thick  atmosphere", "AtmosphereType":"AmmoniaOxygen", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":91.316666 }, { "Name":"Nitrogen", "Percent":6.950310 }, { "Name":"SulphurDioxide", "Percent":0.946373 } ], "Volcanism":"", "MassEM":0.289488, "Radius":4158978.000000, "SurfaceGravity":6.670636, "SurfaceTemperature":250.822876, "SurfacePressure":721885.187500, "Landable":false, "SemiMajorAxis":398706272.000000, "Eccentricity":0.135648, "OrbitalInclination":-5.507803, "Periapsis":138.844849, "OrbitalPeriod":5567382.000000, "RotationPeriod":10482816.000000, "AxialTilt":-0.354492 }
+{ "timestamp":"2018-02-02T16:26:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:26:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:26:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree YG-O c22-2141", "StarClass":"G" }
+{ "timestamp":"2018-02-02T16:26:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:27:09Z", "event":"FSDJump", "StarSystem":"Eok Gree YG-O c22-2141", "StarPos":[-1482.469,-335.938,30644.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.043, "FuelUsed":4.027079, "FuelLevel":27.972921 }
+{ "timestamp":"2018-02-02T16:27:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:27:31Z", "event":"Scan", "BodyName":"Eok Gree YG-O c22-2141 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.820313, "Radius":639932992.000000, "AbsoluteMagnitude":5.276764, "Age_MY":3804, "SurfaceTemperature":5435.000000, "Luminosity":"Vab", "SemiMajorAxis":21630205952.000000, "Eccentricity":0.295975, "OrbitalInclination":-34.765457, "Periapsis":174.159225, "OrbitalPeriod":5143419.500000, "RotationPeriod":329682.687500, "AxialTilt":0.000000, "Rings":[ { "Name":"Eok Gree YG-O c22-2141 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.8479e+13, "InnerRad":1.2375e+09, "OuterRad":2.2589e+09 } ] }
+{ "timestamp":"2018-02-02T16:27:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:27:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:27:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:27:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:27:58Z", "event":"FuelScoop", "Scooped":4.027085, "Total":32.000000 }
+{ "timestamp":"2018-02-02T16:28:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:28:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:28:29Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree MD-H d11-5858", "StarClass":"G" }
+{ "timestamp":"2018-02-02T16:28:34Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:28:47Z", "event":"FSDJump", "StarSystem":"Eok Gree MD-H d11-5858", "StarPos":[-1496.625,-328.625,30666.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.962, "FuelUsed":3.997426, "FuelLevel":28.002573 }
+{ "timestamp":"2018-02-02T16:28:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:29:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:29:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:29:16Z", "event":"Scan", "BodyName":"Eok Gree MD-H d11-5858", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.957031, "Radius":737355584.000000, "AbsoluteMagnitude":5.096252, "Age_MY":1590, "SurfaceTemperature":5278.000000, "Luminosity":"Va", "RotationPeriod":345250.343750, "AxialTilt":0.000000, "Rings":[ { "Name":"Eok Gree MD-H d11-5858 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.4147e+14, "InnerRad":1.2166e+09, "OuterRad":2.5216e+09 }, { "Name":"Eok Gree MD-H d11-5858 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":4.6184e+15, "InnerRad":4.2059e+09, "OuterRad":4.1285e+11 } ] }
+{ "timestamp":"2018-02-02T16:29:30Z", "event":"FuelScoop", "Scooped":3.997427, "Total":32.000000 }
+{ "timestamp":"2018-02-02T16:29:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:30:06Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-02T16:30:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:30:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:30:24Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eok Gree TO-Q e5-3167", "StarClass":"H" }
+{ "timestamp":"2018-02-02T16:30:29Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-02T16:30:43Z", "event":"FSDJump", "StarSystem":"Eok Gree TO-Q e5-3167", "StarPos":[-1502.938,-329.469,30671.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":7.945, "FuelUsed":0.200305, "FuelLevel":31.799696 }
+{ "timestamp":"2018-02-02T16:30:43Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2018-02-02T16:30:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:30:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:31:01Z", "event":"Scan", "BodyName":"Eok Gree TO-Q e5-3167", "DistanceFromArrivalLS":0.000000, "StarType":"H", "StellarMass":2.671875, "Radius":7881.958008, "AbsoluteMagnitude":20.000000, "Age_MY":298, "SurfaceTemperature":0.000000, "Luminosity":"VII", "RotationPeriod":0.116522, "AxialTilt":0.000000, "Rings":[ { "Name":"Eok Gree TO-Q e5-3167 A Belt", "RingClass":"eRingClass_Icy", "MassMT":2.6712e+13, "InnerRad":13005, "OuterRad":3.3484e+09 } ] }
+{ "timestamp":"2018-02-02T16:31:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:31:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:31:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:33:41Z", "event":"SupercruiseExit", "StarSystem":"Eok Gree TO-Q e5-3167", "Body":"Eok Gree TO-Q e5-3167", "BodyType":"Star" }
+{ "timestamp":"2018-02-02T16:33:41Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-02T16:41:23Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-02-02T16:41:28Z", "event":"SupercruiseEntry", "StarSystem":"Eok Gree TO-Q e5-3167" }
+{ "timestamp":"2018-02-02T16:41:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:42:21Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-02T16:43:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:44:39Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-02T16:45:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-02T16:47:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-02T16:47:25Z", "event":"Music", "MusicTrack":"Supercruise" }

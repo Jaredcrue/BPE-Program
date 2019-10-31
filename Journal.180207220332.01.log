@@ -1,0 +1,590 @@
+{ "timestamp":"2018-02-08T03:03:32Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r160439/r0 " }
+{ "timestamp":"2018-02-08T03:03:32Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:03:32Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-02-08T03:05:22Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-02-08T03:05:22Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2018-02-08T03:05:22Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":115 }, { "Name":"vanadium", "Count":162 }, { "Name":"sulphur", "Count":69 }, { "Name":"iron", "Count":96 }, { "Name":"germanium", "Count":96 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"molybdenum", "Count":66 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":42 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":56 }, { "Name":"cadmium", "Count":63 }, { "Name":"zirconium", "Count":7 }, { "Name":"selenium", "Count":12 }, { "Name":"tungsten", "Count":3 }, { "Name":"yttrium", "Count":12 }, { "Name":"chromium", "Count":34 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Count":7 }, { "Name":"wakesolutions", "Count":1 }, { "Name":"scrambledemissiondata", "Count":2 }, { "Name":"legacyfirmware", "Count":4 }, { "Name":"shielddensityreports", "Count":3 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Count":3 }, { "Name":"securityfirmware", "Count":1 }, { "Name":"fsdtelemetry", "Count":1 } ] }
+{ "timestamp":"2018-02-08T03:05:22Z", "event":"LoadGame", "Commander":"JaredCrue", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":29.861355, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-02-08T03:05:22Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-02-08T03:05:22Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":71, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-02-08T03:05:41Z", "event":"Location", "Docked":false, "StarSystem":"Greeroi MD-Q d6-5", "StarPos":[4578.688,1052.344,37904.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Greeroi MD-Q d6-5 ABC", "BodyType":"Null" }
+{ "timestamp":"2018-02-08T03:05:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:05:41Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-08T03:06:14Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-02-08T03:06:19Z", "event":"SupercruiseEntry", "StarSystem":"Greeroi MD-Q d6-5" }
+{ "timestamp":"2018-02-08T03:06:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:06:41Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-08T03:06:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:06:45Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-08T03:07:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:07:10Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-08T03:08:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:10:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi TA-I c12-0", "StarClass":"K" }
+{ "timestamp":"2018-02-08T03:10:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:10:50Z", "event":"FSDJump", "StarSystem":"Greeroi TA-I c12-0", "StarPos":[4571.750,1046.594,37887.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":19.351, "FuelUsed":1.748998, "FuelLevel":28.112356 }
+{ "timestamp":"2018-02-08T03:10:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:11:12Z", "event":"Scan", "BodyName":"Greeroi TA-I c12-0", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.777344, "Radius":550172544.000000, "AbsoluteMagnitude":6.298538, "Age_MY":4400, "SurfaceTemperature":4633.000000, "Luminosity":"Vab", "RotationPeriod":249338.031250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:11:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:11:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:11:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:11:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:11:42Z", "event":"FuelScoop", "Scooped":3.887652, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:11:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:11:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:12:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi NB-Q b24-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:12:20Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:12:36Z", "event":"FSDJump", "StarSystem":"Greeroi NB-Q b24-0", "StarPos":[4574.188,1024.344,37872.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.755, "FuelUsed":3.922400, "FuelLevel":28.077600 }
+{ "timestamp":"2018-02-08T03:12:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:12:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:12:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:12:58Z", "event":"Scan", "BodyName":"Greeroi NB-Q b24-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.273438, "Radius":293010752.000000, "AbsoluteMagnitude":10.035049, "Age_MY":9174, "SurfaceTemperature":2686.000000, "Luminosity":"Va", "SemiMajorAxis":22264502288384.000000, "Eccentricity":0.327093, "OrbitalInclination":-3.027392, "Periapsis":121.363205, "OrbitalPeriod":298181689344.000000, "RotationPeriod":123122.859375, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi NB-Q b24-0 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":7.1313e+13, "InnerRad":4.8347e+08, "OuterRad":1.6236e+09 } ] }
+{ "timestamp":"2018-02-08T03:13:06Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-02-08T03:13:11Z", "event":"FuelScoop", "Scooped":3.922405, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:13:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi HX-R d5-6", "StarClass":"A" }
+{ "timestamp":"2018-02-08T03:13:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:14:08Z", "event":"FSDJump", "StarSystem":"Greeroi HX-R d5-6", "StarPos":[4566.063,1018.563,37855.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":19.655, "FuelUsed":1.842605, "FuelLevel":30.157394 }
+{ "timestamp":"2018-02-08T03:14:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:14:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:14:30Z", "event":"Scan", "BodyName":"Greeroi HX-R d5-6 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.714844, "Radius":946379200.000000, "AbsoluteMagnitude":2.916412, "Age_MY":1818, "SurfaceTemperature":7695.000000, "Luminosity":"Vb", "SemiMajorAxis":884644642816.000000, "Eccentricity":0.303190, "OrbitalInclination":9.488816, "Periapsis":268.164581, "OrbitalPeriod":1051751488.000000, "RotationPeriod":59889.125000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:14:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:14:48Z", "event":"FuelScoop", "Scooped":1.842596, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:15:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi PW-P b24-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:15:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:15:48Z", "event":"FSDJump", "StarSystem":"Greeroi PW-P b24-0", "StarPos":[4555.750,999.906,37856.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.337, "FuelUsed":2.253526, "FuelLevel":29.746473 }
+{ "timestamp":"2018-02-08T03:15:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:16:10Z", "event":"Scan", "BodyName":"Greeroi PW-P b24-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.222656, "Radius":257034448.000000, "AbsoluteMagnitude":11.088989, "Age_MY":4580, "SurfaceTemperature":2250.000000, "Luminosity":"Va", "RotationPeriod":144281.578125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:17:50Z", "event":"FuelScoop", "Scooped":2.253526, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:18:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi RR-P b24-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:18:24Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:18:37Z", "event":"FSDJump", "StarSystem":"Greeroi RR-P b24-0", "StarPos":[4559.625,975.438,37858.813], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.862, "FuelUsed":3.277255, "FuelLevel":28.722746 }
+{ "timestamp":"2018-02-08T03:18:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:18:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:18:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:18:59Z", "event":"Scan", "BodyName":"Greeroi RR-P b24-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.222656, "Radius":290081728.000000, "AbsoluteMagnitude":11.275406, "Age_MY":2318, "SurfaceTemperature":2029.000000, "Luminosity":"VI", "RotationPeriod":149534.328125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:19:19Z", "event":"FuelScoop", "Scooped":3.267385, "Total":31.990129 }
+{ "timestamp":"2018-02-08T03:20:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi VH-P b24-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:20:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:20:48Z", "event":"FSDJump", "StarSystem":"Greeroi VH-P b24-0", "StarPos":[4562.063,954.906,37874.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.182, "FuelUsed":3.719504, "FuelLevel":28.270626 }
+{ "timestamp":"2018-02-08T03:20:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:20:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:21:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:21:10Z", "event":"Scan", "BodyName":"Greeroi VH-P b24-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.226563, "Radius":296640256.000000, "AbsoluteMagnitude":10.838013, "Age_MY":11374, "SurfaceTemperature":2219.000000, "Luminosity":"Va", "SemiMajorAxis":30239807766528.000000, "Eccentricity":0.111251, "OrbitalInclination":32.738171, "Periapsis":141.452774, "OrbitalPeriod":1267132399616.000000, "RotationPeriod":150203.000000, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi VH-P b24-0 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":6.1021e+13, "InnerRad":4.708e+08, "OuterRad":1.4711e+09 } ] }
+{ "timestamp":"2018-02-08T03:21:30Z", "event":"FuelScoop", "Scooped":3.729355, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:22:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi XC-P b24-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:22:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:23:05Z", "event":"FSDJump", "StarSystem":"Greeroi XC-P b24-0", "StarPos":[4562.406,928.906,37872.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.094, "FuelUsed":3.689736, "FuelLevel":28.310265 }
+{ "timestamp":"2018-02-08T03:23:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:23:27Z", "event":"Scan", "BodyName":"Greeroi XC-P b24-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.406250, "Radius":387313312.000000, "AbsoluteMagnitude":8.828812, "Age_MY":8894, "SurfaceTemperature":3084.000000, "Luminosity":"Va", "SemiMajorAxis":17334634807296.000000, "Eccentricity":0.194213, "OrbitalInclination":-73.463326, "Periapsis":102.292862, "OrbitalPeriod":268007669760.000000, "RotationPeriod":223919.062500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:24:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:24:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:24:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:24:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:24:37Z", "event":"FuelScoop", "Scooped":3.689738, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:24:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:24:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:25:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi ZL-H c12-1", "StarClass":"K" }
+{ "timestamp":"2018-02-08T03:25:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:25:26Z", "event":"FSDJump", "StarSystem":"Greeroi ZL-H c12-1", "StarPos":[4568.156,903.750,37868.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.118, "FuelUsed":3.697798, "FuelLevel":28.302202 }
+{ "timestamp":"2018-02-08T03:25:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:25:47Z", "event":"Scan", "BodyName":"Greeroi ZL-H c12-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.523438, "Radius":476097408.000000, "AbsoluteMagnitude":7.411209, "Age_MY":3666, "SurfaceTemperature":3855.000000, "Luminosity":"Va", "SemiMajorAxis":14385521664.000000, "Eccentricity":0.497174, "OrbitalInclination":52.724918, "Periapsis":156.434677, "OrbitalPeriod":13262724.000000, "RotationPeriod":249273.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:25:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:25:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:26:12Z", "event":"FuelScoop", "Scooped":3.697816, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:26:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi EE-N b25-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:26:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:27:06Z", "event":"FSDJump", "StarSystem":"Greeroi EE-N b25-0", "StarPos":[4577.906,895.594,37880.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":17.142, "FuelUsed":1.317951, "FuelLevel":30.682049 }
+{ "timestamp":"2018-02-08T03:27:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:27:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:27:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:27:27Z", "event":"Scan", "BodyName":"Greeroi EE-N b25-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.210938, "Radius":284372224.000000, "AbsoluteMagnitude":10.857910, "Age_MY":10326, "SurfaceTemperature":2256.000000, "Luminosity":"Va", "SemiMajorAxis":4635607171072.000000, "Eccentricity":0.084989, "OrbitalInclination":-71.023026, "Periapsis":165.356262, "OrbitalPeriod":37432307712.000000, "RotationPeriod":130312.570313, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:27:39Z", "event":"FuelScoop", "Scooped":1.317956, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:28:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi KF-L b26-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:28:15Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:28:28Z", "event":"FSDJump", "StarSystem":"Greeroi KF-L b26-0", "StarPos":[4583.438,879.031,37896.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.726, "FuelUsed":2.922546, "FuelLevel":29.077454 }
+{ "timestamp":"2018-02-08T03:28:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:28:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:28:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:28:50Z", "event":"Scan", "BodyName":"Greeroi KF-L b26-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.414063, "Radius":431121696.000000, "AbsoluteMagnitude":8.266617, "Age_MY":5066, "SurfaceTemperature":3327.000000, "Luminosity":"Va", "RotationPeriod":280789.093750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:30:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:30:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:31:16Z", "event":"FuelScoop", "Scooped":2.922564, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:32:17Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi QT-P d6-0", "StarClass":"A" }
+{ "timestamp":"2018-02-08T03:32:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:32:36Z", "event":"FSDJump", "StarSystem":"Greeroi QT-P d6-0", "StarPos":[4586.406,856.094,37902.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.016, "FuelUsed":2.998613, "FuelLevel":28.371387 }
+{ "timestamp":"2018-02-08T03:32:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:32:58Z", "event":"Scan", "BodyName":"Greeroi QT-P d6-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.593750, "Radius":1018586496.000000, "AbsoluteMagnitude":2.856049, "Age_MY":2278, "SurfaceTemperature":7521.000000, "Luminosity":"Vb", "SemiMajorAxis":313048137728.000000, "Eccentricity":0.057061, "OrbitalInclination":-111.307838, "Periapsis":87.197777, "OrbitalPeriod":108960024.000000, "RotationPeriod":124483.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:33:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:33:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:33:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:33:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:33:46Z", "event":"FuelScoop", "Scooped":3.628606, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:34:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:34:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:35:08Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi OV-K b26-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:35:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:35:27Z", "event":"FSDJump", "StarSystem":"Greeroi OV-K b26-0", "StarPos":[4577.750,836.094,37897.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.352, "FuelUsed":2.525057, "FuelLevel":29.474943 }
+{ "timestamp":"2018-02-08T03:35:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:35:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:35:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:35:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:35:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:35:49Z", "event":"Scan", "BodyName":"Greeroi OV-K b26-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.398438, "Radius":417304224.000000, "AbsoluteMagnitude":8.342575, "Age_MY":6338, "SurfaceTemperature":3323.000000, "Luminosity":"Va", "RotationPeriod":214647.421875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:36:04Z", "event":"FuelScoop", "Scooped":2.525061, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:36:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:36:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:36:19Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-08T03:36:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:36:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:37:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi RO-P d6-3", "StarClass":"F" }
+{ "timestamp":"2018-02-08T03:37:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:37:29Z", "event":"FSDJump", "StarSystem":"Greeroi RO-P d6-3", "StarPos":[4564.500,821.781,37895.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":19.585, "FuelUsed":1.826699, "FuelLevel":30.173302 }
+{ "timestamp":"2018-02-08T03:37:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:37:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:37:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:37:51Z", "event":"Scan", "BodyName":"Greeroi RO-P d6-3 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.652344, "Radius":927488896.000000, "AbsoluteMagnitude":3.182556, "Age_MY":2946, "SurfaceTemperature":7311.000000, "Luminosity":"Vb", "SemiMajorAxis":52487386038272.000000, "Eccentricity":0.034965, "OrbitalInclination":-89.687317, "Periapsis":29.463360, "OrbitalPeriod":597334228992.000000, "RotationPeriod":72769.609375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:38:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:38:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:38:30Z", "event":"FuelScoop", "Scooped":1.826709, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:39:20Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi RL-K b26-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:39:26Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:39:39Z", "event":"FSDJump", "StarSystem":"Greeroi RL-K b26-0", "StarPos":[4556.844,796.344,37898.813], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.720, "FuelUsed":3.909981, "FuelLevel":28.090019 }
+{ "timestamp":"2018-02-08T03:39:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:39:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:40:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:40:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:40:02Z", "event":"Scan", "BodyName":"Greeroi RL-K b26-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.308594, "Radius":332828800.000000, "AbsoluteMagnitude":9.591736, "Age_MY":3880, "SurfaceTemperature":2791.000000, "Luminosity":"Va", "RotationPeriod":132236.750000, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi RL-K b26-0 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":6.9807e+13, "InnerRad":6.6106e+08, "OuterRad":1.6307e+09 }, { "Name":"Greeroi RL-K b26-0 B Belt", "RingClass":"eRingClass_Icy", "MassMT":6.3582e+15, "InnerRad":3.1625e+09, "OuterRad":3.2129e+11 } ] }
+{ "timestamp":"2018-02-08T03:40:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:40:22Z", "event":"FuelScoop", "Scooped":3.909973, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:40:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi PA-M b25-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:40:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:41:05Z", "event":"FSDJump", "StarSystem":"Greeroi PA-M b25-0", "StarPos":[4573.500,780.688,37894.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.218, "FuelUsed":2.771203, "FuelLevel":29.228796 }
+{ "timestamp":"2018-02-08T03:41:05Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2018-02-08T03:41:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:41:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:41:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:41:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:41:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:41:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:41:39Z", "event":"Scan", "BodyName":"Greeroi PA-M b25-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.433594, "Radius":399071968.000000, "AbsoluteMagnitude":8.347763, "Age_MY":9582, "SurfaceTemperature":3394.000000, "Luminosity":"Va", "SemiMajorAxis":275883851776.000000, "Eccentricity":0.088908, "OrbitalInclination":10.605494, "Periapsis":68.131516, "OrbitalPeriod":1186192512.000000, "RotationPeriod":231004.406250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:41:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:41:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:41:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:41:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:42:01Z", "event":"FuelScoop", "Scooped":2.050457, "Total":31.279261 }
+{ "timestamp":"2018-02-08T03:42:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:43:02Z", "event":"Scan", "BodyName":"Greeroi PA-M b25-0 A 4", "DistanceFromArrivalLS":170.065994, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":79.646317 }, { "Name":"Oxygen", "Percent":16.860878 }, { "Name":"CarbonDioxide", "Percent":3.391976 } ], "Volcanism":"", "MassEM":0.409729, "Radius":4647563.000000, "SurfaceGravity":7.560587, "SurfaceTemperature":252.120605, "SurfacePressure":57624.859375, "Landable":false, "SemiMajorAxis":51095306240.000000, "Eccentricity":0.002536, "OrbitalInclination":-0.113908, "Periapsis":48.449993, "OrbitalPeriod":9565450.000000, "RotationPeriod":9565525.000000, "AxialTilt":0.410609 }
+{ "timestamp":"2018-02-08T03:43:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:43:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:43:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:43:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:43:21Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-08T03:45:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:45:55Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-08T03:46:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:46:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:51:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi VB-K b26-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:51:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:51:30Z", "event":"FSDJump", "StarSystem":"Greeroi VB-K b26-0", "StarPos":[4570.406,761.469,37913.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.093, "FuelUsed":4.026001, "FuelLevel":27.253260 }
+{ "timestamp":"2018-02-08T03:51:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:51:43Z", "event":"FuelScoop", "Scooped":2.619285, "Total":29.872555 }
+{ "timestamp":"2018-02-08T03:52:16Z", "event":"Scan", "BodyName":"Greeroi VB-K b26-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.351563, "Radius":329220576.000000, "AbsoluteMagnitude":8.994308, "Age_MY":4032, "SurfaceTemperature":3220.000000, "Luminosity":"Va", "SemiMajorAxis":173155418112.000000, "Eccentricity":0.187589, "OrbitalInclination":-7.932116, "Periapsis":171.613358, "OrbitalPeriod":281169312.000000, "RotationPeriod":105911.578125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:52:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:52:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:52:43Z", "event":"FuelScoop", "Scooped":2.127438, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:53:06Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi XW-J b26-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:53:11Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:53:25Z", "event":"FSDJump", "StarSystem":"Greeroi XW-J b26-0", "StarPos":[4560.656,741.625,37903.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.423, "FuelUsed":3.137202, "FuelLevel":28.862799 }
+{ "timestamp":"2018-02-08T03:53:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:53:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:53:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:53:46Z", "event":"Scan", "BodyName":"Greeroi XW-J b26-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.257813, "Radius":290230304.000000, "AbsoluteMagnitude":10.235733, "Age_MY":4318, "SurfaceTemperature":2577.000000, "Luminosity":"Va", "RotationPeriod":110194.820313, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi XW-J b26-0 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":4.4252e+07, "InnerRad":4.8541e+08, "OuterRad":1.5358e+09 } ] }
+{ "timestamp":"2018-02-08T03:54:10Z", "event":"FuelScoop", "Scooped":3.137210, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:54:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:54:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:54:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi ZR-J b26-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:54:40Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:54:53Z", "event":"FSDJump", "StarSystem":"Greeroi ZR-J b26-0", "StarPos":[4559.094,720.063,37898.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.115, "FuelUsed":2.459870, "FuelLevel":29.540131 }
+{ "timestamp":"2018-02-08T03:54:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:55:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:55:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:55:15Z", "event":"Scan", "BodyName":"Greeroi ZR-J b26-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.414063, "Radius":401109568.000000, "AbsoluteMagnitude":8.612808, "Age_MY":10940, "SurfaceTemperature":3185.000000, "Luminosity":"Va", "SemiMajorAxis":8455075135488.000000, "Eccentricity":0.267566, "OrbitalInclination":-23.577183, "Periapsis":107.777115, "OrbitalPeriod":55763849216.000000, "RotationPeriod":192877.203125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:55:28Z", "event":"FuelScoop", "Scooped":2.459862, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:55:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi BN-J b26-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:55:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:56:10Z", "event":"FSDJump", "StarSystem":"Greeroi BN-J b26-0", "StarPos":[4560.844,700.938,37910.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.401, "FuelUsed":2.538610, "FuelLevel":29.461390 }
+{ "timestamp":"2018-02-08T03:56:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:56:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:56:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:56:32Z", "event":"Scan", "BodyName":"Greeroi BN-J b26-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.289063, "Radius":303411008.000000, "AbsoluteMagnitude":10.122452, "Age_MY":8366, "SurfaceTemperature":2587.000000, "Luminosity":"Va", "SemiMajorAxis":19177037365248.000000, "Eccentricity":0.229282, "OrbitalInclination":4.559716, "Periapsis":326.140259, "OrbitalPeriod":281850642432.000000, "RotationPeriod":148537.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:56:50Z", "event":"FuelScoop", "Scooped":2.538605, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:57:21Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi DI-J b26-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:57:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:57:40Z", "event":"FSDJump", "StarSystem":"Greeroi DI-J b26-0", "StarPos":[4557.563,680.531,37906.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.034, "FuelUsed":2.175739, "FuelLevel":29.824261 }
+{ "timestamp":"2018-02-08T03:57:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:57:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:57:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:58:02Z", "event":"Scan", "BodyName":"Greeroi DI-J b26-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.410156, "Radius":411891840.000000, "AbsoluteMagnitude":8.434143, "Age_MY":12871, "SurfaceTemperature":3275.000000, "Luminosity":"Va", "SemiMajorAxis":6080426409984.000000, "Eccentricity":0.338343, "OrbitalInclination":-47.679062, "Periapsis":173.285217, "OrbitalPeriod":46446911488.000000, "RotationPeriod":194259.859375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T03:58:17Z", "event":"FuelScoop", "Scooped":2.175722, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:58:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi FD-J b26-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T03:58:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T03:59:05Z", "event":"FSDJump", "StarSystem":"Greeroi FD-J b26-0", "StarPos":[4559.531,657.063,37900.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.122, "FuelUsed":3.043703, "FuelLevel":28.956297 }
+{ "timestamp":"2018-02-08T03:59:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:59:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:59:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:59:27Z", "event":"Scan", "BodyName":"Greeroi FD-J b26-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.304688, "Radius":321367328.000000, "AbsoluteMagnitude":9.378860, "Age_MY":9444, "SurfaceTemperature":2983.000000, "Luminosity":"Va", "RotationPeriod":121639.578125, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi FD-J b26-0 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.4611e+11, "InnerRad":5.1391e+08, "OuterRad":1.6238e+09 } ] }
+{ "timestamp":"2018-02-08T03:59:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:59:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:59:43Z", "event":"FuelScoop", "Scooped":3.043725, "Total":32.000000 }
+{ "timestamp":"2018-02-08T03:59:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T03:59:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T03:59:53Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-08T04:00:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:00:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi VE-P d6-12", "StarClass":"F" }
+{ "timestamp":"2018-02-08T04:00:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:01:01Z", "event":"FSDJump", "StarSystem":"Greeroi VE-P d6-12", "StarPos":[4554.313,634.063,37906.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.275, "FuelUsed":3.091153, "FuelLevel":28.908846 }
+{ "timestamp":"2018-02-08T04:01:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:01:25Z", "event":"Scan", "BodyName":"Greeroi VE-P d6-12", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.234375, "Radius":840975936.000000, "AbsoluteMagnitude":3.753647, "Age_MY":2162, "SurfaceTemperature":6732.000000, "Luminosity":"Vb", "RotationPeriod":378974.312500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:01:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:01:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:03:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:03:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:03:58Z", "event":"Scan", "BodyName":"Greeroi VE-P d6-12 3", "DistanceFromArrivalLS":1131.619019, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"thick ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":81.899277 }, { "Name":"Nitrogen", "Percent":17.118090 }, { "Name":"Oxygen", "Percent":0.818921 } ], "Volcanism":"minor metallic magma volcanism", "MassEM":1.835660, "Radius":7267871.500000, "SurfaceGravity":13.851195, "SurfaceTemperature":336.375702, "SurfacePressure":1115839.625000, "Landable":false, "SemiMajorAxis":338891669504.000000, "Eccentricity":0.001137, "OrbitalInclination":0.087670, "Periapsis":35.743793, "OrbitalPeriod":96805464.000000, "RotationPeriod":118231.492188, "AxialTilt":-0.440919 }
+{ "timestamp":"2018-02-08T04:03:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:04:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:04:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi JT-I b26-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:04:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:04:52Z", "event":"FSDJump", "StarSystem":"Greeroi JT-I b26-0", "StarPos":[4558.094,618.969,37897.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":18.102, "FuelUsed":1.469828, "FuelLevel":26.809019 }
+{ "timestamp":"2018-02-08T04:04:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:05:16Z", "event":"Scan", "BodyName":"Greeroi JT-I b26-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.269531, "Radius":312962240.000000, "AbsoluteMagnitude":10.210678, "Age_MY":5196, "SurfaceTemperature":2496.000000, "Luminosity":"Va", "SemiMajorAxis":31803715584.000000, "Eccentricity":0.019790, "OrbitalInclination":47.387012, "Periapsis":64.651993, "OrbitalPeriod":17025646.000000, "RotationPeriod":161419.671875, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi JT-I b26-0 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":5.5579e+13, "InnerRad":5.8029e+08, "OuterRad":1.5587e+09 } ] }
+{ "timestamp":"2018-02-08T04:07:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:07:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:07:21Z", "event":"FuelScoop", "Scooped":3.687089, "Total":30.496107 }
+{ "timestamp":"2018-02-08T04:07:55Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi LO-I b26-1", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:08:01Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:08:14Z", "event":"FSDJump", "StarSystem":"Greeroi LO-I b26-1", "StarPos":[4557.531,602.469,37906.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":18.940, "FuelUsed":1.666160, "FuelLevel":28.829947 }
+{ "timestamp":"2018-02-08T04:08:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:08:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:08:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:08:39Z", "event":"Scan", "BodyName":"Greeroi LO-I b26-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.316406, "Radius":318735424.000000, "AbsoluteMagnitude":9.648529, "Age_MY":2772, "SurfaceTemperature":2815.000000, "Luminosity":"Va", "RotationPeriod":127312.710938, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi LO-I b26-1 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.602e+09, "InnerRad":6.1363e+08, "OuterRad":1.6443e+09 } ] }
+{ "timestamp":"2018-02-08T04:08:54Z", "event":"FuelScoop", "Scooped":3.170044, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:09:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi MJ-I b26-1", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:09:49Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:10:02Z", "event":"FSDJump", "StarSystem":"Greeroi MJ-I b26-1", "StarPos":[4554.969,576.656,37914.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.985, "FuelUsed":4.005884, "FuelLevel":27.994116 }
+{ "timestamp":"2018-02-08T04:10:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:10:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:10:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:10:24Z", "event":"Scan", "BodyName":"Greeroi MJ-I b26-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.273438, "Radius":320815488.000000, "AbsoluteMagnitude":9.928040, "Age_MY":12889, "SurfaceTemperature":2631.000000, "Luminosity":"Va", "SemiMajorAxis":336364175360.000000, "Eccentricity":0.017825, "OrbitalInclination":40.221294, "Periapsis":150.717178, "OrbitalPeriod":1125906688.000000, "RotationPeriod":158196.281250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:10:40Z", "event":"FuelScoop", "Scooped":4.005877, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:11:20Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi VZ-D c13-1", "StarClass":"K" }
+{ "timestamp":"2018-02-08T04:11:26Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:11:39Z", "event":"FSDJump", "StarSystem":"Greeroi VZ-D c13-1", "StarPos":[4569.063,559.344,37920.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.157, "FuelUsed":2.753639, "FuelLevel":29.246361 }
+{ "timestamp":"2018-02-08T04:11:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:11:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:11:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:12:01Z", "event":"Scan", "BodyName":"Greeroi VZ-D c13-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.863281, "Radius":575472768.000000, "AbsoluteMagnitude":6.185913, "Age_MY":5742, "SurfaceTemperature":4649.000000, "Luminosity":"Va", "SemiMajorAxis":889553344.000000, "Eccentricity":0.100410, "OrbitalInclination":46.704468, "Periapsis":270.193909, "OrbitalPeriod":86654.484375, "RotationPeriod":290758.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:12:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:12:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:13:00Z", "event":"FuelScoop", "Scooped":2.753628, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:13:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:13:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:13:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi VF-G b27-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:13:38Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:13:52Z", "event":"FSDJump", "StarSystem":"Greeroi VF-G b27-0", "StarPos":[4558.031,535.094,37918.625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.697, "FuelUsed":3.901459, "FuelLevel":28.098541 }
+{ "timestamp":"2018-02-08T04:13:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:14:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:14:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:14:13Z", "event":"Scan", "BodyName":"Greeroi VF-G b27-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.238281, "Radius":295854912.000000, "AbsoluteMagnitude":10.902893, "Age_MY":5660, "SurfaceTemperature":2189.000000, "Luminosity":"Va", "RotationPeriod":120351.671875, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi VF-G b27-0 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":5.9512e+13, "InnerRad":5.8627e+08, "OuterRad":1.496e+09 } ] }
+{ "timestamp":"2018-02-08T04:14:28Z", "event":"FuelScoop", "Scooped":3.901451, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:14:55Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi BH-E b28-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:15:01Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:15:14Z", "event":"FSDJump", "StarSystem":"Greeroi BH-E b28-0", "StarPos":[4560.875,517.594,37936.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.934, "FuelUsed":3.300507, "FuelLevel":28.699493 }
+{ "timestamp":"2018-02-08T04:15:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:15:37Z", "event":"Scan", "BodyName":"Greeroi BH-E b28-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.261719, "Radius":283565664.000000, "AbsoluteMagnitude":10.879517, "Age_MY":4556, "SurfaceTemperature":2248.000000, "Luminosity":"Va", "RotationPeriod":140387.171875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:15:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:15:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:16:04Z", "event":"FuelScoop", "Scooped":3.300491, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:16:41Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi ZV-F b27-1", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:16:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:17:00Z", "event":"FSDJump", "StarSystem":"Greeroi ZV-F b27-1", "StarPos":[4556.000,497.594,37921.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.270, "FuelUsed":3.410559, "FuelLevel":28.589441 }
+{ "timestamp":"2018-02-08T04:17:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:17:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:17:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:17:23Z", "event":"Scan", "BodyName":"Greeroi ZV-F b27-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.378906, "Radius":408304832.000000, "AbsoluteMagnitude":8.497131, "Age_MY":13039, "SurfaceTemperature":3242.000000, "Luminosity":"Va", "SemiMajorAxis":984030248960.000000, "Eccentricity":0.199388, "OrbitalInclination":63.376415, "Periapsis":122.113823, "OrbitalPeriod":8313243136.000000, "RotationPeriod":206660.328125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:17:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:17:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:17:40Z", "event":"FuelScoop", "Scooped":3.410548, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:18:08Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi DM-F b27-1", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:18:13Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:18:27Z", "event":"FSDJump", "StarSystem":"Greeroi DM-F b27-1", "StarPos":[4570.250,474.594,37920.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.065, "FuelUsed":4.035007, "FuelLevel":27.964993 }
+{ "timestamp":"2018-02-08T04:18:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:18:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:18:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:18:48Z", "event":"Scan", "BodyName":"Greeroi DM-F b27-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.265625, "Radius":316825184.000000, "AbsoluteMagnitude":10.451416, "Age_MY":12941, "SurfaceTemperature":2347.000000, "Luminosity":"Va", "SemiMajorAxis":2033392680960.000000, "Eccentricity":0.113202, "OrbitalInclination":-57.470947, "Periapsis":269.802795, "OrbitalPeriod":7090166784.000000, "RotationPeriod":187948.734375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:19:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:19:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:19:20Z", "event":"FuelScoop", "Scooped":4.008706, "Total":31.973688 }
+{ "timestamp":"2018-02-08T04:19:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi BL-D c13-5", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:19:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:20:07Z", "event":"FSDJump", "StarSystem":"Greeroi BL-D c13-5", "StarPos":[4571.313,449.344,37927.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.183, "FuelUsed":3.719643, "FuelLevel":28.254045 }
+{ "timestamp":"2018-02-08T04:20:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:20:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:20:31Z", "event":"Scan", "BodyName":"Greeroi BL-D c13-5", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.515625, "Radius":433944608.000000, "AbsoluteMagnitude":7.943771, "Age_MY":2200, "SurfaceTemperature":3572.000000, "Luminosity":"Va", "RotationPeriod":164875.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:20:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:21:34Z", "event":"Scan", "BodyName":"Greeroi BL-D c13-5 1", "DistanceFromArrivalLS":148.304871, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":98.933235 }, { "Name":"Argon", "Percent":0.967991 }, { "Name":"Water", "Percent":0.060730 } ], "Volcanism":"", "MassEM":0.628353, "Radius":5361118.000000, "SurfaceGravity":8.713689, "SurfaceTemperature":386.814758, "SurfacePressure":16230750.000000, "Landable":false, "SemiMajorAxis":44479115264.000000, "Eccentricity":0.001119, "OrbitalInclination":0.000079, "Periapsis":226.070251, "OrbitalPeriod":7124192.000000, "RotationPeriod":7124363.000000, "AxialTilt":-0.343454 }
+{ "timestamp":"2018-02-08T04:21:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:21:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:22:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi BQ-O d6-26", "StarClass":"F" }
+{ "timestamp":"2018-02-08T04:22:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:22:25Z", "event":"FSDJump", "StarSystem":"Greeroi BQ-O d6-26", "StarPos":[4564.750,432.406,37939.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.449, "FuelUsed":2.226898, "FuelLevel":26.027147 }
+{ "timestamp":"2018-02-08T04:22:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:22:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:22:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:22:47Z", "event":"Scan", "BodyName":"Greeroi BQ-O d6-26", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.609375, "Radius":951197248.000000, "AbsoluteMagnitude":3.240295, "Age_MY":2080, "SurfaceTemperature":7124.000000, "Luminosity":"Vb", "RotationPeriod":76435.804688, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:23:07Z", "event":"FuelScoop", "Scooped":5.007895, "Total":31.035038 }
+{ "timestamp":"2018-02-08T04:23:08Z", "event":"FuelScoop", "Scooped":0.964967, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:23:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:23:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:24:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi HM-B c14-1", "StarClass":"K" }
+{ "timestamp":"2018-02-08T04:24:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:24:19Z", "event":"FSDJump", "StarSystem":"Greeroi HM-B c14-1", "StarPos":[4551.500,412.875,37938.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.605, "FuelUsed":2.885969, "FuelLevel":29.114031 }
+{ "timestamp":"2018-02-08T04:24:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:24:41Z", "event":"Scan", "BodyName":"Greeroi HM-B c14-1", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.523438, "Radius":462173792.000000, "AbsoluteMagnitude":7.297928, "Age_MY":6356, "SurfaceTemperature":4016.000000, "Luminosity":"Va", "RotationPeriod":236738.781250, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi HM-B c14-1 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":5.183e+07, "InnerRad":9.2125e+08, "OuterRad":1.9447e+09 } ] }
+{ "timestamp":"2018-02-08T04:24:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:24:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:25:00Z", "event":"FuelScoop", "Scooped":2.885982, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:25:36Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi ND-D b28-1", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:25:42Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:25:55Z", "event":"FSDJump", "StarSystem":"Greeroi ND-D b28-1", "StarPos":[4563.750,395.750,37936.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.144, "FuelUsed":2.203895, "FuelLevel":29.796104 }
+{ "timestamp":"2018-02-08T04:25:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:26:36Z", "event":"Scan", "BodyName":"Greeroi ND-D b28-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.265625, "Radius":274460160.000000, "AbsoluteMagnitude":10.288513, "Age_MY":9146, "SurfaceTemperature":2618.000000, "Luminosity":"Va", "RotationPeriod":108560.648438, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi ND-D b28-1 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.9246e+13, "InnerRad":4.5286e+08, "OuterRad":1.6179e+09 } ] }
+{ "timestamp":"2018-02-08T04:26:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:26:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:26:55Z", "event":"FuelScoop", "Scooped":2.203916, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:27:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:27:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:27:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi KS-E b27-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:27:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:27:38Z", "event":"FSDJump", "StarSystem":"Greeroi KS-E b27-0", "StarPos":[4554.313,377.125,37928.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.315, "FuelUsed":2.514836, "FuelLevel":29.485165 }
+{ "timestamp":"2018-02-08T04:27:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:27:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:28:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:28:01Z", "event":"Scan", "BodyName":"Greeroi KS-E b27-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.324219, "Radius":330918560.000000, "AbsoluteMagnitude":9.445328, "Age_MY":8436, "SurfaceTemperature":2895.000000, "Luminosity":"Va", "RotationPeriod":165584.921875, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi KS-E b27-0 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":3.2051e+08, "InnerRad":5.4602e+08, "OuterRad":1.749e+09 } ] }
+{ "timestamp":"2018-02-08T04:28:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:28:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:28:21Z", "event":"FuelScoop", "Scooped":2.514850, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:29:00Z", "event":"Scan", "BodyName":"Greeroi KS-E b27-0 3", "DistanceFromArrivalLS":43.149551, "TidalLock":true, "TerraformState":"", "PlanetClass":"Rocky ice body", "Atmosphere":"hot thick water atmosphere", "AtmosphereType":"Water", "AtmosphereComposition":[ { "Name":"Water", "Percent":99.994614 } ], "Volcanism":"", "MassEM":0.052578, "Radius":2672040.750000, "SurfaceGravity":2.935139, "SurfaceTemperature":1968.365723, "SurfacePressure":2442035456.000000, "Landable":false, "SemiMajorAxis":12935984128.000000, "Eccentricity":0.000007, "OrbitalInclination":-0.009585, "Periapsis":303.193878, "OrbitalPeriod":1408737.875000, "RotationPeriod":1394264.625000, "AxialTilt":0.316175 }
+{ "timestamp":"2018-02-08T04:33:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:33:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:34:00Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi PI-E b27-2", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:34:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:34:19Z", "event":"FSDJump", "StarSystem":"Greeroi PI-E b27-2", "StarPos":[4556.906,352.031,37933.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.604, "FuelUsed":3.507763, "FuelLevel":27.862238 }
+{ "timestamp":"2018-02-08T04:34:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:34:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:34:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:34:41Z", "event":"Scan", "BodyName":"Greeroi PI-E b27-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.242188, "Radius":310266688.000000, "AbsoluteMagnitude":10.410721, "Age_MY":5788, "SurfaceTemperature":2394.000000, "Luminosity":"Va", "RotationPeriod":152614.187500, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi PI-E b27-2 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.9666e+13, "InnerRad":5.1194e+08, "OuterRad":1.5865e+09 } ] }
+{ "timestamp":"2018-02-08T04:34:57Z", "event":"FuelScoop", "Scooped":4.137762, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:35:24Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi RD-E b27-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:35:30Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:35:43Z", "event":"FSDJump", "StarSystem":"Greeroi RD-E b27-0", "StarPos":[4561.000,329.500,37922.625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.245, "FuelUsed":3.402426, "FuelLevel":28.597574 }
+{ "timestamp":"2018-02-08T04:35:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:35:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:36:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:36:05Z", "event":"Scan", "BodyName":"Greeroi RD-E b27-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.218750, "Radius":277580224.000000, "AbsoluteMagnitude":10.775818, "Age_MY":7056, "SurfaceTemperature":2327.000000, "Luminosity":"Va", "RotationPeriod":112424.593750, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi RD-E b27-0 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":4.4197e+05, "InnerRad":5.4454e+08, "OuterRad":1.454e+09 } ] }
+{ "timestamp":"2018-02-08T04:36:22Z", "event":"FuelScoop", "Scooped":3.402421, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:36:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:36:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:36:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi TY-D b27-2", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:36:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:37:10Z", "event":"FSDJump", "StarSystem":"Greeroi TY-D b27-2", "StarPos":[4557.906,304.656,37922.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.036, "FuelUsed":3.333750, "FuelLevel":28.666250 }
+{ "timestamp":"2018-02-08T04:37:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:37:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:37:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:37:33Z", "event":"Scan", "BodyName":"Greeroi TY-D b27-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.437500, "Radius":396142912.000000, "AbsoluteMagnitude":8.705826, "Age_MY":12232, "SurfaceTemperature":3137.000000, "Luminosity":"Va", "RotationPeriod":159018.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:37:47Z", "event":"FuelScoop", "Scooped":3.333747, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:38:17Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi VT-D b27-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:38:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:38:36Z", "event":"FSDJump", "StarSystem":"Greeroi VT-D b27-0", "StarPos":[4560.844,279.000,37919.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.073, "FuelUsed":3.682356, "FuelLevel":28.317644 }
+{ "timestamp":"2018-02-08T04:38:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:38:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:38:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:38:58Z", "event":"Scan", "BodyName":"Greeroi VT-D b27-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.425781, "Radius":437298144.000000, "AbsoluteMagnitude":8.399338, "Age_MY":5650, "SurfaceTemperature":3204.000000, "Luminosity":"Va", "RotationPeriod":248182.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:39:17Z", "event":"FuelScoop", "Scooped":3.682375, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:39:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi JR-C c13-4", "StarClass":"K" }
+{ "timestamp":"2018-02-08T04:39:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:40:04Z", "event":"FSDJump", "StarSystem":"Greeroi JR-C c13-4", "StarPos":[4571.656,255.406,37917.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.004, "FuelUsed":3.658672, "FuelLevel":28.341328 }
+{ "timestamp":"2018-02-08T04:40:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:40:27Z", "event":"Scan", "BodyName":"Greeroi JR-C c13-4 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.539063, "Radius":473635296.000000, "AbsoluteMagnitude":6.983414, "Age_MY":12352, "SurfaceTemperature":4265.000000, "Luminosity":"Va", "SemiMajorAxis":295330971648.000000, "Eccentricity":0.069307, "OrbitalInclination":-60.917992, "Periapsis":276.823975, "OrbitalPeriod":596629824.000000, "RotationPeriod":264499.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:41:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:42:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:42:06Z", "event":"SupercruiseExit", "StarSystem":"Greeroi JR-C c13-4", "Body":"Greeroi JR-C c13-4 A", "BodyType":"Star" }
+{ "timestamp":"2018-02-08T04:42:06Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-08T04:42:22Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-02-08T04:42:27Z", "event":"SupercruiseEntry", "StarSystem":"Greeroi JR-C c13-4" }
+{ "timestamp":"2018-02-08T04:42:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:43:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi BA-A g1", "StarClass":"H" }
+{ "timestamp":"2018-02-08T04:43:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:43:38Z", "event":"FSDJump", "StarSystem":"Greeroi BA-A g1", "StarPos":[4574.156,239.438,37903.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.241, "FuelUsed":2.175648, "FuelLevel":26.165680 }
+{ "timestamp":"2018-02-08T04:43:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:43:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:43:57Z", "event":"Scan", "BodyName":"Greeroi BA-A g1 A", "DistanceFromArrivalLS":0.000000, "StarType":"H", "StellarMass":12.109375, "Radius":35722.414063, "AbsoluteMagnitude":20.000000, "Age_MY":4, "SurfaceTemperature":0.000000, "Luminosity":"VII", "SemiMajorAxis":3855360983040.000000, "Eccentricity":0.267762, "OrbitalInclination":-8.224293, "Periapsis":114.385567, "OrbitalPeriod":4900537856.000000, "RotationPeriod":0.095077, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:44:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:44:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi XY-E b26-2", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:44:38Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:44:52Z", "event":"FSDJump", "StarSystem":"Greeroi XY-E b26-2", "StarPos":[4573.094,231.250,37900.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":8.795, "FuelUsed":0.247249, "FuelLevel":25.918430 }
+{ "timestamp":"2018-02-08T04:44:52Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2018-02-08T04:44:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:45:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:45:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:45:15Z", "event":"Scan", "BodyName":"Greeroi XY-E b26-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.390625, "Radius":352334560.000000, "AbsoluteMagnitude":9.211182, "Age_MY":598, "SurfaceTemperature":2961.000000, "Luminosity":"Va", "RotationPeriod":158428.343750, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi XY-E b26-2 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.8399e+12, "InnerRad":5.8135e+08, "OuterRad":1.8618e+09 } ] }
+{ "timestamp":"2018-02-08T04:45:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:45:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:45:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:45:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:45:36Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-08T04:47:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:47:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:47:23Z", "event":"FuelScoop", "Scooped":5.008433, "Total":30.926867 }
+{ "timestamp":"2018-02-08T04:47:24Z", "event":"FuelScoop", "Scooped":1.073134, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:47:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:47:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:47:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:47:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:48:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi MM-C c13-2", "StarClass":"K" }
+{ "timestamp":"2018-02-08T04:48:15Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:48:28Z", "event":"FSDJump", "StarSystem":"Greeroi MM-C c13-2", "StarPos":[4579.781,239.938,37922.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.636, "FuelUsed":3.204726, "FuelLevel":28.795273 }
+{ "timestamp":"2018-02-08T04:48:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:48:50Z", "event":"Scan", "BodyName":"Greeroi MM-C c13-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.683594, "Radius":527504288.000000, "AbsoluteMagnitude":6.256973, "Age_MY":2568, "SurfaceTemperature":4777.000000, "Luminosity":"Vab", "SemiMajorAxis":1513906634752.000000, "Eccentricity":0.291520, "OrbitalInclination":-14.556863, "Periapsis":129.419144, "OrbitalPeriod":2775546112.000000, "RotationPeriod":268587.968750, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi MM-C c13-2 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.1355e+14, "InnerRad":9.4935e+08, "OuterRad":2.1257e+09 } ] }
+{ "timestamp":"2018-02-08T04:49:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:49:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:49:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:49:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:49:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:49:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:49:59Z", "event":"FuelScoop", "Scooped":3.204702, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:50:38Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi EQ-B b28-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:50:43Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:50:57Z", "event":"FSDJump", "StarSystem":"Greeroi EQ-B b28-0", "StarPos":[4587.875,245.688,37948.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.103, "FuelUsed":4.048518, "FuelLevel":27.951481 }
+{ "timestamp":"2018-02-08T04:50:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:51:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:51:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:51:18Z", "event":"Scan", "BodyName":"Greeroi EQ-B b28-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.437500, "Radius":378377632.000000, "AbsoluteMagnitude":8.252335, "Age_MY":5548, "SurfaceTemperature":3563.000000, "Luminosity":"Va", "RotationPeriod":233243.453125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:51:34Z", "event":"FuelScoop", "Scooped":4.048522, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:52:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi JW-Z b28-1", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:52:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:52:26Z", "event":"FSDJump", "StarSystem":"Greeroi JW-Z b28-1", "StarPos":[4598.000,252.563,37964.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":20.770, "FuelUsed":2.109270, "FuelLevel":29.890730 }
+{ "timestamp":"2018-02-08T04:52:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:53:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:53:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:53:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:53:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:53:40Z", "event":"Scan", "BodyName":"Greeroi JW-Z b28-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.226563, "Radius":288787008.000000, "AbsoluteMagnitude":11.119217, "Age_MY":4328, "SurfaceTemperature":2108.000000, "Luminosity":"VI", "SemiMajorAxis":1155027435520.000000, "Eccentricity":0.188494, "OrbitalInclination":21.572039, "Periapsis":130.803223, "OrbitalPeriod":11589778432.000000, "RotationPeriod":157231.421875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:53:56Z", "event":"FuelScoop", "Scooped":2.109309, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:54:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:54:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:54:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi UY-Y c14-9", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:54:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:54:48Z", "event":"FSDJump", "StarSystem":"Greeroi UY-Y c14-9", "StarPos":[4614.250,242.594,37981.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.357, "FuelUsed":3.439459, "FuelLevel":28.560541 }
+{ "timestamp":"2018-02-08T04:54:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:54:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:55:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:55:12Z", "event":"Scan", "BodyName":"Greeroi UY-Y c14-9 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.480469, "Radius":414587392.000000, "AbsoluteMagnitude":8.084442, "Age_MY":6584, "SurfaceTemperature":3538.000000, "Luminosity":"Va", "SemiMajorAxis":11666578210816.000000, "Eccentricity":0.046465, "OrbitalInclination":19.647528, "Periapsis":266.475800, "OrbitalPeriod":199489323008.000000, "RotationPeriod":230983.953125, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi UY-Y c14-9 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.0021e+14, "InnerRad":6.8407e+08, "OuterRad":1.9572e+09 } ] }
+{ "timestamp":"2018-02-08T04:55:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:55:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:55:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:55:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:55:32Z", "event":"FuelScoop", "Scooped":3.439451, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:56:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi VY-Y c14-1", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:56:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:56:25Z", "event":"FSDJump", "StarSystem":"Greeroi VY-Y c14-1", "StarPos":[4617.875,226.375,38001.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.812, "FuelUsed":3.592315, "FuelLevel":28.407684 }
+{ "timestamp":"2018-02-08T04:56:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:56:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:56:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:56:49Z", "event":"Scan", "BodyName":"Greeroi VY-Y c14-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.492188, "Radius":469178048.000000, "AbsoluteMagnitude":8.095947, "Age_MY":8848, "SurfaceTemperature":3317.000000, "Luminosity":"Va", "RotationPeriod":185263.859375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T04:57:07Z", "event":"FuelScoop", "Scooped":3.592280, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:57:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:57:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:57:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi ZE-X c15-2", "StarClass":"M" }
+{ "timestamp":"2018-02-08T04:57:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T04:57:52Z", "event":"FSDJump", "StarSystem":"Greeroi ZE-X c15-2", "StarPos":[4628.313,226.219,38022.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.704, "FuelUsed":2.915821, "FuelLevel":29.084179 }
+{ "timestamp":"2018-02-08T04:57:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:58:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T04:58:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T04:58:14Z", "event":"Scan", "BodyName":"Greeroi ZE-X c15-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.468750, "Radius":389881568.000000, "AbsoluteMagnitude":8.280945, "Age_MY":4678, "SurfaceTemperature":3487.000000, "Luminosity":"Va", "RotationPeriod":193632.656250, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi ZE-X c15-2 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.0052e+14, "InnerRad":6.433e+08, "OuterRad":1.959e+09 } ] }
+{ "timestamp":"2018-02-08T04:58:28Z", "event":"FuelScoop", "Scooped":2.915839, "Total":32.000000 }
+{ "timestamp":"2018-02-08T04:59:55Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi KM-M d7-27", "StarClass":"K" }
+{ "timestamp":"2018-02-08T05:00:01Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T05:00:14Z", "event":"FSDJump", "StarSystem":"Greeroi KM-M d7-27", "StarPos":[4640.000,217.188,38044.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.498, "FuelUsed":3.831209, "FuelLevel":28.168791 }
+{ "timestamp":"2018-02-08T05:00:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:00:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:00:37Z", "event":"Scan", "BodyName":"Greeroi KM-M d7-27", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":1.050781, "Radius":724832896.000000, "AbsoluteMagnitude":5.230011, "Age_MY":4930, "SurfaceTemperature":5162.000000, "Luminosity":"Va", "RotationPeriod":429233.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T05:00:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:00:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:00:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:01:11Z", "event":"FuelScoop", "Scooped":3.831198, "Total":32.000000 }
+{ "timestamp":"2018-02-08T05:01:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi OS-K d8-26", "StarClass":"F" }
+{ "timestamp":"2018-02-08T05:01:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T05:02:07Z", "event":"FSDJump", "StarSystem":"Greeroi OS-K d8-26", "StarPos":[4633.844,225.594,38068.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.107, "FuelUsed":3.693912, "FuelLevel":28.306087 }
+{ "timestamp":"2018-02-08T05:02:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:02:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:02:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:02:33Z", "event":"Scan", "BodyName":"Greeroi OS-K d8-26 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.562500, "Radius":942049216.000000, "AbsoluteMagnitude":3.411407, "Age_MY":386, "SurfaceTemperature":6882.000000, "Luminosity":"Vab", "SemiMajorAxis":7961206325248.000000, "Eccentricity":0.012792, "OrbitalInclination":82.305069, "Periapsis":220.686691, "OrbitalPeriod":21808547840.000000, "RotationPeriod":118414.671875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T05:03:02Z", "event":"FuelScoop", "Scooped":4.323929, "Total":32.000000 }
+{ "timestamp":"2018-02-08T05:04:00Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi LC-P b34-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T05:04:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T05:04:18Z", "event":"FSDJump", "StarSystem":"Greeroi LC-P b34-0", "StarPos":[4642.906,226.688,38085.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":19.241, "FuelUsed":1.748972, "FuelLevel":30.251028 }
+{ "timestamp":"2018-02-08T05:04:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:04:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:04:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:04:42Z", "event":"Scan", "BodyName":"Greeroi LC-P b34-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.218750, "Radius":270321280.000000, "AbsoluteMagnitude":11.379700, "Age_MY":13058, "SurfaceTemperature":2052.000000, "Luminosity":"VI", "SemiMajorAxis":21258326507520.000000, "Eccentricity":0.086027, "OrbitalInclination":50.547466, "Periapsis":154.327576, "OrbitalPeriod":962106228736.000000, "RotationPeriod":134612.718750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T05:04:55Z", "event":"FuelScoop", "Scooped":1.748991, "Total":32.000000 }
+{ "timestamp":"2018-02-08T05:05:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi NN-N b35-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T05:05:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T05:05:49Z", "event":"FSDJump", "StarSystem":"Greeroi NN-N b35-0", "StarPos":[4637.969,240.156,38107.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.977, "FuelUsed":3.648804, "FuelLevel":28.351196 }
+{ "timestamp":"2018-02-08T05:05:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:06:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:06:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:06:12Z", "event":"Scan", "BodyName":"Greeroi NN-N b35-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.414063, "Radius":402807584.000000, "AbsoluteMagnitude":8.019989, "Age_MY":2098, "SurfaceTemperature":3643.000000, "Luminosity":"Va", "RotationPeriod":179927.281250, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi NN-N b35-0 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":2.1664e+12, "InnerRad":6.7182e+08, "OuterRad":1.7986e+09 } ] }
+{ "timestamp":"2018-02-08T05:06:28Z", "event":"FuelScoop", "Scooped":3.648799, "Total":32.000000 }
+{ "timestamp":"2018-02-08T05:06:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:06:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:06:57Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi HR-T c17-1", "StarClass":"M" }
+{ "timestamp":"2018-02-08T05:07:02Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T05:07:15Z", "event":"FSDJump", "StarSystem":"Greeroi HR-T c17-1", "StarPos":[4642.063,249.531,38131.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.061, "FuelUsed":3.678131, "FuelLevel":28.321869 }
+{ "timestamp":"2018-02-08T05:07:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:07:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:07:37Z", "event":"Scan", "BodyName":"Greeroi HR-T c17-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.488281, "Radius":428235104.000000, "AbsoluteMagnitude":8.264252, "Age_MY":12882, "SurfaceTemperature":3340.000000, "Luminosity":"Va", "RotationPeriod":213049.796875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T05:07:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:08:06Z", "event":"FuelScoop", "Scooped":3.678117, "Total":32.000000 }
+{ "timestamp":"2018-02-08T05:08:51Z", "event":"Scan", "BodyName":"Greeroi HR-T c17-1 1", "DistanceFromArrivalLS":136.762619, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide rich atmosphere", "AtmosphereType":"CarbonDioxideRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":85.584984 }, { "Name":"CarbonDioxide", "Percent":14.090310 }, { "Name":"SulphurDioxide", "Percent":0.140903 } ], "Volcanism":"", "MassEM":0.617017, "Radius":5257975.500000, "SurfaceGravity":8.895488, "SurfaceTemperature":360.355194, "SurfacePressure":379347.312500, "Landable":false, "SemiMajorAxis":597082496.000000, "Eccentricity":0.097550, "OrbitalInclination":6.061798, "Periapsis":292.761963, "OrbitalPeriod":5465712.500000, "RotationPeriod":-6384569.500000, "AxialTilt":-1.875720 }
+{ "timestamp":"2018-02-08T05:08:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:08:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:09:13Z", "event":"Scan", "BodyName":"Greeroi HR-T c17-1 2", "DistanceFromArrivalLS":136.685150, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"thick ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":74.119072 }, { "Name":"Nitrogen", "Percent":23.231907 }, { "Name":"Oxygen", "Percent":2.350144 } ], "Volcanism":"", "MassEM":1.440081, "Radius":6776791.000000, "SurfaceGravity":12.498217, "SurfaceTemperature":352.012665, "SurfacePressure":984585.312500, "Landable":false, "SemiMajorAxis":255826128.000000, "Eccentricity":0.097550, "OrbitalInclination":6.061798, "Periapsis":112.761948, "OrbitalPeriod":5465712.500000, "RotationPeriod":9979887.000000, "AxialTilt":-0.454290 }
+{ "timestamp":"2018-02-08T05:09:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:09:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:10:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:10:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:10:48Z", "event":"Scan", "BodyName":"Greeroi HR-T c17-1 5", "DistanceFromArrivalLS":323.913361, "TidalLock":true, "TerraformState":"", "PlanetClass":"Ammonia world", "Atmosphere":"thick  atmosphere", "AtmosphereType":"AmmoniaOxygen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":96.013641 }, { "Name":"Argon", "Percent":3.977255 } ], "Volcanism":"water geysers volcanism", "MassEM":2.004280, "Radius":9559680.000000, "SurfaceGravity":8.741403, "SurfaceTemperature":178.792023, "SurfacePressure":80296136.000000, "Landable":false, "SemiMajorAxis":97106829312.000000, "Eccentricity":0.000006, "OrbitalInclination":-0.001105, "Periapsis":331.497131, "OrbitalPeriod":23615518.000000, "RotationPeriod":23616652.000000, "AxialTilt":-0.144224 }
+{ "timestamp":"2018-02-08T05:10:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:11:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:11:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi VZ-J b37-0", "StarClass":"M" }
+{ "timestamp":"2018-02-08T05:11:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T05:12:08Z", "event":"FSDJump", "StarSystem":"Greeroi VZ-J b37-0", "StarPos":[4652.250,235.750,38148.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.539, "FuelUsed":3.173671, "FuelLevel":28.826328 }
+{ "timestamp":"2018-02-08T05:12:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:12:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:12:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:12:31Z", "event":"Scan", "BodyName":"Greeroi VZ-J b37-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.355469, "Radius":354244832.000000, "AbsoluteMagnitude":9.291382, "Age_MY":7718, "SurfaceTemperature":2899.000000, "Luminosity":"Va", "SemiMajorAxis":18567636451328.000000, "Eccentricity":0.006891, "OrbitalInclination":53.379028, "Periapsis":174.370667, "OrbitalPeriod":207783575552.000000, "RotationPeriod":135097.531250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-08T05:13:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:13:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:13:36Z", "event":"FuelScoop", "Scooped":3.173684, "Total":32.000000 }
+{ "timestamp":"2018-02-08T05:14:20Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Greeroi MX-R c18-3", "StarClass":"K" }
+{ "timestamp":"2018-02-08T05:14:26Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-08T05:14:39Z", "event":"FSDJump", "StarSystem":"Greeroi MX-R c18-3", "StarPos":[4662.875,236.594,38171.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.897, "FuelUsed":3.288681, "FuelLevel":28.711319 }
+{ "timestamp":"2018-02-08T05:14:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:14:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:14:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:15:02Z", "event":"Scan", "BodyName":"Greeroi MX-R c18-3", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.792969, "Radius":645833536.000000, "AbsoluteMagnitude":5.638367, "Age_MY":10980, "SurfaceTemperature":4978.000000, "Luminosity":"Va", "RotationPeriod":266926.593750, "AxialTilt":0.000000, "Rings":[ { "Name":"Greeroi MX-R c18-3 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.2514e+14, "InnerRad":9.8371e+08, "OuterRad":2.2335e+09 }, { "Name":"Greeroi MX-R c18-3 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.0132e+16, "InnerRad":2.5234e+09, "OuterRad":2.5637e+11 } ] }
+{ "timestamp":"2018-02-08T05:15:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:15:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-08T05:15:32Z", "event":"FuelScoop", "Scooped":0.713461, "Total":29.424780 }
+{ "timestamp":"2018-02-08T05:15:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-08T05:15:48Z", "event":"Music", "MusicTrack":"Supercruise" }

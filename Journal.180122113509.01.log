@@ -1,0 +1,59 @@
+{ "timestamp":"2018-01-22T16:35:09Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r160439/r0 " }
+{ "timestamp":"2018-01-22T16:35:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-22T16:35:09Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-01-22T16:35:46Z", "event":"Friends", "Status":"Online", "Name":"Vegassimus" }
+{ "timestamp":"2018-01-22T16:35:46Z", "event":"Friends", "Status":"Online", "Name":"Huskeer42" }
+{ "timestamp":"2018-01-22T16:35:46Z", "event":"Friends", "Status":"Online", "Name":"King_INF3RN0" }
+{ "timestamp":"2018-01-22T16:35:57Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-01-22T16:35:57Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2018-01-22T16:35:57Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":115 }, { "Name":"vanadium", "Count":162 }, { "Name":"sulphur", "Count":70 }, { "Name":"iron", "Count":96 }, { "Name":"germanium", "Count":96 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"molybdenum", "Count":66 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":43 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":56 }, { "Name":"cadmium", "Count":63 }, { "Name":"zirconium", "Count":7 }, { "Name":"selenium", "Count":12 }, { "Name":"tungsten", "Count":3 }, { "Name":"yttrium", "Count":12 }, { "Name":"chromium", "Count":31 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Count":7 }, { "Name":"wakesolutions", "Count":1 }, { "Name":"scrambledemissiondata", "Count":2 }, { "Name":"legacyfirmware", "Count":4 }, { "Name":"shielddensityreports", "Count":3 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Count":3 }, { "Name":"securityfirmware", "Count":1 }, { "Name":"fsdtelemetry", "Count":1 } ] }
+{ "timestamp":"2018-01-22T16:35:57Z", "event":"LoadGame", "Commander":"JaredCrue", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":30.885654, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-01-22T16:35:57Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-01-22T16:35:57Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":71, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-01-22T16:36:16Z", "event":"Location", "Docked":false, "StarSystem":"Schee Flyi BF-A e7011", "StarPos":[-4548.188,-1071.594,22010.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Schee Flyi BF-A e7011", "BodyType":"Star" }
+{ "timestamp":"2018-01-22T16:36:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-22T16:36:17Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T16:36:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T16:36:32Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T16:36:45Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-01-22T16:36:50Z", "event":"SupercruiseEntry", "StarSystem":"Schee Flyi BF-A e7011" }
+{ "timestamp":"2018-01-22T16:36:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T16:36:54Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-22T16:36:58Z", "event":"Friends", "Status":"Online", "Name":"Vegassimus" }
+{ "timestamp":"2018-01-22T16:36:58Z", "event":"Friends", "Status":"Online", "Name":"Huskeer42" }
+{ "timestamp":"2018-01-22T16:36:58Z", "event":"Friends", "Status":"Online", "Name":"King_INF3RN0" }
+{ "timestamp":"2018-01-22T16:37:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T16:38:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T16:38:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T16:39:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T16:39:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T16:40:00Z", "event":"Scan", "BodyName":"Schee Flyi BF-A e7011 1 a", "DistanceFromArrivalLS":1182.402954, "TidalLock":true, "TerraformState":"", "PlanetClass":"Rocky body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.242726, "Radius":4150050.000000, "SurfaceGravity":5.617190, "SurfaceTemperature":754.782776, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":19.156910 }, { "Name":"sulphur", "Percent":17.196970 }, { "Name":"nickel", "Percent":14.489484 }, { "Name":"carbon", "Percent":14.460871 }, { "Name":"phosphorus", "Percent":9.258098 }, { "Name":"chromium", "Percent":8.615499 }, { "Name":"manganese", "Percent":7.911608 }, { "Name":"zinc", "Percent":5.206131 }, { "Name":"niobium", "Percent":1.309273 }, { "Name":"molybdenum", "Percent":1.250935 }, { "Name":"yttrium", "Percent":1.144220 } ], "SemiMajorAxis":1078059136.000000, "Eccentricity":0.000000, "OrbitalInclination":-23.149960, "Periapsis":325.217560, "OrbitalPeriod":5535490.500000, "RotationPeriod":5709217.000000, "AxialTilt":0.114994 }
+{ "timestamp":"2018-01-22T16:40:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T16:40:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T16:40:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T16:40:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T17:06:29Z", "event":"SupercruiseExit", "StarSystem":"Schee Flyi BF-A e7011", "Body":"Schee Flyi BF-A e7011 1 a", "BodyType":"Planet" }
+{ "timestamp":"2018-01-22T17:06:30Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T17:06:43Z", "event":"Friends", "Status":"Online", "Name":"Thor Wotansen" }
+{ "timestamp":"2018-01-22T17:08:08Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-22T17:08:18Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T17:12:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T17:12:38Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T17:29:56Z", "event":"Touchdown", "PlayerControlled":true, "Latitude":14.283899, "Longitude":-162.945114 }
+{ "timestamp":"2018-01-22T17:30:38Z", "event":"LaunchSRV", "Loadout":"starter", "PlayerControlled":true }
+{ "timestamp":"2018-01-22T17:31:21Z", "event":"DockSRV" }
+{ "timestamp":"2018-01-22T17:31:36Z", "event":"LaunchSRV", "Loadout":"starter", "PlayerControlled":true }
+{ "timestamp":"2018-01-22T17:37:14Z", "event":"Liftoff", "PlayerControlled":false }
+{ "timestamp":"2018-01-22T17:38:11Z", "event":"Friends", "Status":"Online", "Name":"Huntemdown" }
+{ "timestamp":"2018-01-22T17:55:43Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-01-22T18:12:43Z", "event":"Touchdown", "PlayerControlled":false }
+{ "timestamp":"2018-01-22T18:13:43Z", "event":"DockSRV" }
+{ "timestamp":"2018-01-22T18:16:36Z", "event":"Liftoff", "PlayerControlled":true, "Latitude":14.316310, "Longitude":-163.017654 }
+{ "timestamp":"2018-01-22T18:17:07Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-22T18:17:15Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T18:18:30Z", "event":"Friends", "Status":"Online", "Name":"Natalie Portman" }
+{ "timestamp":"2018-01-22T18:19:13Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-01-22T18:19:18Z", "event":"SupercruiseEntry", "StarSystem":"Schee Flyi BF-A e7011" }
+{ "timestamp":"2018-01-22T18:19:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T18:19:43Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-22T18:20:24Z", "event":"Music", "MusicTrack":"Supercruise" }

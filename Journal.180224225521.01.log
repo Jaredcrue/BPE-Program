@@ -1,0 +1,312 @@
+{ "timestamp":"2018-02-25T03:55:21Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r160439/r0 " }
+{ "timestamp":"2018-02-25T03:55:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T03:55:21Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-02-25T03:55:56Z", "event":"Friends", "Status":"Online", "Name":"John Allbright" }
+{ "timestamp":"2018-02-25T03:55:56Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-02-25T03:56:07Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-02-25T03:56:07Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2018-02-25T03:56:07Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":115 }, { "Name":"vanadium", "Count":183 }, { "Name":"sulphur", "Count":72 }, { "Name":"iron", "Count":96 }, { "Name":"germanium", "Count":114 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":53 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":56 }, { "Name":"cadmium", "Count":63 }, { "Name":"selenium", "Count":12 }, { "Name":"yttrium", "Count":12 }, { "Name":"chromium", "Count":34 }, { "Name":"carbon", "Count":27 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Count":7 }, { "Name":"wakesolutions", "Count":1 }, { "Name":"scrambledemissiondata", "Count":2 }, { "Name":"legacyfirmware", "Count":4 }, { "Name":"shielddensityreports", "Count":3 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Count":3 }, { "Name":"securityfirmware", "Count":1 }, { "Name":"fsdtelemetry", "Count":1 } ] }
+{ "timestamp":"2018-02-25T03:56:07Z", "event":"LoadGame", "Commander":"JaredCrue", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":32.000000, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-02-25T03:56:07Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-02-25T03:56:07Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":71, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-02-25T03:56:19Z", "event":"Location", "Docked":false, "StarSystem":"Tyroewry UD-J b10-3", "StarPos":[7422.781,235.125,50371.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Tyroewry UD-J b10-3", "BodyType":"Star" }
+{ "timestamp":"2018-02-25T03:56:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T03:56:19Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-25T03:56:32Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-02-25T03:56:37Z", "event":"SupercruiseEntry", "StarSystem":"Tyroewry UD-J b10-3" }
+{ "timestamp":"2018-02-25T03:56:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T03:56:53Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-25T03:56:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T03:57:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry CQ-F b12-3", "StarClass":"M" }
+{ "timestamp":"2018-02-25T03:57:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T03:57:57Z", "event":"Friends", "Status":"Online", "Name":"John Allbright" }
+{ "timestamp":"2018-02-25T03:57:57Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-02-25T03:57:57Z", "event":"FSDJump", "StarSystem":"Tyroewry CQ-F b12-3", "StarPos":[7421.719,235.438,50395.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.244, "FuelUsed":3.081427, "FuelLevel":28.918573 }
+{ "timestamp":"2018-02-25T03:57:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T03:58:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T03:58:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T03:58:21Z", "event":"Scan", "BodyName":"Tyroewry CQ-F b12-3", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.382813, "Radius":396036800.000000, "AbsoluteMagnitude":9.124725, "Age_MY":10626, "SurfaceTemperature":2849.000000, "Luminosity":"Va", "RotationPeriod":259026.328125, "AxialTilt":0.000000, "Rings":[ { "Name":"Tyroewry CQ-F b12-3 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":4.4622e+12, "InnerRad":6.5346e+08, "OuterRad":1.8285e+09 } ] }
+{ "timestamp":"2018-02-25T03:58:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T03:58:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T03:58:58Z", "event":"FuelScoop", "Scooped":3.081426, "Total":32.000000 }
+{ "timestamp":"2018-02-25T03:59:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T03:59:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T03:59:10Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-25T03:59:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T03:59:25Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-25T03:59:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T03:59:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T03:59:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T03:59:33Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-25T03:59:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T03:59:48Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-25T04:00:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:00:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry GW-D b13-5", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:00:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:00:49Z", "event":"FSDJump", "StarSystem":"Tyroewry GW-D b13-5", "StarPos":[7423.156,239.531,50419.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.481, "FuelUsed":3.155828, "FuelLevel":28.844172 }
+{ "timestamp":"2018-02-25T04:00:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:00:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:01:12Z", "event":"Scan", "BodyName":"Tyroewry GW-D b13-5", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.410156, "Radius":406139904.000000, "AbsoluteMagnitude":8.671127, "Age_MY":6114, "SurfaceTemperature":3123.000000, "Luminosity":"Va", "RotationPeriod":243509.437500, "AxialTilt":0.000000, "Rings":[ { "Name":"Tyroewry GW-D b13-5 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.5281e+13, "InnerRad":6.8878e+08, "OuterRad":1.7929e+09 } ] }
+{ "timestamp":"2018-02-25T04:01:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:01:29Z", "event":"FuelScoop", "Scooped":3.155824, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:02:18Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry KC-C b14-3", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:02:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:02:36Z", "event":"FSDJump", "StarSystem":"Tyroewry KC-C b14-3", "StarPos":[7421.063,237.438,50443.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.686, "FuelUsed":2.910483, "FuelLevel":29.089518 }
+{ "timestamp":"2018-02-25T04:02:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:02:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:02:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:02:58Z", "event":"Scan", "BodyName":"Tyroewry KC-C b14-3", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.433594, "Radius":422843936.000000, "AbsoluteMagnitude":8.251633, "Age_MY":8852, "SurfaceTemperature":3371.000000, "Luminosity":"Va", "RotationPeriod":206508.515625, "AxialTilt":0.000000, "Rings":[ { "Name":"Tyroewry KC-C b14-3 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.4877e+10, "InnerRad":8.1057e+08, "OuterRad":1.8264e+09 } ] }
+{ "timestamp":"2018-02-25T04:03:16Z", "event":"FuelScoop", "Scooped":2.910475, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:03:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:03:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:03:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry XN-T d3-66", "StarClass":"F" }
+{ "timestamp":"2018-02-25T04:03:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:04:07Z", "event":"FSDJump", "StarSystem":"Tyroewry XN-T d3-66", "StarPos":[7417.000,235.688,50467.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.835, "FuelUsed":3.268581, "FuelLevel":28.731419 }
+{ "timestamp":"2018-02-25T04:04:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:04:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:04:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:04:29Z", "event":"Scan", "BodyName":"Tyroewry XN-T d3-66", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.191406, "Radius":779508416.000000, "AbsoluteMagnitude":4.381775, "Age_MY":6822, "SurfaceTemperature":6051.000000, "Luminosity":"Vb", "RotationPeriod":307397.062500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:04:44Z", "event":"FuelScoop", "Scooped":3.268584, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:04:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:04:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:05:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry UJ-Y b15-4", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:05:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:05:57Z", "event":"FSDJump", "StarSystem":"Tyroewry UJ-Y b15-4", "StarPos":[7417.875,234.969,50489.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.092, "FuelUsed":2.453706, "FuelLevel":29.546293 }
+{ "timestamp":"2018-02-25T04:05:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:06:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:06:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:06:19Z", "event":"Scan", "BodyName":"Tyroewry UJ-Y b15-4 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.324219, "Radius":367595328.000000, "AbsoluteMagnitude":9.349564, "Age_MY":5616, "SurfaceTemperature":2808.000000, "Luminosity":"Va", "SemiMajorAxis":24237454655488.000000, "Eccentricity":0.227271, "OrbitalInclination":-25.246401, "Periapsis":79.276360, "OrbitalPeriod":688927801344.000000, "RotationPeriod":159605.765625, "AxialTilt":0.000000, "Rings":[ { "Name":"Tyroewry UJ-Y b15-4 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":7e+13, "InnerRad":5.542e+08, "OuterRad":1.649e+09 } ] }
+{ "timestamp":"2018-02-25T04:06:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:06:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:06:34Z", "event":"FuelScoop", "Scooped":2.453708, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:06:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:06:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:07:05Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry ZH-L c8-12", "StarClass":"K" }
+{ "timestamp":"2018-02-25T04:07:11Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:07:24Z", "event":"FSDJump", "StarSystem":"Tyroewry ZH-L c8-12", "StarPos":[7415.625,233.969,50516.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.112, "FuelUsed":4.052043, "FuelLevel":27.947956 }
+{ "timestamp":"2018-02-25T04:07:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:07:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:07:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:07:46Z", "event":"Scan", "BodyName":"Tyroewry ZH-L c8-12 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.601563, "Radius":471958528.000000, "AbsoluteMagnitude":7.477768, "Age_MY":5276, "SurfaceTemperature":3813.000000, "Luminosity":"Va", "SemiMajorAxis":2012556165120.000000, "Eccentricity":0.040120, "OrbitalInclination":-54.230038, "Periapsis":254.223877, "OrbitalPeriod":6698958848.000000, "RotationPeriod":213227.531250, "AxialTilt":0.000000, "Rings":[ { "Name":"Tyroewry ZH-L c8-12 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":2.8986e+09, "InnerRad":8.8796e+08, "OuterRad":2.037e+09 } ] }
+{ "timestamp":"2018-02-25T04:08:02Z", "event":"FuelScoop", "Scooped":4.052018, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:08:29Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry EH-T b18-2", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:08:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:08:48Z", "event":"FSDJump", "StarSystem":"Tyroewry EH-T b18-2", "StarPos":[7427.531,243.125,50538.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.381, "FuelUsed":3.789585, "FuelLevel":28.210415 }
+{ "timestamp":"2018-02-25T04:08:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:08:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:08:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:09:00Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-25T04:09:10Z", "event":"Scan", "BodyName":"Tyroewry EH-T b18-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.382813, "Radius":365960992.000000, "AbsoluteMagnitude":9.322266, "Age_MY":12700, "SurfaceTemperature":2832.000000, "Luminosity":"Va", "SemiMajorAxis":11604506705920.000000, "Eccentricity":0.293807, "OrbitalInclination":-29.513634, "Periapsis":174.408112, "OrbitalPeriod":54226968576.000000, "RotationPeriod":218269.875000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:09:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:09:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:09:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:09:45Z", "event":"FuelScoop", "Scooped":3.789580, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:10:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:11:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:11:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry JN-R b19-4", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:11:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:11:30Z", "event":"FSDJump", "StarSystem":"Tyroewry JN-R b19-4", "StarPos":[7440.531,243.281,50562.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.802, "FuelUsed":3.939538, "FuelLevel":28.060461 }
+{ "timestamp":"2018-02-25T04:11:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:11:54Z", "event":"Scan", "BodyName":"Tyroewry JN-R b19-4", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.332031, "Radius":381816064.000000, "AbsoluteMagnitude":9.403839, "Age_MY":4318, "SurfaceTemperature":2721.000000, "Luminosity":"Va", "RotationPeriod":194333.421875, "AxialTilt":0.000000, "Rings":[ { "Name":"Tyroewry JN-R b19-4 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":7.3333e+13, "InnerRad":6.1978e+08, "OuterRad":1.671e+09 } ] }
+{ "timestamp":"2018-02-25T04:13:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:13:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:13:39Z", "event":"FuelScoop", "Scooped":3.939529, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:14:27Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry BU-R d4-42", "StarClass":"F" }
+{ "timestamp":"2018-02-25T04:14:32Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:14:46Z", "event":"FSDJump", "StarSystem":"Tyroewry BU-R d4-42", "StarPos":[7448.156,244.406,50585.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.494, "FuelUsed":3.159818, "FuelLevel":28.840181 }
+{ "timestamp":"2018-02-25T04:14:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:14:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:15:08Z", "event":"Scan", "BodyName":"Tyroewry BU-R d4-42", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.027344, "Radius":869884288.000000, "AbsoluteMagnitude":3.792038, "Age_MY":4468, "SurfaceTemperature":6561.000000, "Luminosity":"Vab", "RotationPeriod":575153.000000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:15:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:17:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:17:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:18:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:18:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:18:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:18:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:18:53Z", "event":"Scan", "BodyName":"Tyroewry BU-R d4-42 4", "DistanceFromArrivalLS":2463.938721, "TidalLock":false, "TerraformState":"", "PlanetClass":"Ammonia world", "Atmosphere":"thick  atmosphere", "AtmosphereType":"AmmoniaOxygen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":95.655739 }, { "Name":"Argon", "Percent":4.324175 } ], "Volcanism":"major water geysers volcanism", "MassEM":3.223405, "Radius":10273069.000000, "SurfaceGravity":12.173738, "SurfaceTemperature":187.376328, "SurfacePressure":102186592.000000, "Landable":false, "SemiMajorAxis":738656124928.000000, "Eccentricity":0.000024, "OrbitalInclination":-0.275787, "Periapsis":257.069336, "OrbitalPeriod":341564864.000000, "RotationPeriod":54740.726563, "AxialTilt":0.330007 }
+{ "timestamp":"2018-02-25T04:18:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:18:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:23:02Z", "event":"SupercruiseExit", "StarSystem":"Tyroewry BU-R d4-42", "Body":"Tyroewry BU-R d4-42 4", "BodyType":"Planet" }
+{ "timestamp":"2018-02-25T04:23:02Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-25T04:25:01Z", "event":"Friends", "Status":"Online", "Name":"Klutz" }
+{ "timestamp":"2018-02-25T04:25:38Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-25T04:25:39Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-02-25T04:25:40Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-25T04:25:44Z", "event":"SupercruiseEntry", "StarSystem":"Tyroewry BU-R d4-42" }
+{ "timestamp":"2018-02-25T04:25:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:25:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:25:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:26:20Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry RZ-N b21-3", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:26:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:26:38Z", "event":"FSDJump", "StarSystem":"Tyroewry RZ-N b21-3", "StarPos":[7446.594,237.531,50610.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.517, "FuelUsed":3.743461, "FuelLevel":24.466721 }
+{ "timestamp":"2018-02-25T04:26:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:26:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:26:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:27:00Z", "event":"Scan", "BodyName":"Tyroewry RZ-N b21-3", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.238281, "Radius":256079312.000000, "AbsoluteMagnitude":10.507645, "Age_MY":9534, "SurfaceTemperature":2577.000000, "Luminosity":"Va", "RotationPeriod":108660.265625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:27:18Z", "event":"FuelScoop", "Scooped":5.000065, "Total":29.466801 }
+{ "timestamp":"2018-02-25T04:27:21Z", "event":"FuelScoop", "Scooped":1.014467, "Total":30.481249 }
+{ "timestamp":"2018-02-25T04:27:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:27:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:27:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry BH-K b23-0", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:27:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:28:08Z", "event":"FSDJump", "StarSystem":"Tyroewry BH-K b23-0", "StarPos":[7447.094,233.000,50636.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.566, "FuelUsed":3.474467, "FuelLevel":27.006783 }
+{ "timestamp":"2018-02-25T04:28:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:28:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:28:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:28:30Z", "event":"Scan", "BodyName":"Tyroewry BH-K b23-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.328125, "Radius":344184192.000000, "AbsoluteMagnitude":9.362946, "Age_MY":396, "SurfaceTemperature":2893.000000, "Luminosity":"Va", "RotationPeriod":155671.562500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:28:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:28:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:28:49Z", "event":"FuelScoop", "Scooped":4.993219, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:29:14Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry FN-I b24-2", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:29:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:29:33Z", "event":"FSDJump", "StarSystem":"Tyroewry FN-I b24-2", "StarPos":[7451.469,232.219,50662.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.562, "FuelUsed":3.853756, "FuelLevel":28.146244 }
+{ "timestamp":"2018-02-25T04:29:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:29:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:29:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:29:54Z", "event":"Scan", "BodyName":"Tyroewry FN-I b24-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.421875, "Radius":391579552.000000, "AbsoluteMagnitude":8.731003, "Age_MY":3330, "SurfaceTemperature":3137.000000, "Luminosity":"Va", "RotationPeriod":172775.078125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:30:09Z", "event":"FuelScoop", "Scooped":3.853769, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:30:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:30:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:30:53Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry IY-G b25-3", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:30:59Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:31:12Z", "event":"FSDJump", "StarSystem":"Tyroewry IY-G b25-3", "StarPos":[7458.031,237.469,50684.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.551, "FuelUsed":2.869934, "FuelLevel":29.130066 }
+{ "timestamp":"2018-02-25T04:31:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:31:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:31:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:31:35Z", "event":"Scan", "BodyName":"Tyroewry IY-G b25-3", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.394531, "Radius":368911264.000000, "AbsoluteMagnitude":8.785004, "Age_MY":8300, "SurfaceTemperature":3192.000000, "Luminosity":"Va", "RotationPeriod":207498.156250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:32:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:32:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:32:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:32:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:32:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:32:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:32:32Z", "event":"FuelScoop", "Scooped":2.869941, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:32:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:32:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:32:53Z", "event":"Scan", "BodyName":"Tyroewry IY-G b25-3 1", "DistanceFromArrivalLS":58.775620, "TidalLock":true, "TerraformState":"", "PlanetClass":"Sudarsky class III gas giant", "Atmosphere":"", "AtmosphereComposition":[ { "Name":"Hydrogen", "Percent":72.365990 }, { "Name":"Helium", "Percent":27.634007 } ], "Volcanism":"", "MassEM":324.809326, "Radius":72715752.000000, "SurfaceGravity":24.483915, "SurfaceTemperature":328.727295, "SurfacePressure":0.000000, "Landable":false, "SemiMajorAxis":17583990784.000000, "Eccentricity":0.010000, "OrbitalInclination":-0.324492, "Periapsis":89.558678, "OrbitalPeriod":2017741.875000, "RotationPeriod":2024483.125000, "AxialTilt":0.418338, "Rings":[ { "Name":"Tyroewry IY-G b25-3 1 A Ring", "RingClass":"eRingClass_MetalRich", "MassMT":1.7415e+11, "InnerRad":1.0997e+08, "OuterRad":1.3438e+08 }, { "Name":"Tyroewry IY-G b25-3 1 B Ring", "RingClass":"eRingClass_Rocky", "MassMT":1.145e+12, "InnerRad":1.3448e+08, "OuterRad":2.3931e+08 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2018-02-25T04:33:26Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry UM-C c13-6", "StarClass":"K" }
+{ "timestamp":"2018-02-25T04:33:31Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:33:45Z", "event":"FSDJump", "StarSystem":"Tyroewry UM-C c13-6", "StarPos":[7457.688,226.281,50706.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.130, "FuelUsed":3.364712, "FuelLevel":28.635288 }
+{ "timestamp":"2018-02-25T04:33:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:33:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:34:08Z", "event":"Scan", "BodyName":"Tyroewry UM-C c13-6 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.851563, "Radius":581712896.000000, "AbsoluteMagnitude":6.121582, "Age_MY":1690, "SurfaceTemperature":4693.000000, "Luminosity":"Va", "SemiMajorAxis":154507952128.000000, "Eccentricity":0.007247, "OrbitalInclination":64.564117, "Periapsis":160.175766, "OrbitalPeriod":174733872.000000, "RotationPeriod":346788.312500, "AxialTilt":0.000000, "Rings":[ { "Name":"Tyroewry UM-C c13-6 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.1023e+14, "InnerRad":9.9423e+08, "OuterRad":2.2872e+09 } ] }
+{ "timestamp":"2018-02-25T04:34:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:34:28Z", "event":"FuelScoop", "Scooped":3.364701, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:34:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:34:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:34:58Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry PK-D b27-5", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:35:03Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:35:16Z", "event":"FSDJump", "StarSystem":"Tyroewry PK-D b27-5", "StarPos":[7451.500,238.250,50729.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.521, "FuelUsed":3.839471, "FuelLevel":28.160530 }
+{ "timestamp":"2018-02-25T04:35:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:35:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:35:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:35:39Z", "event":"Scan", "BodyName":"Tyroewry PK-D b27-5 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.425781, "Radius":394232672.000000, "AbsoluteMagnitude":8.083466, "Age_MY":6600, "SurfaceTemperature":3629.000000, "Luminosity":"Va", "SemiMajorAxis":1759465570304.000000, "Eccentricity":0.306031, "OrbitalInclination":-12.287445, "Periapsis":147.195786, "OrbitalPeriod":9158198272.000000, "RotationPeriod":208590.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:35:56Z", "event":"FuelScoop", "Scooped":3.839475, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:36:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry TQ-B b28-1", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:36:24Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:36:37Z", "event":"FSDJump", "StarSystem":"Tyroewry TQ-B b28-1", "StarPos":[7443.875,237.031,50754.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.494, "FuelUsed":3.829668, "FuelLevel":28.170332 }
+{ "timestamp":"2018-02-25T04:36:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:37:03Z", "event":"Scan", "BodyName":"Tyroewry TQ-B b28-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.351563, "Radius":339196288.000000, "AbsoluteMagnitude":9.644989, "Age_MY":3816, "SurfaceTemperature":2731.000000, "Luminosity":"Va", "SemiMajorAxis":9291355389952.000000, "Eccentricity":0.345127, "OrbitalInclination":99.385071, "Periapsis":281.611511, "OrbitalPeriod":173069172736.000000, "RotationPeriod":184678.812500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:38:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:38:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:38:45Z", "event":"FuelScoop", "Scooped":3.829665, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:39:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry BD-Y b29-0", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:39:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:39:34Z", "event":"FSDJump", "StarSystem":"Tyroewry BD-Y b29-0", "StarPos":[7439.125,240.875,50779.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.978, "FuelUsed":3.314909, "FuelLevel":28.685091 }
+{ "timestamp":"2018-02-25T04:39:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:39:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:39:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:39:56Z", "event":"Scan", "BodyName":"Tyroewry BD-Y b29-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.277344, "Radius":317589280.000000, "AbsoluteMagnitude":10.212006, "Age_MY":1954, "SurfaceTemperature":2477.000000, "Luminosity":"Va", "SemiMajorAxis":1404991700992.000000, "Eccentricity":0.026662, "OrbitalInclination":32.623207, "Periapsis":219.326767, "OrbitalPeriod":4734211072.000000, "RotationPeriod":224955.875000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:40:09Z", "event":"FuelScoop", "Scooped":3.314909, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:40:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:40:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:40:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:40:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:40:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry FJ-W b30-2", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:40:49Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:41:02Z", "event":"FSDJump", "StarSystem":"Tyroewry FJ-W b30-2", "StarPos":[7441.344,236.313,50805.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.766, "FuelUsed":3.926716, "FuelLevel":28.073284 }
+{ "timestamp":"2018-02-25T04:41:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:41:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:41:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:41:24Z", "event":"Scan", "BodyName":"Tyroewry FJ-W b30-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.347656, "Radius":394402496.000000, "AbsoluteMagnitude":8.627640, "Age_MY":11006, "SurfaceTemperature":3201.000000, "Luminosity":"Va", "SemiMajorAxis":222589042688.000000, "Eccentricity":0.126059, "OrbitalInclination":-72.935936, "Periapsis":71.906059, "OrbitalPeriod":288503360.000000, "RotationPeriod":176923.656250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:41:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:41:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:41:42Z", "event":"FuelScoop", "Scooped":3.926696, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:41:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:41:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:42:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:42:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:42:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry NM-M d7-14", "StarClass":"F" }
+{ "timestamp":"2018-02-25T04:42:38Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:42:51Z", "event":"FSDJump", "StarSystem":"Tyroewry NM-M d7-14", "StarPos":[7442.844,244.438,50831.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.132, "FuelUsed":4.059417, "FuelLevel":27.940582 }
+{ "timestamp":"2018-02-25T04:42:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:43:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:43:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:43:17Z", "event":"Scan", "BodyName":"Tyroewry NM-M d7-14 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.648438, "Radius":929844864.000000, "AbsoluteMagnitude":3.078369, "Age_MY":2012, "SurfaceTemperature":7479.000000, "Luminosity":"Vb", "SemiMajorAxis":5827108798464.000000, "Eccentricity":0.002127, "OrbitalInclination":15.275206, "Periapsis":169.965485, "OrbitalPeriod":20697151488.000000, "RotationPeriod":76609.664063, "AxialTilt":0.000000, "Rings":[ { "Name":"Tyroewry NM-M d7-14 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":4.2268e+14, "InnerRad":3.0304e+09, "OuterRad":1.9394e+11 } ] }
+{ "timestamp":"2018-02-25T04:43:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:43:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:43:37Z", "event":"FuelScoop", "Scooped":4.059427, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:43:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:43:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:44:05Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry JL-V c16-9", "StarClass":"K" }
+{ "timestamp":"2018-02-25T04:44:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:44:24Z", "event":"FSDJump", "StarSystem":"Tyroewry JL-V c16-9", "StarPos":[7447.688,239.813,50857.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.970, "FuelUsed":4.000135, "FuelLevel":27.999865 }
+{ "timestamp":"2018-02-25T04:44:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:44:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:44:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:44:47Z", "event":"Scan", "BodyName":"Tyroewry JL-V c16-9", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.492188, "Radius":429084064.000000, "AbsoluteMagnitude":7.710892, "Age_MY":8970, "SurfaceTemperature":3790.000000, "Luminosity":"Va", "RotationPeriod":266094.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:45:04Z", "event":"FuelScoop", "Scooped":4.000133, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:45:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry WH-P b34-2", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:45:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:45:49Z", "event":"FSDJump", "StarSystem":"Tyroewry WH-P b34-2", "StarPos":[7458.000,238.188,50881.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.915, "FuelUsed":3.627769, "FuelLevel":28.372231 }
+{ "timestamp":"2018-02-25T04:45:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:47:19Z", "event":"Scan", "BodyName":"Tyroewry WH-P b34-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.269531, "Radius":332489216.000000, "AbsoluteMagnitude":9.742783, "Age_MY":12354, "SurfaceTemperature":2697.000000, "Luminosity":"Va", "SemiMajorAxis":60375064576.000000, "Eccentricity":0.523424, "OrbitalInclination":31.404245, "Periapsis":196.762115, "OrbitalPeriod":102389016.000000, "RotationPeriod":140439.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:47:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:47:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:48:10Z", "event":"FuelScoop", "Scooped":3.627755, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:48:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:48:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:48:44Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry CJ-N b35-4", "StarClass":"M" }
+{ "timestamp":"2018-02-25T04:48:50Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:49:03Z", "event":"FSDJump", "StarSystem":"Tyroewry CJ-N b35-4", "StarPos":[7458.875,229.625,50906.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.322, "FuelUsed":3.769107, "FuelLevel":27.600893 }
+{ "timestamp":"2018-02-25T04:49:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:49:26Z", "event":"Scan", "BodyName":"Tyroewry CJ-N b35-4", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.300781, "Radius":311094464.000000, "AbsoluteMagnitude":10.248123, "Age_MY":6482, "SurfaceTemperature":2482.000000, "Luminosity":"Va", "RotationPeriod":183334.296875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:49:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:49:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:50:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:50:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:50:22Z", "event":"FuelScoop", "Scooped":4.399095, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:51:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:51:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:51:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tyroewry SS-K d8-51", "StarClass":"F" }
+{ "timestamp":"2018-02-25T04:51:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-25T04:51:41Z", "event":"FSDJump", "StarSystem":"Tyroewry SS-K d8-51", "StarPos":[7466.469,225.906,50931.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.954, "FuelUsed":3.994554, "FuelLevel":28.005445 }
+{ "timestamp":"2018-02-25T04:51:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:51:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:52:03Z", "event":"Scan", "BodyName":"Tyroewry SS-K d8-51", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.496094, "Radius":960196608.000000, "AbsoluteMagnitude":3.508499, "Age_MY":3492, "SurfaceTemperature":6666.000000, "Luminosity":"Vab", "RotationPeriod":169804.984375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-25T04:52:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:52:31Z", "event":"FuelScoop", "Scooped":3.994542, "Total":32.000000 }
+{ "timestamp":"2018-02-25T04:53:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:53:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:55:40Z", "event":"Scan", "BodyName":"Tyroewry SS-K d8-51 2", "DistanceFromArrivalLS":546.628723, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":74.794693 }, { "Name":"SulphurDioxide", "Percent":25.205317 } ], "Volcanism":"", "MassEM":0.337474, "Radius":4365635.000000, "SurfaceGravity":7.057556, "SurfaceTemperature":574.795959, "SurfacePressure":216285.531250, "Landable":false, "SemiMajorAxis":163949346816.000000, "Eccentricity":0.001510, "OrbitalInclination":0.280098, "Periapsis":250.886765, "OrbitalPeriod":29597960.000000, "RotationPeriod":90482.859375, "AxialTilt":0.146680 }
+{ "timestamp":"2018-02-25T04:56:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:56:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:59:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:59:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T04:59:38Z", "event":"Scan", "BodyName":"Tyroewry SS-K d8-51 3", "DistanceFromArrivalLS":768.033997, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"sulfur dioxide atmosphere", "AtmosphereType":"SulphurDioxide", "AtmosphereComposition":[ { "Name":"SulphurDioxide", "Percent":53.408768 }, { "Name":"CarbonDioxide", "Percent":46.591232 } ], "Volcanism":"", "MassEM":0.241149, "Radius":3931252.750000, "SurfaceGravity":6.219177, "SurfaceTemperature":378.480652, "SurfacePressure":30473.363281, "Landable":false, "SemiMajorAxis":230505152512.000000, "Eccentricity":0.001166, "OrbitalInclination":0.184624, "Periapsis":164.537186, "OrbitalPeriod":49342168.000000, "RotationPeriod":69723.968750, "AxialTilt":-0.098683 }
+{ "timestamp":"2018-02-25T04:59:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T04:59:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T05:00:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T05:00:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T05:01:13Z", "event":"Scan", "BodyName":"Tyroewry SS-K d8-51 4", "DistanceFromArrivalLS":1023.277405, "TidalLock":false, "TerraformState":"", "PlanetClass":"Earthlike body", "Atmosphere":"", "AtmosphereType":"EarthLike", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":65.916862 }, { "Name":"Oxygen", "Percent":34.031445 } ], "Volcanism":"", "MassEM":0.293813, "Radius":4181527.250000, "SurfaceGravity":6.697457, "SurfaceTemperature":261.034210, "SurfacePressure":47520.621094, "Landable":false, "SemiMajorAxis":330152736.000000, "Eccentricity":0.163433, "OrbitalInclination":1.341411, "Periapsis":95.660225, "OrbitalPeriod":8007837.000000, "RotationPeriod":5866603.500000, "AxialTilt":0.235450 }
+{ "timestamp":"2018-02-25T05:01:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T05:01:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T05:01:40Z", "event":"Scan", "BodyName":"Tyroewry SS-K d8-51 5", "DistanceFromArrivalLS":1022.770386, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"oxygen atmosphere", "AtmosphereType":"Oxygen", "AtmosphereComposition":[ { "Name":"Oxygen", "Percent":68.409767 }, { "Name":"Nitrogen", "Percent":28.912449 }, { "Name":"CarbonDioxide", "Percent":2.440876 } ], "Volcanism":"", "MassEM":0.256190, "Radius":4006404.500000, "SurfaceGravity":6.361525, "SurfaceTemperature":289.072113, "SurfacePressure":21112.236328, "Landable":false, "SemiMajorAxis":378637728.000000, "Eccentricity":0.163433, "OrbitalInclination":1.341411, "Periapsis":275.660217, "OrbitalPeriod":8007837.000000, "RotationPeriod":10956257.000000, "AxialTilt":-0.201904 }
+{ "timestamp":"2018-02-25T05:04:08Z", "event":"SupercruiseExit", "StarSystem":"Tyroewry SS-K d8-51", "Body":"Tyroewry SS-K d8-51 4", "BodyType":"Planet" }
+{ "timestamp":"2018-02-25T05:04:08Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-25T05:06:04Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-02-25T05:06:09Z", "event":"SupercruiseEntry", "StarSystem":"Tyroewry SS-K d8-51" }
+{ "timestamp":"2018-02-25T05:06:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-25T05:07:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-25T05:07:30Z", "event":"Music", "MusicTrack":"Supercruise" }

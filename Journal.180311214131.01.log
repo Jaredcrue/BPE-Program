@@ -1,0 +1,412 @@
+{ "timestamp":"2018-03-12T01:41:31Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"3.0.2.402 EDH", "build":"r166781/r0 " }
+{ "timestamp":"2018-03-12T01:41:31Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T01:41:31Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-03-12T01:42:07Z", "event":"Friends", "Status":"Online", "Name":"Twenty9er" }
+{ "timestamp":"2018-03-12T01:42:07Z", "event":"Friends", "Status":"Online", "Name":"Klutz" }
+{ "timestamp":"2018-03-12T01:42:07Z", "event":"Friends", "Status":"Online", "Name":"John Allbright" }
+{ "timestamp":"2018-03-12T01:42:07Z", "event":"Friends", "Status":"Online", "Name":"Nolanus Raven" }
+{ "timestamp":"2018-03-12T01:42:30Z", "event":"Commander", "Name":"JaredCrue" }
+{ "timestamp":"2018-03-12T01:42:30Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":269 }, { "Name":"vanadium", "Count":175 }, { "Name":"sulphur", "Count":267 }, { "Name":"iron", "Count":294 }, { "Name":"germanium", "Count":127 }, { "Name":"arsenic", "Count":64 }, { "Name":"polonium", "Count":13 }, { "Name":"tin", "Count":22 }, { "Name":"phosphorus", "Count":204 }, { "Name":"zinc", "Count":81 }, { "Name":"niobium", "Count":78 }, { "Name":"cadmium", "Count":96 }, { "Name":"selenium", "Count":12 }, { "Name":"yttrium", "Count":22 }, { "Name":"chromium", "Count":250 }, { "Name":"carbon", "Count":193 }, { "Name":"molybdenum", "Count":45 }, { "Name":"tungsten", "Count":9 }, { "Name":"tellurium", "Count":21 }, { "Name":"manganese", "Count":57 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Name_Localised":"Anomalous Bulk Scan Data", "Count":7 }, { "Name":"wakesolutions", "Name_Localised":"Strange Wake Solutions", "Count":1 }, { "Name":"scrambledemissiondata", "Name_Localised":"Exceptional Scrambled Emission Data", "Count":2 }, { "Name":"legacyfirmware", "Name_Localised":"Specialised Legacy Firmware", "Count":4 }, { "Name":"shielddensityreports", "Name_Localised":"Untypical Shield Scans ", "Count":3 }, { "Name":"shieldcyclerecordings", "Name_Localised":"Distorted Shield Cycle Recordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Name_Localised":"Atypical Disrupted Wake Echoes", "Count":3 }, { "Name":"securityfirmware", "Name_Localised":"Security Firmware Patch", "Count":1 }, { "Name":"fsdtelemetry", "Name_Localised":"Anomalous FSD Telemetry", "Count":1 } ] }
+{ "timestamp":"2018-03-12T01:42:30Z", "event":"LoadGame", "Commander":"JaredCrue", "Horizons":true, "Ship":"Asp", "Ship_Localised":"Asp Explorer", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":32.000000, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-03-12T01:42:30Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-03-12T01:42:30Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":72, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-03-12T01:42:30Z", "event":"Reputation", "Empire":15.330100, "Federation":1.429300 }
+{ "timestamp":"2018-03-12T01:42:33Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "HullValue":6135160, "ModulesValue":33950049, "Rebuy":2004263, "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":0.982243, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"VesselVoice", "Item":"VoicePack_Verity", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000 } ] }
+{ "timestamp":"2018-03-12T01:42:45Z", "event":"Location", "Docked":false, "StarSystem":"Cho Thua SF-W b29-0", "SystemAddress":666928120065, "StarPos":[-302.21875,36.75000,58460.96875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Cho Thua SF-W b29-0", "BodyID":0, "BodyType":"Star" }
+{ "timestamp":"2018-03-12T01:42:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T01:42:45Z", "event":"Missions", "Active":[  ], "Failed":[  ], "Complete":[  ] }
+{ "timestamp":"2018-03-12T01:42:45Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-03-12T01:42:45Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-12T01:42:46Z", "event":"Statistics", "Bank_Account":{ "Current_Wealth":258980285, "Spent_On_Ships":186990802, "Spent_On_Outfitting":64210181, "Spent_On_Repairs":541782, "Spent_On_Fuel":10032, "Spent_On_Ammo_Consumables":2602, "Insurance_Claims":0, "Spent_On_Insurance":0 }, "Combat":{ "Bounties_Claimed":0, "Bounty_Hunting_Profit":0, "Combat_Bonds":0, "Combat_Bond_Profits":0, "Assassinations":0, "Assassination_Profits":0, "Highest_Single_Reward":0, "Skimmers_Killed":7 }, "Crime":{ "Notoriety":0, "Fines":8, "Total_Fines":17474, "Bounties_Received":0, "Total_Bounties":0, "Highest_Bounty":0 }, "Smuggling":{ "Black_Markets_Traded_With":0, "Black_Markets_Profits":0, "Resources_Smuggled":0, "Average_Profit":0, "Highest_Single_Transaction":0 }, "Trading":{ "Markets_Traded_With":11, "Market_Profits":106589, "Resources_Traded":47, "Average_Profit":5329.45, "Highest_Single_Transaction":20622 }, "Mining":{ "Mining_Profits":411, "Quantity_Mined":3, "Materials_Collected":3076 }, "Exploration":{ "Systems_Visited":6976, "Exploration_Profits":258841824, "Planets_Scanned_To_Level_2":17, "Planets_Scanned_To_Level_3":2529, "Highest_Payout":4090900, "Total_Hyperspace_Distance":159241, "Total_Hyperspace_Jumps":7133, "Greatest_Distance_From_Start":65222.47204614, "Time_Played":1569000 }, "Passengers":{ "Passengers_Missions_Bulk":0, "Passengers_Missions_VIP":0, "Passengers_Missions_Delivered":0, "Passengers_Missions_Ejected":0 }, "Search_And_Rescue":{ "SearchRescue_Traded":1, "SearchRescue_Profit":2780, "SearchRescue_Count":1 }, "Crafting":{ "Count_Of_Used_Engineers":0, "Recipes_Generated":0, "Recipes_Generated_Rank_1":0, "Recipes_Generated_Rank_2":0, "Recipes_Generated_Rank_3":0, "Recipes_Generated_Rank_4":0, "Recipes_Generated_Rank_5":0 }, "Crew":{  }, "Multicrew":{ "Multicrew_Time_Total":155, "Multicrew_Gunner_Time_Total":0, "Multicrew_Fighter_Time_Total":0, "Multicrew_Credits_Total":0, "Multicrew_Fines_Total":0 }, "Material_Trader_Stats":{ "Trades_Completed":0, "Materials_Traded":0 } }
+{ "timestamp":"2018-03-12T01:43:00Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-03-12T01:43:04Z", "event":"Friends", "Status":"Online", "Name":"Twenty9er" }
+{ "timestamp":"2018-03-12T01:43:04Z", "event":"Friends", "Status":"Online", "Name":"Klutz" }
+{ "timestamp":"2018-03-12T01:43:04Z", "event":"Friends", "Status":"Online", "Name":"John Allbright" }
+{ "timestamp":"2018-03-12T01:43:04Z", "event":"Friends", "Status":"Online", "Name":"Nolanus Raven" }
+{ "timestamp":"2018-03-12T01:43:05Z", "event":"SupercruiseEntry", "StarSystem":"Cho Thua SF-W b29-0", "SystemAddress":666928120065 }
+{ "timestamp":"2018-03-12T01:43:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:43:18Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T01:45:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:45:18Z", "event":"SendText", "To":"John Allbright", "Message":"o7!" }
+{ "timestamp":"2018-03-12T01:45:36Z", "event":"SendText", "To":"John Allbright", "Message":"I made it across!  :D" }
+{ "timestamp":"2018-03-12T01:46:42Z", "event":"ReceiveText", "From":"John Allbright", "Message":"I saw that on Discord. Nice job!", "Channel":"player" }
+{ "timestamp":"2018-03-12T01:46:46Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T01:46:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:47:11Z", "event":"SendText", "To":"John Allbright", "Message":"Thanks!" }
+{ "timestamp":"2018-03-12T01:48:13Z", "event":"ReceiveText", "From":"John Allbright", "Message":"made it to wp16 yet?", "Channel":"player" }
+{ "timestamp":"2018-03-12T01:48:18Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T01:48:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:48:56Z", "event":"SendText", "To":"John Allbright", "Message":"Headed there now, I'm going to fly off course for now." }
+{ "timestamp":"2018-03-12T01:49:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua PU-X b28-0", "SystemAddress":666659619065, "StarClass":"M" }
+{ "timestamp":"2018-03-12T01:49:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T01:49:35Z", "event":"ReceiveText", "From":"John Allbright", "Message":"I'm 20 jumps out still.", "Channel":"player" }
+{ "timestamp":"2018-03-12T01:49:41Z", "event":"FSDJump", "StarSystem":"Cho Thua PU-X b28-0", "SystemAddress":666659619065, "StarPos":[-317.96875,26.93750,58446.06250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.802, "FuelUsed":2.945642, "FuelLevel":29.054358 }
+{ "timestamp":"2018-03-12T01:49:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:49:47Z", "event":"DiscoveryScan", "SystemAddress":666659619065, "Bodies":42 }
+{ "timestamp":"2018-03-12T01:50:03Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Cho Thua PU-X b28-0", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.371094, "Radius":383004672.000000, "AbsoluteMagnitude":8.618683, "Age_MY":12928, "SurfaceTemperature":3255.000000, "Luminosity":"Va", "RotationPeriod":184822.750000, "AxialTilt":0.000000, "Rings":[ { "Name":"Cho Thua PU-X b28-0 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":8.3102e+13, "InnerRad":6.0146e+08, "OuterRad":1.7341e+09 }, { "Name":"Cho Thua PU-X b28-0 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":4.5251e+15, "InnerRad":2.8948e+09, "OuterRad":1.1671e+11 } ] }
+{ "timestamp":"2018-03-12T01:50:07Z", "event":"SendText", "To":"John Allbright", "Message":"That's good" }
+{ "timestamp":"2018-03-12T01:50:47Z", "event":"SendText", "To":"John Allbright", "Message":"I'm reinstating normal scan processes." }
+{ "timestamp":"2018-03-12T01:50:52Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T01:50:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:50:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T01:51:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:51:14Z", "event":"FuelScoop", "Scooped":2.945644, "Total":32.000000 }
+{ "timestamp":"2018-03-12T01:51:36Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua FU-Z c13-1", "SystemAddress":358193610874, "StarClass":"K" }
+{ "timestamp":"2018-03-12T01:51:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T01:51:54Z", "event":"FSDJump", "StarSystem":"Cho Thua FU-Z c13-1", "SystemAddress":358193610874, "StarPos":[-309.93750,26.00000,58430.28125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":17.732, "FuelUsed":1.431866, "FuelLevel":30.568134 }
+{ "timestamp":"2018-03-12T01:51:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:52:00Z", "event":"DiscoveryScan", "SystemAddress":358193610874, "Bodies":12 }
+{ "timestamp":"2018-03-12T01:52:15Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Cho Thua FU-Z c13-1 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.664063, "Radius":516233824.000000, "AbsoluteMagnitude":6.499176, "Age_MY":10606, "SurfaceTemperature":4567.000000, "Luminosity":"Va", "SemiMajorAxis":15384269815808.000000, "Eccentricity":0.241330, "OrbitalInclination":41.088058, "Periapsis":58.864311, "OrbitalPeriod":183959650304.000000, "RotationPeriod":242626.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-12T01:53:13Z", "event":"ReceiveText", "From":"John Allbright", "Message":"Same here. Ive tagged 3 ww's since I logged in. Getting lots of undicovered systems now.", "Channel":"player" }
+{ "timestamp":"2018-03-12T01:53:36Z", "event":"SendText", "To":"John Allbright", "Message":"That's great!" }
+{ "timestamp":"2018-03-12T01:53:40Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T01:53:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:53:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T01:53:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:53:54Z", "event":"FuelScoop", "Scooped":0.034674, "Total":30.602804 }
+{ "timestamp":"2018-03-12T01:54:24Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua HI-B b27-0", "SystemAddress":666659619049, "StarClass":"M" }
+{ "timestamp":"2018-03-12T01:54:29Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T01:54:42Z", "event":"FSDJump", "StarSystem":"Cho Thua HI-B b27-0", "SystemAddress":666659619049, "StarPos":[-311.28125,20.56250,58414.50000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":16.746, "FuelUsed":1.233147, "FuelLevel":28.739658 }
+{ "timestamp":"2018-03-12T01:54:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:54:48Z", "event":"DiscoveryScan", "SystemAddress":666659619049, "Bodies":1 }
+{ "timestamp":"2018-03-12T01:54:48Z", "event":"DiscoveryScan", "SystemAddress":666659619049, "Bodies":4 }
+{ "timestamp":"2018-03-12T01:54:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T01:54:56Z", "event":"FuelScoop", "Scooped":3.260337, "Total":32.000000 }
+{ "timestamp":"2018-03-12T01:54:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:55:17Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua DC-D b26-0", "SystemAddress":666659619041, "StarClass":"M" }
+{ "timestamp":"2018-03-12T01:55:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T01:55:36Z", "event":"FSDJump", "StarSystem":"Cho Thua DC-D b26-0", "SystemAddress":666659619041, "StarPos":[-311.50000,23.65625,58388.31250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.371, "FuelUsed":3.785835, "FuelLevel":28.214165 }
+{ "timestamp":"2018-03-12T01:55:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:55:42Z", "event":"DiscoveryScan", "SystemAddress":666659619041, "Bodies":1 }
+{ "timestamp":"2018-03-12T01:55:42Z", "event":"DiscoveryScan", "SystemAddress":666659619041, "Bodies":20 }
+{ "timestamp":"2018-03-12T01:55:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T01:55:50Z", "event":"FuelScoop", "Scooped":3.785810, "Total":32.000000 }
+{ "timestamp":"2018-03-12T01:55:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:56:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua YH-D c12-1", "SystemAddress":358260719722, "StarClass":"K" }
+{ "timestamp":"2018-03-12T01:56:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T01:56:30Z", "event":"FSDJump", "StarSystem":"Cho Thua YH-D c12-1", "SystemAddress":358260719722, "StarPos":[-294.53125,29.78125,58369.00000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.428, "FuelUsed":3.806423, "FuelLevel":28.193577 }
+{ "timestamp":"2018-03-12T01:56:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:56:36Z", "event":"DiscoveryScan", "SystemAddress":358260719722, "Bodies":7 }
+{ "timestamp":"2018-03-12T01:56:36Z", "event":"DiscoveryScan", "SystemAddress":358260719722, "Bodies":36 }
+{ "timestamp":"2018-03-12T01:56:43Z", "event":"FuelScoop", "Scooped":3.806425, "Total":32.000000 }
+{ "timestamp":"2018-03-12T01:57:08Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua XP-G b24-0", "SystemAddress":667196489937, "StarClass":"L" }
+{ "timestamp":"2018-03-12T01:57:13Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T01:57:26Z", "event":"FSDJump", "StarSystem":"Cho Thua XP-G b24-0", "SystemAddress":667196489937, "StarPos":[-282.43750,26.59375,58347.12500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.198, "FuelUsed":3.386974, "FuelLevel":28.613026 }
+{ "timestamp":"2018-03-12T01:57:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:57:33Z", "event":"DiscoveryScan", "SystemAddress":667196489937, "Bodies":37 }
+{ "timestamp":"2018-03-12T01:57:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T01:57:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:58:08Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua TJ-I b23-0", "SystemAddress":667196489929, "StarClass":"M" }
+{ "timestamp":"2018-03-12T01:58:13Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T01:58:26Z", "event":"FSDJump", "StarSystem":"Cho Thua TJ-I b23-0", "SystemAddress":667196489929, "StarPos":[-271.93750,25.96875,58326.09375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.515, "FuelUsed":2.796347, "FuelLevel":25.816679 }
+{ "timestamp":"2018-03-12T01:58:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:58:32Z", "event":"DiscoveryScan", "SystemAddress":667196489929, "Bodies":1 }
+{ "timestamp":"2018-03-12T01:58:33Z", "event":"DiscoveryScan", "SystemAddress":667196489929, "Bodies":8 }
+{ "timestamp":"2018-03-12T01:58:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T01:58:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T01:58:48Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Cho Thua TJ-I b23-0", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.363281, "Radius":365876096.000000, "AbsoluteMagnitude":9.203247, "Age_MY":5914, "SurfaceTemperature":2911.000000, "Luminosity":"Va", "RotationPeriod":206697.531250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-12T01:59:04Z", "event":"FuelScoop", "Scooped":3.622327, "Total":29.439020 }
+{ "timestamp":"2018-03-12T02:03:05Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua RO-I b23-0", "SystemAddress":667196555465, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:03:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:03:23Z", "event":"FSDJump", "StarSystem":"Cho Thua RO-I b23-0", "SystemAddress":667196555465, "StarPos":[-280.84375,37.15625,58319.28125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":15.840, "FuelUsed":1.067833, "FuelLevel":28.371187 }
+{ "timestamp":"2018-03-12T02:03:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:03:29Z", "event":"DiscoveryScan", "SystemAddress":667196555465, "Bodies":3 }
+{ "timestamp":"2018-03-12T02:03:36Z", "event":"FuelScoop", "Scooped":3.628829, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:03:50Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T02:04:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:04:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:04:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:04:51Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Cho Thua RO-I b23-0 A", "BodyID":2, "Parents":[ {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.363281, "Radius":396249056.000000, "AbsoluteMagnitude":8.469437, "Age_MY":5470, "SurfaceTemperature":3312.000000, "Luminosity":"Va", "SemiMajorAxis":2261646573568.000000, "Eccentricity":0.190770, "OrbitalInclination":24.491446, "Periapsis":176.043991, "OrbitalPeriod":9593161728.000000, "RotationPeriod":167155.125000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-12T02:05:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua NI-K b22-0", "SystemAddress":667196555457, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:05:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:05:50Z", "event":"FSDJump", "StarSystem":"Cho Thua NI-K b22-0", "SystemAddress":667196555457, "StarPos":[-281.12500,36.18750,58299.34375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":19.963, "FuelUsed":1.914152, "FuelLevel":30.085848 }
+{ "timestamp":"2018-03-12T02:05:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:05:57Z", "event":"DiscoveryScan", "SystemAddress":667196555457, "Bodies":10 }
+{ "timestamp":"2018-03-12T02:06:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:06:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:06:14Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Cho Thua NI-K b22-0 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.265625, "Radius":294814912.000000, "AbsoluteMagnitude":10.643127, "Age_MY":5502, "SurfaceTemperature":2328.000000, "Luminosity":"Va", "SemiMajorAxis":7014224756736.000000, "Eccentricity":0.048988, "OrbitalInclination":-60.508102, "Periapsis":267.880585, "OrbitalPeriod":126798749696.000000, "RotationPeriod":117989.617188, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-12T02:06:26Z", "event":"FuelScoop", "Scooped":1.914157, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:06:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua LX-L b21-0", "SystemAddress":667196489913, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:06:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:07:09Z", "event":"FSDJump", "StarSystem":"Cho Thua LX-L b21-0", "SystemAddress":667196489913, "StarPos":[-274.96875,27.09375,58279.31250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.844, "FuelUsed":2.663269, "FuelLevel":29.336731 }
+{ "timestamp":"2018-03-12T02:07:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:07:15Z", "event":"DiscoveryScan", "SystemAddress":667196489913, "Bodies":28 }
+{ "timestamp":"2018-03-12T02:07:31Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Cho Thua LX-L b21-0 A", "BodyID":2, "Parents":[ {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.312500, "Radius":317992576.000000, "AbsoluteMagnitude":9.686127, "Age_MY":9100, "SurfaceTemperature":2794.000000, "Luminosity":"Va", "SemiMajorAxis":259977609216.000000, "Eccentricity":0.352682, "OrbitalInclination":71.153961, "Periapsis":160.550598, "OrbitalPeriod":882146752.000000, "RotationPeriod":220805.125000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-12T02:07:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:07:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:08:03Z", "event":"FuelScoop", "Scooped":2.663269, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:08:31Z", "event":"ReceiveText", "From":"John Allbright", "Message":"AW! sweeet.", "Channel":"player" }
+{ "timestamp":"2018-03-12T02:08:43Z", "event":"SendText", "To":"John Allbright", "Message":":D" }
+{ "timestamp":"2018-03-12T02:09:29Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Cho Thua LX-L b21-0 A 5", "BodyID":9, "Parents":[ {"Star":2}, {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":58.871349, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"water atmosphere", "AtmosphereType":"Water", "AtmosphereComposition":[ { "Name":"Water", "Percent":100.000000 } ], "Volcanism":"", "MassEM":0.002990, "Radius":946973.250000, "SurfaceGravity":1.328961, "SurfaceTemperature":495.821869, "SurfacePressure":46381.507813, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.661398, "Metal":0.338602 }, "SemiMajorAxis":17648719872.000000, "Eccentricity":0.000238, "OrbitalInclination":-0.007420, "Periapsis":212.813126, "OrbitalPeriod":2287302.000000, "RotationPeriod":-2287302.500000, "AxialTilt":-2.485752 }
+{ "timestamp":"2018-03-12T02:09:55Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua HF-R d4-7", "SystemAddress":250945216555, "StarClass":"L" }
+{ "timestamp":"2018-03-12T02:10:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:10:13Z", "event":"FSDJump", "StarSystem":"Cho Thua HF-R d4-7", "SystemAddress":250945216555, "StarPos":[-283.03125,37.40625,58256.25000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.518, "FuelUsed":3.838090, "FuelLevel":28.161909 }
+{ "timestamp":"2018-03-12T02:10:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:10:20Z", "event":"DiscoveryScan", "SystemAddress":250945216555, "Bodies":10 }
+{ "timestamp":"2018-03-12T02:10:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua XJ-R b18-0", "SystemAddress":667196555425, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:10:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:11:05Z", "event":"FSDJump", "StarSystem":"Cho Thua XJ-R b18-0", "SystemAddress":667196555425, "StarPos":[-283.43750,42.31250,58233.87500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.910, "FuelUsed":2.615607, "FuelLevel":25.546303 }
+{ "timestamp":"2018-03-12T02:11:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:11:11Z", "event":"DiscoveryScan", "SystemAddress":667196555425, "Bodies":14 }
+{ "timestamp":"2018-03-12T02:11:27Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Cho Thua XJ-R b18-0 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.242188, "Radius":298189664.000000, "AbsoluteMagnitude":10.313965, "Age_MY":12550, "SurfaceTemperature":2497.000000, "Luminosity":"Va", "SemiMajorAxis":5127355236352.000000, "Eccentricity":0.049945, "OrbitalInclination":-38.878933, "Periapsis":69.816177, "OrbitalPeriod":74063347712.000000, "RotationPeriod":139056.312500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-12T02:11:45Z", "event":"FuelScoop", "Scooped":5.009440, "Total":30.555740 }
+{ "timestamp":"2018-03-12T02:11:47Z", "event":"FuelScoop", "Scooped":1.444250, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:11:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:11:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:12:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua IJ-K c8-0", "SystemAddress":83382812746, "StarClass":"K" }
+{ "timestamp":"2018-03-12T02:12:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:12:29Z", "event":"FSDJump", "StarSystem":"Cho Thua IJ-K c8-0", "SystemAddress":83382812746, "StarPos":[-281.15625,35.53125,58210.12500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.804, "FuelUsed":3.258501, "FuelLevel":28.741499 }
+{ "timestamp":"2018-03-12T02:12:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:12:35Z", "event":"DiscoveryScan", "SystemAddress":83382812746, "Bodies":11 }
+{ "timestamp":"2018-03-12T02:12:36Z", "event":"DiscoveryScan", "SystemAddress":83382812746, "Bodies":37 }
+{ "timestamp":"2018-03-12T02:12:41Z", "event":"FuelScoop", "Scooped":3.258498, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:12:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:12:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:13:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua TD-T b17-0", "SystemAddress":667196555417, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:13:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:13:27Z", "event":"FSDJump", "StarSystem":"Cho Thua TD-T b17-0", "SystemAddress":667196555417, "StarPos":[-283.53125,39.09375,58195.65625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":15.089, "FuelUsed":0.964136, "FuelLevel":31.035864 }
+{ "timestamp":"2018-03-12T02:13:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:13:34Z", "event":"DiscoveryScan", "SystemAddress":667196555417, "Bodies":7 }
+{ "timestamp":"2018-03-12T02:13:37Z", "event":"FuelScoop", "Scooped":0.964159, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:13:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:13:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:14:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua LR-W b15-0", "SystemAddress":667196555401, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:14:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:14:20Z", "event":"FSDJump", "StarSystem":"Cho Thua LR-W b15-0", "SystemAddress":667196555401, "StarPos":[-275.12500,40.96875,58172.68750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.530, "FuelUsed":3.171287, "FuelLevel":28.828712 }
+{ "timestamp":"2018-03-12T02:14:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:14:26Z", "event":"DiscoveryScan", "SystemAddress":667196555401, "Bodies":32 }
+{ "timestamp":"2018-03-12T02:14:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:14:35Z", "event":"FuelScoop", "Scooped":2.594076, "Total":31.422808 }
+{ "timestamp":"2018-03-12T02:14:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:14:56Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua ED-M c7-2", "SystemAddress":633138626626, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:15:01Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:15:14Z", "event":"FSDJump", "StarSystem":"Cho Thua ED-M c7-2", "SystemAddress":633138626626, "StarPos":[-272.34375,42.40625,58153.43750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":19.503, "FuelUsed":1.801011, "FuelLevel":29.621798 }
+{ "timestamp":"2018-03-12T02:15:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:15:20Z", "event":"DiscoveryScan", "SystemAddress":633138626626, "Bodies":1 }
+{ "timestamp":"2018-03-12T02:15:21Z", "event":"DiscoveryScan", "SystemAddress":633138626626, "Bodies":20 }
+{ "timestamp":"2018-03-12T02:15:25Z", "event":"FuelScoop", "Scooped":2.378196, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:15:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:15:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:15:53Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua IL-Y b14-0", "SystemAddress":667464990849, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:15:58Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:16:11Z", "event":"FSDJump", "StarSystem":"Cho Thua IL-Y b14-0", "SystemAddress":667464990849, "StarPos":[-264.40625,39.75000,58139.18750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":16.526, "FuelUsed":1.205052, "FuelLevel":30.794949 }
+{ "timestamp":"2018-03-12T02:16:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:16:17Z", "event":"DiscoveryScan", "SystemAddress":667464990849, "Bodies":15 }
+{ "timestamp":"2018-03-12T02:16:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:16:21Z", "event":"FuelScoop", "Scooped":1.205057, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:16:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:16:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua EF-A b14-0", "SystemAddress":667464990841, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:16:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:17:09Z", "event":"FSDJump", "StarSystem":"Cho Thua EF-A b14-0", "SystemAddress":667464990841, "StarPos":[-261.43750,37.53125,58117.15625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.341, "FuelUsed":2.522097, "FuelLevel":29.477903 }
+{ "timestamp":"2018-03-12T02:17:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:17:15Z", "event":"DiscoveryScan", "SystemAddress":667464990841, "Bodies":12 }
+{ "timestamp":"2018-03-12T02:17:20Z", "event":"FuelScoop", "Scooped":2.522095, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:17:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:17:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:17:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua AX-N c6-2", "SystemAddress":633138626618, "StarClass":"K" }
+{ "timestamp":"2018-03-12T02:17:50Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:18:03Z", "event":"FSDJump", "StarSystem":"Cho Thua AX-N c6-2", "SystemAddress":633138626618, "StarPos":[-266.00000,43.87500,58097.71875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":20.949, "FuelUsed":2.154447, "FuelLevel":29.845552 }
+{ "timestamp":"2018-03-12T02:18:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:18:09Z", "event":"DiscoveryScan", "SystemAddress":633138626618, "Bodies":1 }
+{ "timestamp":"2018-03-12T02:18:10Z", "event":"DiscoveryScan", "SystemAddress":633138626618, "Bodies":11 }
+{ "timestamp":"2018-03-12T02:18:15Z", "event":"FuelScoop", "Scooped":2.154429, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:18:17Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T02:18:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:18:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:18:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:19:07Z", "event":"Friends", "Status":"Online", "Name":"Nolanus Raven" }
+{ "timestamp":"2018-03-12T02:19:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua WS-D b12-0", "SystemAddress":667464990825, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:19:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:20:08Z", "event":"FSDJump", "StarSystem":"Cho Thua WS-D b12-0", "SystemAddress":667464990825, "StarPos":[-263.62500,37.96875,58075.87500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.752, "FuelUsed":2.637218, "FuelLevel":29.362782 }
+{ "timestamp":"2018-03-12T02:20:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:20:14Z", "event":"DiscoveryScan", "SystemAddress":667464990825, "Bodies":19 }
+{ "timestamp":"2018-03-12T02:20:21Z", "event":"FuelScoop", "Scooped":2.637240, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:20:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:20:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:20:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua RM-F b11-0", "SystemAddress":667196555361, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:20:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:21:00Z", "event":"FSDJump", "StarSystem":"Cho Thua RM-F b11-0", "SystemAddress":667196555361, "StarPos":[-280.93750,37.71875,58056.90625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.683, "FuelUsed":3.548482, "FuelLevel":28.451519 }
+{ "timestamp":"2018-03-12T02:21:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:21:06Z", "event":"DiscoveryScan", "SystemAddress":667196555361, "Bodies":1 }
+{ "timestamp":"2018-03-12T02:21:07Z", "event":"DiscoveryScan", "SystemAddress":667196555361, "Bodies":2 }
+{ "timestamp":"2018-03-12T02:21:13Z", "event":"FuelScoop", "Scooped":3.548502, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:21:15Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T02:21:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:21:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:21:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:21:41Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua PB-H b10-0", "SystemAddress":667196489817, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:21:46Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:21:59Z", "event":"FSDJump", "StarSystem":"Cho Thua PB-H b10-0", "SystemAddress":667196489817, "StarPos":[-281.87500,19.34375,58039.81250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.114, "FuelUsed":3.359401, "FuelLevel":28.640598 }
+{ "timestamp":"2018-03-12T02:21:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:22:05Z", "event":"DiscoveryScan", "SystemAddress":667196489817, "Bodies":1 }
+{ "timestamp":"2018-03-12T02:22:05Z", "event":"DiscoveryScan", "SystemAddress":667196489817, "Bodies":17 }
+{ "timestamp":"2018-03-12T02:22:12Z", "event":"FuelScoop", "Scooped":3.359418, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:22:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:22:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:22:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua LV-I b9-0", "SystemAddress":667196489809, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:22:40Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:22:53Z", "event":"FSDJump", "StarSystem":"Cho Thua LV-I b9-0", "SystemAddress":667196489809, "StarPos":[-282.78125,19.84375,58020.06250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":19.777, "FuelUsed":1.870832, "FuelLevel":30.129168 }
+{ "timestamp":"2018-03-12T02:22:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:22:59Z", "event":"DiscoveryScan", "SystemAddress":667196489809, "Bodies":11 }
+{ "timestamp":"2018-03-12T02:23:00Z", "event":"DiscoveryScan", "SystemAddress":667196489809, "Bodies":20 }
+{ "timestamp":"2018-03-12T02:23:04Z", "event":"FuelScoop", "Scooped":1.870837, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:23:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:23:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:23:36Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua IK-K b8-0", "SystemAddress":666927988809, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:23:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:23:54Z", "event":"FSDJump", "StarSystem":"Cho Thua IK-K b8-0", "SystemAddress":666927988809, "StarPos":[-287.90625,8.25000,57998.00000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.445, "FuelUsed":3.468725, "FuelLevel":28.531275 }
+{ "timestamp":"2018-03-12T02:23:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:24:01Z", "event":"DiscoveryScan", "SystemAddress":666927988809, "Bodies":1 }
+{ "timestamp":"2018-03-12T02:24:01Z", "event":"DiscoveryScan", "SystemAddress":666927988809, "Bodies":2 }
+{ "timestamp":"2018-03-12T02:24:08Z", "event":"FuelScoop", "Scooped":3.468704, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:24:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:24:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:25:16Z", "event":"SendText", "To":"John Allbright", "Message":"brb" }
+{ "timestamp":"2018-03-12T02:25:30Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-03-12T02:35:49Z", "event":"ReceiveText", "From":"John Allbright", "Message":"RnGesus is smiling upon me tonight!", "Channel":"player" }
+{ "timestamp":"2018-03-12T02:46:28Z", "event":"Commander", "Name":"JaredCrue" }
+{ "timestamp":"2018-03-12T02:46:28Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":269 }, { "Name":"vanadium", "Count":175 }, { "Name":"sulphur", "Count":267 }, { "Name":"iron", "Count":294 }, { "Name":"germanium", "Count":127 }, { "Name":"arsenic", "Count":64 }, { "Name":"polonium", "Count":13 }, { "Name":"tin", "Count":22 }, { "Name":"phosphorus", "Count":204 }, { "Name":"zinc", "Count":81 }, { "Name":"niobium", "Count":78 }, { "Name":"cadmium", "Count":96 }, { "Name":"selenium", "Count":12 }, { "Name":"yttrium", "Count":22 }, { "Name":"chromium", "Count":250 }, { "Name":"carbon", "Count":193 }, { "Name":"molybdenum", "Count":45 }, { "Name":"tungsten", "Count":9 }, { "Name":"tellurium", "Count":21 }, { "Name":"manganese", "Count":57 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Name_Localised":"Anomalous Bulk Scan Data", "Count":7 }, { "Name":"wakesolutions", "Name_Localised":"Strange Wake Solutions", "Count":1 }, { "Name":"scrambledemissiondata", "Name_Localised":"Exceptional Scrambled Emission Data", "Count":2 }, { "Name":"legacyfirmware", "Name_Localised":"Specialised Legacy Firmware", "Count":4 }, { "Name":"shielddensityreports", "Name_Localised":"Untypical Shield Scans ", "Count":3 }, { "Name":"shieldcyclerecordings", "Name_Localised":"Distorted Shield Cycle Recordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Name_Localised":"Atypical Disrupted Wake Echoes", "Count":3 }, { "Name":"securityfirmware", "Name_Localised":"Security Firmware Patch", "Count":1 }, { "Name":"fsdtelemetry", "Name_Localised":"Anomalous FSD Telemetry", "Count":1 } ] }
+{ "timestamp":"2018-03-12T02:46:28Z", "event":"LoadGame", "Commander":"JaredCrue", "Horizons":true, "Ship":"Asp", "Ship_Localised":"Asp Explorer", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":32.000000, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-03-12T02:46:28Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-03-12T02:46:28Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":72, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-03-12T02:46:28Z", "event":"Reputation", "Empire":15.330100, "Federation":1.429300 }
+{ "timestamp":"2018-03-12T02:46:30Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "HullValue":6135160, "ModulesValue":33950049, "Rebuy":2004263, "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":0.982243, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"VesselVoice", "Item":"VoicePack_Verity", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000 } ] }
+{ "timestamp":"2018-03-12T02:46:33Z", "event":"Location", "Docked":false, "StarSystem":"Cho Thua IK-K b8-0", "SystemAddress":666927988809, "StarPos":[-287.90625,8.25000,57998.00000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Cho Thua IK-K b8-0 A", "BodyID":1, "BodyType":"Star" }
+{ "timestamp":"2018-03-12T02:46:33Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:46:33Z", "event":"Missions", "Active":[  ], "Failed":[  ], "Complete":[  ] }
+{ "timestamp":"2018-03-12T02:46:33Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-03-12T02:46:33Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-12T02:46:33Z", "event":"Statistics", "Bank_Account":{ "Current_Wealth":258980285, "Spent_On_Ships":186990802, "Spent_On_Outfitting":64210181, "Spent_On_Repairs":541782, "Spent_On_Fuel":10032, "Spent_On_Ammo_Consumables":2602, "Insurance_Claims":0, "Spent_On_Insurance":0 }, "Combat":{ "Bounties_Claimed":0, "Bounty_Hunting_Profit":0, "Combat_Bonds":0, "Combat_Bond_Profits":0, "Assassinations":0, "Assassination_Profits":0, "Highest_Single_Reward":0, "Skimmers_Killed":7 }, "Crime":{ "Notoriety":0, "Fines":8, "Total_Fines":17474, "Bounties_Received":0, "Total_Bounties":0, "Highest_Bounty":0 }, "Smuggling":{ "Black_Markets_Traded_With":0, "Black_Markets_Profits":0, "Resources_Smuggled":0, "Average_Profit":0, "Highest_Single_Transaction":0 }, "Trading":{ "Markets_Traded_With":11, "Market_Profits":106589, "Resources_Traded":47, "Average_Profit":5329.45, "Highest_Single_Transaction":20622 }, "Mining":{ "Mining_Profits":411, "Quantity_Mined":3, "Materials_Collected":3076 }, "Exploration":{ "Systems_Visited":7000, "Exploration_Profits":258841824, "Planets_Scanned_To_Level_2":17, "Planets_Scanned_To_Level_3":2529, "Highest_Payout":4090900, "Total_Hyperspace_Distance":159771, "Total_Hyperspace_Jumps":7157, "Greatest_Distance_From_Start":65222.47204614, "Time_Played":1569000 }, "Passengers":{ "Passengers_Missions_Bulk":0, "Passengers_Missions_VIP":0, "Passengers_Missions_Delivered":0, "Passengers_Missions_Ejected":0 }, "Search_And_Rescue":{ "SearchRescue_Traded":1, "SearchRescue_Profit":2780, "SearchRescue_Count":1 }, "Crafting":{ "Count_Of_Used_Engineers":0, "Recipes_Generated":0, "Recipes_Generated_Rank_1":0, "Recipes_Generated_Rank_2":0, "Recipes_Generated_Rank_3":0, "Recipes_Generated_Rank_4":0, "Recipes_Generated_Rank_5":0 }, "Crew":{  }, "Multicrew":{ "Multicrew_Time_Total":155, "Multicrew_Gunner_Time_Total":0, "Multicrew_Fighter_Time_Total":0, "Multicrew_Credits_Total":0, "Multicrew_Fines_Total":0 }, "Material_Trader_Stats":{ "Trades_Completed":0, "Materials_Traded":0 } }
+{ "timestamp":"2018-03-12T02:46:39Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T02:46:44Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-12T02:46:56Z", "event":"SendText", "To":"John Allbright", "Message":":D" }
+{ "timestamp":"2018-03-12T02:47:14Z", "event":"SendText", "To":"John Allbright", "Message":"What did you find?" }
+{ "timestamp":"2018-03-12T02:47:51Z", "event":"SendText", "To":"John Allbright", "Message":"I'm going 20 more jumps, then bed." }
+{ "timestamp":"2018-03-12T02:48:05Z", "event":"SendText", "To":"John Allbright", "Message":"I've been pushing hard." }
+{ "timestamp":"2018-03-12T02:48:25Z", "event":"SendText", "To":"John Allbright", "Message":"177+ jumps last night" }
+{ "timestamp":"2018-03-12T02:48:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua OE-T c3-2", "SystemAddress":633138626594, "StarClass":"K" }
+{ "timestamp":"2018-03-12T02:48:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:49:08Z", "event":"FSDJump", "StarSystem":"Cho Thua OE-T c3-2", "SystemAddress":633138626594, "StarPos":[-297.28125,17.90625,57978.37500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.797, "FuelUsed":2.931800, "FuelLevel":28.438200 }
+{ "timestamp":"2018-03-12T02:49:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:49:14Z", "event":"DiscoveryScan", "SystemAddress":633138626594, "Bodies":1 }
+{ "timestamp":"2018-03-12T02:49:14Z", "event":"DiscoveryScan", "SystemAddress":633138626594, "Bodies":10 }
+{ "timestamp":"2018-03-12T02:49:21Z", "event":"FuelScoop", "Scooped":3.561799, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:49:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:49:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:49:41Z", "event":"ReceiveText", "From":"John Allbright", "Message":"Wow. thats hard core. 70 a night after work is my limit. Days off mabey 120.", "Channel":"player" }
+{ "timestamp":"2018-03-12T02:50:12Z", "event":"SendText", "To":"John Allbright", "Message":"Found two AW in one system, already named." }
+{ "timestamp":"2018-03-12T02:50:37Z", "event":"SendText", "To":"John Allbright", "Message":"I usaly go 50 jumps a day." }
+{ "timestamp":"2018-03-12T02:50:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:50:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:52:18Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Cho Thua OE-T c3-2 1", "BodyID":1, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":877.724426, "TidalLock":false, "TerraformState":"", "PlanetClass":"Ammonia world", "Atmosphere":"", "AtmosphereType":"AmmoniaOxygen", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":55.435062 }, { "Name":"Nitrogen", "Percent":35.739456 }, { "Name":"Oxygen", "Percent":8.253063 } ], "Volcanism":"", "MassEM":0.394196, "Radius":4583265.500000, "SurfaceGravity":7.479491, "SurfaceTemperature":238.390808, "SurfacePressure":68627.414063, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.670512, "Metal":0.329488 }, "SemiMajorAxis":263165706240.000000, "Eccentricity":0.000288, "OrbitalInclination":-0.056818, "Periapsis":251.777634, "OrbitalPeriod":81678424.000000, "RotationPeriod":118628.117188, "AxialTilt":0.243766 }
+{ "timestamp":"2018-03-12T02:52:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:52:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:53:52Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Cho Thua OE-T c3-2 2", "BodyID":2, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":1221.955322, "TidalLock":false, "TerraformState":"", "PlanetClass":"Ammonia world", "Atmosphere":"", "AtmosphereType":"AmmoniaOxygen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":40.076740 }, { "Name":"CarbonDioxide", "Percent":39.781281 }, { "Name":"Oxygen", "Percent":19.730408 } ], "Volcanism":"", "MassEM":0.365752, "Radius":4478306.500000, "SurfaceGravity":7.268905, "SurfaceTemperature":198.620560, "SurfacePressure":74754.687500, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.670512, "Metal":0.329488 }, "SemiMajorAxis":366655340544.000000, "Eccentricity":0.001109, "OrbitalInclination":0.054390, "Periapsis":287.436890, "OrbitalPeriod":134323024.000000, "RotationPeriod":58705.296875, "AxialTilt":-0.028716 }
+{ "timestamp":"2018-03-12T02:54:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua YC-O b6-0", "SystemAddress":666928054329, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:54:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:54:41Z", "event":"FSDJump", "StarSystem":"Cho Thua YC-O b6-0", "SystemAddress":666928054329, "StarPos":[-296.18750,15.12500,57955.59375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.976, "FuelUsed":2.701193, "FuelLevel":29.298807 }
+{ "timestamp":"2018-03-12T02:54:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:54:48Z", "event":"DiscoveryScan", "SystemAddress":666928054329, "Bodies":1 }
+{ "timestamp":"2018-03-12T02:54:48Z", "event":"DiscoveryScan", "SystemAddress":666928054329, "Bodies":16 }
+{ "timestamp":"2018-03-12T02:54:56Z", "event":"FuelScoop", "Scooped":2.181070, "Total":31.479900 }
+{ "timestamp":"2018-03-12T02:55:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua KY-U c2-2", "SystemAddress":633138626586, "StarClass":"K" }
+{ "timestamp":"2018-03-12T02:55:24Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:55:37Z", "event":"FSDJump", "StarSystem":"Cho Thua KY-U c2-2", "SystemAddress":633138626586, "StarPos":[-293.65625,23.50000,57935.81250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.630, "FuelUsed":2.321730, "FuelLevel":29.158171 }
+{ "timestamp":"2018-03-12T02:55:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:55:44Z", "event":"DiscoveryScan", "SystemAddress":633138626586, "Bodies":1 }
+{ "timestamp":"2018-03-12T02:55:44Z", "event":"DiscoveryScan", "SystemAddress":633138626586, "Bodies":12 }
+{ "timestamp":"2018-03-12T02:55:51Z", "event":"FuelScoop", "Scooped":2.841827, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:56:18Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua GS-W c1-3", "SystemAddress":908016533522, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:56:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:56:36Z", "event":"FSDJump", "StarSystem":"Cho Thua GS-W c1-3", "SystemAddress":908016533522, "StarPos":[-296.18750,20.53125,57911.90625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.223, "FuelUsed":3.074570, "FuelLevel":28.925430 }
+{ "timestamp":"2018-03-12T02:56:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:56:43Z", "event":"DiscoveryScan", "SystemAddress":908016533522, "Bodies":5 }
+{ "timestamp":"2018-03-12T02:56:43Z", "event":"DiscoveryScan", "SystemAddress":908016533522, "Bodies":13 }
+{ "timestamp":"2018-03-12T02:56:52Z", "event":"FuelScoop", "Scooped":2.665121, "Total":31.590555 }
+{ "timestamp":"2018-03-12T02:56:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:57:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:57:17Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua BM-Y c2", "SystemAddress":633071517706, "StarClass":"K" }
+{ "timestamp":"2018-03-12T02:57:22Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:57:35Z", "event":"FSDJump", "StarSystem":"Cho Thua BM-Y c2", "SystemAddress":633071517706, "StarPos":[-313.34375,21.15625,57891.93750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.334, "FuelUsed":3.763272, "FuelLevel":27.827284 }
+{ "timestamp":"2018-03-12T02:57:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:57:41Z", "event":"DiscoveryScan", "SystemAddress":633071517706, "Bodies":7 }
+{ "timestamp":"2018-03-12T02:57:42Z", "event":"DiscoveryScan", "SystemAddress":633071517706, "Bodies":24 }
+{ "timestamp":"2018-03-12T02:57:49Z", "event":"FuelScoop", "Scooped":4.172717, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:57:53Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T02:58:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:58:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:58:20Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua DY-W b1-0", "SystemAddress":666659618833, "StarClass":"M" }
+{ "timestamp":"2018-03-12T02:58:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:58:39Z", "event":"FSDJump", "StarSystem":"Cho Thua DY-W b1-0", "SystemAddress":666659618833, "StarPos":[-322.56250,27.34375,57871.65625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.121, "FuelUsed":2.743368, "FuelLevel":29.256632 }
+{ "timestamp":"2018-03-12T02:58:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:58:45Z", "event":"DiscoveryScan", "SystemAddress":666659618833, "Bodies":1 }
+{ "timestamp":"2018-03-12T02:58:45Z", "event":"DiscoveryScan", "SystemAddress":666659618833, "Bodies":8 }
+{ "timestamp":"2018-03-12T02:58:50Z", "event":"FuelScoop", "Scooped":2.743354, "Total":32.000000 }
+{ "timestamp":"2018-03-12T02:58:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T02:58:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:59:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua EY-W b1-0", "SystemAddress":666928054289, "StarClass":"L" }
+{ "timestamp":"2018-03-12T02:59:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T02:59:34Z", "event":"FSDJump", "StarSystem":"Cho Thua EY-W b1-0", "SystemAddress":666928054289, "StarPos":[-302.46875,19.75000,57856.93750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.040, "FuelUsed":3.670872, "FuelLevel":28.329128 }
+{ "timestamp":"2018-03-12T02:59:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T02:59:40Z", "event":"DiscoveryScan", "SystemAddress":666928054289, "Bodies":1 }
+{ "timestamp":"2018-03-12T02:59:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T03:00:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:00:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua YG-A b0", "SystemAddress":666927988737, "StarClass":"M" }
+{ "timestamp":"2018-03-12T03:00:18Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T03:00:31Z", "event":"FSDJump", "StarSystem":"Cho Thua YG-A b0", "SystemAddress":666927988737, "StarPos":[-293.31250,13.37500,57833.90625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.591, "FuelUsed":3.434073, "FuelLevel":24.895056 }
+{ "timestamp":"2018-03-12T03:00:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:00:37Z", "event":"DiscoveryScan", "SystemAddress":666927988737, "Bodies":9 }
+{ "timestamp":"2018-03-12T03:00:38Z", "event":"DiscoveryScan", "SystemAddress":666927988737, "Bodies":15 }
+{ "timestamp":"2018-03-12T03:00:46Z", "event":"FuelScoop", "Scooped":5.010011, "Total":29.905060 }
+{ "timestamp":"2018-03-12T03:00:49Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T03:00:49Z", "event":"FuelScoop", "Scooped":2.094947, "Total":32.000000 }
+{ "timestamp":"2018-03-12T03:00:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:00:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T03:00:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:01:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cho Thua AB-A c2", "SystemAddress":633138593794, "StarClass":"K" }
+{ "timestamp":"2018-03-12T03:01:20Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T03:01:33Z", "event":"FSDJump", "StarSystem":"Cho Thua AB-A c2", "SystemAddress":633138593794, "StarPos":[-275.75000,5.12500,57815.25000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.918, "FuelUsed":3.981618, "FuelLevel":28.018383 }
+{ "timestamp":"2018-03-12T03:01:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:01:39Z", "event":"DiscoveryScan", "SystemAddress":633138593794, "Bodies":1 }
+{ "timestamp":"2018-03-12T03:01:39Z", "event":"DiscoveryScan", "SystemAddress":633138593794, "Bodies":14 }
+{ "timestamp":"2018-03-12T03:01:46Z", "event":"FuelScoop", "Scooped":3.981601, "Total":32.000000 }
+{ "timestamp":"2018-03-12T03:01:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T03:01:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:02:17Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Proyaa UJ-X c28-4", "SystemAddress":1182894407674, "StarClass":"K" }
+{ "timestamp":"2018-03-12T03:02:22Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T03:02:36Z", "event":"FSDJump", "StarSystem":"Proyaa UJ-X c28-4", "SystemAddress":1182894407674, "StarPos":[-282.31250,11.40625,57794.00000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.110, "FuelUsed":2.739986, "FuelLevel":29.260014 }
+{ "timestamp":"2018-03-12T03:02:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:02:42Z", "event":"DiscoveryScan", "SystemAddress":1182894407674, "Bodies":1 }
+{ "timestamp":"2018-03-12T03:02:42Z", "event":"DiscoveryScan", "SystemAddress":1182894407674, "Bodies":22 }
+{ "timestamp":"2018-03-12T03:02:48Z", "event":"FuelScoop", "Scooped":2.739998, "Total":32.000000 }
+{ "timestamp":"2018-03-12T03:03:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Proyaa VO-Z d13-17", "SystemAddress":594542600187, "StarClass":"F" }
+{ "timestamp":"2018-03-12T03:03:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-12T03:03:30Z", "event":"FSDJump", "StarSystem":"Proyaa VO-Z d13-17", "SystemAddress":594542600187, "StarPos":[-287.40625,13.81250,57769.84375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.804, "FuelUsed":3.258865, "FuelLevel":28.741135 }
+{ "timestamp":"2018-03-12T03:03:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:03:37Z", "event":"DiscoveryScan", "SystemAddress":594542600187, "Bodies":1 }
+{ "timestamp":"2018-03-12T03:03:37Z", "event":"DiscoveryScan", "SystemAddress":594542600187, "Bodies":10 }
+{ "timestamp":"2018-03-12T03:03:44Z", "event":"FuelScoop", "Scooped":3.258856, "Total":32.000000 }
+{ "timestamp":"2018-03-12T03:03:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T03:04:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:04:45Z", "event":"SendText", "To":"John Allbright", "Message":"Just found an unnamed WW and HMCs" }
+{ "timestamp":"2018-03-12T03:04:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T03:04:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:05:10Z", "event":"ReceiveText", "From":"John Allbright", "Message":"Okay...2 terraformable WW's, 1 ELW, 5 terraformable HMC's in one system! ", "Channel":"player" }
+{ "timestamp":"2018-03-12T03:05:38Z", "event":"SendText", "To":"John Allbright", "Message":"Jackpot!!!" }
+{ "timestamp":"2018-03-12T03:06:36Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Proyaa VO-Z d13-17 1", "BodyID":1, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":380.191254, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":99.009674 }, { "Name":"SulphurDioxide", "Percent":0.990097 } ], "Volcanism":"major rocky magma volcanism", "MassEM":1.092260, "Radius":6252231.000000, "SurfaceGravity":11.136925, "SurfaceTemperature":1033.171143, "SurfacePressure":18055778.000000, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.675207, "Metal":0.324793 }, "SemiMajorAxis":113990909952.000000, "Eccentricity":0.000551, "OrbitalInclination":-0.001221, "Periapsis":76.234856, "OrbitalPeriod":19685710.000000, "RotationPeriod":312255.906250, "AxialTilt":-0.522776 }
+{ "timestamp":"2018-03-12T03:07:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T03:07:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:08:14Z", "event":"ReceiveText", "From":"John Allbright", "Message":"Took me a while to scan it all. 3.07M credits.", "Channel":"player" }
+{ "timestamp":"2018-03-12T03:08:31Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Proyaa VO-Z d13-17 2", "BodyID":2, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":489.990997, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.970406 }, { "Name":"SulphurDioxide", "Percent":0.989704 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.984164, "Radius":6061235.500000, "SurfaceGravity":10.677132, "SurfaceTemperature":900.763367, "SurfacePressure":16602260.000000, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.675207, "Metal":0.324793 }, "SemiMajorAxis":146890719232.000000, "Eccentricity":0.000035, "OrbitalInclination":0.568422, "Periapsis":312.961182, "OrbitalPeriod":28796334.000000, "RotationPeriod":138782.218750, "AxialTilt":0.513115 }
+{ "timestamp":"2018-03-12T03:08:34Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-12T03:08:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:08:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T03:08:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:10:59Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Proyaa VO-Z d13-17 3", "BodyID":3, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":892.884338, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"thick ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":82.376747 }, { "Name":"Nitrogen", "Percent":14.747084 }, { "Name":"Oxygen", "Percent":2.597586 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.970557, "Radius":6036093.000000, "SurfaceGravity":10.617414, "SurfaceTemperature":337.456482, "SurfacePressure":657091.375000, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.675205, "Metal":0.324795 }, "SemiMajorAxis":267493392384.000000, "Eccentricity":0.002162, "OrbitalInclination":-0.250713, "Periapsis":184.455933, "OrbitalPeriod":70764488.000000, "RotationPeriod":36118.851563, "AxialTilt":-0.345432 }
+{ "timestamp":"2018-03-12T03:11:03Z", "event":"SendText", "To":"John Allbright", "Message":"That's a great system  :)" }
+{ "timestamp":"2018-03-12T03:11:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-12T03:11:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-12T03:12:34Z", "event":"SendText", "To":"John Allbright", "Message":"Well, I'm going to bed now." }
+{ "timestamp":"2018-03-12T03:12:45Z", "event":"ReceiveText", "From":"John Allbright", "Message":"o7", "Channel":"player" }
+{ "timestamp":"2018-03-12T03:12:51Z", "event":"SendText", "To":"John Allbright", "Message":"Safe Travels o7" }
+{ "timestamp":"2018-03-12T03:13:23Z", "event":"Shutdown" }

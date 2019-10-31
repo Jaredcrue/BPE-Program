@@ -1,0 +1,366 @@
+{ "timestamp":"2018-01-22T23:45:10Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r160439/r0 " }
+{ "timestamp":"2018-01-22T23:45:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-22T23:45:10Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-01-22T23:45:46Z", "event":"Friends", "Status":"Online", "Name":"Alex 'Alkhol' Hardin" }
+{ "timestamp":"2018-01-22T23:45:46Z", "event":"Friends", "Status":"Online", "Name":"Zhixian Wu" }
+{ "timestamp":"2018-01-22T23:45:46Z", "event":"Friends", "Status":"Online", "Name":"Vegassimus" }
+{ "timestamp":"2018-01-22T23:45:46Z", "event":"Friends", "Status":"Online", "Name":"Huskeer42" }
+{ "timestamp":"2018-01-22T23:45:46Z", "event":"Friends", "Status":"Online", "Name":"Katie Chan" }
+{ "timestamp":"2018-01-22T23:45:46Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-01-22T23:45:46Z", "event":"Friends", "Status":"Online", "Name":"Leigh Fury" }
+{ "timestamp":"2018-01-22T23:45:59Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-01-22T23:45:59Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2018-01-22T23:45:59Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":115 }, { "Name":"vanadium", "Count":162 }, { "Name":"sulphur", "Count":70 }, { "Name":"iron", "Count":96 }, { "Name":"germanium", "Count":96 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"molybdenum", "Count":66 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":43 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":56 }, { "Name":"cadmium", "Count":63 }, { "Name":"zirconium", "Count":7 }, { "Name":"selenium", "Count":12 }, { "Name":"tungsten", "Count":3 }, { "Name":"yttrium", "Count":12 }, { "Name":"chromium", "Count":34 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Count":7 }, { "Name":"wakesolutions", "Count":1 }, { "Name":"scrambledemissiondata", "Count":2 }, { "Name":"legacyfirmware", "Count":4 }, { "Name":"shielddensityreports", "Count":3 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Count":3 }, { "Name":"securityfirmware", "Count":1 }, { "Name":"fsdtelemetry", "Count":1 } ] }
+{ "timestamp":"2018-01-22T23:45:59Z", "event":"LoadGame", "Commander":"JaredCrue", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":28.049753, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-01-22T23:45:59Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-01-22T23:45:59Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":71, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-01-22T23:46:09Z", "event":"Location", "Docked":false, "StarSystem":"Dryoea Pra QK-C d14-964", "StarPos":[-4196.438,-1357.469,21974.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Dryoea Pra QK-C d14-964 AB", "BodyType":"Null" }
+{ "timestamp":"2018-01-22T23:46:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-22T23:46:09Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T23:46:14Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-22T23:46:15Z", "event":"Friends", "Status":"Online", "Name":"Alex 'Alkhol' Hardin" }
+{ "timestamp":"2018-01-22T23:46:15Z", "event":"Friends", "Status":"Online", "Name":"Zhixian Wu" }
+{ "timestamp":"2018-01-22T23:46:15Z", "event":"Friends", "Status":"Online", "Name":"Vegassimus" }
+{ "timestamp":"2018-01-22T23:46:15Z", "event":"Friends", "Status":"Online", "Name":"Huskeer42" }
+{ "timestamp":"2018-01-22T23:46:15Z", "event":"Friends", "Status":"Online", "Name":"Katie Chan" }
+{ "timestamp":"2018-01-22T23:46:15Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-01-22T23:46:15Z", "event":"Friends", "Status":"Online", "Name":"Leigh Fury" }
+{ "timestamp":"2018-01-22T23:46:19Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T23:46:21Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-22T23:46:26Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T23:46:50Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-22T23:47:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:47:28Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T23:47:31Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-22T23:47:31Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T23:47:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:47:36Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T23:47:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:47:50Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-22T23:48:14Z", "event":"Scan", "BodyName":"Dryoea Pra QK-C d14-964 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.320313, "Radius":900448320.000000, "AbsoluteMagnitude":3.321747, "Age_MY":2428, "SurfaceTemperature":7186.000000, "Luminosity":"Vb", "SemiMajorAxis":147018530816.000000, "Eccentricity":0.056299, "OrbitalInclination":101.223351, "Periapsis":191.811844, "OrbitalPeriod":65123404.000000, "RotationPeriod":220470.281250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-22T23:48:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbe IW-C d2830", "StarClass":"A" }
+{ "timestamp":"2018-01-22T23:48:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-22T23:49:07Z", "event":"FSDJump", "StarSystem":"Myumbe IW-C d2830", "StarPos":[-4170.125,-1356.406,21979.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.988, "FuelUsed":3.904398, "FuelLevel":24.145355 }
+{ "timestamp":"2018-01-22T23:49:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:49:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:49:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:49:29Z", "event":"Scan", "BodyName":"Myumbe IW-C d2830 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.574219, "Radius":913607808.000000, "AbsoluteMagnitude":3.095200, "Age_MY":1888, "SurfaceTemperature":7516.000000, "Luminosity":"Vb", "SemiMajorAxis":24089087442944.000000, "Eccentricity":0.042352, "OrbitalInclination":-86.415009, "Periapsis":33.719013, "OrbitalPeriod":163846684672.000000, "RotationPeriod":113239.851563, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-22T23:49:46Z", "event":"FuelScoop", "Scooped":5.001674, "Total":29.147039 }
+{ "timestamp":"2018-01-22T23:49:49Z", "event":"FuelScoop", "Scooped":2.852969, "Total":32.000000 }
+{ "timestamp":"2018-01-22T23:50:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:50:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:50:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbe SS-F c199", "StarClass":"K" }
+{ "timestamp":"2018-01-22T23:50:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-22T23:51:06Z", "event":"FSDJump", "StarSystem":"Myumbe SS-F c199", "StarPos":[-4144.438,-1356.375,21987.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.877, "FuelUsed":3.966662, "FuelLevel":28.033339 }
+{ "timestamp":"2018-01-22T23:51:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:51:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:51:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:51:30Z", "event":"Scan", "BodyName":"Myumbe SS-F c199", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.644531, "Radius":544972416.000000, "AbsoluteMagnitude":6.768219, "Age_MY":1970, "SurfaceTemperature":4178.000000, "Luminosity":"Va", "RotationPeriod":261308.562500, "AxialTilt":0.000000, "Rings":[ { "Name":"Myumbe SS-F c199 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.1494e+14, "InnerRad":8.2839e+08, "OuterRad":2.0844e+09 }, { "Name":"Myumbe SS-F c199 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":7.3365e+15, "InnerRad":2.3432e+09, "OuterRad":2.3805e+11 } ] }
+{ "timestamp":"2018-01-22T23:51:44Z", "event":"FuelScoop", "Scooped":3.966667, "Total":32.000000 }
+{ "timestamp":"2018-01-22T23:52:22Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbe JW-C d2256", "StarClass":"N" }
+{ "timestamp":"2018-01-22T23:52:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-22T23:52:40Z", "event":"FSDJump", "StarSystem":"Myumbe JW-C d2256", "StarPos":[-4118.906,-1353.531,21996.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.169, "FuelUsed":4.072858, "FuelLevel":27.927141 }
+{ "timestamp":"2018-01-22T23:52:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:52:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:52:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:53:02Z", "event":"Scan", "BodyName":"Myumbe JW-C d2256 A", "DistanceFromArrivalLS":0.000000, "StarType":"N", "StellarMass":0.671875, "Radius":11476.562500, "AbsoluteMagnitude":4.935638, "Age_MY":12590, "SurfaceTemperature":7781145.000000, "Luminosity":"VII", "SemiMajorAxis":317754605568.000000, "Eccentricity":0.019531, "OrbitalInclination":46.552429, "Periapsis":213.073532, "OrbitalPeriod":402376192.000000, "RotationPeriod":0.829052, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-22T23:53:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:53:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:54:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbe TS-F c124", "StarClass":"M" }
+{ "timestamp":"2018-01-22T23:54:15Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-22T23:54:28Z", "event":"FSDJump", "StarSystem":"Myumbe TS-F c124", "StarPos":[-4092.438,-1349.531,21996.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.769, "FuelUsed":3.824174, "FuelLevel":24.102966 }
+{ "timestamp":"2018-01-22T23:54:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:54:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:54:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:54:51Z", "event":"Scan", "BodyName":"Myumbe TS-F c124", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.519531, "Radius":468689856.000000, "AbsoluteMagnitude":7.874863, "Age_MY":2824, "SurfaceTemperature":3492.000000, "Luminosity":"Va", "RotationPeriod":180518.031250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-22T23:54:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:54:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:56:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:56:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:56:57Z", "event":"Scan", "BodyName":"Myumbe TS-F c124 1", "DistanceFromArrivalLS":293.697021, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":99.028664 }, { "Name":"Argon", "Percent":0.970369 } ], "Volcanism":"rocky magma volcanism", "MassEM":0.811954, "Radius":5793209.000000, "SurfaceGravity":9.642785, "SurfaceTemperature":202.334534, "SurfacePressure":21131932.000000, "Landable":false, "SemiMajorAxis":88049999872.000000, "Eccentricity":0.000260, "OrbitalInclination":-0.191122, "Periapsis":271.207489, "OrbitalPeriod":19767336.000000, "RotationPeriod":120942.500000, "AxialTilt":-0.246154 }
+{ "timestamp":"2018-01-22T23:56:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:57:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:58:40Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-22T23:58:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:59:06Z", "event":"Scan", "BodyName":"Myumbe TS-F c124 2", "DistanceFromArrivalLS":400.981537, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":98.439804 }, { "Name":"Argon", "Percent":1.433208 }, { "Name":"Oxygen", "Percent":0.103322 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.907477, "Radius":5989995.000000, "SurfaceGravity":10.080730, "SurfaceTemperature":222.182922, "SurfacePressure":15636736.000000, "Landable":false, "SemiMajorAxis":120202985472.000000, "Eccentricity":0.000069, "OrbitalInclination":-0.037222, "Periapsis":65.808853, "OrbitalPeriod":31530214.000000, "RotationPeriod":93086.507813, "AxialTilt":0.343613 }
+{ "timestamp":"2018-01-22T23:59:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-22T23:59:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-22T23:59:38Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbe PW-J b1-0", "StarClass":"M" }
+{ "timestamp":"2018-01-22T23:59:43Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-22T23:59:57Z", "event":"FSDJump", "StarSystem":"Myumbe PW-J b1-0", "StarPos":[-4067.125,-1346.156,22002.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.155, "FuelUsed":3.507319, "FuelLevel":19.965649 }
+{ "timestamp":"2018-01-22T23:59:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:00:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:00:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:00:20Z", "event":"Scan", "BodyName":"Myumbe PW-J b1-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.312500, "Radius":329008320.000000, "AbsoluteMagnitude":9.427994, "Age_MY":2822, "SurfaceTemperature":2915.000000, "Luminosity":"Va", "RotationPeriod":122705.867188, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:00:33Z", "event":"FuelScoop", "Scooped":5.006724, "Total":24.972353 }
+{ "timestamp":"2018-01-23T00:00:39Z", "event":"FuelScoop", "Scooped":5.012022, "Total":29.984371 }
+{ "timestamp":"2018-01-23T00:00:43Z", "event":"FuelScoop", "Scooped":1.541557, "Total":31.525932 }
+{ "timestamp":"2018-01-23T00:01:10Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbe US-F c73", "StarClass":"K" }
+{ "timestamp":"2018-01-23T00:01:15Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:01:28Z", "event":"FSDJump", "StarSystem":"Myumbe US-F c73", "StarPos":[-4040.875,-1347.781,22008.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.099, "FuelUsed":4.034925, "FuelLevel":27.491007 }
+{ "timestamp":"2018-01-23T00:01:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:01:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:01:50Z", "event":"Scan", "BodyName":"Myumbe US-F c73", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.617188, "Radius":515024000.000000, "AbsoluteMagnitude":6.906586, "Age_MY":4212, "SurfaceTemperature":4163.000000, "Luminosity":"Va", "RotationPeriod":295300.562500, "AxialTilt":0.000000, "Rings":[ { "Name":"Myumbe US-F c73 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.1637e+14, "InnerRad":8.4979e+08, "OuterRad":2.1899e+09 }, { "Name":"Myumbe US-F c73 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.8552e+15, "InnerRad":1.9453e+10, "OuterRad":1.9484e+11 } ] }
+{ "timestamp":"2018-01-23T00:01:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:02:09Z", "event":"FuelScoop", "Scooped":4.508987, "Total":32.000000 }
+{ "timestamp":"2018-01-23T00:02:38Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbe TX-F c124", "StarClass":"M" }
+{ "timestamp":"2018-01-23T00:02:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:02:57Z", "event":"FSDJump", "StarSystem":"Myumbe TX-F c124", "StarPos":[-4015.094,-1341.531,22013.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.856, "FuelUsed":3.959409, "FuelLevel":28.040590 }
+{ "timestamp":"2018-01-23T00:02:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:03:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:03:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:03:31Z", "event":"Scan", "BodyName":"Myumbe TX-F c124", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.539063, "Radius":432267808.000000, "AbsoluteMagnitude":7.959473, "Age_MY":12830, "SurfaceTemperature":3566.000000, "Luminosity":"Va", "RotationPeriod":185906.140625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:03:46Z", "event":"FuelScoop", "Scooped":3.959396, "Total":32.000000 }
+{ "timestamp":"2018-01-23T00:04:22Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbe KW-C d4316", "StarClass":"N" }
+{ "timestamp":"2018-01-23T00:04:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:04:41Z", "event":"FSDJump", "StarSystem":"Myumbe KW-C d4316", "StarPos":[-3989.469,-1344.281,22021.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.013, "FuelUsed":4.015956, "FuelLevel":27.984043 }
+{ "timestamp":"2018-01-23T00:04:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:04:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:04:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:05:00Z", "event":"Scan", "BodyName":"Myumbe KW-C d4316", "DistanceFromArrivalLS":0.000000, "StarType":"N", "StellarMass":0.585938, "Radius":12015.624023, "AbsoluteMagnitude":5.263031, "Age_MY":9836, "SurfaceTemperature":9619411.000000, "Luminosity":"VII", "RotationPeriod":1.498283, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:06:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbe LW-C d428", "StarClass":"A" }
+{ "timestamp":"2018-01-23T00:06:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:07:00Z", "event":"FSDJump", "StarSystem":"Myumbe LW-C d428", "StarPos":[-3963.344,-1341.500,22026.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.756, "FuelUsed":3.820940, "FuelLevel":24.163103 }
+{ "timestamp":"2018-01-23T00:07:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:07:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:07:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:07:23Z", "event":"Scan", "BodyName":"Myumbe LW-C d428", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.695313, "Radius":927021952.000000, "AbsoluteMagnitude":2.483322, "Age_MY":3006, "SurfaceTemperature":8590.000000, "Luminosity":"VI", "RotationPeriod":67868.531250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:07:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:07:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:13:14Z", "event":"Scan", "BodyName":"Myumbe LW-C d428 4", "DistanceFromArrivalLS":1869.227417, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"thick ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":77.519836 }, { "Name":"Nitrogen", "Percent":21.031158 }, { "Name":"Oxygen", "Percent":0.737305 } ], "Volcanism":"major silicate vapour geysers volcanism", "MassEM":3.183041, "Radius":8903326.000000, "SurfaceGravity":16.004684, "SurfaceTemperature":400.838135, "SurfacePressure":1796044.125000, "Landable":false, "SemiMajorAxis":10611443712.000000, "Eccentricity":0.016089, "OrbitalInclination":-2.834862, "Periapsis":209.241318, "OrbitalPeriod":27806408.000000, "RotationPeriod":131139.875000, "AxialTilt":-0.145620, "Rings":[ { "Name":"Myumbe LW-C d428 4 A Ring", "RingClass":"eRingClass_Rocky", "MassMT":7.3927e+10, "InnerRad":1.4416e+07, "OuterRad":5.121e+07 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2018-01-23T00:13:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:13:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:16:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:16:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:19:32Z", "event":"Scan", "BodyName":"Myumbe LW-C d428 5", "DistanceFromArrivalLS":2727.001221, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick water atmosphere", "AtmosphereType":"Water", "AtmosphereComposition":[ { "Name":"Water", "Percent":99.464554 }, { "Name":"Ammonia", "Percent":0.178481 }, { "Name":"Methane", "Percent":0.178481 } ], "Volcanism":"major silicate vapour geysers volcanism", "MassEM":10.492983, "Radius":11587303.000000, "SurfaceGravity":31.148964, "SurfaceTemperature":1400.839844, "SurfacePressure":2563016704.000000, "Landable":false, "SemiMajorAxis":817520967680.000000, "Eccentricity":0.000054, "OrbitalInclination":0.021996, "Periapsis":272.088959, "OrbitalPeriod":307642624.000000, "RotationPeriod":225253.046875, "AxialTilt":-1.418065, "Rings":[ { "Name":"Myumbe LW-C d428 5 A Ring", "RingClass":"eRingClass_Rocky", "MassMT":2.5152e+08, "InnerRad":1.9119e+07, "OuterRad":7.9199e+07 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2018-01-23T00:19:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:19:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:22:59Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbe ZD-E c1-98", "StarClass":"M" }
+{ "timestamp":"2018-01-23T00:23:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:23:18Z", "event":"FSDJump", "StarSystem":"Myumbe ZD-E c1-98", "StarPos":[-3938.063,-1340.063,22036.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.146, "FuelUsed":3.859368, "FuelLevel":20.303736 }
+{ "timestamp":"2018-01-23T00:23:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:23:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:23:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:23:41Z", "event":"Scan", "BodyName":"Myumbe ZD-E c1-98", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.480469, "Radius":467076768.000000, "AbsoluteMagnitude":8.054916, "Age_MY":9262, "SurfaceTemperature":3356.000000, "Luminosity":"Va", "RotationPeriod":248882.859375, "AxialTilt":0.000000, "Rings":[ { "Name":"Myumbe ZD-E c1-98 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":9.5505e+13, "InnerRad":7.7068e+08, "OuterRad":2.0315e+09 } ] }
+{ "timestamp":"2018-01-23T00:23:56Z", "event":"FuelScoop", "Scooped":5.010210, "Total":25.313946 }
+{ "timestamp":"2018-01-23T00:24:02Z", "event":"FuelScoop", "Scooped":5.004685, "Total":30.318628 }
+{ "timestamp":"2018-01-23T00:24:04Z", "event":"FuelScoop", "Scooped":1.681373, "Total":32.000000 }
+{ "timestamp":"2018-01-23T00:24:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbe DO-G b3-1", "StarClass":"M" }
+{ "timestamp":"2018-01-23T00:24:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:24:53Z", "event":"FSDJump", "StarSystem":"Myumbe DO-G b3-1", "StarPos":[-3912.406,-1335.469,22043.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.996, "FuelUsed":4.010076, "FuelLevel":27.359926 }
+{ "timestamp":"2018-01-23T00:24:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:25:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:25:17Z", "event":"Scan", "BodyName":"Myumbe DO-G b3-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.296875, "Radius":339663264.000000, "AbsoluteMagnitude":9.817276, "Age_MY":664, "SurfaceTemperature":2623.000000, "Luminosity":"Va", "RotationPeriod":147397.359375, "AxialTilt":0.000000, "Rings":[ { "Name":"Myumbe DO-G b3-1 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":6.7024e+13, "InnerRad":6.7293e+08, "OuterRad":1.6098e+09 }, { "Name":"Myumbe DO-G b3-1 B Belt", "RingClass":"eRingClass_Icy", "MassMT":1.6479e+14, "InnerRad":4.9582e+10, "OuterRad":1.9833e+11 } ] }
+{ "timestamp":"2018-01-23T00:25:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:25:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:25:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:25:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:25:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:26:02Z", "event":"Scan", "BodyName":"Myumbe DO-G b3-1 1", "DistanceFromArrivalLS":9.279171, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"minor silicate vapour geysers volcanism", "MassEM":0.534377, "Radius":5029733.500000, "SurfaceGravity":8.419129, "SurfaceTemperature":581.647156, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":21.326668 }, { "Name":"nickel", "Percent":16.130600 }, { "Name":"sulphur", "Percent":15.031666 }, { "Name":"carbon", "Percent":12.640074 }, { "Name":"chromium", "Percent":9.591311 }, { "Name":"manganese", "Percent":8.807696 }, { "Name":"phosphorus", "Percent":8.092392 }, { "Name":"germanium", "Percent":4.433925 }, { "Name":"niobium", "Percent":1.457564 }, { "Name":"ruthenium", "Percent":1.317058 }, { "Name":"tungsten", "Percent":1.171048 } ], "SemiMajorAxis":2782017280.000000, "Eccentricity":0.000073, "OrbitalInclination":-0.000989, "Periapsis":31.118376, "OrbitalPeriod":146543.281250, "RotationPeriod":146869.531250, "AxialTilt":0.239836 }
+{ "timestamp":"2018-01-23T00:26:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:26:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:26:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:26:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:26:53Z", "event":"Scan", "BodyName":"Myumbe DO-G b3-1 2", "DistanceFromArrivalLS":15.774055, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"minor rocky magma volcanism", "MassEM":0.415313, "Radius":4654971.500000, "SurfaceGravity":7.639259, "SurfaceTemperature":446.125793, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":21.673384 }, { "Name":"nickel", "Percent":16.392841 }, { "Name":"sulphur", "Percent":15.276040 }, { "Name":"carbon", "Percent":12.845567 }, { "Name":"chromium", "Percent":9.747240 }, { "Name":"manganese", "Percent":8.950886 }, { "Name":"phosphorus", "Percent":8.223954 }, { "Name":"zirconium", "Percent":2.516726 }, { "Name":"cadmium", "Percent":1.683037 }, { "Name":"tin", "Percent":1.395800 }, { "Name":"yttrium", "Percent":1.294525 } ], "SemiMajorAxis":4728945664.000000, "Eccentricity":0.000003, "OrbitalInclination":-0.000469, "Periapsis":340.261749, "OrbitalPeriod":324767.562500, "RotationPeriod":325490.625000, "AxialTilt":0.291019 }
+{ "timestamp":"2018-01-23T00:26:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:27:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:27:32Z", "event":"Scan", "BodyName":"Myumbe DO-G b3-1 3", "DistanceFromArrivalLS":28.996290, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":97.295799 }, { "Name":"SulphurDioxide", "Percent":2.704197 } ], "Volcanism":"rocky magma volcanism", "MassEM":0.607507, "Radius":5230503.500000, "SurfaceGravity":8.850624, "SurfaceTemperature":851.643188, "SurfacePressure":4133350.750000, "Landable":false, "SemiMajorAxis":8692226048.000000, "Eccentricity":0.000122, "OrbitalInclination":0.002715, "Periapsis":98.079994, "OrbitalPeriod":809324.562500, "RotationPeriod":811126.437500, "AxialTilt":0.435589 }
+{ "timestamp":"2018-01-23T00:27:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:27:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:28:17Z", "event":"Scan", "BodyName":"Myumbe DO-G b3-1 4", "DistanceFromArrivalLS":51.587109, "TidalLock":true, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"hot thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":98.310677 }, { "Name":"Argon", "Percent":1.313792 }, { "Name":"Water", "Percent":0.367656 } ], "Volcanism":"major water geysers volcanism", "MassEM":1.580381, "Radius":8258012.000000, "SurfaceGravity":9.236770, "SurfaceTemperature":603.692749, "SurfacePressure":177843600.000000, "Landable":false, "SemiMajorAxis":15465381888.000000, "Eccentricity":0.000004, "OrbitalInclination":0.000040, "Periapsis":313.966309, "OrbitalPeriod":1920733.750000, "RotationPeriod":1925009.875000, "AxialTilt":0.010534 }
+{ "timestamp":"2018-01-23T00:28:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:28:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:28:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:28:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:29:13Z", "event":"Scan", "BodyName":"Myumbe DO-G b3-1 5", "DistanceFromArrivalLS":91.862411, "TidalLock":true, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":95.307968 }, { "Name":"Argon", "Percent":3.975782 }, { "Name":"CarbonDioxide", "Percent":0.658518 } ], "Volcanism":"major water geysers volcanism", "MassEM":4.519225, "Radius":11073411.000000, "SurfaceGravity":14.689619, "SurfaceTemperature":374.210083, "SurfacePressure":144777024.000000, "Landable":false, "SemiMajorAxis":27539877888.000000, "Eccentricity":0.000023, "OrbitalInclination":-0.006760, "Periapsis":6.316641, "OrbitalPeriod":4564247.500000, "RotationPeriod":4574409.000000, "AxialTilt":-1.320769 }
+{ "timestamp":"2018-01-23T00:29:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:29:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:29:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae WV-C d2763", "StarClass":"M" }
+{ "timestamp":"2018-01-23T00:29:50Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:30:04Z", "event":"FSDJump", "StarSystem":"Myumbiae WV-C d2763", "StarPos":[-3886.344,-1331.063,22047.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.743, "FuelUsed":3.800577, "FuelLevel":23.559349 }
+{ "timestamp":"2018-01-23T00:30:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:30:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:30:27Z", "event":"Scan", "BodyName":"Myumbiae WV-C d2763", "DistanceFromArrivalLS":0.000000, "StarType":"M_RedGiant", "StellarMass":0.980469, "Radius":20693286912.000000, "AbsoluteMagnitude":0.532181, "Age_MY":11808, "SurfaceTemperature":2849.000000, "Luminosity":"IIIb", "RotationPeriod":10446160.000000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:30:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:30:48Z", "event":"FuelScoop", "Scooped":5.010392, "Total":28.569742 }
+{ "timestamp":"2018-01-23T00:30:52Z", "event":"FuelScoop", "Scooped":3.430250, "Total":32.000000 }
+{ "timestamp":"2018-01-23T00:30:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:30:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:31:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae WV-C d3557", "StarClass":"N" }
+{ "timestamp":"2018-01-23T00:31:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:31:52Z", "event":"FSDJump", "StarSystem":"Myumbiae WV-C d3557", "StarPos":[-3860.813,-1324.250,22053.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.090, "FuelUsed":4.044285, "FuelLevel":27.955715 }
+{ "timestamp":"2018-01-23T00:31:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:32:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:32:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:32:12Z", "event":"Scan", "BodyName":"Myumbiae WV-C d3557 A", "DistanceFromArrivalLS":0.000000, "StarType":"N", "StellarMass":0.535156, "Radius":12304.687500, "AbsoluteMagnitude":4.692368, "Age_MY":12871, "SurfaceTemperature":6706387.000000, "Luminosity":"VII", "SemiMajorAxis":2862937800704.000000, "Eccentricity":0.045764, "OrbitalInclination":27.744333, "Periapsis":75.860146, "OrbitalPeriod":19896367104.000000, "RotationPeriod":1.013834, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:32:39Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-23T00:32:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae AC-B d1-3509", "StarClass":"N" }
+{ "timestamp":"2018-01-23T00:32:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:32:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:33:05Z", "event":"FSDJump", "StarSystem":"Myumbiae AC-B d1-3509", "StarPos":[-3835.156,-1326.000,22061.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.104, "FuelUsed":3.943102, "FuelLevel":24.012613 }
+{ "timestamp":"2018-01-23T00:33:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:33:25Z", "event":"Scan", "BodyName":"Myumbiae AC-B d1-3509 A", "DistanceFromArrivalLS":0.000000, "StarType":"N", "StellarMass":0.750000, "Radius":11082.031250, "AbsoluteMagnitude":4.539261, "Age_MY":11576, "SurfaceTemperature":6399786.000000, "Luminosity":"VII", "SemiMajorAxis":24181722841088.000000, "Eccentricity":0.109259, "OrbitalInclination":-28.611427, "Periapsis":310.125488, "OrbitalPeriod":412543057920.000000, "RotationPeriod":1.536569, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:33:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:33:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:34:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae BC-B d1-2459", "StarClass":"A" }
+{ "timestamp":"2018-01-23T00:34:13Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:34:26Z", "event":"FSDJump", "StarSystem":"Myumbiae BC-B d1-2459", "StarPos":[-3810.406,-1328.625,22071.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.765, "FuelUsed":3.724326, "FuelLevel":20.288288 }
+{ "timestamp":"2018-01-23T00:34:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:34:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:34:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:35:15Z", "event":"Scan", "BodyName":"Myumbiae BC-B d1-2459 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.750000, "Radius":957310016.000000, "AbsoluteMagnitude":2.318954, "Age_MY":1586, "SurfaceTemperature":8779.000000, "Luminosity":"VI", "SemiMajorAxis":20004728733696.000000, "Eccentricity":0.353089, "OrbitalInclination":-14.929642, "Periapsis":133.707947, "OrbitalPeriod":95134072832.000000, "RotationPeriod":69759.664063, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:35:30Z", "event":"FuelScoop", "Scooped":5.001294, "Total":25.289576 }
+{ "timestamp":"2018-01-23T00:35:36Z", "event":"FuelScoop", "Scooped":5.012162, "Total":30.301725 }
+{ "timestamp":"2018-01-23T00:35:38Z", "event":"FuelScoop", "Scooped":1.698269, "Total":32.000000 }
+{ "timestamp":"2018-01-23T00:36:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae BC-B d1-3448", "StarClass":"A" }
+{ "timestamp":"2018-01-23T00:36:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:36:26Z", "event":"FSDJump", "StarSystem":"Myumbiae BC-B d1-3448", "StarPos":[-3784.813,-1332.313,22079.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.985, "FuelUsed":4.005886, "FuelLevel":27.994114 }
+{ "timestamp":"2018-01-23T00:36:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:36:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:36:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:36:47Z", "event":"Scan", "BodyName":"Myumbiae BC-B d1-3448", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.605469, "Radius":922670848.000000, "AbsoluteMagnitude":2.629684, "Age_MY":1850, "SurfaceTemperature":8325.000000, "Luminosity":"VI", "RotationPeriod":78197.640625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:37:04Z", "event":"FuelScoop", "Scooped":4.005877, "Total":32.000000 }
+{ "timestamp":"2018-01-23T00:37:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae BC-B d1-1604", "StarClass":"F" }
+{ "timestamp":"2018-01-23T00:37:38Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:37:51Z", "event":"FSDJump", "StarSystem":"Myumbiae BC-B d1-1604", "StarPos":[-3757.969,-1335.000,22078.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.980, "FuelUsed":4.003878, "FuelLevel":27.996122 }
+{ "timestamp":"2018-01-23T00:37:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:38:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:38:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:38:13Z", "event":"Scan", "BodyName":"Myumbiae BC-B d1-1604 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.167969, "Radius":833716992.000000, "AbsoluteMagnitude":3.716705, "Age_MY":5820, "SurfaceTemperature":6819.000000, "Luminosity":"Vb", "SemiMajorAxis":886877257728.000000, "Eccentricity":0.001373, "OrbitalInclination":34.505863, "Periapsis":231.497025, "OrbitalPeriod":1883702656.000000, "RotationPeriod":417442.437500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:38:31Z", "event":"FuelScoop", "Scooped":4.003850, "Total":32.000000 }
+{ "timestamp":"2018-01-23T00:39:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae CJ-C c2-41", "StarClass":"K" }
+{ "timestamp":"2018-01-23T00:39:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:39:27Z", "event":"FSDJump", "StarSystem":"Myumbiae CJ-C c2-41", "StarPos":[-3731.500,-1337.656,22084.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.145, "FuelUsed":4.064633, "FuelLevel":27.935368 }
+{ "timestamp":"2018-01-23T00:39:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:39:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:39:50Z", "event":"Scan", "BodyName":"Myumbiae CJ-C c2-41 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.730469, "Radius":571822016.000000, "AbsoluteMagnitude":5.940414, "Age_MY":4828, "SurfaceTemperature":4935.000000, "Luminosity":"Vab", "SemiMajorAxis":10328605696.000000, "Eccentricity":0.075512, "OrbitalInclination":-52.724957, "Periapsis":241.824371, "OrbitalPeriod":1081624.875000, "RotationPeriod":297877.531250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:39:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:40:21Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae CJ-C c2-56", "StarClass":"K" }
+{ "timestamp":"2018-01-23T00:40:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:40:40Z", "event":"FSDJump", "StarSystem":"Myumbiae CJ-C c2-56", "StarPos":[-3705.281,-1334.594,22088.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.762, "FuelUsed":3.821911, "FuelLevel":24.113457 }
+{ "timestamp":"2018-01-23T00:40:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:40:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:40:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:41:01Z", "event":"Scan", "BodyName":"Myumbiae CJ-C c2-56", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.664063, "Radius":548877824.000000, "AbsoluteMagnitude":6.448578, "Age_MY":7956, "SurfaceTemperature":4481.000000, "Luminosity":"Va", "RotationPeriod":303940.000000, "AxialTilt":0.000000, "Rings":[ { "Name":"Myumbiae CJ-C c2-56 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.0519e+14, "InnerRad":1.041e+09, "OuterRad":2.1053e+09 }, { "Name":"Myumbiae CJ-C c2-56 B Belt", "RingClass":"eRingClass_Metalic", "MassMT":7.0103e+13, "InnerRad":7.3118e+09, "OuterRad":1.8571e+11 } ] }
+{ "timestamp":"2018-01-23T00:41:20Z", "event":"FuelScoop", "Scooped":5.002623, "Total":29.116074 }
+{ "timestamp":"2018-01-23T00:41:26Z", "event":"FuelScoop", "Scooped":2.303740, "Total":31.419800 }
+{ "timestamp":"2018-01-23T00:41:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae LY-C b5-4", "StarClass":"M" }
+{ "timestamp":"2018-01-23T00:41:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:42:07Z", "event":"FSDJump", "StarSystem":"Myumbiae LY-C b5-4", "StarPos":[-3678.688,-1336.031,22093.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.005, "FuelUsed":3.998022, "FuelLevel":27.421778 }
+{ "timestamp":"2018-01-23T00:42:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:42:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:42:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:42:29Z", "event":"Scan", "BodyName":"Myumbiae LY-C b5-4", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.281250, "Radius":337519552.000000, "AbsoluteMagnitude":9.753876, "Age_MY":5692, "SurfaceTemperature":2670.000000, "Luminosity":"Va", "RotationPeriod":166662.515625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:42:47Z", "event":"FuelScoop", "Scooped":4.578231, "Total":32.000000 }
+{ "timestamp":"2018-01-23T00:43:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae UO-A f859", "StarClass":"B" }
+{ "timestamp":"2018-01-23T00:43:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:43:30Z", "event":"FSDJump", "StarSystem":"Myumbiae UO-A f859", "StarPos":[-3651.844,-1335.156,22096.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.089, "FuelUsed":4.044062, "FuelLevel":27.955938 }
+{ "timestamp":"2018-01-23T00:43:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:43:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:43:53Z", "event":"Scan", "BodyName":"Myumbiae UO-A f859", "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":4.730469, "Radius":2039380608.000000, "AbsoluteMagnitude":-2.359375, "Age_MY":196, "SurfaceTemperature":17658.000000, "Luminosity":"IVa", "RotationPeriod":99062.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:44:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:44:18Z", "event":"FuelScoop", "Scooped":4.044073, "Total":32.000000 }
+{ "timestamp":"2018-01-23T00:45:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:45:44Z", "event":"Scan", "BodyName":"Myumbiae UO-A f859 1", "DistanceFromArrivalLS":726.064575, "TidalLock":true, "TerraformState":"", "PlanetClass":"Metal rich body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"silicate vapour geysers volcanism", "MassEM":1.263637, "Radius":5187939.500000, "SurfaceGravity":18.712934, "SurfaceTemperature":1085.069214, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":32.825508 }, { "Name":"nickel", "Percent":24.827839 }, { "Name":"chromium", "Percent":14.762720 }, { "Name":"manganese", "Percent":13.556602 }, { "Name":"vanadium", "Percent":8.060803 }, { "Name":"cadmium", "Percent":2.549050 }, { "Name":"niobium", "Percent":2.243448 }, { "Name":"technetium", "Percent":1.174036 } ], "SemiMajorAxis":807435328.000000, "Eccentricity":0.115981, "OrbitalInclination":-0.701567, "Periapsis":130.199722, "OrbitalPeriod":6432772.500000, "RotationPeriod":6031167.000000, "AxialTilt":-0.175018, "Rings":[ { "Name":"Myumbiae UO-A f859 1 A Ring", "RingClass":"eRingClass_Rocky", "MassMT":5.6038e+09, "InnerRad":3.7309e+07, "OuterRad":4.0286e+07 }, { "Name":"Myumbiae UO-A f859 1 B Ring", "RingClass":"eRingClass_Rocky", "MassMT":8.0067e+10, "InnerRad":4.0386e+07, "OuterRad":7.017e+07 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2018-01-23T00:45:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:45:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:45:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:45:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:46:06Z", "event":"Scan", "BodyName":"Myumbiae UO-A f859 2", "DistanceFromArrivalLS":726.486572, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick sulfur dioxide atmosphere", "AtmosphereType":"SulphurDioxide", "AtmosphereComposition":[ { "Name":"SulphurDioxide", "Percent":99.999580 } ], "Volcanism":"metallic magma volcanism", "MassEM":2.709476, "Radius":8166767.500000, "SurfaceGravity":16.191771, "SurfaceTemperature":1290.173706, "SurfacePressure":1771012.250000, "Landable":false, "SemiMajorAxis":376672320.000000, "Eccentricity":0.115981, "OrbitalInclination":-0.701567, "Periapsis":310.199738, "OrbitalPeriod":6432772.500000, "RotationPeriod":132702.437500, "AxialTilt":-0.459427, "Rings":[ { "Name":"Myumbiae UO-A f859 2 A Ring", "RingClass":"eRingClass_Rocky", "MassMT":7.2537e+10, "InnerRad":3.126e+07, "OuterRad":5.7562e+07 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2018-01-23T00:46:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:47:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae DC-B d1-2533", "StarClass":"G" }
+{ "timestamp":"2018-01-23T00:47:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:47:22Z", "event":"FSDJump", "StarSystem":"Myumbiae DC-B d1-2533", "StarPos":[-3626.344,-1334.563,22104.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.587, "FuelUsed":3.862338, "FuelLevel":28.137663 }
+{ "timestamp":"2018-01-23T00:47:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:47:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:47:44Z", "event":"Scan", "BodyName":"Myumbiae DC-B d1-2533", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.921875, "Radius":699638848.000000, "AbsoluteMagnitude":4.680206, "Age_MY":4634, "SurfaceTemperature":5963.000000, "Luminosity":"Vb", "RotationPeriod":322874.093750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:47:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:47:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:47:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:48:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:48:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:49:10Z", "event":"Scan", "BodyName":"Myumbiae DC-B d1-2533 2", "DistanceFromArrivalLS":494.902161, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"oxygen atmosphere", "AtmosphereType":"Oxygen", "AtmosphereComposition":[ { "Name":"Oxygen", "Percent":99.550972 }, { "Name":"Water", "Percent":0.307465 }, { "Name":"Argon", "Percent":0.099108 } ], "Volcanism":"", "MassEM":0.235494, "Radius":3906623.250000, "SurfaceGravity":6.150162, "SurfaceTemperature":296.521729, "SurfacePressure":11614.149414, "Landable":false, "SemiMajorAxis":147708160.000000, "Eccentricity":0.162654, "OrbitalInclination":-8.649672, "Periapsis":114.791115, "OrbitalPeriod":2821777.500000, "RotationPeriod":4191596.250000, "AxialTilt":0.163214 }
+{ "timestamp":"2018-01-23T00:49:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:49:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:49:43Z", "event":"Scan", "BodyName":"Myumbiae DC-B d1-2533 3", "DistanceFromArrivalLS":495.748474, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.432922 }, { "Name":"SulphurDioxide", "Percent":1.567078 } ], "Volcanism":"", "MassEM":0.195180, "Radius":3682835.750000, "SurfaceGravity":5.735621, "SurfaceTemperature":383.853943, "SurfacePressure":30148.302734, "Landable":false, "SemiMajorAxis":178216944.000000, "Eccentricity":0.162654, "OrbitalInclination":-8.649672, "Periapsis":294.791107, "OrbitalPeriod":2821777.500000, "RotationPeriod":2543993.000000, "AxialTilt":0.112475 }
+{ "timestamp":"2018-01-23T00:49:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:49:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:51:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:51:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:52:07Z", "event":"Scan", "BodyName":"Myumbiae DC-B d1-2533 4", "DistanceFromArrivalLS":850.783752, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide rich atmosphere", "AtmosphereType":"CarbonDioxideRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":94.010635 }, { "Name":"CarbonDioxide", "Percent":5.330296 }, { "Name":"Ammonia", "Percent":0.527668 } ], "Volcanism":"", "MassEM":0.493159, "Radius":4913570.500000, "SurfaceGravity":8.141459, "SurfaceTemperature":299.052002, "SurfacePressure":337309.406250, "Landable":false, "SemiMajorAxis":254492884992.000000, "Eccentricity":0.002238, "OrbitalInclination":-0.000651, "Periapsis":302.943573, "OrbitalPeriod":72920480.000000, "RotationPeriod":49297.925781, "AxialTilt":0.101755 }
+{ "timestamp":"2018-01-23T00:52:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:52:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:54:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:54:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:54:47Z", "event":"Scan", "BodyName":"Myumbiae DC-B d1-2533 5", "DistanceFromArrivalLS":2115.307617, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":94.247017 }, { "Name":"Argon", "Percent":5.741791 } ], "Volcanism":"", "MassEM":0.810487, "Radius":5776910.500000, "SurfaceGravity":9.679749, "SurfaceTemperature":141.405945, "SurfacePressure":2716561.000000, "Landable":false, "SemiMajorAxis":636176826368.000000, "Eccentricity":0.004592, "OrbitalInclination":-0.421973, "Periapsis":160.428818, "OrbitalPeriod":288205792.000000, "RotationPeriod":164512.046875, "AxialTilt":-0.683788 }
+{ "timestamp":"2018-01-23T00:54:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:54:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:55:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae JP-A c3-6", "StarClass":"K" }
+{ "timestamp":"2018-01-23T00:55:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:55:50Z", "event":"FSDJump", "StarSystem":"Myumbiae JP-A c3-6", "StarPos":[-3599.875,-1331.813,22108.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.989, "FuelUsed":3.890719, "FuelLevel":23.616945 }
+{ "timestamp":"2018-01-23T00:55:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:55:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:56:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:56:12Z", "event":"Scan", "BodyName":"Myumbiae JP-A c3-6", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.644531, "Radius":527419392.000000, "AbsoluteMagnitude":6.501389, "Age_MY":3328, "SurfaceTemperature":4516.000000, "Luminosity":"Va", "RotationPeriod":247354.109375, "AxialTilt":0.000000, "Rings":[ { "Name":"Myumbiae JP-A c3-6 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.1791e+12, "InnerRad":8.7024e+08, "OuterRad":2.2251e+09 } ] }
+{ "timestamp":"2018-01-23T00:56:27Z", "event":"FuelScoop", "Scooped":5.001932, "Total":28.618900 }
+{ "timestamp":"2018-01-23T00:56:31Z", "event":"FuelScoop", "Scooped":3.381097, "Total":32.000000 }
+{ "timestamp":"2018-01-23T00:56:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:56:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:57:02Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae EC-B d1-1157", "StarClass":"N" }
+{ "timestamp":"2018-01-23T00:57:07Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:57:20Z", "event":"FSDJump", "StarSystem":"Myumbiae EC-B d1-1157", "StarPos":[-3572.844,-1329.938,22107.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.108, "FuelUsed":4.051096, "FuelLevel":27.948904 }
+{ "timestamp":"2018-01-23T00:57:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:57:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:57:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:57:40Z", "event":"Scan", "BodyName":"Myumbiae EC-B d1-1157 A", "DistanceFromArrivalLS":0.000000, "StarType":"N", "StellarMass":0.625000, "Radius":11742.186523, "AbsoluteMagnitude":4.828094, "Age_MY":11694, "SurfaceTemperature":2447844.000000, "Luminosity":"VII", "SemiMajorAxis":5771073945600.000000, "Eccentricity":0.082073, "OrbitalInclination":13.169755, "Periapsis":246.485870, "OrbitalPeriod":24881082368.000000, "RotationPeriod":5.262290, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:58:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae KP-A c3-186", "StarClass":"K" }
+{ "timestamp":"2018-01-23T00:58:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T00:58:34Z", "event":"FSDJump", "StarSystem":"Myumbiae KP-A c3-186", "StarPos":[-3548.719,-1329.219,22118.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.247, "FuelUsed":3.644315, "FuelLevel":24.304588 }
+{ "timestamp":"2018-01-23T00:58:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:58:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:58:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:58:56Z", "event":"Scan", "BodyName":"Myumbiae KP-A c3-186 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.632813, "Radius":520202880.000000, "AbsoluteMagnitude":7.035645, "Age_MY":2470, "SurfaceTemperature":4021.000000, "Luminosity":"Va", "SemiMajorAxis":119660453888.000000, "Eccentricity":0.274630, "OrbitalInclination":-52.440514, "Periapsis":325.869781, "OrbitalPeriod":153552912.000000, "RotationPeriod":213247.015625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T00:59:15Z", "event":"FuelScoop", "Scooped":5.003303, "Total":29.307909 }
+{ "timestamp":"2018-01-23T00:59:18Z", "event":"FuelScoop", "Scooped":2.692082, "Total":32.000000 }
+{ "timestamp":"2018-01-23T00:59:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T00:59:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T00:59:30Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-23T00:59:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T01:00:14Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae LP-A c3-31", "StarClass":"K" }
+{ "timestamp":"2018-01-23T01:00:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T01:00:32Z", "event":"FSDJump", "StarSystem":"Myumbiae LP-A c3-31", "StarPos":[-3522.688,-1329.250,22120.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.113, "FuelUsed":3.695935, "FuelLevel":28.304066 }
+{ "timestamp":"2018-01-23T01:00:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T01:00:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T01:00:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T01:00:55Z", "event":"Scan", "BodyName":"Myumbiae LP-A c3-31", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.632813, "Radius":525296864.000000, "AbsoluteMagnitude":6.450928, "Age_MY":4198, "SurfaceTemperature":4578.000000, "Luminosity":"Va", "RotationPeriod":226152.390625, "AxialTilt":0.000000, "Rings":[ { "Name":"Myumbiae LP-A c3-31 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.0685e+14, "InnerRad":8.6276e+08, "OuterRad":2.0717e+09 } ] }
+{ "timestamp":"2018-01-23T01:01:09Z", "event":"FuelScoop", "Scooped":3.695928, "Total":32.000000 }
+{ "timestamp":"2018-01-23T01:01:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T01:01:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T01:01:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae FC-B d1-2061", "StarClass":"F" }
+{ "timestamp":"2018-01-23T01:01:40Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T01:01:53Z", "event":"FSDJump", "StarSystem":"Myumbiae FC-B d1-2061", "StarPos":[-3496.594,-1332.781,22127.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.191, "FuelUsed":4.081320, "FuelLevel":27.918680 }
+{ "timestamp":"2018-01-23T01:01:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T01:02:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T01:02:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T01:02:15Z", "event":"Scan", "BodyName":"Myumbiae FC-B d1-2061 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.113281, "Radius":788762496.000000, "AbsoluteMagnitude":4.287079, "Age_MY":7314, "SurfaceTemperature":6148.000000, "Luminosity":"Vab", "SemiMajorAxis":4985665880064.000000, "Eccentricity":0.230663, "OrbitalInclination":-20.413448, "Periapsis":44.489826, "OrbitalPeriod":34401529856.000000, "RotationPeriod":308140.375000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T01:02:30Z", "event":"FuelScoop", "Scooped":4.081328, "Total":32.000000 }
+{ "timestamp":"2018-01-23T01:02:58Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae MP-A c3-137", "StarClass":"K" }
+{ "timestamp":"2018-01-23T01:03:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T01:03:17Z", "event":"FSDJump", "StarSystem":"Myumbiae MP-A c3-137", "StarPos":[-3471.813,-1323.125,22132.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.062, "FuelUsed":4.033967, "FuelLevel":27.966034 }
+{ "timestamp":"2018-01-23T01:03:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T01:03:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T01:03:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T01:03:39Z", "event":"Scan", "BodyName":"Myumbiae MP-A c3-137 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.644531, "Radius":555882048.000000, "AbsoluteMagnitude":6.934998, "Age_MY":3756, "SurfaceTemperature":3981.000000, "Luminosity":"Va", "SemiMajorAxis":3519873024000.000000, "Eccentricity":0.064884, "OrbitalInclination":49.715977, "Periapsis":254.176971, "OrbitalPeriod":19444486144.000000, "RotationPeriod":262249.625000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-23T01:03:54Z", "event":"FuelScoop", "Scooped":4.033945, "Total":32.000000 }
+{ "timestamp":"2018-01-23T01:04:25Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Myumbiae CQ-Z b6-1", "StarClass":"M" }
+{ "timestamp":"2018-01-23T01:04:30Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-23T01:04:43Z", "event":"FSDJump", "StarSystem":"Myumbiae CQ-Z b6-1", "StarPos":[-3445.531,-1322.719,22133.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.335, "FuelUsed":3.773564, "FuelLevel":28.226437 }
+{ "timestamp":"2018-01-23T01:04:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T01:04:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T01:04:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T01:05:05Z", "event":"Scan", "BodyName":"Myumbiae CQ-Z b6-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.390625, "Radius":412995520.000000, "AbsoluteMagnitude":8.165848, "Age_MY":4966, "SurfaceTemperature":3479.000000, "Luminosity":"Va", "RotationPeriod":192912.750000, "AxialTilt":0.000000, "Rings":[ { "Name":"Myumbiae CQ-Z b6-1 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":7.3649e+13, "InnerRad":8.1203e+08, "OuterRad":1.764e+09 } ] }
+{ "timestamp":"2018-01-23T01:05:19Z", "event":"FuelScoop", "Scooped":3.773550, "Total":32.000000 }
+{ "timestamp":"2018-01-23T01:05:31Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-23T01:05:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-23T01:05:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-23T01:05:57Z", "event":"Music", "MusicTrack":"Supercruise" }

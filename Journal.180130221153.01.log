@@ -1,0 +1,177 @@
+{ "timestamp":"2018-01-31T03:11:53Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r160439/r0 " }
+{ "timestamp":"2018-01-31T03:11:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:11:53Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-01-31T03:13:19Z", "event":"Friends", "Status":"Online", "Name":"Aquafunkalisticbooty" }
+{ "timestamp":"2018-01-31T03:13:19Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-01-31T03:13:42Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-01-31T03:13:42Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2018-01-31T03:13:42Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":115 }, { "Name":"vanadium", "Count":162 }, { "Name":"sulphur", "Count":69 }, { "Name":"iron", "Count":96 }, { "Name":"germanium", "Count":96 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"molybdenum", "Count":66 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":42 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":56 }, { "Name":"cadmium", "Count":63 }, { "Name":"zirconium", "Count":7 }, { "Name":"selenium", "Count":12 }, { "Name":"tungsten", "Count":3 }, { "Name":"yttrium", "Count":12 }, { "Name":"chromium", "Count":34 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Count":7 }, { "Name":"wakesolutions", "Count":1 }, { "Name":"scrambledemissiondata", "Count":2 }, { "Name":"legacyfirmware", "Count":4 }, { "Name":"shielddensityreports", "Count":3 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Count":3 }, { "Name":"securityfirmware", "Count":1 }, { "Name":"fsdtelemetry", "Count":1 } ] }
+{ "timestamp":"2018-01-31T03:13:42Z", "event":"LoadGame", "Commander":"JaredCrue", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":28.431942, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-01-31T03:13:42Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-01-31T03:13:42Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":71, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-01-31T03:13:52Z", "event":"Friends", "Status":"Online", "Name":"Aquafunkalisticbooty" }
+{ "timestamp":"2018-01-31T03:13:52Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-01-31T03:13:53Z", "event":"Location", "Docked":false, "StarSystem":"Plipoe PM-V d2-274", "StarPos":[-407.250,1583.156,27338.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Plipoe PM-V d2-274 A", "BodyType":"Star" }
+{ "timestamp":"2018-01-31T03:13:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:13:53Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-31T03:13:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:14:17Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-31T03:14:22Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-31T03:14:29Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-31T03:14:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:14:56Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-31T03:15:06Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-01-31T03:15:11Z", "event":"SupercruiseEntry", "StarSystem":"Plipoe PM-V d2-274" }
+{ "timestamp":"2018-01-31T03:15:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:15:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:15:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:15:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:15:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:15:39Z", "event":"Scan", "BodyName":"Plipoe PM-V d2-274 B", "DistanceFromArrivalLS":7.025032, "StarType":"K", "StellarMass":0.828125, "Radius":559511552.000000, "AbsoluteMagnitude":6.245148, "Age_MY":3346, "SurfaceTemperature":4651.000000, "Luminosity":"Va", "SemiMajorAxis":1190697728.000000, "Eccentricity":0.014276, "OrbitalInclination":-83.758415, "Periapsis":184.237503, "OrbitalPeriod":37033.078125, "RotationPeriod":255906.859375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-31T03:16:10Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plipoe HL-Y e1994", "StarClass":"B" }
+{ "timestamp":"2018-01-31T03:16:15Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:16:28Z", "event":"FSDJump", "StarSystem":"Plipoe HL-Y e1994", "StarPos":[-407.625,1567.500,27360.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.700, "FuelUsed":3.812737, "FuelLevel":24.619205 }
+{ "timestamp":"2018-01-31T03:16:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:16:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:16:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:16:51Z", "event":"Scan", "BodyName":"Plipoe HL-Y e1994", "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":4.617188, "Radius":1771160320.000000, "AbsoluteMagnitude":-1.221008, "Age_MY":174, "SurfaceTemperature":14580.000000, "Luminosity":"Vz", "RotationPeriod":80164.773438, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-31T03:17:09Z", "event":"FuelScoop", "Scooped":5.004335, "Total":29.623507 }
+{ "timestamp":"2018-01-31T03:17:12Z", "event":"FuelScoop", "Scooped":2.376508, "Total":32.000000 }
+{ "timestamp":"2018-01-31T03:17:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:17:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:17:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plipoe RH-V d2-589", "StarClass":"A" }
+{ "timestamp":"2018-01-31T03:17:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:18:07Z", "event":"FSDJump", "StarSystem":"Plipoe RH-V d2-589", "StarPos":[-416.313,1555.500,27383.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.148, "FuelUsed":4.065310, "FuelLevel":27.934690 }
+{ "timestamp":"2018-01-31T03:18:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:18:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:18:28Z", "event":"Scan", "BodyName":"Plipoe RH-V d2-589 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.527344, "Radius":912546560.000000, "AbsoluteMagnitude":3.064331, "Age_MY":1388, "SurfaceTemperature":7574.000000, "Luminosity":"Vb", "SemiMajorAxis":45085118955520.000000, "Eccentricity":0.282362, "OrbitalInclination":22.364855, "Periapsis":158.577591, "OrbitalPeriod":494633713664.000000, "RotationPeriod":105111.398438, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-31T03:18:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:18:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:18:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:18:45Z", "event":"Friends", "Status":"Online", "Name":"Natalie Portman" }
+{ "timestamp":"2018-01-31T03:18:57Z", "event":"FuelScoop", "Scooped":4.065344, "Total":32.000000 }
+{ "timestamp":"2018-01-31T03:21:12Z", "event":"Scan", "BodyName":"Plipoe RH-V d2-589 A 9", "DistanceFromArrivalLS":1740.408325, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":92.284454 }, { "Name":"Oxygen", "Percent":5.645918 }, { "Name":"Water", "Percent":2.043527 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.810977, "Radius":5715329.000000, "SurfaceGravity":9.895447, "SurfaceTemperature":341.630463, "SurfacePressure":357882.750000, "Landable":false, "SemiMajorAxis":521769779200.000000, "Eccentricity":0.001918, "OrbitalInclination":-0.042181, "Periapsis":174.110336, "OrbitalPeriod":166305632.000000, "RotationPeriod":41512.703125, "AxialTilt":0.018558 }
+{ "timestamp":"2018-01-31T03:21:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:21:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:21:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:21:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:23:29Z", "event":"Scan", "BodyName":"Plipoe RH-V d2-589 A 12", "DistanceFromArrivalLS":4676.383789, "TidalLock":false, "TerraformState":"", "PlanetClass":"Ammonia world", "Atmosphere":"thick  atmosphere", "AtmosphereType":"AmmoniaOxygen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":95.741386 }, { "Name":"Argon", "Percent":4.201343 } ], "Volcanism":"water geysers volcanism", "MassEM":5.512092, "Radius":11979157.000000, "SurfaceGravity":15.309936, "SurfaceTemperature":178.283401, "SurfacePressure":171192512.000000, "Landable":false, "SemiMajorAxis":1402359382016.000000, "Eccentricity":0.000861, "OrbitalInclination":0.496121, "Periapsis":113.774307, "OrbitalPeriod":732786752.000000, "RotationPeriod":141476.875000, "AxialTilt":-0.178378, "Rings":[ { "Name":"Plipoe RH-V d2-589 A 12 A Ring", "RingClass":"eRingClass_Rocky", "MassMT":6.4907e+08, "InnerRad":1.9766e+07, "OuterRad":6.626e+07 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2018-01-31T03:23:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:24:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:24:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:24:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:27:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:27:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:30:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:31:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:31:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:31:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:31:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plipoe RH-V d2-2300", "StarClass":"F" }
+{ "timestamp":"2018-01-31T03:31:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:32:11Z", "event":"FSDJump", "StarSystem":"Plipoe RH-V d2-2300", "StarPos":[-422.875,1541.281,27405.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.928, "FuelUsed":3.968997, "FuelLevel":27.401003 }
+{ "timestamp":"2018-01-31T03:32:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:32:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:32:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:32:31Z", "event":"Friends", "Status":"Online", "Name":"Klutz" }
+{ "timestamp":"2018-01-31T03:32:32Z", "event":"Scan", "BodyName":"Plipoe RH-V d2-2300 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.277344, "Radius":852649664.000000, "AbsoluteMagnitude":3.448090, "Age_MY":2936, "SurfaceTemperature":7173.000000, "Luminosity":"Vb", "SemiMajorAxis":5714447171584.000000, "Eccentricity":0.052887, "OrbitalInclination":23.792524, "Periapsis":114.287689, "OrbitalPeriod":36230897664.000000, "RotationPeriod":368309.156250, "AxialTilt":0.000000, "Rings":[ { "Name":"Plipoe RH-V d2-2300 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.4702e+15, "InnerRad":4.2263e+09, "OuterRad":2.7049e+11 } ] }
+{ "timestamp":"2018-01-31T03:32:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:32:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:33:04Z", "event":"FuelScoop", "Scooped":4.599015, "Total":32.000000 }
+{ "timestamp":"2018-01-31T03:33:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:33:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:33:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plipoe VN-T d3-1171", "StarClass":"F" }
+{ "timestamp":"2018-01-31T03:33:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:33:58Z", "event":"FSDJump", "StarSystem":"Plipoe VN-T d3-1171", "StarPos":[-427.406,1530.063,27428.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.154, "FuelUsed":3.710408, "FuelLevel":28.289593 }
+{ "timestamp":"2018-01-31T03:33:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:34:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:34:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:34:20Z", "event":"Scan", "BodyName":"Plipoe VN-T d3-1171", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.207031, "Radius":761891712.000000, "AbsoluteMagnitude":3.936646, "Age_MY":906, "SurfaceTemperature":6781.000000, "Luminosity":"VI", "RotationPeriod":383698.875000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-31T03:34:37Z", "event":"FuelScoop", "Scooped":3.710418, "Total":32.000000 }
+{ "timestamp":"2018-01-31T03:34:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:34:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:35:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plipoe VN-T d3-930", "StarClass":"G" }
+{ "timestamp":"2018-01-31T03:35:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:35:38Z", "event":"FSDJump", "StarSystem":"Plipoe VN-T d3-930", "StarPos":[-434.781,1522.281,27452.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.686, "FuelUsed":3.898108, "FuelLevel":28.101891 }
+{ "timestamp":"2018-01-31T03:35:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:35:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:35:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:36:00Z", "event":"Scan", "BodyName":"Plipoe VN-T d3-930 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.210938, "Radius":781949312.000000, "AbsoluteMagnitude":4.454697, "Age_MY":1320, "SurfaceTemperature":5941.000000, "Luminosity":"Vab", "SemiMajorAxis":510997266432.000000, "Eccentricity":0.097123, "OrbitalInclination":-8.223887, "Periapsis":300.252563, "OrbitalPeriod":642668992.000000, "RotationPeriod":356954.937500, "AxialTilt":0.000000, "Rings":[ { "Name":"Plipoe VN-T d3-930 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.4832e+14, "InnerRad":1.3763e+09, "OuterRad":2.572e+09 }, { "Name":"Plipoe VN-T d3-930 A B Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.3152e+16, "InnerRad":5.6863e+09, "OuterRad":2.2926e+11 } ] }
+{ "timestamp":"2018-01-31T03:36:14Z", "event":"FuelScoop", "Scooped":3.898122, "Total":32.000000 }
+{ "timestamp":"2018-01-31T03:36:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:36:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:36:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plipoe UH-L c8-78", "StarClass":"K" }
+{ "timestamp":"2018-01-31T03:36:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:37:06Z", "event":"FSDJump", "StarSystem":"Plipoe UH-L c8-78", "StarPos":[-437.625,1507.469,27474.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.855, "FuelUsed":3.958395, "FuelLevel":28.041605 }
+{ "timestamp":"2018-01-31T03:37:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:37:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:37:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:37:28Z", "event":"Scan", "BodyName":"Plipoe UH-L c8-78 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.617188, "Radius":483886944.000000, "AbsoluteMagnitude":7.058792, "Age_MY":12872, "SurfaceTemperature":4147.000000, "Luminosity":"Va", "SemiMajorAxis":10869328052224.000000, "Eccentricity":0.134300, "OrbitalInclination":-8.559180, "Periapsis":17.118383, "OrbitalPeriod":71919239168.000000, "RotationPeriod":197003.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-31T03:37:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:37:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:37:51Z", "event":"FuelScoop", "Scooped":3.958384, "Total":32.000000 }
+{ "timestamp":"2018-01-31T03:37:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:37:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:37:59Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-31T03:38:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:38:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:38:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:38:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plipoe ZT-R d4-1254", "StarClass":"A" }
+{ "timestamp":"2018-01-31T03:38:48Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:39:01Z", "event":"FSDJump", "StarSystem":"Plipoe ZT-R d4-1254", "StarPos":[-440.406,1495.844,27498.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.560, "FuelUsed":3.853148, "FuelLevel":28.146851 }
+{ "timestamp":"2018-01-31T03:39:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:39:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:39:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:39:24Z", "event":"Scan", "BodyName":"Plipoe ZT-R d4-1254", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.613281, "Radius":926024448.000000, "AbsoluteMagnitude":2.685913, "Age_MY":1158, "SurfaceTemperature":8203.000000, "Luminosity":"Vb", "RotationPeriod":71987.148438, "AxialTilt":0.000000, "Rings":[ { "Name":"Plipoe ZT-R d4-1254 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.9669e+16, "InnerRad":3.4347e+10, "OuterRad":2.1809e+11 } ] }
+{ "timestamp":"2018-01-31T03:39:39Z", "event":"FuelScoop", "Scooped":3.853153, "Total":32.000000 }
+{ "timestamp":"2018-01-31T03:39:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:39:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:40:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plipoe BP-R d4-959", "StarClass":"F" }
+{ "timestamp":"2018-01-31T03:40:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:40:30Z", "event":"FSDJump", "StarSystem":"Plipoe BP-R d4-959", "StarPos":[-446.469,1486.719,27522.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.638, "FuelUsed":3.881065, "FuelLevel":28.118935 }
+{ "timestamp":"2018-01-31T03:40:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:40:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:40:55Z", "event":"Scan", "BodyName":"Plipoe BP-R d4-959 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.550781, "Radius":874193024.000000, "AbsoluteMagnitude":3.470871, "Age_MY":1636, "SurfaceTemperature":7047.000000, "Luminosity":"Vb", "SemiMajorAxis":15065153536000.000000, "Eccentricity":0.313982, "OrbitalInclination":-7.567219, "Periapsis":208.520859, "OrbitalPeriod":148885864448.000000, "RotationPeriod":101409.828125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-31T03:41:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:41:31Z", "event":"FuelScoop", "Scooped":3.881082, "Total":32.000000 }
+{ "timestamp":"2018-01-31T03:41:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:41:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:42:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:42:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:43:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:43:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:43:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:43:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:43:41Z", "event":"Scan", "BodyName":"Plipoe BP-R d4-959 A 5", "DistanceFromArrivalLS":2195.185059, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":87.620560 }, { "Name":"Oxygen", "Percent":8.230650 }, { "Name":"CarbonDioxide", "Percent":3.868439 } ], "Volcanism":"metallic magma volcanism", "MassEM":2.374830, "Radius":7823237.000000, "SurfaceGravity":15.465678, "SurfaceTemperature":240.048615, "SurfacePressure":274390.812500, "Landable":false, "SemiMajorAxis":658843107328.000000, "Eccentricity":0.003020, "OrbitalInclination":1.602131, "Periapsis":78.461884, "OrbitalPeriod":234191856.000000, "RotationPeriod":67535.687500, "AxialTilt":0.403600 }
+{ "timestamp":"2018-01-31T03:44:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plipoe EP-H c10-125", "StarClass":"K" }
+{ "timestamp":"2018-01-31T03:44:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:44:49Z", "event":"FSDJump", "StarSystem":"Plipoe EP-H c10-125", "StarPos":[-459.375,1474.094,27542.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.529, "FuelUsed":3.842056, "FuelLevel":28.157944 }
+{ "timestamp":"2018-01-31T03:44:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:44:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:45:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:45:11Z", "event":"Scan", "BodyName":"Plipoe EP-H c10-125 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.785156, "Radius":602003968.000000, "AbsoluteMagnitude":5.703735, "Age_MY":6528, "SurfaceTemperature":5079.000000, "Luminosity":"Vab", "SemiMajorAxis":22307139584.000000, "Eccentricity":0.185660, "OrbitalInclination":22.056915, "Periapsis":136.773483, "OrbitalPeriod":8360156.500000, "RotationPeriod":271939.093750, "AxialTilt":0.000000, "Rings":[ { "Name":"Plipoe EP-H c10-125 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.4493e+13, "InnerRad":1.2007e+09, "OuterRad":2.2262e+09 } ] }
+{ "timestamp":"2018-01-31T03:45:27Z", "event":"FuelScoop", "Scooped":3.842084, "Total":32.000000 }
+{ "timestamp":"2018-01-31T03:45:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:45:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:45:41Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-31T03:45:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:45:46Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-31T03:45:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:46:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plipoe BP-R d4-2859", "StarClass":"F" }
+{ "timestamp":"2018-01-31T03:46:13Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-31T03:46:26Z", "event":"FSDJump", "StarSystem":"Plipoe BP-R d4-2859", "StarPos":[-464.156,1457.469,27563.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.111, "FuelUsed":4.052126, "FuelLevel":27.947874 }
+{ "timestamp":"2018-01-31T03:46:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:46:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:47:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:47:06Z", "event":"Scan", "BodyName":"Plipoe BP-R d4-2859", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.195313, "Radius":814996544.000000, "AbsoluteMagnitude":4.145920, "Age_MY":2188, "SurfaceTemperature":6248.000000, "Luminosity":"Vab", "RotationPeriod":392716.437500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-31T03:47:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:47:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:47:30Z", "event":"FuelScoop", "Scooped":4.052124, "Total":32.000000 }
+{ "timestamp":"2018-01-31T03:47:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:47:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:48:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:48:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:49:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:49:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-31T03:49:30Z", "event":"Scan", "BodyName":"Plipoe BP-R d4-2859 4", "DistanceFromArrivalLS":1023.327881, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":71.522881 }, { "Name":"Oxygen", "Percent":27.461826 }, { "Name":"SulphurDioxide", "Percent":0.767867 } ], "Volcanism":"", "MassEM":0.191582, "Radius":3660891.000000, "SurfaceGravity":5.697568, "SurfaceTemperature":304.981567, "SurfacePressure":29601.652344, "Landable":false, "SemiMajorAxis":306827362304.000000, "Eccentricity":0.000170, "OrbitalInclination":-0.005411, "Periapsis":287.007568, "OrbitalPeriod":84776120.000000, "RotationPeriod":81335.414063, "AxialTilt":0.317840 }
+{ "timestamp":"2018-01-31T03:49:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-31T03:49:36Z", "event":"Music", "MusicTrack":"Supercruise" }

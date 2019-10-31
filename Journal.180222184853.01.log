@@ -1,0 +1,1026 @@
+{ "timestamp":"2018-02-22T23:48:53Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r160439/r0 " }
+{ "timestamp":"2018-02-22T23:48:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-22T23:48:53Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-02-22T23:49:31Z", "event":"Friends", "Status":"Online", "Name":"Twenty9er" }
+{ "timestamp":"2018-02-22T23:51:01Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-02-22T23:51:01Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2018-02-22T23:51:01Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":115 }, { "Name":"vanadium", "Count":162 }, { "Name":"sulphur", "Count":70 }, { "Name":"iron", "Count":96 }, { "Name":"germanium", "Count":96 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"molybdenum", "Count":66 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":45 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":56 }, { "Name":"cadmium", "Count":63 }, { "Name":"zirconium", "Count":7 }, { "Name":"selenium", "Count":12 }, { "Name":"tungsten", "Count":3 }, { "Name":"yttrium", "Count":12 }, { "Name":"chromium", "Count":34 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Count":7 }, { "Name":"wakesolutions", "Count":1 }, { "Name":"scrambledemissiondata", "Count":2 }, { "Name":"legacyfirmware", "Count":4 }, { "Name":"shielddensityreports", "Count":3 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Count":3 }, { "Name":"securityfirmware", "Count":1 }, { "Name":"fsdtelemetry", "Count":1 } ] }
+{ "timestamp":"2018-02-22T23:51:01Z", "event":"LoadGame", "Commander":"JaredCrue", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":31.370001, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-02-22T23:51:01Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-02-22T23:51:01Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":71, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-02-22T23:51:17Z", "event":"Location", "Docked":false, "StarSystem":"Oupailks BB-M c8-5", "StarPos":[6776.719,376.781,46679.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Oupailks BB-M c8-5", "BodyType":"Star" }
+{ "timestamp":"2018-02-22T23:51:18Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-22T23:51:18Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-22T23:51:31Z", "event":"Friends", "Status":"Online", "Name":"Twenty9er" }
+{ "timestamp":"2018-02-22T23:51:33Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-02-22T23:51:38Z", "event":"SupercruiseEntry", "StarSystem":"Oupailks BB-M c8-5" }
+{ "timestamp":"2018-02-22T23:51:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-22T23:51:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-22T23:52:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-22T23:52:14Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-22T23:52:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-22T23:53:00Z", "event":"SendText", "To":"Twenty9er", "Message":"o7" }
+{ "timestamp":"2018-02-22T23:53:20Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"o7", "Channel":"player" }
+{ "timestamp":"2018-02-22T23:53:35Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"getting out ahead of the expedition also?", "Channel":"player" }
+{ "timestamp":"2018-02-22T23:54:07Z", "event":"SendText", "To":"Twenty9er", "Message":"Yep, following you now.  " }
+{ "timestamp":"2018-02-22T23:54:25Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"I knew I heard something! lol", "Channel":"player" }
+{ "timestamp":"2018-02-22T23:54:32Z", "event":"SendText", "To":"Twenty9er", "Message":"lol" }
+{ "timestamp":"2018-02-22T23:54:48Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"yeah I have a few weeks of work that may keep me off for a bit, so making a quick push to BP...plus 3.0 is tempting me back to the bubble I must admit.", "Channel":"player" }
+{ "timestamp":"2018-02-22T23:57:01Z", "event":"SendText", "To":"Twenty9er", "Message":"Cool, I just don't want to spend 7 months flying.  ;)  I will also go back to the bubble..." }
+{ "timestamp":"2018-02-22T23:57:10Z", "event":"SendText", "To":"Twenty9er", "Message":"to upgrade my ship." }
+{ "timestamp":"2018-02-22T23:58:10Z", "event":"SendText", "To":"Twenty9er", "Message":"Hopefuly the Thargoids haven't taken over by then." }
+{ "timestamp":"2018-02-22T23:58:24Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"Same here! I have an alt account too, but want my main back in reasonable time. Really not finding anything good lately..bunch of dud systems in this area of space.", "Channel":"player" }
+{ "timestamp":"2018-02-22T23:59:30Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"if we end up close around BP, let's plan to meet up there for some photos!", "Channel":"player" }
+{ "timestamp":"2018-02-22T23:59:40Z", "event":"SendText", "To":"Twenty9er", "Message":"It's not as dense, not as many chances to find good planets." }
+{ "timestamp":"2018-02-22T23:59:51Z", "event":"SendText", "To":"Twenty9er", "Message":"For sure! o7" }
+{ "timestamp":"2018-02-23T00:00:07Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"excellent! o7", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:01:07Z", "event":"SendText", "To":"Twenty9er", "Message":"351 jumps to get to the next wp.  Highest number I've seen this trip." }
+{ "timestamp":"2018-02-23T00:01:33Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"yeah this leg is a bit of a pain...and no real good POI's on EDSM except 1 WR system...which wasn't that impressive.", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:01:45Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"That last waypoint is nice though...really cool view of the star.", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:01:55Z", "event":"SendText", "To":"Twenty9er", "Message":"Cool." }
+{ "timestamp":"2018-02-23T00:02:18Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"what is your jump range? About 35?", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:02:22Z", "event":"SendText", "To":"Twenty9er", "Message":"I may neuton jump then." }
+{ "timestamp":"2018-02-23T00:03:31Z", "event":"SendText", "To":"Twenty9er", "Message":"27 plus lots of jumponium, about 100 total.  Most of them are basics, but they should work." }
+{ "timestamp":"2018-02-23T00:04:06Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"ah, gotcha. you should make it across the abyss no problem.", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:04:37Z", "event":"SendText", "To":"Twenty9er", "Message":"I'll have to check if I can go the 33ly route, its fine if I head back via the 29ly route." }
+{ "timestamp":"2018-02-23T00:04:51Z", "event":"SendText", "To":"Twenty9er", "Message":"I have 12 premiums." }
+{ "timestamp":"2018-02-23T00:05:31Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"you \"should be\" ok I think...best check the jump list though.", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:05:44Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"I have a 55ly std jump so I must admit I have it quite easy.", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:06:08Z", "event":"SendText", "To":"Twenty9er", "Message":"Thats good.  :)" }
+{ "timestamp":"2018-02-23T00:07:09Z", "event":"SendText", "To":"Twenty9er", "Message":"I'll check once I get to the next wp." }
+{ "timestamp":"2018-02-23T00:08:09Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"it is just the return leg that is the harder one I think...", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:08:59Z", "event":"SendText", "To":"Twenty9er", "Message":"Good to know, I was wondering what the 29ly one was." }
+{ "timestamp":"2018-02-23T00:10:22Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"looks like max is only just over 33 on return leg in the BPE spreadsheet, and about 115 jumps between 30-33ly, so you may need a few more mats but otherwise OK.", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:12:28Z", "event":"SendText", "To":"Twenty9er", "Message":"Sounds good, I have enough to return on the 29ly, so I may have enough.  My ship can go 34ly on basic boost." }
+{ "timestamp":"2018-02-23T00:13:42Z", "event":"SendText", "To":"Twenty9er", "Message":"I had a brain fart, lol." }
+{ "timestamp":"2018-02-23T00:14:19Z", "event":"SendText", "To":"Twenty9er", "Message":"I'll have to lookout for planets with fsd mats." }
+{ "timestamp":"2018-02-23T00:14:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:14:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:14:51Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T00:15:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:15:10Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"I think there are some green systems around BP, and if you only need basic shouldn't be too bad.", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:15:22Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"Do you have carbon? I heard they are adding that to the recipe with 3.0 when it comes out.", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:17:04Z", "event":"SendText", "To":"Twenty9er", "Message":"I don't have any.  Must of ejected them." }
+{ "timestamp":"2018-02-23T00:17:17Z", "event":"SendText", "To":"Twenty9er", "Message":"Race or mine, hmm...." }
+{ "timestamp":"2018-02-23T00:17:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:17:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:18:18Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"I don't know how they are adding it in, hoping that they give everyone some free carbon with the change. But being able to carry 100 of everything will be sweet.", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:18:40Z", "event":"SendText", "To":"Twenty9er", "Message":"I'm giong to look at what wp 10 has." }
+{ "timestamp":"2018-02-23T00:18:58Z", "event":"SendText", "To":"Twenty9er", "Message":"They increased the max limit?" }
+{ "timestamp":"2018-02-23T00:19:27Z", "event":"SendText", "To":"Twenty9er", "Message":"*going" }
+{ "timestamp":"2018-02-23T00:19:42Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"have a good one!", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:19:54Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"oh, spell check. lol", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:20:08Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"they will let you carry 100 of everything, instead of current 100 total limt", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:20:10Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"limit", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:20:27Z", "event":"SendText", "To":"Twenty9er", "Message":"Cool" }
+{ "timestamp":"2018-02-23T00:20:40Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"and FSD boost recipes are changing, requiring less of things I believe, but adding carbon to the recipes.", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:21:30Z", "event":"SendText", "To":"Twenty9er", "Message":"Neat!" }
+{ "timestamp":"2018-02-23T00:22:28Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T00:22:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:22:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:23:40Z", "event":"SendText", "To":"Twenty9er", "Message":"wp 10 has carbon.  :)" }
+{ "timestamp":"2018-02-23T00:24:06Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"perfect!", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:24:22Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"i only have 15, so I'll have to pick up some more.", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:24:34Z", "event":"SendText", "To":"Twenty9er", "Message":"Safe travels cmdr o7" }
+{ "timestamp":"2018-02-23T00:28:37Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"you too man. o7", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:28:59Z", "event":"Scan", "BodyName":"Oupailks BB-M c8-5 1", "DistanceFromArrivalLS":8.807514, "TidalLock":true, "TerraformState":"", "PlanetClass":"Metal rich body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"silicate vapour geysers volcanism", "MassEM":0.338643, "Radius":3502535.250000, "SurfaceGravity":11.002383, "SurfaceTemperature":1533.968506, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":34.862144 }, { "Name":"nickel", "Percent":26.368267 }, { "Name":"manganese", "Percent":14.397711 }, { "Name":"zinc", "Percent":9.474225 }, { "Name":"vanadium", "Percent":8.560929 }, { "Name":"cadmium", "Percent":2.707203 }, { "Name":"niobium", "Percent":2.382642 }, { "Name":"technetium", "Percent":1.246878 } ], "SemiMajorAxis":2640418816.000000, "Eccentricity":0.000010, "OrbitalInclination":0.002860, "Periapsis":50.941715, "OrbitalPeriod":78742.132813, "RotationPeriod":79456.890625, "AxialTilt":-0.277532 }
+{ "timestamp":"2018-02-23T00:29:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:29:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:29:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:30:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:30:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:31:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:31:16Z", "event":"Scan", "BodyName":"Oupailks BB-M c8-5 4", "DistanceFromArrivalLS":806.119751, "TidalLock":false, "TerraformState":"", "PlanetClass":"Sudarsky class III gas giant", "Atmosphere":"", "AtmosphereComposition":[ { "Name":"Hydrogen", "Percent":73.312370 }, { "Name":"Helium", "Percent":26.687637 } ], "Volcanism":"", "MassEM":2162.753418, "Radius":72578168.000000, "SurfaceGravity":163.645615, "SurfaceTemperature":601.113037, "SurfacePressure":0.000000, "Landable":false, "SemiMajorAxis":70027528.000000, "Eccentricity":0.151379, "OrbitalInclination":2.071450, "Periapsis":147.548889, "OrbitalPeriod":11364965.000000, "RotationPeriod":165235.203125, "AxialTilt":-0.154786, "Rings":[ { "Name":"Oupailks BB-M c8-5 4 A Ring", "RingClass":"eRingClass_Metalic", "MassMT":4.6049e+11, "InnerRad":1.2677e+08, "OuterRad":1.7762e+08 }, { "Name":"Oupailks BB-M c8-5 4 B Ring", "RingClass":"eRingClass_MetalRich", "MassMT":5.0909e+12, "InnerRad":1.7772e+08, "OuterRad":4.5021e+08 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2018-02-23T00:32:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:32:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:34:26Z", "event":"Scan", "BodyName":"Oupailks BB-M c8-5 8", "DistanceFromArrivalLS":2772.669434, "TidalLock":false, "TerraformState":"", "PlanetClass":"Sudarsky class III gas giant", "Atmosphere":"", "AtmosphereComposition":[ { "Name":"Hydrogen", "Percent":73.312370 }, { "Name":"Helium", "Percent":26.687637 } ], "Volcanism":"", "MassEM":1371.740723, "Radius":75453712.000000, "SurfaceGravity":96.032928, "SurfaceTemperature":335.966949, "SurfacePressure":0.000000, "Landable":false, "SemiMajorAxis":820679737344.000000, "Eccentricity":0.018481, "OrbitalInclination":-0.495929, "Periapsis":2.987354, "OrbitalPeriod":431477824.000000, "RotationPeriod":14673.700195, "AxialTilt":-0.668407 }
+{ "timestamp":"2018-02-23T00:34:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:34:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:36:11Z", "event":"Scan", "BodyName":"Oupailks BB-M c8-5 8 a a", "DistanceFromArrivalLS":2775.335205, "TidalLock":true, "TerraformState":"", "PlanetClass":"Icy body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"water geysers volcanism", "MassEM":0.001987, "Radius":1122361.500000, "SurfaceGravity":0.628781, "SurfaceTemperature":112.429596, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"sulphur", "Percent":30.050463 }, { "Name":"carbon", "Percent":25.269329 }, { "Name":"phosphorus", "Percent":16.177858 }, { "Name":"iron", "Percent":10.815530 }, { "Name":"nickel", "Percent":8.180412 }, { "Name":"selenium", "Percent":4.703152 }, { "Name":"arsenic", "Percent":1.608291 }, { "Name":"zirconium", "Percent":1.255906 }, { "Name":"antimony", "Percent":0.760514 }, { "Name":"molybdenum", "Percent":0.706248 }, { "Name":"mercury", "Percent":0.472296 } ], "SemiMajorAxis":9252729.000000, "Eccentricity":0.000000, "OrbitalInclination":-87.526787, "Periapsis":102.611710, "OrbitalPeriod":36289.921875, "RotationPeriod":36910.746094, "AxialTilt":0.009430 }
+{ "timestamp":"2018-02-23T00:36:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:36:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:36:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:36:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:38:14Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T00:39:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:39:36Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks CW-L c8-1", "StarClass":"G" }
+{ "timestamp":"2018-02-23T00:39:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T00:39:54Z", "event":"FSDJump", "StarSystem":"Oupailks CW-L c8-1", "StarPos":[6755.250,370.750,46685.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.983, "FuelUsed":2.681228, "FuelLevel":28.058773 }
+{ "timestamp":"2018-02-23T00:39:55Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2018-02-23T00:40:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:40:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:40:16Z", "event":"Scan", "BodyName":"Oupailks CW-L c8-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.835938, "Radius":662197952.000000, "AbsoluteMagnitude":5.249893, "Age_MY":10544, "SurfaceTemperature":5376.000000, "Luminosity":"Vab", "SemiMajorAxis":499986137088.000000, "Eccentricity":0.033545, "OrbitalInclination":51.497261, "Periapsis":53.409653, "OrbitalPeriod":680762368.000000, "RotationPeriod":334081.781250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T00:40:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:41:53Z", "event":"SendText", "To":"Twenty9er", "Message":"Found a better planet in a nearby system with germ and van too. ~5%for both" }
+{ "timestamp":"2018-02-23T00:42:17Z", "event":"SendText", "To":"Twenty9er", "Message":"14% for carbon" }
+{ "timestamp":"2018-02-23T00:42:38Z", "event":"FuelScoop", "Scooped":3.941235, "Total":32.000000 }
+{ "timestamp":"2018-02-23T00:42:47Z", "event":"ReceiveText", "From":"Twenty9er", "Message":"Noice!", "Channel":"player" }
+{ "timestamp":"2018-02-23T00:44:21Z", "event":"Scan", "BodyName":"Oupailks CW-L c8-1 A 2", "DistanceFromArrivalLS":199.518234, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.004300, "Radius":1070828.500000, "SurfaceGravity":1.494777, "SurfaceTemperature":402.308350, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":23.958843 }, { "Name":"nickel", "Percent":18.121464 }, { "Name":"sulphur", "Percent":17.037928 }, { "Name":"carbon", "Percent":14.327131 }, { "Name":"phosphorus", "Percent":9.172476 }, { "Name":"vanadium", "Percent":5.883458 }, { "Name":"germanium", "Percent":5.047465 }, { "Name":"zirconium", "Percent":2.782115 }, { "Name":"tungsten", "Percent":1.315581 }, { "Name":"tellurium", "Percent":1.307304 }, { "Name":"mercury", "Percent":1.046243 } ], "SemiMajorAxis":59812438016.000000, "Eccentricity":0.000028, "OrbitalInclination":-0.015622, "Periapsis":331.136078, "OrbitalPeriod":8725275.000000, "RotationPeriod":8725276.000000, "AxialTilt":0.086799 }
+{ "timestamp":"2018-02-23T00:44:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:45:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:46:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:46:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T00:48:34Z", "event":"SupercruiseExit", "StarSystem":"Oupailks CW-L c8-1", "Body":"Oupailks CW-L c8-1 A 2", "BodyType":"Planet" }
+{ "timestamp":"2018-02-23T00:48:35Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-23T00:50:55Z", "event":"Touchdown", "PlayerControlled":true, "Latitude":-34.145615, "Longitude":99.043739 }
+{ "timestamp":"2018-02-23T00:52:14Z", "event":"SendText", "To":"Twenty9er", "Message":"Landing complete.  Time for pics.  :)" }
+{ "timestamp":"2018-02-23T00:57:29Z", "event":"LaunchSRV", "Loadout":"starter", "PlayerControlled":true }
+{ "timestamp":"2018-02-23T00:58:07Z", "event":"DockSRV" }
+{ "timestamp":"2018-02-23T00:58:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T00:58:27Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-23T01:20:51Z", "event":"LaunchSRV", "Loadout":"starter", "PlayerControlled":true }
+{ "timestamp":"2018-02-23T01:25:11Z", "event":"Friends", "Status":"Online", "Name":"Aquafunkalisticbooty" }
+{ "timestamp":"2018-02-23T01:25:42Z", "event":"MaterialDiscarded", "Category":"Raw", "Name":"tungsten", "Count":3 }
+{ "timestamp":"2018-02-23T01:27:15Z", "event":"MaterialDiscarded", "Category":"Raw", "Name":"molybdenum", "Count":66 }
+{ "timestamp":"2018-02-23T01:27:52Z", "event":"Synthesis", "Name":"Fuel Basic", "Materials":[ { "Name":"sulphur", "Count":1 }, { "Name":"phosphorus", "Count":1 } ] }
+{ "timestamp":"2018-02-23T01:28:05Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-02-23T01:35:17Z", "event":"MaterialCollected", "Category":"Raw", "Name":"vanadium", "Count":3 }
+{ "timestamp":"2018-02-23T01:35:20Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-02-23T01:35:31Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-02-23T01:35:43Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-02-23T01:35:55Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-02-23T01:39:23Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-02-23T01:40:58Z", "event":"Friends", "Status":"Online", "Name":"Leigh Fury" }
+{ "timestamp":"2018-02-23T01:41:26Z", "event":"Liftoff", "PlayerControlled":false }
+{ "timestamp":"2018-02-23T01:45:50Z", "event":"MaterialCollected", "Category":"Raw", "Name":"vanadium", "Count":3 }
+{ "timestamp":"2018-02-23T01:46:03Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-02-23T01:47:20Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-02-23T01:47:25Z", "event":"MaterialCollected", "Category":"Raw", "Name":"vanadium", "Count":3 }
+{ "timestamp":"2018-02-23T01:51:58Z", "event":"MaterialCollected", "Category":"Raw", "Name":"vanadium", "Count":3 }
+{ "timestamp":"2018-02-23T01:52:04Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-02-23T01:52:18Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-02-23T01:55:49Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-02-23T01:55:59Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-02-23T01:56:16Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-02-23T02:01:56Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-02-23T02:02:05Z", "event":"MaterialCollected", "Category":"Raw", "Name":"vanadium", "Count":3 }
+{ "timestamp":"2018-02-23T02:16:19Z", "event":"MaterialCollected", "Category":"Raw", "Name":"vanadium", "Count":3 }
+{ "timestamp":"2018-02-23T02:16:47Z", "event":"MaterialDiscovered", "Category":"Raw", "Name":"tellurium", "DiscoveryNumber":21 }
+{ "timestamp":"2018-02-23T02:16:47Z", "event":"MaterialCollected", "Category":"Raw", "Name":"tellurium", "Count":3 }
+{ "timestamp":"2018-02-23T02:17:10Z", "event":"MaterialDiscarded", "Category":"Raw", "Name":"tellurium", "Count":3 }
+{ "timestamp":"2018-02-23T02:21:01Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-02-23T02:21:12Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-02-23T02:23:00Z", "event":"MaterialDiscarded", "Category":"Raw", "Name":"zirconium", "Count":7 }
+{ "timestamp":"2018-02-23T02:25:47Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-02-23T02:34:47Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-02-23T02:34:58Z", "event":"MaterialCollected", "Category":"Raw", "Name":"vanadium", "Count":3 }
+{ "timestamp":"2018-02-23T02:35:00Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-02-23T02:36:48Z", "event":"Touchdown", "PlayerControlled":false }
+{ "timestamp":"2018-02-23T02:37:46Z", "event":"DockSRV" }
+{ "timestamp":"2018-02-23T02:38:05Z", "event":"Liftoff", "PlayerControlled":true, "Latitude":-33.492119, "Longitude":98.353340 }
+{ "timestamp":"2018-02-23T02:38:50Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-02-23T02:38:55Z", "event":"SupercruiseEntry", "StarSystem":"Oupailks CW-L c8-1" }
+{ "timestamp":"2018-02-23T02:38:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:39:35Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T02:40:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:44:14Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks LJ-U b18-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T02:44:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T02:44:32Z", "event":"FSDJump", "StarSystem":"Oupailks LJ-U b18-2", "StarPos":[6761.313,368.094,46708.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.843, "FuelUsed":2.945958, "FuelLevel":28.424042 }
+{ "timestamp":"2018-02-23T02:44:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:44:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T02:44:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:44:55Z", "event":"Scan", "BodyName":"Oupailks LJ-U b18-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.234375, "Radius":268580832.000000, "AbsoluteMagnitude":10.852997, "Age_MY":13030, "SurfaceTemperature":2324.000000, "Luminosity":"Va", "RotationPeriod":150557.437500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T02:45:16Z", "event":"FuelScoop", "Scooped":4.205957, "Total":32.000000 }
+{ "timestamp":"2018-02-23T02:45:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T02:45:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:45:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks PD-S d4-32", "StarClass":"A" }
+{ "timestamp":"2018-02-23T02:45:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T02:46:01Z", "event":"FSDJump", "StarSystem":"Oupailks PD-S d4-32", "StarPos":[6768.344,377.000,46731.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.647, "FuelUsed":3.536579, "FuelLevel":28.463421 }
+{ "timestamp":"2018-02-23T02:46:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:46:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T02:46:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:46:24Z", "event":"Scan", "BodyName":"Oupailks PD-S d4-32", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.597656, "Radius":871561152.000000, "AbsoluteMagnitude":3.055389, "Age_MY":942, "SurfaceTemperature":7766.000000, "Luminosity":"VI", "RotationPeriod":107529.406250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T02:46:40Z", "event":"FuelScoop", "Scooped":3.536611, "Total":32.000000 }
+{ "timestamp":"2018-02-23T02:46:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T02:47:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:47:04Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T02:47:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:47:28Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T02:47:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:47:31Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T02:47:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:48:51Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks JN-I c10-6", "StarClass":"K" }
+{ "timestamp":"2018-02-23T02:48:56Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T02:49:10Z", "event":"FSDJump", "StarSystem":"Oupailks JN-I c10-6", "StarPos":[6777.563,390.469,46752.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.869, "FuelUsed":3.964048, "FuelLevel":28.035952 }
+{ "timestamp":"2018-02-23T02:49:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:49:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T02:49:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:49:32Z", "event":"Scan", "BodyName":"Oupailks JN-I c10-6", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.761719, "Radius":579526720.000000, "AbsoluteMagnitude":6.124191, "Age_MY":10858, "SurfaceTemperature":4699.000000, "Luminosity":"Va", "RotationPeriod":341410.406250, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks JN-I c10-6 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.3633e+12, "InnerRad":8.7981e+08, "OuterRad":2.2038e+09 } ] }
+{ "timestamp":"2018-02-23T02:49:49Z", "event":"FuelScoop", "Scooped":3.964054, "Total":32.000000 }
+{ "timestamp":"2018-02-23T02:50:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks TJ-Q d5-28", "StarClass":"F" }
+{ "timestamp":"2018-02-23T02:50:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T02:50:38Z", "event":"FSDJump", "StarSystem":"Oupailks TJ-Q d5-28", "StarPos":[6784.125,395.375,46777.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.368, "FuelUsed":3.785005, "FuelLevel":28.214994 }
+{ "timestamp":"2018-02-23T02:50:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:50:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T02:50:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T02:51:18Z", "event":"FuelScoop", "Scooped":3.785030, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:02:28Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks CY-L b23-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:02:33Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:02:46Z", "event":"FSDJump", "StarSystem":"Oupailks CY-L b23-1", "StarPos":[6790.188,404.031,46797.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.814, "FuelUsed":2.654949, "FuelLevel":29.345051 }
+{ "timestamp":"2018-02-23T03:02:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:02:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:02:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:03:09Z", "event":"Scan", "BodyName":"Oupailks CY-L b23-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.343750, "Radius":367977376.000000, "AbsoluteMagnitude":8.740463, "Age_MY":4188, "SurfaceTemperature":3229.000000, "Luminosity":"Va", "RotationPeriod":164345.953125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:03:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:03:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:03:22Z", "event":"FuelScoop", "Scooped":2.654949, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:04:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks GE-K b24-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:04:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:04:41Z", "event":"FSDJump", "StarSystem":"Oupailks GE-K b24-1", "StarPos":[6788.500,408.063,46824.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.796, "FuelUsed":3.937541, "FuelLevel":28.062460 }
+{ "timestamp":"2018-02-23T03:04:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:04:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:04:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:04:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:04:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:04:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:04:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:05:02Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T03:05:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:05:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:06:11Z", "event":"Friends", "Status":"Online", "Name":"Tyy'sun Eson" }
+{ "timestamp":"2018-02-23T03:06:14Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks HE-K b24-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:06:20Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:06:33Z", "event":"FSDJump", "StarSystem":"Oupailks HE-K b24-0", "StarPos":[6811.813,398.406,46823.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.244, "FuelUsed":3.315275, "FuelLevel":24.747185 }
+{ "timestamp":"2018-02-23T03:06:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:06:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:06:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:06:53Z", "event":"SendText", "To":"Tyy'sun Eson", "Message":"o7" }
+{ "timestamp":"2018-02-23T03:06:54Z", "event":"Scan", "BodyName":"Oupailks HE-K b24-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.257813, "Radius":317674176.000000, "AbsoluteMagnitude":9.936218, "Age_MY":1994, "SurfaceTemperature":2639.000000, "Luminosity":"Va", "RotationPeriod":130161.156250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:07:16Z", "event":"FuelScoop", "Scooped":5.012526, "Total":29.759710 }
+{ "timestamp":"2018-02-23T03:07:19Z", "event":"FuelScoop", "Scooped":2.240284, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:07:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:07:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:07:29Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T03:07:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:08:02Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks SZ-E c12-1", "StarClass":"K" }
+{ "timestamp":"2018-02-23T03:08:07Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:08:11Z", "event":"ReceiveText", "From":"Tyy'sun Eson", "Message":"o7 heya ", "Channel":"player" }
+{ "timestamp":"2018-02-23T03:08:20Z", "event":"FSDJump", "StarSystem":"Oupailks SZ-E c12-1", "StarPos":[6835.656,407.281,46819.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.731, "FuelUsed":3.564966, "FuelLevel":28.435034 }
+{ "timestamp":"2018-02-23T03:08:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:08:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:08:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:08:44Z", "event":"Scan", "BodyName":"Oupailks SZ-E c12-1", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.562500, "Radius":500739584.000000, "AbsoluteMagnitude":7.043488, "Age_MY":8374, "SurfaceTemperature":4091.000000, "Luminosity":"Va", "RotationPeriod":235602.875000, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks SZ-E c12-1 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":9.5863e+13, "InnerRad":9.4583e+08, "OuterRad":1.9919e+09 } ] }
+{ "timestamp":"2018-02-23T03:08:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:08:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:09:10Z", "event":"FuelScoop", "Scooped":3.564959, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:09:59Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks GY-L b23-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:10:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:10:18Z", "event":"FSDJump", "StarSystem":"Oupailks GY-L b23-0", "StarPos":[6860.344,413.281,46811.813], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.553, "FuelUsed":3.850434, "FuelLevel":28.149567 }
+{ "timestamp":"2018-02-23T03:10:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:10:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:10:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:10:41Z", "event":"Scan", "BodyName":"Oupailks GY-L b23-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.394531, "Radius":377592288.000000, "AbsoluteMagnitude":9.081406, "Age_MY":2330, "SurfaceTemperature":2947.000000, "Luminosity":"Va", "SemiMajorAxis":4149001584640.000000, "Eccentricity":0.252231, "OrbitalInclination":12.806512, "Periapsis":139.545486, "OrbitalPeriod":23358885888.000000, "RotationPeriod":204480.171875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:10:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:10:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:10:59Z", "event":"FuelScoop", "Scooped":3.850424, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:11:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:11:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:11:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks LE-K b24-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:11:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:11:50Z", "event":"FSDJump", "StarSystem":"Oupailks LE-K b24-0", "StarPos":[6884.531,410.250,46815.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.627, "FuelUsed":3.201643, "FuelLevel":28.798357 }
+{ "timestamp":"2018-02-23T03:11:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:11:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:12:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:12:12Z", "event":"Scan", "BodyName":"Oupailks LE-K b24-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.371094, "Radius":404717824.000000, "AbsoluteMagnitude":8.575653, "Age_MY":12833, "SurfaceTemperature":3198.000000, "Luminosity":"Va", "SemiMajorAxis":1592604753920.000000, "Eccentricity":0.134198, "OrbitalInclination":70.683060, "Periapsis":90.477707, "OrbitalPeriod":8827194368.000000, "RotationPeriod":195774.921875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:12:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:12:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:12:32Z", "event":"FuelScoop", "Scooped":3.201660, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:12:58Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks KJ-K b24-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:13:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:13:17Z", "event":"FSDJump", "StarSystem":"Oupailks KJ-K b24-0", "StarPos":[6906.406,420.906,46817.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.417, "FuelUsed":3.135553, "FuelLevel":28.864447 }
+{ "timestamp":"2018-02-23T03:13:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:13:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:13:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:13:39Z", "event":"Scan", "BodyName":"Oupailks KJ-K b24-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.218750, "Radius":249244880.000000, "AbsoluteMagnitude":11.566681, "Age_MY":1920, "SurfaceTemperature":2047.000000, "Luminosity":"VI", "RotationPeriod":101818.132813, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:13:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:13:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:14:01Z", "event":"FuelScoop", "Scooped":3.135555, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:14:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks SE-F c12-3", "StarClass":"K" }
+{ "timestamp":"2018-02-23T03:14:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:14:42Z", "event":"FSDJump", "StarSystem":"Oupailks SE-F c12-3", "StarPos":[6921.563,429.719,46815.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":17.672, "FuelUsed":1.419942, "FuelLevel":29.950058 }
+{ "timestamp":"2018-02-23T03:14:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:14:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:15:03Z", "event":"Scan", "BodyName":"Oupailks SE-F c12-3 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.730469, "Radius":600242304.000000, "AbsoluteMagnitude":6.148926, "Age_MY":5624, "SurfaceTemperature":4591.000000, "Luminosity":"Va", "SemiMajorAxis":2223747328.000000, "Eccentricity":0.006359, "OrbitalInclination":-33.731533, "Periapsis":133.815887, "OrbitalPeriod":194064.937500, "RotationPeriod":254851.875000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:15:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:15:26Z", "event":"FuelScoop", "Scooped":2.049935, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:15:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:15:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:15:42Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T03:15:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:16:14Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks ID-M b23-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:16:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:16:32Z", "event":"FSDJump", "StarSystem":"Oupailks ID-M b23-1", "StarPos":[6946.719,431.969,46805.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.897, "FuelUsed":3.973813, "FuelLevel":28.026188 }
+{ "timestamp":"2018-02-23T03:16:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:16:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:16:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:16:54Z", "event":"Scan", "BodyName":"Oupailks ID-M b23-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.378906, "Radius":343653568.000000, "AbsoluteMagnitude":9.082932, "Age_MY":5814, "SurfaceTemperature":3088.000000, "Luminosity":"Va", "RotationPeriod":189292.968750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:17:09Z", "event":"FuelScoop", "Scooped":3.973799, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:17:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:17:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:17:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks JD-M b23-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:17:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:17:54Z", "event":"FSDJump", "StarSystem":"Oupailks JD-M b23-0", "StarPos":[6972.031,424.281,46804.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.502, "FuelUsed":3.832492, "FuelLevel":28.167507 }
+{ "timestamp":"2018-02-23T03:17:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:18:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:18:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:18:15Z", "event":"Scan", "BodyName":"Oupailks JD-M b23-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.414063, "Radius":401703872.000000, "AbsoluteMagnitude":8.237305, "Age_MY":8298, "SurfaceTemperature":3470.000000, "Luminosity":"Va", "RotationPeriod":163643.265625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:18:32Z", "event":"FuelScoop", "Scooped":3.832496, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:18:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:18:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:21:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks PJ-K b24-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:21:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:22:05Z", "event":"FSDJump", "StarSystem":"Oupailks PJ-K b24-1", "StarPos":[6996.000,420.219,46815.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.748, "FuelUsed":3.920496, "FuelLevel":28.079504 }
+{ "timestamp":"2018-02-23T03:22:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:22:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:22:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:22:27Z", "event":"Scan", "BodyName":"Oupailks PJ-K b24-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.406250, "Radius":395973120.000000, "AbsoluteMagnitude":8.113556, "Age_MY":10514, "SurfaceTemperature":3596.000000, "Luminosity":"Va", "RotationPeriod":234617.937500, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks PJ-K b24-1 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.9015e+11, "InnerRad":7.156e+08, "OuterRad":1.7872e+09 } ] }
+{ "timestamp":"2018-02-23T03:22:43Z", "event":"FuelScoop", "Scooped":3.920510, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:22:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:22:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:23:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks VE-F c12-0", "StarClass":"K" }
+{ "timestamp":"2018-02-23T03:23:20Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:23:33Z", "event":"FSDJump", "StarSystem":"Oupailks VE-F c12-0", "StarPos":[7020.625,418.938,46815.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.660, "FuelUsed":3.212134, "FuelLevel":28.787865 }
+{ "timestamp":"2018-02-23T03:23:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:23:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:23:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:23:56Z", "event":"Scan", "BodyName":"Oupailks VE-F c12-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.746094, "Radius":540090688.000000, "AbsoluteMagnitude":6.670837, "Age_MY":11266, "SurfaceTemperature":4292.000000, "Luminosity":"Va", "SemiMajorAxis":3056454860800.000000, "Eccentricity":0.335582, "OrbitalInclination":-69.040421, "Periapsis":30.829556, "OrbitalPeriod":7244672512.000000, "RotationPeriod":246329.765625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:24:18Z", "event":"FuelScoop", "Scooped":3.212140, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:24:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:24:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:24:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks RJ-K b24-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:24:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:25:05Z", "event":"FSDJump", "StarSystem":"Oupailks RJ-K b24-2", "StarPos":[7042.313,415.188,46820.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.556, "FuelUsed":2.582028, "FuelLevel":29.417973 }
+{ "timestamp":"2018-02-23T03:25:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:25:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:25:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:25:28Z", "event":"Scan", "BodyName":"Oupailks RJ-K b24-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.378906, "Radius":360506208.000000, "AbsoluteMagnitude":8.686569, "Age_MY":7082, "SurfaceTemperature":3303.000000, "Luminosity":"Va", "SemiMajorAxis":56665143508992.000000, "Eccentricity":0.089230, "OrbitalInclination":27.654350, "Periapsis":285.340424, "OrbitalPeriod":673718730752.000000, "RotationPeriod":154389.640625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:26:11Z", "event":"FuelScoop", "Scooped":2.582023, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:26:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:26:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:26:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks UE-K b24-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:26:49Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:27:02Z", "event":"FSDJump", "StarSystem":"Oupailks UE-K b24-2", "StarPos":[7065.406,404.594,46820.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.413, "FuelUsed":3.457870, "FuelLevel":28.542130 }
+{ "timestamp":"2018-02-23T03:27:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:27:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:27:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:27:24Z", "event":"Scan", "BodyName":"Oupailks UE-K b24-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.210938, "Radius":243089632.000000, "AbsoluteMagnitude":11.385559, "Age_MY":6390, "SurfaceTemperature":2161.000000, "Luminosity":"VI", "SemiMajorAxis":6562838478848.000000, "Eccentricity":0.076198, "OrbitalInclination":-35.524925, "Periapsis":166.447052, "OrbitalPeriod":81191968768.000000, "RotationPeriod":123462.414063, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:27:39Z", "event":"FuelScoop", "Scooped":3.457879, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:27:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:27:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:28:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks XJ-Q d5-35", "StarClass":"F" }
+{ "timestamp":"2018-02-23T03:28:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:28:20Z", "event":"FSDJump", "StarSystem":"Oupailks XJ-Q d5-35", "StarPos":[7085.625,406.875,46829.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.149, "FuelUsed":2.469206, "FuelLevel":29.530794 }
+{ "timestamp":"2018-02-23T03:28:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:28:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:28:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:28:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:28:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:28:46Z", "event":"Scan", "BodyName":"Oupailks XJ-Q d5-35 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.574219, "Radius":943110464.000000, "AbsoluteMagnitude":3.274719, "Age_MY":1874, "SurfaceTemperature":7098.000000, "Luminosity":"Vb", "SemiMajorAxis":5075665158144.000000, "Eccentricity":0.096182, "OrbitalInclination":-13.882300, "Periapsis":193.262207, "OrbitalPeriod":15678202880.000000, "RotationPeriod":109939.093750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:29:09Z", "event":"FuelScoop", "Scooped":2.469211, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:29:53Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks AL-I b25-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:29:58Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:30:11Z", "event":"FSDJump", "StarSystem":"Oupailks AL-I b25-1", "StarPos":[7104.031,402.500,46847.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.243, "FuelUsed":3.741690, "FuelLevel":28.258310 }
+{ "timestamp":"2018-02-23T03:30:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:30:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:30:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:30:33Z", "event":"Scan", "BodyName":"Oupailks AL-I b25-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.234375, "Radius":281230912.000000, "AbsoluteMagnitude":10.595184, "Age_MY":12892, "SurfaceTemperature":2410.000000, "Luminosity":"Va", "SemiMajorAxis":5517283426304.000000, "Eccentricity":0.285403, "OrbitalInclination":50.721325, "Periapsis":25.966993, "OrbitalPeriod":85088600064.000000, "RotationPeriod":135778.203125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:31:09Z", "event":"FuelScoop", "Scooped":3.741721, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:32:05Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks BL-I b25-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:32:11Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:32:24Z", "event":"FSDJump", "StarSystem":"Oupailks BL-I b25-0", "StarPos":[7129.156,405.094,46838.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.953, "FuelUsed":3.993992, "FuelLevel":28.006008 }
+{ "timestamp":"2018-02-23T03:32:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:32:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:32:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:32:47Z", "event":"Scan", "BodyName":"Oupailks BL-I b25-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.316406, "Radius":311158144.000000, "AbsoluteMagnitude":9.803818, "Age_MY":9702, "SurfaceTemperature":2749.000000, "Luminosity":"Va", "RotationPeriod":214754.109375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:33:07Z", "event":"FuelScoop", "Scooped":3.698299, "Total":31.704315 }
+{ "timestamp":"2018-02-23T03:33:17Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T03:33:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:34:05Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks GR-G b26-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:34:11Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:34:24Z", "event":"FSDJump", "StarSystem":"Oupailks GR-G b26-1", "StarPos":[7135.219,410.531,46859.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.137, "FuelUsed":2.742347, "FuelLevel":28.961969 }
+{ "timestamp":"2018-02-23T03:34:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:34:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:34:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:34:47Z", "event":"Scan", "BodyName":"Oupailks GR-G b26-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.226563, "Radius":291355232.000000, "AbsoluteMagnitude":10.639008, "Age_MY":7870, "SurfaceTemperature":2344.000000, "Luminosity":"Va", "SemiMajorAxis":4470655156224.000000, "Eccentricity":0.082903, "OrbitalInclination":-42.395218, "Periapsis":191.392456, "OrbitalPeriod":240622895104.000000, "RotationPeriod":119493.781250, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks GR-G b26-1 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":51672, "InnerRad":4.385e+08, "OuterRad":1.4711e+09 } ] }
+{ "timestamp":"2018-02-23T03:35:02Z", "event":"FuelScoop", "Scooped":3.038023, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:35:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:35:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:35:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks KX-E b27-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:35:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:36:06Z", "event":"FSDJump", "StarSystem":"Oupailks KX-E b27-0", "StarPos":[7135.375,398.469,46880.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.975, "FuelUsed":2.998031, "FuelLevel":29.001968 }
+{ "timestamp":"2018-02-23T03:36:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:36:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:36:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:36:28Z", "event":"Scan", "BodyName":"Oupailks KX-E b27-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.414063, "Radius":432883360.000000, "AbsoluteMagnitude":8.393021, "Age_MY":12913, "SurfaceTemperature":3225.000000, "Luminosity":"Va", "SemiMajorAxis":5685326643200.000000, "Eccentricity":0.148697, "OrbitalInclination":-93.493523, "Periapsis":111.442703, "OrbitalPeriod":75156332544.000000, "RotationPeriod":200279.734375, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks KX-E b27-0 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.9866e+12, "InnerRad":6.886e+08, "OuterRad":1.7986e+09 } ] }
+{ "timestamp":"2018-02-23T03:36:42Z", "event":"FuelScoop", "Scooped":2.998064, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:36:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:36:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:37:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks OD-D b28-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:37:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:37:23Z", "event":"FSDJump", "StarSystem":"Oupailks OD-D b28-0", "StarPos":[7136.469,398.094,46901.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":20.969, "FuelUsed":2.159422, "FuelLevel":29.840578 }
+{ "timestamp":"2018-02-23T03:37:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:37:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:37:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:37:46Z", "event":"Scan", "BodyName":"Oupailks OD-D b28-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.250000, "Radius":311709984.000000, "AbsoluteMagnitude":10.593567, "Age_MY":3658, "SurfaceTemperature":2290.000000, "Luminosity":"Va", "SemiMajorAxis":626149359616.000000, "Eccentricity":0.207254, "OrbitalInclination":1.707781, "Periapsis":171.174545, "OrbitalPeriod":2574181888.000000, "RotationPeriod":140179.765625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:37:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:37:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:37:58Z", "event":"FuelScoop", "Scooped":2.159425, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:38:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks TE-B b29-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:38:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:38:57Z", "event":"FSDJump", "StarSystem":"Oupailks TE-B b29-2", "StarPos":[7131.031,394.906,46927.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.966, "FuelUsed":3.998743, "FuelLevel":28.001257 }
+{ "timestamp":"2018-02-23T03:38:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:39:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:39:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:39:21Z", "event":"Scan", "BodyName":"Oupailks TE-B b29-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.382813, "Radius":345457664.000000, "AbsoluteMagnitude":8.549927, "Age_MY":6728, "SurfaceTemperature":3482.000000, "Luminosity":"Va", "RotationPeriod":116758.843750, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks TE-B b29-2 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":8.6928e+13, "InnerRad":5.504e+08, "OuterRad":1.7521e+09 } ] }
+{ "timestamp":"2018-02-23T03:39:44Z", "event":"FuelScoop", "Scooped":3.256914, "Total":31.258163 }
+{ "timestamp":"2018-02-23T03:40:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks FW-M d7-8", "StarClass":"A" }
+{ "timestamp":"2018-02-23T03:40:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:40:22Z", "event":"FSDJump", "StarSystem":"Oupailks FW-M d7-8", "StarPos":[7129.563,402.844,46946.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":20.586, "FuelUsed":2.053812, "FuelLevel":29.204351 }
+{ "timestamp":"2018-02-23T03:40:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:40:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:40:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:40:45Z", "event":"Scan", "BodyName":"Oupailks FW-M d7-8", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.625000, "Radius":1017716288.000000, "AbsoluteMagnitude":2.619125, "Age_MY":2446, "SurfaceTemperature":7946.000000, "Luminosity":"Vb", "RotationPeriod":76282.117188, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:41:01Z", "event":"FuelScoop", "Scooped":2.795652, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:41:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks ZV-X b30-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:41:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:41:49Z", "event":"FSDJump", "StarSystem":"Oupailks ZV-X b30-0", "StarPos":[7126.906,402.469,46971.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.895, "FuelUsed":3.287663, "FuelLevel":28.712337 }
+{ "timestamp":"2018-02-23T03:41:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:41:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:42:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:42:11Z", "event":"Scan", "BodyName":"Oupailks ZV-X b30-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.289063, "Radius":323723328.000000, "AbsoluteMagnitude":10.311249, "Age_MY":7266, "SurfaceTemperature":2398.000000, "Luminosity":"Va", "RotationPeriod":150759.515625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:42:31Z", "event":"FuelScoop", "Scooped":3.287655, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:42:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:42:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:42:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks FW-M d7-17", "StarClass":"F" }
+{ "timestamp":"2018-02-23T03:43:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:43:13Z", "event":"FSDJump", "StarSystem":"Oupailks FW-M d7-17", "StarPos":[7115.906,400.531,46995.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.557, "FuelUsed":3.851786, "FuelLevel":28.148214 }
+{ "timestamp":"2018-02-23T03:43:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:43:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:43:35Z", "event":"Scan", "BodyName":"Oupailks FW-M d7-17 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.375000, "Radius":868632128.000000, "AbsoluteMagnitude":3.625061, "Age_MY":1454, "SurfaceTemperature":6823.000000, "Luminosity":"Vb", "SemiMajorAxis":23867898724352.000000, "Eccentricity":0.398157, "OrbitalInclination":0.923966, "Periapsis":329.187134, "OrbitalPeriod":239056125952.000000, "RotationPeriod":213443.828125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:43:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:44:29Z", "event":"FuelScoop", "Scooped":3.851791, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:45:37Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks JC-L d8-30", "StarClass":"G" }
+{ "timestamp":"2018-02-23T03:45:42Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:45:55Z", "event":"FSDJump", "StarSystem":"Oupailks JC-L d8-30", "StarPos":[7119.156,387.969,47019.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.036, "FuelUsed":4.008154, "FuelLevel":27.361847 }
+{ "timestamp":"2018-02-23T03:45:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:46:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:46:17Z", "event":"Scan", "BodyName":"Oupailks JC-L d8-30", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.011719, "Radius":631952384.000000, "AbsoluteMagnitude":5.430527, "Age_MY":5058, "SurfaceTemperature":5279.000000, "Luminosity":"Va", "RotationPeriod":270681.625000, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks JC-L d8-30 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.4168e+14, "InnerRad":1.0028e+09, "OuterRad":2.4225e+09 } ] }
+{ "timestamp":"2018-02-23T03:46:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:46:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:46:38Z", "event":"FuelScoop", "Scooped":4.638148, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:46:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:48:21Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks QU-Q b34-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:48:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:48:40Z", "event":"FSDJump", "StarSystem":"Oupailks QU-Q b34-0", "StarPos":[7136.313,396.875,47037.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.477, "FuelUsed":3.823528, "FuelLevel":28.176472 }
+{ "timestamp":"2018-02-23T03:48:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:48:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:49:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:49:03Z", "event":"Scan", "BodyName":"Oupailks QU-Q b34-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.203125, "Radius":233283680.000000, "AbsoluteMagnitude":11.689209, "Age_MY":10896, "SurfaceTemperature":2057.000000, "Luminosity":"VI", "RotationPeriod":94940.046875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:49:35Z", "event":"FuelScoop", "Scooped":3.823522, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:49:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:49:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:49:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:49:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:50:02Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks YK-U c17-3", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:50:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:50:21Z", "event":"FSDJump", "StarSystem":"Oupailks YK-U c17-3", "StarPos":[7144.906,401.531,47062.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.959, "FuelUsed":3.996425, "FuelLevel":28.003574 }
+{ "timestamp":"2018-02-23T03:50:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:50:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:50:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:50:43Z", "event":"Scan", "BodyName":"Oupailks YK-U c17-3", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.468750, "Radius":471916096.000000, "AbsoluteMagnitude":7.685623, "Age_MY":8710, "SurfaceTemperature":3635.000000, "Luminosity":"Va", "RotationPeriod":262713.000000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:51:01Z", "event":"FuelScoop", "Scooped":3.996428, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:51:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:51:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:51:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:51:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:51:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks YG-N b36-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:51:40Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:51:53Z", "event":"FSDJump", "StarSystem":"Oupailks YG-N b36-0", "StarPos":[7154.188,410.406,47085.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.342, "FuelUsed":3.776193, "FuelLevel":28.223806 }
+{ "timestamp":"2018-02-23T03:51:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:52:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:52:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:52:18Z", "event":"Scan", "BodyName":"Oupailks YG-N b36-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.269531, "Radius":304451040.000000, "AbsoluteMagnitude":10.403107, "Age_MY":11938, "SurfaceTemperature":2421.000000, "Luminosity":"Va", "RotationPeriod":151308.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:52:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:52:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:52:35Z", "event":"FuelScoop", "Scooped":3.776197, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:52:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:52:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:53:00Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks OI-J d9-35", "StarClass":"A" }
+{ "timestamp":"2018-02-23T03:53:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:53:19Z", "event":"FSDJump", "StarSystem":"Oupailks OI-J d9-35", "StarPos":[7151.625,412.344,47111.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.601, "FuelUsed":3.867457, "FuelLevel":28.132542 }
+{ "timestamp":"2018-02-23T03:53:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:53:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:53:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:53:42Z", "event":"Scan", "BodyName":"Oupailks OI-J d9-35 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.480469, "Radius":822425280.000000, "AbsoluteMagnitude":3.115356, "Age_MY":1832, "SurfaceTemperature":7885.000000, "Luminosity":"VI", "SemiMajorAxis":634989772800.000000, "Eccentricity":0.087434, "OrbitalInclination":-75.578171, "Periapsis":299.675568, "OrbitalPeriod":1149921536.000000, "RotationPeriod":154044.968750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:53:57Z", "event":"FuelScoop", "Scooped":3.867464, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:54:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks GT-J b38-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:54:38Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:54:51Z", "event":"FSDJump", "StarSystem":"Oupailks GT-J b38-1", "StarPos":[7149.250,400.469,47134.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.910, "FuelUsed":3.626005, "FuelLevel":28.373995 }
+{ "timestamp":"2018-02-23T03:54:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:54:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:55:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:55:13Z", "event":"Scan", "BodyName":"Oupailks GT-J b38-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.378906, "Radius":356876704.000000, "AbsoluteMagnitude":8.611008, "Age_MY":3334, "SurfaceTemperature":3378.000000, "Luminosity":"Va", "SemiMajorAxis":5205357756416.000000, "Eccentricity":0.105437, "OrbitalInclination":-95.872391, "Periapsis":127.191124, "OrbitalPeriod":48746565632.000000, "RotationPeriod":171876.234375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:56:09Z", "event":"FuelScoop", "Scooped":3.625996, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:56:38Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks QA-G b40-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:56:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:56:57Z", "event":"FSDJump", "StarSystem":"Oupailks QA-G b40-1", "StarPos":[7150.875,390.375,47157.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.999, "FuelUsed":3.321619, "FuelLevel":28.678381 }
+{ "timestamp":"2018-02-23T03:56:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:57:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:57:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:57:19Z", "event":"Scan", "BodyName":"Oupailks QA-G b40-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.402344, "Radius":388523136.000000, "AbsoluteMagnitude":8.973953, "Age_MY":11238, "SurfaceTemperature":2978.000000, "Luminosity":"Va", "SemiMajorAxis":35645376430080.000000, "Eccentricity":0.287524, "OrbitalInclination":-19.447969, "Periapsis":330.441620, "OrbitalPeriod":366632435712.000000, "RotationPeriod":193690.218750, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks QA-G b40-1 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.6601e+09, "InnerRad":6.3143e+08, "OuterRad":1.7814e+09 } ] }
+{ "timestamp":"2018-02-23T03:57:36Z", "event":"FuelScoop", "Scooped":3.321624, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:57:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:57:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:57:59Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks SO-H d10-1", "StarClass":"F" }
+{ "timestamp":"2018-02-23T03:58:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:58:18Z", "event":"FSDJump", "StarSystem":"Oupailks SO-H d10-1", "StarPos":[7154.281,388.281,47181.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.485, "FuelUsed":3.156869, "FuelLevel":28.843132 }
+{ "timestamp":"2018-02-23T03:58:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:58:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T03:58:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T03:58:41Z", "event":"Scan", "BodyName":"Oupailks SO-H d10-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.777344, "Radius":925048064.000000, "AbsoluteMagnitude":3.094254, "Age_MY":430, "SurfaceTemperature":7471.000000, "Luminosity":"Vb", "SemiMajorAxis":108369788928.000000, "Eccentricity":0.113482, "OrbitalInclination":-21.626036, "Periapsis":299.155457, "OrbitalPeriod":114921680.000000, "RotationPeriod":55372.914063, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T03:58:55Z", "event":"FuelScoop", "Scooped":3.156848, "Total":32.000000 }
+{ "timestamp":"2018-02-23T03:59:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks YM-C b42-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T03:59:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T03:59:54Z", "event":"FSDJump", "StarSystem":"Oupailks YM-C b42-1", "StarPos":[7144.313,378.563,47202.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.352, "FuelUsed":3.437710, "FuelLevel":28.562290 }
+{ "timestamp":"2018-02-23T03:59:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:00:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:00:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:00:19Z", "event":"Scan", "BodyName":"Oupailks YM-C b42-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.410156, "Radius":421039808.000000, "AbsoluteMagnitude":8.511566, "Age_MY":11346, "SurfaceTemperature":3182.000000, "Luminosity":"Va", "RotationPeriod":177903.265625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:00:33Z", "event":"FuelScoop", "Scooped":3.437737, "Total":32.000000 }
+{ "timestamp":"2018-02-23T04:00:55Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks CT-A b43-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T04:01:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:01:13Z", "event":"FSDJump", "StarSystem":"Oupailks CT-A b43-2", "StarPos":[7137.344,389.344,47225.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.286, "FuelUsed":3.756337, "FuelLevel":28.243662 }
+{ "timestamp":"2018-02-23T04:01:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:01:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:01:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:01:35Z", "event":"Scan", "BodyName":"Oupailks CT-A b43-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.312500, "Radius":308144192.000000, "AbsoluteMagnitude":9.864655, "Age_MY":11370, "SurfaceTemperature":2724.000000, "Luminosity":"Va", "SemiMajorAxis":11960898813952.000000, "Eccentricity":0.026539, "OrbitalInclination":-33.087002, "Periapsis":103.896835, "OrbitalPeriod":181823225856.000000, "RotationPeriod":169461.875000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:01:54Z", "event":"FuelScoop", "Scooped":3.756326, "Total":32.000000 }
+{ "timestamp":"2018-02-23T04:02:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:02:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:02:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks GZ-Y b43-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T04:02:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:02:53Z", "event":"FSDJump", "StarSystem":"Oupailks GZ-Y b43-2", "StarPos":[7140.875,378.063,47246.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.990, "FuelUsed":3.002556, "FuelLevel":28.997444 }
+{ "timestamp":"2018-02-23T04:02:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:03:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:03:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:03:16Z", "event":"Scan", "BodyName":"Oupailks GZ-Y b43-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.222656, "Radius":270979232.000000, "AbsoluteMagnitude":11.145554, "Age_MY":11202, "SurfaceTemperature":2163.000000, "Luminosity":"VI", "RotationPeriod":124901.617188, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:03:32Z", "event":"FuelScoop", "Scooped":3.002580, "Total":32.000000 }
+{ "timestamp":"2018-02-23T04:03:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:03:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:04:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks UK-L c22-3", "StarClass":"G" }
+{ "timestamp":"2018-02-23T04:04:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:04:22Z", "event":"FSDJump", "StarSystem":"Oupailks UK-L c22-3", "StarPos":[7149.250,370.250,47269.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.192, "FuelUsed":3.384622, "FuelLevel":28.615379 }
+{ "timestamp":"2018-02-23T04:04:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:04:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:04:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:04:44Z", "event":"Scan", "BodyName":"Oupailks UK-L c22-3", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.890625, "Radius":689408384.000000, "AbsoluteMagnitude":4.921951, "Age_MY":9288, "SurfaceTemperature":5682.000000, "Luminosity":"Vab", "RotationPeriod":347097.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:04:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:04:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:05:00Z", "event":"FuelScoop", "Scooped":3.384610, "Total":32.000000 }
+{ "timestamp":"2018-02-23T04:07:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:07:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:07:31Z", "event":"Scan", "BodyName":"Oupailks UK-L c22-3 2", "DistanceFromArrivalLS":1539.696777, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide rich atmosphere", "AtmosphereType":"CarbonDioxideRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":47.009048 }, { "Name":"CarbonDioxide", "Percent":41.696651 }, { "Name":"Oxygen", "Percent":11.031387 } ], "Volcanism":"", "MassEM":0.557519, "Radius":5102387.000000, "SurfaceGravity":8.535368, "SurfaceTemperature":234.828522, "SurfacePressure":214024.656250, "Landable":false, "SemiMajorAxis":461602095104.000000, "Eccentricity":0.000075, "OrbitalInclination":0.011651, "Periapsis":22.258791, "OrbitalPeriod":181229088.000000, "RotationPeriod":57757.488281, "AxialTilt":-0.445134 }
+{ "timestamp":"2018-02-23T04:08:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:08:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:08:53Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks UK-L c22-6", "StarClass":"K" }
+{ "timestamp":"2018-02-23T04:08:58Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:09:11Z", "event":"FSDJump", "StarSystem":"Oupailks UK-L c22-6", "StarPos":[7165.281,371.375,47291.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.194, "FuelUsed":4.082295, "FuelLevel":27.917706 }
+{ "timestamp":"2018-02-23T04:09:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:09:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:09:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:09:34Z", "event":"Scan", "BodyName":"Oupailks UK-L c22-6 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.617188, "Radius":508847520.000000, "AbsoluteMagnitude":7.039505, "Age_MY":4572, "SurfaceTemperature":4062.000000, "Luminosity":"Va", "SemiMajorAxis":1342516101120.000000, "Eccentricity":0.415697, "OrbitalInclination":15.519447, "Periapsis":50.362614, "OrbitalPeriod":4649947136.000000, "RotationPeriod":226774.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:09:50Z", "event":"FuelScoop", "Scooped":4.082291, "Total":32.000000 }
+{ "timestamp":"2018-02-23T04:09:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:09:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:10:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks VM-T b46-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T04:10:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:10:30Z", "event":"FSDJump", "StarSystem":"Oupailks VM-T b46-2", "StarPos":[7173.969,371.000,47308.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":19.262, "FuelUsed":1.753632, "FuelLevel":30.246368 }
+{ "timestamp":"2018-02-23T04:10:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:10:53Z", "event":"Scan", "BodyName":"Oupailks VM-T b46-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.281250, "Radius":315466784.000000, "AbsoluteMagnitude":9.755035, "Age_MY":9572, "SurfaceTemperature":2761.000000, "Luminosity":"Va", "SemiMajorAxis":1264768896.000000, "Eccentricity":0.029473, "OrbitalInclination":-62.078526, "Periapsis":26.340178, "OrbitalPeriod":178871.703125, "RotationPeriod":130609.328125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:11:18Z", "event":"Scan", "BodyName":"Oupailks VM-T b46-2 B", "DistanceFromArrivalLS":11.786712, "StarType":"L", "StellarMass":0.152344, "Radius":208004768.000000, "AbsoluteMagnitude":12.647903, "Age_MY":9572, "SurfaceTemperature":1747.000000, "Luminosity":"V", "SemiMajorAxis":2334958336.000000, "Eccentricity":0.029473, "OrbitalInclination":-62.078526, "Periapsis":206.340179, "OrbitalPeriod":178871.703125, "RotationPeriod":124634.093750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:11:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:11:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:11:46Z", "event":"FuelScoop", "Scooped":1.753605, "Total":32.000000 }
+{ "timestamp":"2018-02-23T04:17:59Z", "event":"SupercruiseExit", "StarSystem":"Oupailks VM-T b46-2", "Body":"Oupailks VM-T b46-2 AB", "BodyType":"Null" }
+{ "timestamp":"2018-02-23T04:17:59Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-23T04:21:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:21:21Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-23T04:21:38Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks ZS-R b47-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T04:21:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:21:57Z", "event":"FSDJump", "StarSystem":"Oupailks ZS-R b47-0", "StarPos":[7163.469,368.719,47332.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.638, "FuelUsed":3.865130, "FuelLevel":27.504871 }
+{ "timestamp":"2018-02-23T04:21:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:22:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:22:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:22:20Z", "event":"Scan", "BodyName":"Oupailks ZS-R b47-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.378906, "Radius":405354560.000000, "AbsoluteMagnitude":8.227676, "Age_MY":12999, "SurfaceTemperature":3462.000000, "Luminosity":"Va", "RotationPeriod":200178.046875, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks ZS-R b47-0 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.1145e+13, "InnerRad":6.1061e+08, "OuterRad":1.7461e+09 }, { "Name":"Oupailks ZS-R b47-0 B Belt", "RingClass":"eRingClass_Icy", "MassMT":1.3431e+16, "InnerRad":4.2149e+09, "OuterRad":2.6976e+11 } ] }
+{ "timestamp":"2018-02-23T04:22:38Z", "event":"FuelScoop", "Scooped":4.495141, "Total":32.000000 }
+{ "timestamp":"2018-02-23T04:23:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks CX-H c24-11", "StarClass":"K" }
+{ "timestamp":"2018-02-23T04:23:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:23:28Z", "event":"FSDJump", "StarSystem":"Oupailks CX-H c24-11", "StarPos":[7165.719,369.063,47359.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.065, "FuelUsed":4.034732, "FuelLevel":27.965267 }
+{ "timestamp":"2018-02-23T04:23:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:23:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:23:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:23:50Z", "event":"Scan", "BodyName":"Oupailks CX-H c24-11", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.765625, "Radius":535378752.000000, "AbsoluteMagnitude":6.318542, "Age_MY":5116, "SurfaceTemperature":4675.000000, "Luminosity":"Vab", "RotationPeriod":238088.562500, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks CX-H c24-11 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.8119e+13, "InnerRad":9.5274e+08, "OuterRad":2.2075e+09 }, { "Name":"Oupailks CX-H c24-11 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.8905e+13, "InnerRad":8.4369e+10, "OuterRad":2.126e+11 } ] }
+{ "timestamp":"2018-02-23T04:24:07Z", "event":"FuelScoop", "Scooped":4.034727, "Total":32.000000 }
+{ "timestamp":"2018-02-23T04:24:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks ML-M b50-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T04:24:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:24:51Z", "event":"FSDJump", "StarSystem":"Oupailks ML-M b50-0", "StarPos":[7175.156,361.469,47382.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.746, "FuelUsed":3.570074, "FuelLevel":28.429926 }
+{ "timestamp":"2018-02-23T04:24:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:25:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:25:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:25:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:25:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:25:13Z", "event":"Scan", "BodyName":"Oupailks ML-M b50-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.218750, "Radius":277941024.000000, "AbsoluteMagnitude":10.955994, "Age_MY":11148, "SurfaceTemperature":2231.000000, "Luminosity":"Va", "SemiMajorAxis":24764540256256.000000, "Eccentricity":0.102020, "OrbitalInclination":43.209568, "Periapsis":210.339447, "OrbitalPeriod":408061313024.000000, "RotationPeriod":117916.007813, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:25:33Z", "event":"FuelScoop", "Scooped":3.570068, "Total":32.000000 }
+{ "timestamp":"2018-02-23T04:25:51Z", "event":"Friends", "Status":"Online", "Name":"Vegassimus" }
+{ "timestamp":"2018-02-23T04:26:02Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks CW-D d12-5", "StarClass":"N" }
+{ "timestamp":"2018-02-23T04:26:07Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:26:20Z", "event":"FSDJump", "StarSystem":"Oupailks CW-D d12-5", "StarPos":[7174.563,360.750,47408.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.704, "FuelUsed":3.904078, "FuelLevel":28.095922 }
+{ "timestamp":"2018-02-23T04:26:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:26:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:26:41Z", "event":"Scan", "BodyName":"Oupailks CW-D d12-5 A", "DistanceFromArrivalLS":0.000000, "StarType":"N", "StellarMass":0.695313, "Radius":11375.000000, "AbsoluteMagnitude":5.058304, "Age_MY":3234, "SurfaceTemperature":1358262.000000, "Luminosity":"VII", "SemiMajorAxis":9809357176832.000000, "Eccentricity":0.257976, "OrbitalInclination":-2.771621, "Periapsis":84.730499, "OrbitalPeriod":88737849344.000000, "RotationPeriod":3.658341, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:26:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:26:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:26:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:26:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:27:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:27:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks WS-I b52-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T04:27:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:27:57Z", "event":"FSDJump", "StarSystem":"Oupailks WS-I b52-2", "StarPos":[7179.781,343.094,47426.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.208, "FuelUsed":3.304447, "FuelLevel":24.791475 }
+{ "timestamp":"2018-02-23T04:27:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:28:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:28:20Z", "event":"Scan", "BodyName":"Oupailks WS-I b52-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.441406, "Radius":426494656.000000, "AbsoluteMagnitude":8.456390, "Age_MY":2510, "SurfaceTemperature":3202.000000, "Luminosity":"Va", "RotationPeriod":175006.109375, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks WS-I b52-2 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":7.0374e+13, "InnerRad":6.6178e+08, "OuterRad":1.8373e+09 }, { "Name":"Oupailks WS-I b52-2 B Belt", "RingClass":"eRingClass_Metalic", "MassMT":9.1343e+14, "InnerRad":2.1181e+10, "OuterRad":8.4724e+10 } ] }
+{ "timestamp":"2018-02-23T04:28:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:28:42Z", "event":"FuelScoop", "Scooped":5.003135, "Total":29.794611 }
+{ "timestamp":"2018-02-23T04:28:45Z", "event":"FuelScoop", "Scooped":0.846017, "Total":30.640631 }
+{ "timestamp":"2018-02-23T04:29:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:29:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:29:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:29:44Z", "event":"Scan", "BodyName":"Oupailks WS-I b52-2 4", "DistanceFromArrivalLS":40.384533, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":67.363129 }, { "Name":"SulphurDioxide", "Percent":32.636879 } ], "Volcanism":"", "MassEM":0.569054, "Radius":5137221.000000, "SurfaceGravity":8.594219, "SurfaceTemperature":701.482117, "SurfacePressure":326200.500000, "Landable":false, "SemiMajorAxis":12106978304.000000, "Eccentricity":0.000000, "OrbitalInclination":0.023654, "Periapsis":134.655319, "OrbitalPeriod":1082856.375000, "RotationPeriod":1093485.875000, "AxialTilt":0.495464 }
+{ "timestamp":"2018-02-23T04:29:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:29:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:29:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:30:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks CU-G b53-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T04:30:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:31:05Z", "event":"FSDJump", "StarSystem":"Oupailks CU-G b53-1", "StarPos":[7178.875,330.313,47449.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.301, "FuelUsed":3.727997, "FuelLevel":26.912634 }
+{ "timestamp":"2018-02-23T04:31:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:31:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:31:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:31:28Z", "event":"Scan", "BodyName":"Oupailks CU-G b53-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.292969, "Radius":303686944.000000, "AbsoluteMagnitude":9.698364, "Age_MY":5848, "SurfaceTemperature":2851.000000, "Luminosity":"Va", "RotationPeriod":167057.296875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:31:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:31:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:31:58Z", "event":"FuelScoop", "Scooped":5.009982, "Total":31.922615 }
+{ "timestamp":"2018-02-23T04:31:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:31:58Z", "event":"FuelScoop", "Scooped":0.077386, "Total":32.000000 }
+{ "timestamp":"2018-02-23T04:31:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:32:05Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T04:32:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:32:24Z", "event":"SendText", "To":"Vegassimus", "Message":"o7" }
+{ "timestamp":"2018-02-23T04:32:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks GC-C d13-6", "StarClass":"F" }
+{ "timestamp":"2018-02-23T04:32:49Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:33:02Z", "event":"FSDJump", "StarSystem":"Oupailks GC-C d13-6", "StarPos":[7172.031,329.406,47473.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.304, "FuelUsed":3.421876, "FuelLevel":28.578123 }
+{ "timestamp":"2018-02-23T04:33:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:33:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:33:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:33:26Z", "event":"Scan", "BodyName":"Oupailks GC-C d13-6", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.410156, "Radius":814444736.000000, "AbsoluteMagnitude":4.032120, "Age_MY":3642, "SurfaceTemperature":6416.000000, "Luminosity":"Vb", "RotationPeriod":139083.984375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:33:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:33:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:33:51Z", "event":"FuelScoop", "Scooped":3.421844, "Total":32.000000 }
+{ "timestamp":"2018-02-23T04:35:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:35:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:35:56Z", "event":"Scan", "BodyName":"Oupailks GC-C d13-6 1", "DistanceFromArrivalLS":573.145386, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.079887 }, { "Name":"SulphurDioxide", "Percent":1.920116 } ], "Volcanism":"", "MassEM":0.483569, "Radius":4873862.000000, "SurfaceGravity":8.113739, "SurfaceTemperature":739.803040, "SurfacePressure":4803790.000000, "Landable":false, "SemiMajorAxis":171812880384.000000, "Eccentricity":0.000069, "OrbitalInclination":-0.001141, "Periapsis":305.914368, "OrbitalPeriod":32705964.000000, "RotationPeriod":92618.500000, "AxialTilt":2.750782 }
+{ "timestamp":"2018-02-23T04:35:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:36:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:39:28Z", "event":"Scan", "BodyName":"Oupailks GC-C d13-6 2", "DistanceFromArrivalLS":1012.900146, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"carbon dioxide rich atmosphere", "AtmosphereType":"CarbonDioxideRich", "AtmosphereComposition":[ { "Name":"Oxygen", "Percent":93.979088 }, { "Name":"CarbonDioxide", "Percent":5.925058 } ], "Volcanism":"", "MassEM":0.169539, "Radius":3522564.250000, "SurfaceGravity":5.445808, "SurfaceTemperature":252.231491, "SurfacePressure":16696.333984, "Landable":false, "SemiMajorAxis":303473852416.000000, "Eccentricity":0.005983, "OrbitalInclination":-0.054396, "Periapsis":207.246231, "OrbitalPeriod":76775968.000000, "RotationPeriod":67138.882813, "AxialTilt":-0.308765 }
+{ "timestamp":"2018-02-23T04:40:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:40:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:42:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:42:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:42:32Z", "event":"Scan", "BodyName":"Oupailks GC-C d13-6 3", "DistanceFromArrivalLS":1371.314697, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.976784 }, { "Name":"SulphurDioxide", "Percent":0.989768 } ], "Volcanism":"", "MassEM":0.152529, "Radius":3406735.500000, "SurfaceGravity":5.238241, "SurfaceTemperature":278.021545, "SurfacePressure":39797.425781, "Landable":false, "SemiMajorAxis":410923991040.000000, "Eccentricity":0.000626, "OrbitalInclination":-0.213438, "Periapsis":167.506866, "OrbitalPeriod":120972216.000000, "RotationPeriod":81696.421875, "AxialTilt":-0.049243 }
+{ "timestamp":"2018-02-23T04:42:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:42:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:44:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:44:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:44:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:44:21Z", "event":"Scan", "BodyName":"Oupailks GC-C d13-6 4", "DistanceFromArrivalLS":1730.462280, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":47.007153 }, { "Name":"Nitrogen", "Percent":38.688667 }, { "Name":"Oxygen", "Percent":13.811135 } ], "Volcanism":"", "MassEM":0.325013, "Radius":4312545.500000, "SurfaceGravity":6.965351, "SurfaceTemperature":259.406708, "SurfacePressure":122738.804688, "Landable":false, "SemiMajorAxis":518718029824.000000, "Eccentricity":0.000120, "OrbitalInclination":-0.028742, "Periapsis":122.946060, "OrbitalPeriod":171569616.000000, "RotationPeriod":54674.808594, "AxialTilt":-0.238164 }
+{ "timestamp":"2018-02-23T04:44:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:46:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:46:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:46:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:46:44Z", "event":"Scan", "BodyName":"Oupailks GC-C d13-6 5", "DistanceFromArrivalLS":2571.134521, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":86.800331 }, { "Name":"Oxygen", "Percent":13.161913 } ], "Volcanism":"", "MassEM":0.712123, "Radius":5478185.000000, "SurfaceGravity":9.457823, "SurfaceTemperature":147.323990, "SurfacePressure":168343.484375, "Landable":false, "SemiMajorAxis":770791243776.000000, "Eccentricity":0.002963, "OrbitalInclination":-7.868078, "Periapsis":96.891617, "OrbitalPeriod":310776704.000000, "RotationPeriod":117167.882813, "AxialTilt":2.085377 }
+{ "timestamp":"2018-02-23T04:46:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:46:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:46:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:50:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:50:20Z", "event":"Scan", "BodyName":"Oupailks GC-C d13-6 6", "DistanceFromArrivalLS":4492.632324, "TidalLock":false, "TerraformState":"", "PlanetClass":"Icy body", "Atmosphere":"argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":93.330490 }, { "Name":"Argon", "Percent":6.452559 }, { "Name":"Neon", "Percent":0.207610 } ], "Volcanism":"major water geysers volcanism", "MassEM":1.778567, "Radius":8916864.000000, "SurfaceGravity":8.915698, "SurfaceTemperature":93.483253, "SurfacePressure":391920.781250, "Landable":false, "SemiMajorAxis":1351414448128.000000, "Eccentricity":0.013600, "OrbitalInclination":3.043250, "Periapsis":291.724365, "OrbitalPeriod":721483264.000000, "RotationPeriod":80682.656250, "AxialTilt":0.008550 }
+{ "timestamp":"2018-02-23T04:50:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:51:02Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks HL-D b55-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T04:51:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T04:51:21Z", "event":"FSDJump", "StarSystem":"Oupailks HL-D b55-2", "StarPos":[7172.594,340.406,47494.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.963, "FuelUsed":2.982197, "FuelLevel":28.387804 }
+{ "timestamp":"2018-02-23T04:51:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:51:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:51:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:51:43Z", "event":"Scan", "BodyName":"Oupailks HL-D b55-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.425781, "Radius":408686880.000000, "AbsoluteMagnitude":8.484390, "Age_MY":8658, "SurfaceTemperature":3250.000000, "Luminosity":"Va", "SemiMajorAxis":374823714816.000000, "Eccentricity":0.007585, "OrbitalInclination":13.409498, "Periapsis":240.002197, "OrbitalPeriod":714491200.000000, "RotationPeriod":221001.312500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T04:51:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:51:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:51:55Z", "event":"FuelScoop", "Scooped":0.100530, "Total":28.488338 }
+{ "timestamp":"2018-02-23T04:52:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:52:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:53:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:53:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:53:17Z", "event":"Scan", "BodyName":"Oupailks HL-D b55-2 A 5", "DistanceFromArrivalLS":331.782074, "TidalLock":false, "TerraformState":"", "PlanetClass":"Ammonia world", "Atmosphere":"", "AtmosphereType":"AmmoniaOxygen", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":85.495979 }, { "Name":"SulphurDioxide", "Percent":14.504025 } ], "Volcanism":"", "MassEM":0.110852, "Radius":3079109.500000, "SurfaceGravity":4.660198, "SurfaceTemperature":229.115173, "SurfacePressure":42656.164063, "Landable":false, "SemiMajorAxis":99409575936.000000, "Eccentricity":0.002226, "OrbitalInclination":0.053910, "Periapsis":161.312012, "OrbitalPeriod":26195402.000000, "RotationPeriod":56973.398438, "AxialTilt":0.257286 }
+{ "timestamp":"2018-02-23T04:53:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:53:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:54:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:54:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:55:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T04:55:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T04:57:58Z", "event":"SupercruiseExit", "StarSystem":"Oupailks HL-D b55-2", "Body":"Oupailks HL-D b55-2 A 5", "BodyType":"Planet" }
+{ "timestamp":"2018-02-23T04:57:58Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-23T04:59:38Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-02-23T04:59:43Z", "event":"SupercruiseEntry", "StarSystem":"Oupailks HL-D b55-2" }
+{ "timestamp":"2018-02-23T04:59:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:01:02Z", "event":"SupercruiseExit", "StarSystem":"Oupailks HL-D b55-2", "Body":"Oupailks HL-D b55-2 A 5", "BodyType":"Planet" }
+{ "timestamp":"2018-02-23T05:01:02Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-02-23T05:03:06Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-02-23T05:03:11Z", "event":"SupercruiseEntry", "StarSystem":"Oupailks HL-D b55-2" }
+{ "timestamp":"2018-02-23T05:03:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:03:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:03:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:03:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:03:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:05:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:05:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:05:16Z", "event":"Scan", "BodyName":"Oupailks HL-D b55-2 A 6", "DistanceFromArrivalLS":433.992310, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thin neon rich atmosphere", "AtmosphereType":"NeonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":99.798027 }, { "Name":"Neon", "Percent":0.201965 } ], "Volcanism":"", "MassEM":0.166826, "Radius":3505525.250000, "SurfaceGravity":5.410853, "SurfaceTemperature":135.345718, "SurfacePressure":1404.856567, "Landable":false, "SemiMajorAxis":130126299136.000000, "Eccentricity":0.000150, "OrbitalInclination":-1.523437, "Periapsis":45.647259, "OrbitalPeriod":39231092.000000, "RotationPeriod":108846.539063, "AxialTilt":-0.174901 }
+{ "timestamp":"2018-02-23T05:05:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks QX-Z b56-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:05:59Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:06:12Z", "event":"FSDJump", "StarSystem":"Oupailks QX-Z b56-0", "StarPos":[7177.000,337.406,47520.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.510, "FuelUsed":3.748014, "FuelLevel":24.740324 }
+{ "timestamp":"2018-02-23T05:06:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:06:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:06:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:06:35Z", "event":"Scan", "BodyName":"Oupailks QX-Z b56-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.371094, "Radius":392916736.000000, "AbsoluteMagnitude":8.968552, "Age_MY":5962, "SurfaceTemperature":2965.000000, "Luminosity":"Va", "SemiMajorAxis":1963025104896.000000, "Eccentricity":0.217075, "OrbitalInclination":26.970406, "Periapsis":169.778900, "OrbitalPeriod":30843140096.000000, "RotationPeriod":238191.968750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:07:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:07:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:08:06Z", "event":"FuelScoop", "Scooped":5.001441, "Total":29.741777 }
+{ "timestamp":"2018-02-23T05:08:08Z", "event":"FuelScoop", "Scooped":0.364615, "Total":30.106394 }
+{ "timestamp":"2018-02-23T05:08:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:08:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:08:57Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks UD-Y b57-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:09:02Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:09:16Z", "event":"FSDJump", "StarSystem":"Oupailks UD-Y b57-0", "StarPos":[7181.813,344.781,47544.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.770, "FuelUsed":3.534307, "FuelLevel":26.572086 }
+{ "timestamp":"2018-02-23T05:09:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:09:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:09:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:09:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:09:42Z", "event":"Scan", "BodyName":"Oupailks UD-Y b57-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.351563, "Radius":391048928.000000, "AbsoluteMagnitude":8.688492, "Age_MY":6718, "SurfaceTemperature":3170.000000, "Luminosity":"Va", "SemiMajorAxis":315100594176.000000, "Eccentricity":0.070302, "OrbitalInclination":-85.739449, "Periapsis":106.974213, "OrbitalPeriod":1287101184.000000, "RotationPeriod":198127.515625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:09:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:10:01Z", "event":"FuelScoop", "Scooped":5.013157, "Total":31.585239 }
+{ "timestamp":"2018-02-23T05:10:02Z", "event":"FuelScoop", "Scooped":0.414759, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:10:55Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Oupailks XB-Z c28-2", "StarClass":"K" }
+{ "timestamp":"2018-02-23T05:11:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:11:14Z", "event":"FSDJump", "StarSystem":"Oupailks XB-Z c28-2", "StarPos":[7189.750,345.406,47569.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.207, "FuelUsed":3.728724, "FuelLevel":28.271276 }
+{ "timestamp":"2018-02-23T05:11:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:11:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:11:38Z", "event":"Scan", "BodyName":"Oupailks XB-Z c28-2", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.523438, "Radius":423883968.000000, "AbsoluteMagnitude":7.816010, "Age_MY":9694, "SurfaceTemperature":3722.000000, "Luminosity":"Va", "RotationPeriod":193702.578125, "AxialTilt":0.000000, "Rings":[ { "Name":"Oupailks XB-Z c28-2 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":3.6493e+10, "InnerRad":6.5556e+08, "OuterRad":1.9447e+09 } ] }
+{ "timestamp":"2018-02-23T05:11:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:12:09Z", "event":"FuelScoop", "Scooped":3.728718, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:12:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:12:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:12:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:12:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:13:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae CU-A d13", "StarClass":"F" }
+{ "timestamp":"2018-02-23T05:13:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:13:34Z", "event":"FSDJump", "StarSystem":"Wruethoae CU-A d13", "StarPos":[7200.344,342.781,47594.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.935, "FuelUsed":3.987635, "FuelLevel":28.012365 }
+{ "timestamp":"2018-02-23T05:13:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:13:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:13:56Z", "event":"Scan", "BodyName":"Wruethoae CU-A d13 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.222656, "Radius":860035968.000000, "AbsoluteMagnitude":4.126816, "Age_MY":594, "SurfaceTemperature":6109.000000, "Luminosity":"Vab", "SemiMajorAxis":1917416243200.000000, "Eccentricity":0.275748, "OrbitalInclination":3.884561, "Periapsis":123.677849, "OrbitalPeriod":8098384384.000000, "RotationPeriod":414070.812500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:13:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:14:15Z", "event":"FuelScoop", "Scooped":3.987652, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:14:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae HZ-Z c7", "StarClass":"K" }
+{ "timestamp":"2018-02-23T05:14:53Z", "event":"Friends", "Status":"Online", "Name":"Klutz" }
+{ "timestamp":"2018-02-23T05:14:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:15:07Z", "event":"FSDJump", "StarSystem":"Wruethoae HZ-Z c7", "StarPos":[7190.750,353.469,47615.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.545, "FuelUsed":3.502108, "FuelLevel":28.497892 }
+{ "timestamp":"2018-02-23T05:15:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:15:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:15:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:15:30Z", "event":"Scan", "BodyName":"Wruethoae HZ-Z c7 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.863281, "Radius":641928128.000000, "AbsoluteMagnitude":5.788956, "Age_MY":5436, "SurfaceTemperature":4823.000000, "Luminosity":"Va", "SemiMajorAxis":4304142598144.000000, "Eccentricity":0.040026, "OrbitalInclination":77.822128, "Periapsis":318.047272, "OrbitalPeriod":25620062208.000000, "RotationPeriod":269370.593750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:15:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:15:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:15:50Z", "event":"FuelScoop", "Scooped":3.502124, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:16:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:16:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:16:26Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae SE-Y b2-3", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:16:32Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:16:45Z", "event":"FSDJump", "StarSystem":"Wruethoae SE-Y b2-3", "StarPos":[7183.563,341.594,47638.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.677, "FuelUsed":3.894965, "FuelLevel":28.105034 }
+{ "timestamp":"2018-02-23T05:16:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:16:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:16:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:17:08Z", "event":"Scan", "BodyName":"Wruethoae SE-Y b2-3", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.281250, "Radius":334739072.000000, "AbsoluteMagnitude":9.868896, "Age_MY":5120, "SurfaceTemperature":2611.000000, "Luminosity":"Va", "RotationPeriod":191037.562500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:17:27Z", "event":"FuelScoop", "Scooped":3.430607, "Total":30.905624 }
+{ "timestamp":"2018-02-23T05:17:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:17:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:17:53Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae WK-W b3-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:17:58Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:18:11Z", "event":"FSDJump", "StarSystem":"Wruethoae WK-W b3-2", "StarPos":[7181.250,346.188,47660.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.806, "FuelUsed":2.633784, "FuelLevel":28.271841 }
+{ "timestamp":"2018-02-23T05:18:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:18:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:18:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:18:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:18:37Z", "event":"Scan", "BodyName":"Wruethoae WK-W b3-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.367188, "Radius":407774208.000000, "AbsoluteMagnitude":9.133560, "Age_MY":12622, "SurfaceTemperature":2802.000000, "Luminosity":"Va", "SemiMajorAxis":3721119399936.000000, "Eccentricity":0.228567, "OrbitalInclination":48.482559, "Periapsis":248.737625, "OrbitalPeriod":28838418432.000000, "RotationPeriod":216746.625000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:18:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:18:57Z", "event":"FuelScoop", "Scooped":3.646690, "Total":31.918537 }
+{ "timestamp":"2018-02-23T05:19:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:19:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:19:51Z", "event":"Scan", "BodyName":"Wruethoae WK-W b3-2 A 1", "DistanceFromArrivalLS":123.580765, "TidalLock":true, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":96.839752 }, { "Name":"Argon", "Percent":3.089308 } ], "Volcanism":"major water geysers volcanism", "MassEM":1.750428, "Radius":8548898.000000, "SurfaceGravity":9.546267, "SurfaceTemperature":255.767517, "SurfacePressure":83076552.000000, "Landable":false, "SemiMajorAxis":37048496128.000000, "Eccentricity":0.000040, "OrbitalInclination":0.000966, "Periapsis":144.734802, "OrbitalPeriod":6417537.500000, "RotationPeriod":6417868.000000, "AxialTilt":-0.154749 }
+{ "timestamp":"2018-02-23T05:20:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:20:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:20:57Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae GA-Z d27", "StarClass":"F" }
+{ "timestamp":"2018-02-23T05:21:02Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:21:15Z", "event":"FSDJump", "StarSystem":"Wruethoae GA-Z d27", "StarPos":[7180.813,349.063,47687.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.535, "FuelUsed":3.842106, "FuelLevel":28.076431 }
+{ "timestamp":"2018-02-23T05:21:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:21:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:21:42Z", "event":"Scan", "BodyName":"Wruethoae GA-Z d27 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":0.992188, "Radius":694311360.000000, "AbsoluteMagnitude":4.559937, "Age_MY":1934, "SurfaceTemperature":6154.000000, "Luminosity":"Vb", "SemiMajorAxis":36567625728.000000, "Eccentricity":0.018122, "OrbitalInclination":62.477737, "Periapsis":166.883240, "OrbitalPeriod":16095032.000000, "RotationPeriod":487308.625000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:21:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:22:01Z", "event":"FuelScoop", "Scooped":3.923590, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:22:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae EX-S b5-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:22:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:23:00Z", "event":"FSDJump", "StarSystem":"Wruethoae EX-S b5-2", "StarPos":[7185.063,351.406,47708.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.980, "FuelUsed":2.423423, "FuelLevel":29.576576 }
+{ "timestamp":"2018-02-23T05:23:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:23:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:23:23Z", "event":"Scan", "BodyName":"Wruethoae EX-S b5-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.335938, "Radius":354117472.000000, "AbsoluteMagnitude":8.982773, "Age_MY":3718, "SurfaceTemperature":3113.000000, "Luminosity":"Va", "SemiMajorAxis":25764447649792.000000, "Eccentricity":0.181410, "OrbitalInclination":50.113754, "Periapsis":247.824722, "OrbitalPeriod":537899827200.000000, "RotationPeriod":190480.078125, "AxialTilt":0.000000, "Rings":[ { "Name":"Wruethoae EX-S b5-2 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":4.1881e+13, "InnerRad":5.8429e+08, "OuterRad":1.7766e+09 } ] }
+{ "timestamp":"2018-02-23T05:23:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:23:55Z", "event":"FuelScoop", "Scooped":2.143033, "Total":31.719591 }
+{ "timestamp":"2018-02-23T05:24:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:24:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:25:01Z", "event":"Scan", "BodyName":"Wruethoae EX-S b5-2 A 1", "DistanceFromArrivalLS":52.682770, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":99.009689 }, { "Name":"SulphurDioxide", "Percent":0.990097 } ], "Volcanism":"", "MassEM":0.761128, "Radius":5609270.500000, "SurfaceGravity":9.641720, "SurfaceTemperature":895.252808, "SurfacePressure":13507909.000000, "Landable":false, "SemiMajorAxis":15793878016.000000, "Eccentricity":0.000004, "OrbitalInclination":0.000419, "Periapsis":212.704849, "OrbitalPeriod":1864034.000000, "RotationPeriod":1850053.375000, "AxialTilt":0.470651 }
+{ "timestamp":"2018-02-23T05:25:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:25:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:26:00Z", "event":"Scan", "BodyName":"Wruethoae EX-S b5-2 A 2", "DistanceFromArrivalLS":80.295891, "TidalLock":true, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"hot thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":98.626518 }, { "Name":"Argon", "Percent":1.340923 } ], "Volcanism":"major water geysers volcanism", "MassEM":3.978513, "Radius":10900687.000000, "SurfaceGravity":13.345121, "SurfaceTemperature":500.393127, "SurfacePressure":398396864.000000, "Landable":false, "SemiMajorAxis":24071079936.000000, "Eccentricity":0.000049, "OrbitalInclination":-0.085696, "Periapsis":25.122805, "OrbitalPeriod":3507227.750000, "RotationPeriod":3492263.750000, "AxialTilt":0.139017 }
+{ "timestamp":"2018-02-23T05:26:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:26:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:26:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:26:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:26:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:26:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:26:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:26:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:28:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:28:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:29:07Z", "event":"Scan", "BodyName":"Wruethoae EX-S b5-2 A 3", "DistanceFromArrivalLS":104.078575, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"thick ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":74.001381 }, { "Name":"Nitrogen", "Percent":23.150539 }, { "Name":"Oxygen", "Percent":2.710470 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.932727, "Radius":5962641.500000, "SurfaceGravity":10.456507, "SurfaceTemperature":319.383911, "SurfacePressure":708142.000000, "Landable":false, "SemiMajorAxis":31206952960.000000, "Eccentricity":0.000224, "OrbitalInclination":-0.036088, "Periapsis":105.813713, "OrbitalPeriod":5177233.500000, "RotationPeriod":5162451.500000, "AxialTilt":-0.112599 }
+{ "timestamp":"2018-02-23T05:29:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:29:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:29:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:29:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:30:51Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae GI-R b6-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:30:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:31:10Z", "event":"FSDJump", "StarSystem":"Wruethoae GI-R b6-2", "StarPos":[7191.250,356.781,47732.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.947, "FuelUsed":3.298725, "FuelLevel":28.420866 }
+{ "timestamp":"2018-02-23T05:31:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:31:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:31:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:31:32Z", "event":"Scan", "BodyName":"Wruethoae GI-R b6-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.406250, "Radius":391621984.000000, "AbsoluteMagnitude":8.213104, "Age_MY":4222, "SurfaceTemperature":3534.000000, "Luminosity":"Va", "RotationPeriod":168905.453125, "AxialTilt":0.000000, "Rings":[ { "Name":"Wruethoae GI-R b6-2 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":8.5805e+07, "InnerRad":6.8423e+08, "OuterRad":1.7872e+09 } ] }
+{ "timestamp":"2018-02-23T05:31:51Z", "event":"FuelScoop", "Scooped":3.579143, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:32:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:32:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:32:20Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae TR-U c3-6", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:32:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:32:39Z", "event":"FSDJump", "StarSystem":"Wruethoae TR-U c3-6", "StarPos":[7187.719,351.250,47751.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":20.308, "FuelUsed":1.996333, "FuelLevel":30.003666 }
+{ "timestamp":"2018-02-23T05:32:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:32:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:32:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:33:01Z", "event":"Scan", "BodyName":"Wruethoae TR-U c3-6 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.457031, "Radius":403529216.000000, "AbsoluteMagnitude":8.502625, "Age_MY":5998, "SurfaceTemperature":3257.000000, "Luminosity":"Va", "SemiMajorAxis":18254334525440.000000, "Eccentricity":0.266295, "OrbitalInclination":31.950886, "Periapsis":191.268997, "OrbitalPeriod":159343362048.000000, "RotationPeriod":175617.218750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:33:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:33:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:33:31Z", "event":"FuelScoop", "Scooped":1.996337, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:34:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:34:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:34:46Z", "event":"Scan", "BodyName":"Wruethoae TR-U c3-6 A 3", "DistanceFromArrivalLS":364.241302, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":99.010429 }, { "Name":"Argon", "Percent":0.989565 } ], "Volcanism":"", "MassEM":0.148468, "Radius":3441706.250000, "SurfaceGravity":4.995675, "SurfaceTemperature":152.600632, "SurfacePressure":7488999.000000, "Landable":false, "SemiMajorAxis":109135224832.000000, "Eccentricity":0.000690, "OrbitalInclination":0.117644, "Periapsis":285.330566, "OrbitalPeriod":29083446.000000, "RotationPeriod":202468.093750, "AxialTilt":0.147216 }
+{ "timestamp":"2018-02-23T05:35:06Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-02-23T05:35:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:35:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:35:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:35:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae RP-N b8-3", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:35:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:36:05Z", "event":"FSDJump", "StarSystem":"Wruethoae RP-N b8-3", "StarPos":[7199.563,340.438,47772.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.498, "FuelUsed":3.830809, "FuelLevel":28.169191 }
+{ "timestamp":"2018-02-23T05:36:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:36:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:36:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:36:27Z", "event":"Scan", "BodyName":"Wruethoae RP-N b8-3 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.351563, "Radius":340024096.000000, "AbsoluteMagnitude":8.849274, "Age_MY":8014, "SurfaceTemperature":3276.000000, "Luminosity":"Va", "SemiMajorAxis":830240915456.000000, "Eccentricity":0.270567, "OrbitalInclination":-14.509587, "Periapsis":219.731567, "OrbitalPeriod":4128475392.000000, "RotationPeriod":175292.296875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:36:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:36:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:36:54Z", "event":"FuelScoop", "Scooped":3.830801, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:37:10Z", "event":"ReceiveText", "From":"Vegassimus", "Message":"o7", "Channel":"player" }
+{ "timestamp":"2018-02-23T05:37:26Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae ZB-K b10-3", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:37:31Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:37:44Z", "event":"FSDJump", "StarSystem":"Wruethoae ZB-K b10-3", "StarPos":[7196.719,343.625,47795.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.916, "FuelUsed":2.979862, "FuelLevel":29.020138 }
+{ "timestamp":"2018-02-23T05:37:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:37:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:38:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:38:07Z", "event":"Scan", "BodyName":"Wruethoae ZB-K b10-3 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.406250, "Radius":358277568.000000, "AbsoluteMagnitude":9.149994, "Age_MY":12917, "SurfaceTemperature":2978.000000, "Luminosity":"Va", "SemiMajorAxis":736212090880.000000, "Eccentricity":0.021513, "OrbitalInclination":-27.023981, "Periapsis":128.506119, "OrbitalPeriod":5404886016.000000, "RotationPeriod":243673.609375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:38:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:38:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:38:27Z", "event":"FuelScoop", "Scooped":2.979861, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:39:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae BN-I b11-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:39:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:39:30Z", "event":"FSDJump", "StarSystem":"Wruethoae BN-I b11-0", "StarPos":[7196.000,357.094,47818.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.555, "FuelUsed":3.851202, "FuelLevel":28.148798 }
+{ "timestamp":"2018-02-23T05:39:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:39:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:39:53Z", "event":"Scan", "BodyName":"Wruethoae BN-I b11-0", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.414063, "Radius":408962816.000000, "AbsoluteMagnitude":8.119003, "Age_MY":670, "SurfaceTemperature":3534.000000, "Luminosity":"Va", "RotationPeriod":174676.687500, "AxialTilt":0.000000, "Rings":[ { "Name":"Wruethoae BN-I b11-0 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.4455e+13, "InnerRad":6.6042e+08, "OuterRad":1.7986e+09 }, { "Name":"Wruethoae BN-I b11-0 B Belt", "RingClass":"eRingClass_Metalic", "MassMT":3.3397e+14, "InnerRad":4.7887e+10, "OuterRad":1.2067e+11 } ] }
+{ "timestamp":"2018-02-23T05:39:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:40:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:40:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:40:22Z", "event":"FuelScoop", "Scooped":1.466177, "Total":29.614979 }
+{ "timestamp":"2018-02-23T05:40:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:40:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:40:51Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae BE-R c5-13", "StarClass":"K" }
+{ "timestamp":"2018-02-23T05:40:56Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:41:10Z", "event":"FSDJump", "StarSystem":"Wruethoae BE-R c5-13", "StarPos":[7204.000,351.813,47832.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":16.942, "FuelUsed":1.260558, "FuelLevel":28.354422 }
+{ "timestamp":"2018-02-23T05:41:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:41:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:41:32Z", "event":"Scan", "BodyName":"Wruethoae BE-R c5-13 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.699219, "Radius":603298688.000000, "AbsoluteMagnitude":6.521469, "Age_MY":4014, "SurfaceTemperature":4203.000000, "Luminosity":"Va", "SemiMajorAxis":442382712832.000000, "Eccentricity":0.347616, "OrbitalInclination":-17.698071, "Periapsis":98.806305, "OrbitalPeriod":1507513472.000000, "RotationPeriod":321794.937500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:41:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:42:02Z", "event":"FuelScoop", "Scooped":3.645597, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:42:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:42:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:42:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae LU-E b13-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:42:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:43:00Z", "event":"FSDJump", "StarSystem":"Wruethoae LU-E b13-2", "StarPos":[7195.438,353.000,47858.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.689, "FuelUsed":3.899153, "FuelLevel":28.100847 }
+{ "timestamp":"2018-02-23T05:43:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:43:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:43:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:43:24Z", "event":"Scan", "BodyName":"Wruethoae LU-E b13-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.238281, "Radius":308441344.000000, "AbsoluteMagnitude":10.432617, "Age_MY":5056, "SurfaceTemperature":2389.000000, "Luminosity":"Va", "RotationPeriod":171161.687500, "AxialTilt":0.000000, "Rings":[ { "Name":"Wruethoae LU-E b13-2 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.1022e+13, "InnerRad":6.01e+08, "OuterRad":1.496e+09 } ] }
+{ "timestamp":"2018-02-23T05:43:46Z", "event":"FuelScoop", "Scooped":3.899140, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:43:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:43:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:44:14Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae OM-V d2-13", "StarClass":"F" }
+{ "timestamp":"2018-02-23T05:44:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:44:32Z", "event":"FSDJump", "StarSystem":"Wruethoae OM-V d2-13", "StarPos":[7201.531,355.594,47882.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.742, "FuelUsed":3.568799, "FuelLevel":28.431200 }
+{ "timestamp":"2018-02-23T05:44:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:44:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:44:55Z", "event":"Scan", "BodyName":"Wruethoae OM-V d2-13", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.363281, "Radius":902719424.000000, "AbsoluteMagnitude":3.153732, "Age_MY":1312, "SurfaceTemperature":7460.000000, "Luminosity":"Vb", "RotationPeriod":218260.125000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:44:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:45:12Z", "event":"FuelScoop", "Scooped":3.568802, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:45:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae TG-B b15-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:45:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:46:08Z", "event":"FSDJump", "StarSystem":"Wruethoae TG-B b15-2", "StarPos":[7209.438,350.469,47907.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.337, "FuelUsed":3.774189, "FuelLevel":28.225811 }
+{ "timestamp":"2018-02-23T05:46:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:46:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:46:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:46:30Z", "event":"Scan", "BodyName":"Wruethoae TG-B b15-2", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.199219, "Radius":249563248.000000, "AbsoluteMagnitude":11.595840, "Age_MY":10176, "SurfaceTemperature":2032.000000, "Luminosity":"VI", "RotationPeriod":121494.312500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:46:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:46:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:47:14Z", "event":"FuelScoop", "Scooped":4.181987, "Total":31.777809 }
+{ "timestamp":"2018-02-23T05:47:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:47:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:47:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae XM-Z b15-2", "StarClass":"M" }
+{ "timestamp":"2018-02-23T05:47:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T05:48:11Z", "event":"FSDJump", "StarSystem":"Wruethoae XM-Z b15-2", "StarPos":[7213.844,342.313,47929.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.528, "FuelUsed":2.858961, "FuelLevel":28.918848 }
+{ "timestamp":"2018-02-23T05:48:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:48:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:48:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:48:37Z", "event":"Scan", "BodyName":"Wruethoae XM-Z b15-2 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.343750, "Radius":376488576.000000, "AbsoluteMagnitude":8.959930, "Age_MY":6294, "SurfaceTemperature":3035.000000, "Luminosity":"Va", "SemiMajorAxis":1212849324032.000000, "Eccentricity":0.000444, "OrbitalInclination":38.286682, "Periapsis":167.807388, "OrbitalPeriod":4259074560.000000, "RotationPeriod":182443.125000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T05:48:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:48:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T05:49:09Z", "event":"FuelScoop", "Scooped":3.081161, "Total":32.000000 }
+{ "timestamp":"2018-02-23T05:49:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T05:49:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:10:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae CT-X b16-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T06:10:07Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T06:10:20Z", "event":"FSDJump", "StarSystem":"Wruethoae CT-X b16-1", "StarPos":[7216.844,339.781,47954.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.646, "FuelUsed":3.536391, "FuelLevel":28.463610 }
+{ "timestamp":"2018-02-23T06:10:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:10:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T06:10:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:10:42Z", "event":"Scan", "BodyName":"Wruethoae CT-X b16-1", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.417969, "Radius":422928864.000000, "AbsoluteMagnitude":8.471909, "Age_MY":12982, "SurfaceTemperature":3204.000000, "Luminosity":"Va", "RotationPeriod":199652.906250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T06:10:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T06:10:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:11:00Z", "event":"FuelScoop", "Scooped":3.536388, "Total":32.000000 }
+{ "timestamp":"2018-02-23T06:11:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae SC-K c9-0", "StarClass":"M" }
+{ "timestamp":"2018-02-23T06:11:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T06:11:50Z", "event":"FSDJump", "StarSystem":"Wruethoae SC-K c9-0", "StarPos":[7216.000,335.688,47980.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.994, "FuelUsed":3.655025, "FuelLevel":28.344975 }
+{ "timestamp":"2018-02-23T06:11:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:12:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T06:12:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:12:12Z", "event":"Scan", "BodyName":"Wruethoae SC-K c9-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.550781, "Radius":506576448.000000, "AbsoluteMagnitude":7.606415, "Age_MY":4374, "SurfaceTemperature":3573.000000, "Luminosity":"Va", "SemiMajorAxis":2107952857088.000000, "Eccentricity":0.061062, "OrbitalInclination":12.531775, "Periapsis":109.608482, "OrbitalPeriod":7315311616.000000, "RotationPeriod":217121.765625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T06:12:44Z", "event":"FuelScoop", "Scooped":3.655044, "Total":32.000000 }
+{ "timestamp":"2018-02-23T06:13:08Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae RC-K c9-7", "StarClass":"K" }
+{ "timestamp":"2018-02-23T06:13:13Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T06:13:26Z", "event":"FSDJump", "StarSystem":"Wruethoae RC-K c9-7", "StarPos":[7214.531,338.750,48003.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.651, "FuelUsed":2.900118, "FuelLevel":29.099882 }
+{ "timestamp":"2018-02-23T06:13:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:13:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T06:13:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:13:50Z", "event":"Scan", "BodyName":"Wruethoae RC-K c9-7 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.644531, "Radius":510396960.000000, "AbsoluteMagnitude":6.914749, "Age_MY":7132, "SurfaceTemperature":4174.000000, "Luminosity":"Va", "SemiMajorAxis":1481196568576.000000, "Eccentricity":0.043629, "OrbitalInclination":39.450405, "Periapsis":142.609512, "OrbitalPeriod":6002199040.000000, "RotationPeriod":218532.828125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T06:14:06Z", "event":"FuelScoop", "Scooped":2.900108, "Total":32.000000 }
+{ "timestamp":"2018-02-23T06:14:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Wruethoae RR-Q b20-1", "StarClass":"M" }
+{ "timestamp":"2018-02-23T06:14:50Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-02-23T06:15:03Z", "event":"FSDJump", "StarSystem":"Wruethoae RR-Q b20-1", "StarPos":[7204.031,337.750,48028.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.703, "FuelUsed":3.904160, "FuelLevel":27.465841 }
+{ "timestamp":"2018-02-23T06:15:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:15:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T06:15:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:15:26Z", "event":"Scan", "BodyName":"Wruethoae RR-Q b20-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.351563, "Radius":366003456.000000, "AbsoluteMagnitude":9.352798, "Age_MY":12941, "SurfaceTemperature":2812.000000, "Luminosity":"Va", "SemiMajorAxis":1191241984.000000, "Eccentricity":0.054548, "OrbitalInclination":30.001270, "Periapsis":277.336273, "OrbitalPeriod":99522.656250, "RotationPeriod":156755.984375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-02-23T06:15:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T06:15:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:15:45Z", "event":"FuelScoop", "Scooped":4.534168, "Total":32.000000 }
+{ "timestamp":"2018-02-23T06:15:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T06:15:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:16:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T06:16:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-02-23T06:17:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-02-23T06:17:11Z", "event":"Music", "MusicTrack":"Supercruise" }

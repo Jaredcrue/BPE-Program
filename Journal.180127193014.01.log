@@ -1,0 +1,1077 @@
+{ "timestamp":"2018-01-28T00:30:14Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r160439/r0 " }
+{ "timestamp":"2018-01-28T00:30:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:30:14Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-01-28T00:30:54Z", "event":"Friends", "Status":"Online", "Name":"Alex 'Alkhol' Hardin" }
+{ "timestamp":"2018-01-28T00:30:54Z", "event":"Friends", "Status":"Online", "Name":"Twenty9er" }
+{ "timestamp":"2018-01-28T00:30:54Z", "event":"Friends", "Status":"Online", "Name":"Natalie Portman" }
+{ "timestamp":"2018-01-28T00:30:54Z", "event":"Friends", "Status":"Online", "Name":"Zhixian Wu" }
+{ "timestamp":"2018-01-28T00:30:54Z", "event":"Friends", "Status":"Online", "Name":"Thor Wotansen" }
+{ "timestamp":"2018-01-28T00:30:54Z", "event":"Friends", "Status":"Online", "Name":"Huskeer42" }
+{ "timestamp":"2018-01-28T00:30:54Z", "event":"Friends", "Status":"Online", "Name":"Rough Roads" }
+{ "timestamp":"2018-01-28T00:30:54Z", "event":"Friends", "Status":"Online", "Name":"King_INF3RN0" }
+{ "timestamp":"2018-01-28T00:30:54Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-01-28T00:30:54Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-01-28T00:30:59Z", "event":"Friends", "Status":"Online", "Name":"Alex 'Alkhol' Hardin" }
+{ "timestamp":"2018-01-28T00:30:59Z", "event":"Friends", "Status":"Online", "Name":"Twenty9er" }
+{ "timestamp":"2018-01-28T00:30:59Z", "event":"Friends", "Status":"Online", "Name":"Natalie Portman" }
+{ "timestamp":"2018-01-28T00:30:59Z", "event":"Friends", "Status":"Online", "Name":"Zhixian Wu" }
+{ "timestamp":"2018-01-28T00:30:59Z", "event":"Friends", "Status":"Online", "Name":"Thor Wotansen" }
+{ "timestamp":"2018-01-28T00:30:59Z", "event":"Friends", "Status":"Online", "Name":"Huskeer42" }
+{ "timestamp":"2018-01-28T00:30:59Z", "event":"Friends", "Status":"Online", "Name":"King_INF3RN0" }
+{ "timestamp":"2018-01-28T00:30:59Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-01-28T00:30:59Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-01-28T00:31:08Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-01-28T00:31:08Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2018-01-28T00:31:08Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":115 }, { "Name":"vanadium", "Count":162 }, { "Name":"sulphur", "Count":70 }, { "Name":"iron", "Count":96 }, { "Name":"germanium", "Count":96 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"molybdenum", "Count":66 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":43 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":56 }, { "Name":"cadmium", "Count":63 }, { "Name":"zirconium", "Count":7 }, { "Name":"selenium", "Count":12 }, { "Name":"tungsten", "Count":3 }, { "Name":"yttrium", "Count":12 }, { "Name":"chromium", "Count":34 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Count":7 }, { "Name":"wakesolutions", "Count":1 }, { "Name":"scrambledemissiondata", "Count":2 }, { "Name":"legacyfirmware", "Count":4 }, { "Name":"shielddensityreports", "Count":3 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Count":3 }, { "Name":"securityfirmware", "Count":1 }, { "Name":"fsdtelemetry", "Count":1 } ] }
+{ "timestamp":"2018-01-28T00:31:08Z", "event":"LoadGame", "Commander":"JaredCrue", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":32.000000, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-01-28T00:31:08Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-01-28T00:31:08Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":71, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-01-28T00:31:24Z", "event":"Location", "Docked":false, "StarSystem":"Stuemeae FG-Y d3871", "StarPos":[25.688,5.938,25898.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Stuemeae FG-Y d3871 A", "BodyType":"Star" }
+{ "timestamp":"2018-01-28T00:31:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:31:25Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-28T00:31:31Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T00:31:45Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-28T00:31:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:31:53Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-28T00:32:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae IR-W c1-2781", "StarClass":"K" }
+{ "timestamp":"2018-01-28T00:32:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:33:04Z", "event":"FSDJump", "StarSystem":"Stuemeae IR-W c1-2781", "StarPos":[25.500,32.813,25896.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.995, "FuelUsed":4.009562, "FuelLevel":27.990438 }
+{ "timestamp":"2018-01-28T00:33:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:33:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:33:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:33:27Z", "event":"Scan", "BodyName":"Stuemeae IR-W c1-2781 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.726563, "Radius":609666176.000000, "AbsoluteMagnitude":5.767899, "Age_MY":6208, "SurfaceTemperature":4973.000000, "Luminosity":"Vab", "SemiMajorAxis":414160453632.000000, "Eccentricity":0.054374, "OrbitalInclination":-41.257523, "Periapsis":13.777755, "OrbitalPeriod":513039104.000000, "RotationPeriod":295717.156250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T00:33:43Z", "event":"FuelScoop", "Scooped":4.009575, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:33:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:33:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:34:58Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae DL-Y d6953", "StarClass":"K" }
+{ "timestamp":"2018-01-28T00:35:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:35:17Z", "event":"FSDJump", "StarSystem":"Stuemeae DL-Y d6953", "StarPos":[27.031,59.719,25899.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.127, "FuelUsed":4.057781, "FuelLevel":27.942219 }
+{ "timestamp":"2018-01-28T00:35:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:35:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:35:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:35:39Z", "event":"Scan", "BodyName":"Stuemeae DL-Y d6953 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.855469, "Radius":634223488.000000, "AbsoluteMagnitude":5.693527, "Age_MY":834, "SurfaceTemperature":4960.000000, "Luminosity":"Va", "SemiMajorAxis":134517530624.000000, "Eccentricity":0.095831, "OrbitalInclination":4.171558, "Periapsis":307.986664, "OrbitalPeriod":62497424.000000, "RotationPeriod":308672.718750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T00:35:54Z", "event":"FuelScoop", "Scooped":4.057798, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:36:26Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae KX-T b3-7", "StarClass":"M" }
+{ "timestamp":"2018-01-28T00:36:31Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:36:44Z", "event":"FSDJump", "StarSystem":"Stuemeae KX-T b3-7", "StarPos":[25.281,86.844,25899.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.181, "FuelUsed":4.077472, "FuelLevel":27.922527 }
+{ "timestamp":"2018-01-28T00:36:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:36:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:37:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:37:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:37:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:37:06Z", "event":"Scan", "BodyName":"Stuemeae KX-T b3-7 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.320313, "Radius":360251488.000000, "AbsoluteMagnitude":9.250366, "Age_MY":3712, "SurfaceTemperature":2902.000000, "Luminosity":"Va", "SemiMajorAxis":6349633617920.000000, "Eccentricity":0.138692, "OrbitalInclination":-2.353575, "Periapsis":250.836334, "OrbitalPeriod":78885224448.000000, "RotationPeriod":172618.328125, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae KX-T b3-7 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":7.4389e+13, "InnerRad":5.9771e+08, "OuterRad":1.6511e+09 } ] }
+{ "timestamp":"2018-01-28T00:37:29Z", "event":"FuelScoop", "Scooped":4.077492, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:38:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae EB-X c1-453", "StarClass":"K" }
+{ "timestamp":"2018-01-28T00:38:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:38:31Z", "event":"FSDJump", "StarSystem":"Stuemeae EB-X c1-453", "StarPos":[22.781,113.813,25901.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.180, "FuelUsed":4.076989, "FuelLevel":27.923012 }
+{ "timestamp":"2018-01-28T00:38:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:38:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:38:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:38:53Z", "event":"Scan", "BodyName":"Stuemeae EB-X c1-453", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.625000, "Radius":544611584.000000, "AbsoluteMagnitude":6.881287, "Age_MY":3894, "SurfaceTemperature":4072.000000, "Luminosity":"Va", "RotationPeriod":277321.531250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T00:38:55Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T00:38:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:39:16Z", "event":"FuelScoop", "Scooped":4.076990, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:39:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae CG-X c1-5398", "StarClass":"K" }
+{ "timestamp":"2018-01-28T00:39:50Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:40:03Z", "event":"FSDJump", "StarSystem":"Stuemeae CG-X c1-5398", "StarPos":[20.719,140.625,25902.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.895, "FuelUsed":3.973354, "FuelLevel":28.026646 }
+{ "timestamp":"2018-01-28T00:40:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:40:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:40:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:40:25Z", "event":"Scan", "BodyName":"Stuemeae CG-X c1-5398", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.738281, "Radius":558556416.000000, "AbsoluteMagnitude":6.422272, "Age_MY":11250, "SurfaceTemperature":4469.000000, "Luminosity":"Va", "RotationPeriod":235191.125000, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae CG-X c1-5398 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.9012e+12, "InnerRad":9.2162e+08, "OuterRad":2.3029e+09 } ] }
+{ "timestamp":"2018-01-28T00:40:41Z", "event":"FuelScoop", "Scooped":3.973358, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:40:43Z", "event":"Friends", "Status":"Offline", "Name":"Alex 'Alkhol' Hardin" }
+{ "timestamp":"2018-01-28T00:41:13Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae CG-X c1-716", "StarClass":"K" }
+{ "timestamp":"2018-01-28T00:41:18Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:41:31Z", "event":"FSDJump", "StarSystem":"Stuemeae CG-X c1-716", "StarPos":[22.406,167.750,25901.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.185, "FuelUsed":4.078976, "FuelLevel":27.921024 }
+{ "timestamp":"2018-01-28T00:41:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:41:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:41:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:41:55Z", "event":"Scan", "BodyName":"Stuemeae CG-X c1-716 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.652344, "Radius":508889952.000000, "AbsoluteMagnitude":6.867386, "Age_MY":5624, "SurfaceTemperature":4226.000000, "Luminosity":"Va", "SemiMajorAxis":124715589632.000000, "Eccentricity":0.024570, "OrbitalInclination":-77.499397, "Periapsis":78.792213, "OrbitalPeriod":59837536.000000, "RotationPeriod":205098.828125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T00:42:08Z", "event":"FuelScoop", "Scooped":4.078982, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:42:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae AL-X c1-6334", "StarClass":"K" }
+{ "timestamp":"2018-01-28T00:42:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:42:58Z", "event":"FSDJump", "StarSystem":"Stuemeae AL-X c1-6334", "StarPos":[21.563,194.469,25899.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.798, "FuelUsed":3.938107, "FuelLevel":28.061893 }
+{ "timestamp":"2018-01-28T00:42:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:43:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:43:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:43:20Z", "event":"Scan", "BodyName":"Stuemeae AL-X c1-6334 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.726563, "Radius":517422432.000000, "AbsoluteMagnitude":6.149628, "Age_MY":3554, "SurfaceTemperature":4944.000000, "Luminosity":"Vab", "SemiMajorAxis":34299256504320.000000, "Eccentricity":0.249801, "OrbitalInclination":-19.447643, "Periapsis":193.933502, "OrbitalPeriod":614710575104.000000, "RotationPeriod":322042.875000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T00:43:35Z", "event":"FuelScoop", "Scooped":3.938105, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:43:39Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T00:44:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:44:18Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae YE-A e5046", "StarClass":"K" }
+{ "timestamp":"2018-01-28T00:44:24Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:44:37Z", "event":"FSDJump", "StarSystem":"Stuemeae YE-A e5046", "StarPos":[17.969,221.250,25899.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.025, "FuelUsed":4.020768, "FuelLevel":27.979233 }
+{ "timestamp":"2018-01-28T00:44:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:44:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:44:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:44:58Z", "event":"Scan", "BodyName":"Stuemeae YE-A e5046", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.593750, "Radius":474993696.000000, "AbsoluteMagnitude":6.696182, "Age_MY":224, "SurfaceTemperature":4550.000000, "Luminosity":"Vz", "RotationPeriod":260682.390625, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae YE-A e5046 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":6.7401e+11, "InnerRad":8.297e+08, "OuterRad":2.0282e+09 } ] }
+{ "timestamp":"2018-01-28T00:45:16Z", "event":"FuelScoop", "Scooped":4.020770, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:45:55Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae YP-X c1-2272", "StarClass":"K" }
+{ "timestamp":"2018-01-28T00:46:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:46:14Z", "event":"FSDJump", "StarSystem":"Stuemeae YP-X c1-2272", "StarPos":[16.438,248.375,25900.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.189, "FuelUsed":4.080160, "FuelLevel":27.919840 }
+{ "timestamp":"2018-01-28T00:46:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:46:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:46:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:46:35Z", "event":"Scan", "BodyName":"Stuemeae YP-X c1-2272 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.582031, "Radius":498383616.000000, "AbsoluteMagnitude":7.044189, "Age_MY":12866, "SurfaceTemperature":4100.000000, "Luminosity":"Va", "SemiMajorAxis":33464992661504.000000, "Eccentricity":0.046478, "OrbitalInclination":50.596588, "Periapsis":266.350616, "OrbitalPeriod":361602449408.000000, "RotationPeriod":264046.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T00:46:52Z", "event":"FuelScoop", "Scooped":4.080151, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:47:17Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae VU-X c1-7065", "StarClass":"K" }
+{ "timestamp":"2018-01-28T00:47:22Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:47:35Z", "event":"FSDJump", "StarSystem":"Stuemeae VU-X c1-7065", "StarPos":[14.875,275.156,25896.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.142, "FuelUsed":4.062963, "FuelLevel":27.937037 }
+{ "timestamp":"2018-01-28T00:47:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:47:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:47:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:47:57Z", "event":"Scan", "BodyName":"Stuemeae VU-X c1-7065", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.496094, "Radius":487537664.000000, "AbsoluteMagnitude":7.295868, "Age_MY":4984, "SurfaceTemperature":3912.000000, "Luminosity":"Va", "RotationPeriod":178485.468750, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae VU-X c1-7065 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":9.7406e+13, "InnerRad":7.4064e+08, "OuterRad":1.9103e+09 }, { "Name":"Stuemeae VU-X c1-7065 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":7.7412e+15, "InnerRad":2.9731e+09, "OuterRad":3.0205e+11 } ] }
+{ "timestamp":"2018-01-28T00:48:12Z", "event":"FuelScoop", "Scooped":4.692963, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:48:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae KT-X b2-82", "StarClass":"M" }
+{ "timestamp":"2018-01-28T00:48:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:49:01Z", "event":"FSDJump", "StarSystem":"Stuemeae KT-X b2-82", "StarPos":[17.563,301.531,25892.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.726, "FuelUsed":3.911976, "FuelLevel":28.088024 }
+{ "timestamp":"2018-01-28T00:49:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:49:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:49:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:49:22Z", "event":"Scan", "BodyName":"Stuemeae KT-X b2-82 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.359375, "Radius":360251488.000000, "AbsoluteMagnitude":8.962250, "Age_MY":2778, "SurfaceTemperature":3101.000000, "Luminosity":"Va", "SemiMajorAxis":33817886720000.000000, "Eccentricity":0.068488, "OrbitalInclination":-9.139642, "Periapsis":12.424940, "OrbitalPeriod":1389806747648.000000, "RotationPeriod":147935.078125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T00:49:41Z", "event":"FuelScoop", "Scooped":3.911991, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:50:18Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae QT-Z c7915", "StarClass":"G" }
+{ "timestamp":"2018-01-28T00:50:24Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:50:37Z", "event":"FSDJump", "StarSystem":"Stuemeae QT-Z c7915", "StarPos":[20.219,328.531,25891.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.168, "FuelUsed":4.072854, "FuelLevel":27.927147 }
+{ "timestamp":"2018-01-28T00:50:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:50:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:50:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:50:59Z", "event":"Scan", "BodyName":"Stuemeae QT-Z c7915 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.785156, "Radius":569975488.000000, "AbsoluteMagnitude":5.604797, "Age_MY":3790, "SurfaceTemperature":5340.000000, "Luminosity":"Vab", "SemiMajorAxis":191752552448.000000, "Eccentricity":0.611946, "OrbitalInclination":100.982674, "Periapsis":90.038521, "OrbitalPeriod":150824816.000000, "RotationPeriod":393592.593750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T00:51:14Z", "event":"FuelScoop", "Scooped":4.072865, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:51:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae GD-Y b2-95", "StarClass":"M" }
+{ "timestamp":"2018-01-28T00:51:48Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:52:01Z", "event":"FSDJump", "StarSystem":"Stuemeae GD-Y b2-95", "StarPos":[19.969,354.969,25893.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.492, "FuelUsed":3.828985, "FuelLevel":28.171015 }
+{ "timestamp":"2018-01-28T00:52:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:52:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:52:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:52:23Z", "event":"Scan", "BodyName":"Stuemeae GD-Y b2-95 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.425781, "Radius":446743264.000000, "AbsoluteMagnitude":8.269669, "Age_MY":4468, "SurfaceTemperature":3266.000000, "Luminosity":"Va", "SemiMajorAxis":3081078308864.000000, "Eccentricity":0.019552, "OrbitalInclination":-14.968672, "Periapsis":344.465546, "OrbitalPeriod":24738033664.000000, "RotationPeriod":169933.234375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T00:52:39Z", "event":"FuelScoop", "Scooped":3.828982, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:53:02Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae TT-A d1700", "StarClass":"F" }
+{ "timestamp":"2018-01-28T00:53:07Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:53:20Z", "event":"FSDJump", "StarSystem":"Stuemeae TT-A d1700", "StarPos":[18.875,356.125,25893.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":1.678, "FuelUsed":0.004438, "FuelLevel":31.995562 }
+{ "timestamp":"2018-01-28T00:53:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:53:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:53:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:53:42Z", "event":"Scan", "BodyName":"Stuemeae TT-A d1700", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.320313, "Radius":799948096.000000, "AbsoluteMagnitude":4.068420, "Age_MY":1762, "SurfaceTemperature":6420.000000, "Luminosity":"Vb", "RotationPeriod":217169.140625, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae TT-A d1700 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":8.7267e+16, "InnerRad":8.0201e+09, "OuterRad":5.1329e+11 } ] }
+{ "timestamp":"2018-01-28T00:53:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:53:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:53:56Z", "event":"FuelScoop", "Scooped":0.004439, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:54:29Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae MD-A c1-7221", "StarClass":"M" }
+{ "timestamp":"2018-01-28T00:54:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:54:48Z", "event":"FSDJump", "StarSystem":"Stuemeae MD-A c1-7221", "StarPos":[20.438,383.125,25893.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.047, "FuelUsed":4.028535, "FuelLevel":27.971464 }
+{ "timestamp":"2018-01-28T00:54:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:55:09Z", "event":"Scan", "BodyName":"Stuemeae MD-A c1-7221", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.511719, "Radius":484460032.000000, "AbsoluteMagnitude":7.879532, "Age_MY":12472, "SurfaceTemperature":3431.000000, "Luminosity":"Va", "RotationPeriod":310304.156250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T00:55:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:55:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:55:33Z", "event":"FuelScoop", "Scooped":4.028535, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:55:40Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T00:55:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:56:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae MD-A c1-6546", "StarClass":"K" }
+{ "timestamp":"2018-01-28T00:56:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:56:34Z", "event":"FSDJump", "StarSystem":"Stuemeae MD-A c1-6546", "StarPos":[19.156,409.813,25888.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.074, "FuelUsed":4.038041, "FuelLevel":27.961960 }
+{ "timestamp":"2018-01-28T00:56:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:56:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:56:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:56:55Z", "event":"Scan", "BodyName":"Stuemeae MD-A c1-6546 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.542969, "Radius":448271456.000000, "AbsoluteMagnitude":7.610153, "Age_MY":10880, "SurfaceTemperature":3795.000000, "Luminosity":"Va", "SemiMajorAxis":72360583168.000000, "Eccentricity":0.288425, "OrbitalInclination":-20.547829, "Periapsis":343.729126, "OrbitalPeriod":132819360.000000, "RotationPeriod":201945.218750, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae MD-A c1-6546 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.0049e+14, "InnerRad":8.2187e+08, "OuterRad":1.9686e+09 } ] }
+{ "timestamp":"2018-01-28T00:57:11Z", "event":"FuelScoop", "Scooped":4.038057, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:57:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae KI-A c1-4940", "StarClass":"G" }
+{ "timestamp":"2018-01-28T00:57:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:58:11Z", "event":"FSDJump", "StarSystem":"Stuemeae KI-A c1-4940", "StarPos":[15.656,436.469,25885.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.085, "FuelUsed":4.042192, "FuelLevel":27.957808 }
+{ "timestamp":"2018-01-28T00:58:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:58:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:58:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:58:32Z", "event":"Scan", "BodyName":"Stuemeae KI-A c1-4940 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.871094, "Radius":658801984.000000, "AbsoluteMagnitude":5.276459, "Age_MY":12530, "SurfaceTemperature":5357.000000, "Luminosity":"Vab", "SemiMajorAxis":560525541376.000000, "Eccentricity":0.221191, "OrbitalInclination":20.638737, "Periapsis":164.230270, "OrbitalPeriod":1013836160.000000, "RotationPeriod":270614.000000, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae KI-A c1-4940 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.3822e+14, "InnerRad":1.087e+09, "OuterRad":2.437e+09 } ] }
+{ "timestamp":"2018-01-28T00:58:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:58:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:58:53Z", "event":"FuelScoop", "Scooped":4.042165, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:59:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:59:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:00:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae HN-A c1-2846", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:00:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:00:50Z", "event":"FSDJump", "StarSystem":"Stuemeae HN-A c1-2846", "StarPos":[14.781,463.594,25887.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.182, "FuelUsed":4.077793, "FuelLevel":27.922207 }
+{ "timestamp":"2018-01-28T01:00:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:00:58Z", "event":"Friends", "Status":"Offline", "Name":"Thor Wotansen" }
+{ "timestamp":"2018-01-28T01:00:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:01:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:01:17Z", "event":"FuelScoop", "Scooped":4.077803, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:01:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:01:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:02:08Z", "event":"Friends", "Status":"Offline", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-01-28T01:04:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae SL-Z b2-98", "StarClass":"M" }
+{ "timestamp":"2018-01-28T01:04:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:04:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:04:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:04:22Z", "event":"FSDJump", "StarSystem":"Stuemeae SL-Z b2-98", "StarPos":[15.188,490.469,25889.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.946, "FuelUsed":3.991752, "FuelLevel":28.008247 }
+{ "timestamp":"2018-01-28T01:04:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:04:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:04:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:04:44Z", "event":"Scan", "BodyName":"Stuemeae SL-Z b2-98 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.339844, "Radius":354987680.000000, "AbsoluteMagnitude":9.600571, "Age_MY":6204, "SurfaceTemperature":2697.000000, "Luminosity":"Va", "SemiMajorAxis":81961459712.000000, "Eccentricity":0.084081, "OrbitalInclination":-28.342516, "Periapsis":41.565937, "OrbitalPeriod":74289456.000000, "RotationPeriod":145744.671875, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae SL-Z b2-98 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.5984e+13, "InnerRad":6.526e+08, "OuterRad":1.684e+09 } ] }
+{ "timestamp":"2018-01-28T01:05:04Z", "event":"FuelScoop", "Scooped":3.991754, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:05:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:05:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:05:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae GS-A c1-7109", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:05:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:05:50Z", "event":"FSDJump", "StarSystem":"Stuemeae GS-A c1-7109", "StarPos":[18.094,517.063,25888.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.759, "FuelUsed":3.924190, "FuelLevel":28.075809 }
+{ "timestamp":"2018-01-28T01:05:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:05:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:06:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:06:12Z", "event":"Scan", "BodyName":"Stuemeae GS-A c1-7109", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.718750, "Radius":586488512.000000, "AbsoluteMagnitude":6.150360, "Age_MY":6456, "SurfaceTemperature":4643.000000, "Luminosity":"Va", "RotationPeriod":273945.187500, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae GS-A c1-7109 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.2241e+14, "InnerRad":8.808e+08, "OuterRad":2.1615e+09 } ] }
+{ "timestamp":"2018-01-28T01:06:28Z", "event":"FuelScoop", "Scooped":3.924201, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:06:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:06:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:07:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae MA-A b3-143", "StarClass":"M" }
+{ "timestamp":"2018-01-28T01:07:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:07:19Z", "event":"FSDJump", "StarSystem":"Stuemeae MA-A b3-143", "StarPos":[16.406,544.188,25889.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.195, "FuelUsed":4.082774, "FuelLevel":27.917225 }
+{ "timestamp":"2018-01-28T01:07:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:07:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:07:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:07:41Z", "event":"Scan", "BodyName":"Stuemeae MA-A b3-143", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.281250, "Radius":304047744.000000, "AbsoluteMagnitude":9.895325, "Age_MY":10738, "SurfaceTemperature":2723.000000, "Luminosity":"Va", "RotationPeriod":138682.296875, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae MA-A b3-143 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":6.9082e+13, "InnerRad":5.3197e+08, "OuterRad":1.581e+09 } ] }
+{ "timestamp":"2018-01-28T01:07:56Z", "event":"FuelScoop", "Scooped":4.082758, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:08:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae DX-A c1-2135", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:08:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:08:38Z", "event":"FSDJump", "StarSystem":"Stuemeae DX-A c1-2135", "StarPos":[13.500,571.000,25892.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.126, "FuelUsed":4.057278, "FuelLevel":27.942722 }
+{ "timestamp":"2018-01-28T01:08:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:08:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:08:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:09:00Z", "event":"Scan", "BodyName":"Stuemeae DX-A c1-2135", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.769531, "Radius":556497600.000000, "AbsoluteMagnitude":6.401230, "Age_MY":464, "SurfaceTemperature":4499.000000, "Luminosity":"Va", "RotationPeriod":305609.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:09:14Z", "event":"FuelScoop", "Scooped":4.057276, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:09:41Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae BC-B c1-3577", "StarClass":"M" }
+{ "timestamp":"2018-01-28T01:09:46Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:10:00Z", "event":"FSDJump", "StarSystem":"Stuemeae BC-B c1-3577", "StarPos":[10.969,597.938,25891.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.063, "FuelUsed":4.034053, "FuelLevel":27.965946 }
+{ "timestamp":"2018-01-28T01:10:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:10:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:10:21Z", "event":"Scan", "BodyName":"Stuemeae BC-B c1-3577", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.531250, "Radius":444578304.000000, "AbsoluteMagnitude":7.767700, "Age_MY":5190, "SurfaceTemperature":3675.000000, "Luminosity":"Va", "RotationPeriod":218467.468750, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae BC-B c1-3577 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.2039e+09, "InnerRad":8.5328e+08, "OuterRad":1.9544e+09 }, { "Name":"Stuemeae BC-B c1-3577 B Belt", "RingClass":"eRingClass_Icy", "MassMT":1.1612e+16, "InnerRad":3.1484e+11, "OuterRad":4.9978e+11 } ] }
+{ "timestamp":"2018-01-28T01:10:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:10:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:10:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:10:44Z", "event":"FuelScoop", "Scooped":4.034033, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:11:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:11:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:11:31Z", "event":"Scan", "BodyName":"Stuemeae BC-B c1-3577 3", "DistanceFromArrivalLS":105.560478, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"hot thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":95.800201 }, { "Name":"Argon", "Percent":3.903072 }, { "Name":"Water", "Percent":0.229328 } ], "Volcanism":"rocky magma volcanism", "MassEM":1.082327, "Radius":6729308.000000, "SurfaceGravity":9.526358, "SurfaceTemperature":514.671936, "SurfacePressure":27489080.000000, "Landable":false, "SemiMajorAxis":31645028352.000000, "Eccentricity":0.000041, "OrbitalInclination":-0.001820, "Periapsis":213.963531, "OrbitalPeriod":4211262.000000, "RotationPeriod":-4211992.000000, "AxialTilt":-2.801953 }
+{ "timestamp":"2018-01-28T01:11:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:11:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:12:32Z", "event":"Scan", "BodyName":"Stuemeae BC-B c1-3577 4", "DistanceFromArrivalLS":176.615448, "TidalLock":true, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":95.232811 }, { "Name":"Argon", "Percent":4.531961 }, { "Name":"Ammonia", "Percent":0.138457 } ], "Volcanism":"", "MassEM":0.593273, "Radius":5635021.500000, "SurfaceGravity":7.446860, "SurfaceTemperature":252.215881, "SurfacePressure":15070552.000000, "Landable":false, "SemiMajorAxis":52948496384.000000, "Eccentricity":0.000014, "OrbitalInclination":0.000707, "Periapsis":106.737518, "OrbitalPeriod":9114535.000000, "RotationPeriod":9116116.000000, "AxialTilt":0.229967 }
+{ "timestamp":"2018-01-28T01:12:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:12:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:13:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae ZG-B c1-169", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:13:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:13:22Z", "event":"FSDJump", "StarSystem":"Stuemeae ZG-B c1-169", "StarPos":[12.781,625.031,25892.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.163, "FuelUsed":4.070803, "FuelLevel":27.929197 }
+{ "timestamp":"2018-01-28T01:13:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:13:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:13:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:14:03Z", "event":"Scan", "BodyName":"Stuemeae ZG-B c1-169", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.804688, "Radius":644772288.000000, "AbsoluteMagnitude":5.836456, "Age_MY":2220, "SurfaceTemperature":4760.000000, "Luminosity":"Va", "RotationPeriod":356989.968750, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae ZG-B c1-169 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":5.5637e+13, "InnerRad":1.1677e+09, "OuterRad":2.2445e+09 }, { "Name":"Stuemeae ZG-B c1-169 B Belt", "RingClass":"eRingClass_Metalic", "MassMT":5.7512e+15, "InnerRad":3.3998e+09, "OuterRad":3.454e+11 } ] }
+{ "timestamp":"2018-01-28T01:14:19Z", "event":"FuelScoop", "Scooped":4.070805, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:15:06Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae KN-B d2792", "StarClass":"G" }
+{ "timestamp":"2018-01-28T01:15:11Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:15:24Z", "event":"FSDJump", "StarSystem":"Stuemeae KN-B d2792", "StarPos":[12.219,652.156,25892.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.133, "FuelUsed":4.059906, "FuelLevel":27.940094 }
+{ "timestamp":"2018-01-28T01:15:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:15:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:15:37Z", "event":"Friends", "Status":"Online", "Name":"Aquafunkalisticbooty" }
+{ "timestamp":"2018-01-28T01:15:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:15:46Z", "event":"Scan", "BodyName":"Stuemeae KN-B d2792", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.039063, "Radius":722689152.000000, "AbsoluteMagnitude":4.950668, "Age_MY":1750, "SurfaceTemperature":5513.000000, "Luminosity":"Va", "RotationPeriod":275365.750000, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae KN-B d2792 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.2231e+14, "InnerRad":1.3577e+09, "OuterRad":2.4441e+09 } ] }
+{ "timestamp":"2018-01-28T01:16:02Z", "event":"FuelScoop", "Scooped":4.059897, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:16:25Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-01-28T01:16:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae XL-B c1-537", "StarClass":"M" }
+{ "timestamp":"2018-01-28T01:16:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:16:48Z", "event":"FSDJump", "StarSystem":"Stuemeae XL-B c1-537", "StarPos":[12.250,678.844,25890.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.760, "FuelUsed":3.924568, "FuelLevel":28.075432 }
+{ "timestamp":"2018-01-28T01:16:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:16:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:16:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:17:10Z", "event":"Scan", "BodyName":"Stuemeae XL-B c1-537 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.457031, "Radius":400324256.000000, "AbsoluteMagnitude":8.158005, "Age_MY":3756, "SurfaceTemperature":3540.000000, "Luminosity":"Va", "SemiMajorAxis":2246761775104.000000, "Eccentricity":0.315888, "OrbitalInclination":18.998070, "Periapsis":172.448120, "OrbitalPeriod":10388262912.000000, "RotationPeriod":199909.125000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:17:25Z", "event":"FuelScoop", "Scooped":3.924574, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:17:31Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T01:17:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:17:51Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae VQ-B c1-1426", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:17:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:18:10Z", "event":"FSDJump", "StarSystem":"Stuemeae VQ-B c1-1426", "StarPos":[14.406,703.938,25889.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.188, "FuelUsed":3.383553, "FuelLevel":28.616447 }
+{ "timestamp":"2018-01-28T01:18:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:18:32Z", "event":"Scan", "BodyName":"Stuemeae VQ-B c1-1426", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.703125, "Radius":592219264.000000, "AbsoluteMagnitude":5.806580, "Age_MY":3016, "SurfaceTemperature":5001.000000, "Luminosity":"Vab", "RotationPeriod":347387.281250, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae VQ-B c1-1426 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.094e+14, "InnerRad":1.0592e+09, "OuterRad":2.1458e+09 }, { "Name":"Stuemeae VQ-B c1-1426 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.2558e+16, "InnerRad":9.1025e+09, "OuterRad":2.3119e+11 } ] }
+{ "timestamp":"2018-01-28T01:18:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:18:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:18:57Z", "event":"FuelScoop", "Scooped":4.013549, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:19:26Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae VQ-B c1-3644", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:19:31Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:19:44Z", "event":"FSDJump", "StarSystem":"Stuemeae VQ-B c1-3644", "StarPos":[14.344,731.125,25890.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.189, "FuelUsed":4.080366, "FuelLevel":27.919634 }
+{ "timestamp":"2018-01-28T01:19:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:19:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:19:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:20:06Z", "event":"Scan", "BodyName":"Stuemeae VQ-B c1-3644", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.652344, "Radius":507446656.000000, "AbsoluteMagnitude":6.760941, "Age_MY":9806, "SurfaceTemperature":4337.000000, "Luminosity":"Va", "RotationPeriod":231791.515625, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae VQ-B c1-3644 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.2159e+14, "InnerRad":8.3729e+08, "OuterRad":2.2178e+09 } ] }
+{ "timestamp":"2018-01-28T01:20:21Z", "event":"FuelScoop", "Scooped":4.080352, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:20:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae IS-B d4731", "StarClass":"F" }
+{ "timestamp":"2018-01-28T01:20:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:21:07Z", "event":"FSDJump", "StarSystem":"Stuemeae IS-B d4731", "StarPos":[14.063,758.094,25891.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.984, "FuelUsed":4.005546, "FuelLevel":27.994453 }
+{ "timestamp":"2018-01-28T01:21:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:21:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:21:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:21:29Z", "event":"Scan", "BodyName":"Stuemeae IS-B d4731", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.394531, "Radius":791373184.000000, "AbsoluteMagnitude":3.593140, "Age_MY":1116, "SurfaceTemperature":7201.000000, "Luminosity":"VI", "RotationPeriod":187798.828125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:21:44Z", "event":"FuelScoop", "Scooped":4.005549, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:22:14Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae RA-C c1-3182", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:22:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:22:32Z", "event":"FSDJump", "StarSystem":"Stuemeae RA-C c1-3182", "StarPos":[12.406,784.781,25887.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.955, "FuelUsed":3.994750, "FuelLevel":28.005251 }
+{ "timestamp":"2018-01-28T01:22:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:22:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:22:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:22:55Z", "event":"Scan", "BodyName":"Stuemeae RA-C c1-3182", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.656250, "Radius":564669248.000000, "AbsoluteMagnitude":6.851028, "Age_MY":4774, "SurfaceTemperature":4027.000000, "Luminosity":"Va", "RotationPeriod":323655.062500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:22:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:23:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:24:30Z", "event":"Scan", "BodyName":"Stuemeae RA-C c1-3182 1", "DistanceFromArrivalLS":238.980682, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"thick ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":72.157082 }, { "Name":"Nitrogen", "Percent":25.832293 }, { "Name":"Water", "Percent":1.080514 } ], "Volcanism":"", "MassEM":0.727318, "Radius":5520102.000000, "SurfaceGravity":9.513484, "SurfaceTemperature":380.533661, "SurfacePressure":574273.187500, "Landable":false, "SemiMajorAxis":71634313216.000000, "Eccentricity":0.000253, "OrbitalInclination":-0.002619, "Periapsis":93.870895, "OrbitalPeriod":12906554.000000, "RotationPeriod":12907014.000000, "AxialTilt":-0.256557 }
+{ "timestamp":"2018-01-28T01:24:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:24:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:25:21Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae GX-B d5059", "StarClass":"F" }
+{ "timestamp":"2018-01-28T01:25:26Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:25:39Z", "event":"FSDJump", "StarSystem":"Stuemeae GX-B d5059", "StarPos":[12.469,811.594,25885.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.887, "FuelUsed":3.867525, "FuelLevel":24.137726 }
+{ "timestamp":"2018-01-28T01:25:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:26:02Z", "event":"Scan", "BodyName":"Stuemeae GX-B d5059 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.128906, "Radius":707088832.000000, "AbsoluteMagnitude":4.297363, "Age_MY":2128, "SurfaceTemperature":6478.000000, "Luminosity":"VI", "SemiMajorAxis":3147402313728.000000, "Eccentricity":0.092096, "OrbitalInclination":-26.645844, "Periapsis":154.683411, "OrbitalPeriod":19435634688.000000, "RotationPeriod":324859.062500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:26:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:26:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:26:31Z", "event":"FuelScoop", "Scooped":5.010174, "Total":29.147896 }
+{ "timestamp":"2018-01-28T01:26:34Z", "event":"FuelScoop", "Scooped":2.852102, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:26:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:26:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:27:00Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae PF-C c1-339", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:27:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:27:19Z", "event":"FSDJump", "StarSystem":"Stuemeae PF-C c1-339", "StarPos":[12.719,838.375,25890.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.168, "FuelUsed":4.072651, "FuelLevel":27.927349 }
+{ "timestamp":"2018-01-28T01:27:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:27:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:27:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:27:40Z", "event":"Scan", "BodyName":"Stuemeae PF-C c1-339", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.597656, "Radius":536503712.000000, "AbsoluteMagnitude":6.538986, "Age_MY":10282, "SurfaceTemperature":4439.000000, "Luminosity":"Va", "RotationPeriod":237430.953125, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae PF-C c1-339 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.0643e+14, "InnerRad":8.4124e+08, "OuterRad":2.0326e+09 }, { "Name":"Stuemeae PF-C c1-339 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":2.0578e+10, "InnerRad":4.0097e+09, "OuterRad":1.0184e+11 } ] }
+{ "timestamp":"2018-01-28T01:28:02Z", "event":"FuelScoop", "Scooped":4.072640, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:28:40Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae NK-C c1-2183", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:28:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:28:59Z", "event":"FSDJump", "StarSystem":"Stuemeae NK-C c1-2183", "StarPos":[13.063,865.250,25887.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.990, "FuelUsed":4.007966, "FuelLevel":27.992035 }
+{ "timestamp":"2018-01-28T01:28:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:29:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:29:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:29:21Z", "event":"Scan", "BodyName":"Stuemeae NK-C c1-2183 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.750000, "Radius":536333888.000000, "AbsoluteMagnitude":6.336090, "Age_MY":1912, "SurfaceTemperature":4652.000000, "Luminosity":"Vab", "SemiMajorAxis":255960760320.000000, "Eccentricity":0.167322, "OrbitalInclination":-53.498672, "Periapsis":62.744335, "OrbitalPeriod":480089376.000000, "RotationPeriod":272212.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:29:39Z", "event":"FuelScoop", "Scooped":4.007959, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:31:12Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T01:31:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:32:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:32:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:32:24Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae NK-C c1-1358", "StarClass":"M" }
+{ "timestamp":"2018-01-28T01:32:29Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:32:42Z", "event":"FSDJump", "StarSystem":"Stuemeae NK-C c1-1358", "StarPos":[14.406,892.313,25887.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.104, "FuelUsed":4.049362, "FuelLevel":27.950638 }
+{ "timestamp":"2018-01-28T01:32:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:33:04Z", "event":"Scan", "BodyName":"Stuemeae NK-C c1-1358", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.449219, "Radius":393426144.000000, "AbsoluteMagnitude":8.365936, "Age_MY":2610, "SurfaceTemperature":3404.000000, "Luminosity":"Va", "RotationPeriod":139085.750000, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae NK-C c1-1358 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":9.3984e+13, "InnerRad":6.5104e+08, "OuterRad":1.8481e+09 }, { "Name":"Stuemeae NK-C c1-1358 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.9777e+15, "InnerRad":5.6404e+09, "OuterRad":2.2741e+11 } ] }
+{ "timestamp":"2018-01-28T01:33:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:33:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:33:47Z", "event":"FuelScoop", "Scooped":4.049372, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:33:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:33:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:34:14Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae EC-C d931", "StarClass":"M" }
+{ "timestamp":"2018-01-28T01:34:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:34:32Z", "event":"FSDJump", "StarSystem":"Stuemeae EC-C d931", "StarPos":[12.188,919.250,25888.813], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.087, "FuelUsed":4.043314, "FuelLevel":27.956686 }
+{ "timestamp":"2018-01-28T01:34:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:34:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:34:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:34:54Z", "event":"Scan", "BodyName":"Stuemeae EC-C d931 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.468750, "Radius":428235104.000000, "AbsoluteMagnitude":8.107162, "Age_MY":1120, "SurfaceTemperature":3463.000000, "Luminosity":"Va", "SemiMajorAxis":5599580913664.000000, "Eccentricity":0.237044, "OrbitalInclination":44.196526, "Periapsis":267.168060, "OrbitalPeriod":32315547648.000000, "RotationPeriod":187440.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:35:10Z", "event":"FuelScoop", "Scooped":4.043315, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:35:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:35:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:35:36Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae CH-C d4336", "StarClass":"F" }
+{ "timestamp":"2018-01-28T01:35:42Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:35:55Z", "event":"FSDJump", "StarSystem":"Stuemeae CH-C d4336", "StarPos":[13.219,945.781,25885.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.735, "FuelUsed":3.915105, "FuelLevel":28.084896 }
+{ "timestamp":"2018-01-28T01:35:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:36:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:36:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:36:17Z", "event":"Scan", "BodyName":"Stuemeae CH-C d4336", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.386719, "Radius":881749184.000000, "AbsoluteMagnitude":3.844803, "Age_MY":1400, "SurfaceTemperature":6438.000000, "Luminosity":"Vab", "RotationPeriod":252479.312500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:36:32Z", "event":"FuelScoop", "Scooped":3.915109, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:37:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae CH-C d8163", "StarClass":"F" }
+{ "timestamp":"2018-01-28T01:37:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:37:23Z", "event":"FSDJump", "StarSystem":"Stuemeae CH-C d8163", "StarPos":[11.875,972.688,25885.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.941, "FuelUsed":3.989657, "FuelLevel":28.010344 }
+{ "timestamp":"2018-01-28T01:37:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:37:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:37:54Z", "event":"Scan", "BodyName":"Stuemeae CH-C d8163 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.105469, "Radius":729969280.000000, "AbsoluteMagnitude":4.227524, "Age_MY":3104, "SurfaceTemperature":6479.000000, "Luminosity":"Vb", "SemiMajorAxis":2473546219520.000000, "Eccentricity":0.385929, "OrbitalInclination":-19.044075, "Periapsis":195.359177, "OrbitalPeriod":14429943808.000000, "RotationPeriod":419217.750000, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae CH-C d8163 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.3237e+14, "InnerRad":1.4149e+09, "OuterRad":2.4951e+09 } ] }
+{ "timestamp":"2018-01-28T01:37:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:38:12Z", "event":"FuelScoop", "Scooped":3.989628, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:38:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae HZ-C c1-204", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:38:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:39:06Z", "event":"FSDJump", "StarSystem":"Stuemeae HZ-C c1-204", "StarPos":[12.281,999.750,25887.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.107, "FuelUsed":4.050484, "FuelLevel":27.949516 }
+{ "timestamp":"2018-01-28T01:39:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:39:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:39:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:39:28Z", "event":"Scan", "BodyName":"Stuemeae HZ-C c1-204", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.792969, "Radius":601070016.000000, "AbsoluteMagnitude":6.198257, "Age_MY":4214, "SurfaceTemperature":4536.000000, "Luminosity":"Va", "RotationPeriod":338801.500000, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae HZ-C c1-204 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":6.2974e+12, "InnerRad":1.1197e+09, "OuterRad":2.2335e+09 } ] }
+{ "timestamp":"2018-01-28T01:39:46Z", "event":"FuelScoop", "Scooped":4.050468, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:40:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:40:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:40:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae AM-C d6457", "StarClass":"G" }
+{ "timestamp":"2018-01-28T01:40:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:40:34Z", "event":"FSDJump", "StarSystem":"Stuemeae AM-C d6457", "StarPos":[8.063,1025.406,25884.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.166, "FuelUsed":3.714674, "FuelLevel":28.285326 }
+{ "timestamp":"2018-01-28T01:40:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:40:56Z", "event":"Scan", "BodyName":"Stuemeae AM-C d6457", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.062500, "Radius":660945728.000000, "AbsoluteMagnitude":5.039612, "Age_MY":3514, "SurfaceTemperature":5648.000000, "Luminosity":"Vab", "RotationPeriod":278598.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:40:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:41:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:41:17Z", "event":"FuelScoop", "Scooped":3.714670, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:41:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:41:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:41:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:41:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:41:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae FE-D c1-540", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:41:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:42:06Z", "event":"FSDJump", "StarSystem":"Stuemeae FE-D c1-540", "StarPos":[6.188,1052.094,25882.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.873, "FuelUsed":3.964989, "FuelLevel":28.035011 }
+{ "timestamp":"2018-01-28T01:42:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:42:27Z", "event":"Scan", "BodyName":"Stuemeae FE-D c1-540 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.578125, "Radius":511691680.000000, "AbsoluteMagnitude":7.372253, "Age_MY":10752, "SurfaceTemperature":3752.000000, "Luminosity":"Va", "SemiMajorAxis":23956794900480.000000, "Eccentricity":0.240733, "OrbitalInclination":-71.668114, "Periapsis":247.650436, "OrbitalPeriod":426024271872.000000, "RotationPeriod":259204.015625, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae FE-D c1-540 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.9778e+11, "InnerRad":9.7057e+08, "OuterRad":2.0102e+09 } ] }
+{ "timestamp":"2018-01-28T01:43:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:43:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:43:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:43:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:44:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:44:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:44:37Z", "event":"FuelScoop", "Scooped":3.964989, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:45:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae DJ-D c1-1614", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:45:22Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:45:35Z", "event":"FSDJump", "StarSystem":"Stuemeae DJ-D c1-1614", "StarPos":[5.781,1078.844,25885.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.939, "FuelUsed":3.989179, "FuelLevel":28.010820 }
+{ "timestamp":"2018-01-28T01:45:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:45:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:45:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:45:59Z", "event":"Scan", "BodyName":"Stuemeae DJ-D c1-1614", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.820313, "Radius":618389632.000000, "AbsoluteMagnitude":5.862000, "Age_MY":12866, "SurfaceTemperature":4832.000000, "Luminosity":"Va", "RotationPeriod":344266.812500, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae DJ-D c1-1614 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.0332e+14, "InnerRad":1.2069e+09, "OuterRad":2.2589e+09 }, { "Name":"Stuemeae DJ-D c1-1614 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.7997e+15, "InnerRad":2.2892e+09, "OuterRad":3.6917e+11 } ] }
+{ "timestamp":"2018-01-28T01:46:15Z", "event":"FuelScoop", "Scooped":3.989165, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:47:24Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae BO-D c1-87", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:47:30Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:47:43Z", "event":"FSDJump", "StarSystem":"Stuemeae BO-D c1-87", "StarPos":[5.375,1105.906,25885.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.066, "FuelUsed":4.035136, "FuelLevel":27.964865 }
+{ "timestamp":"2018-01-28T01:47:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:47:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:47:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:48:05Z", "event":"Scan", "BodyName":"Stuemeae BO-D c1-87 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.636719, "Radius":561676480.000000, "AbsoluteMagnitude":6.496552, "Age_MY":6242, "SurfaceTemperature":4381.000000, "Luminosity":"Va", "SemiMajorAxis":7179358699520.000000, "Eccentricity":0.174791, "OrbitalInclination":-51.056229, "Periapsis":285.830322, "OrbitalPeriod":52433051648.000000, "RotationPeriod":283440.187500, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae BO-D c1-87 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":3.3421e+09, "InnerRad":9.2677e+08, "OuterRad":2.1772e+09 } ] }
+{ "timestamp":"2018-01-28T01:48:21Z", "event":"FuelScoop", "Scooped":4.035114, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:48:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae YQ-C d7170", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:48:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:49:11Z", "event":"FSDJump", "StarSystem":"Stuemeae YQ-C d7170", "StarPos":[4.469,1131.875,25878.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.895, "FuelUsed":3.973111, "FuelLevel":28.026888 }
+{ "timestamp":"2018-01-28T01:49:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:49:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:49:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:49:39Z", "event":"Scan", "BodyName":"Stuemeae YQ-C d7170 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.925781, "Radius":640251328.000000, "AbsoluteMagnitude":5.554581, "Age_MY":1714, "SurfaceTemperature":5097.000000, "Luminosity":"Va", "SemiMajorAxis":9562323156992.000000, "Eccentricity":0.100178, "OrbitalInclination":36.965809, "Periapsis":181.977203, "OrbitalPeriod":79309848576.000000, "RotationPeriod":336138.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:49:56Z", "event":"FuelScoop", "Scooped":4.603105, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:53:36Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae ZS-D c1-268", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:53:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:53:55Z", "event":"FSDJump", "StarSystem":"Stuemeae ZS-D c1-268", "StarPos":[5.313,1158.156,25872.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.950, "FuelUsed":3.993335, "FuelLevel":28.006664 }
+{ "timestamp":"2018-01-28T01:53:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:54:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:54:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:54:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:54:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:54:18Z", "event":"Scan", "BodyName":"Stuemeae ZS-D c1-268 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.617188, "Radius":531430912.000000, "AbsoluteMagnitude":6.830139, "Age_MY":10608, "SurfaceTemperature":4171.000000, "Luminosity":"Va", "SemiMajorAxis":2774220931072.000000, "Eccentricity":0.153828, "OrbitalInclination":-32.722286, "Periapsis":182.806900, "OrbitalPeriod":10287928320.000000, "RotationPeriod":211902.593750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:54:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:54:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:54:35Z", "event":"FuelScoop", "Scooped":3.993356, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:55:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae XX-D c1-351", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:55:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:55:20Z", "event":"FSDJump", "StarSystem":"Stuemeae XX-D c1-351", "StarPos":[5.656,1184.906,25873.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.781, "FuelUsed":3.932063, "FuelLevel":28.067936 }
+{ "timestamp":"2018-01-28T01:55:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:55:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:55:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:55:42Z", "event":"Scan", "BodyName":"Stuemeae XX-D c1-351 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.746094, "Radius":622146432.000000, "AbsoluteMagnitude":5.844315, "Age_MY":6450, "SurfaceTemperature":4837.000000, "Luminosity":"Va", "SemiMajorAxis":54643660947456.000000, "Eccentricity":0.459844, "OrbitalInclination":-105.429047, "Periapsis":151.388153, "OrbitalPeriod":558231781376.000000, "RotationPeriod":278664.312500, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae XX-D c1-351 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":4.5637e+09, "InnerRad":1.1186e+09, "OuterRad":2.1886e+09 } ] }
+{ "timestamp":"2018-01-28T01:55:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:55:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:56:04Z", "event":"FuelScoop", "Scooped":3.932058, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:56:29Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae XX-D c1-456", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:56:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:56:48Z", "event":"FSDJump", "StarSystem":"Stuemeae XX-D c1-456", "StarPos":[6.031,1211.688,25877.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.109, "FuelUsed":4.051359, "FuelLevel":27.948641 }
+{ "timestamp":"2018-01-28T01:56:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:56:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:57:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:57:10Z", "event":"Scan", "BodyName":"Stuemeae XX-D c1-456", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.554688, "Radius":528692864.000000, "AbsoluteMagnitude":7.023224, "Age_MY":6222, "SurfaceTemperature":4000.000000, "Luminosity":"Va", "RotationPeriod":254039.265625, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae XX-D c1-456 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":9.6639e+13, "InnerRad":9.2459e+08, "OuterRad":1.9827e+09 }, { "Name":"Stuemeae XX-D c1-456 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":7.3113e+14, "InnerRad":2.0178e+09, "OuterRad":2.0499e+11 } ] }
+{ "timestamp":"2018-01-28T01:57:26Z", "event":"FuelScoop", "Scooped":4.051382, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:57:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae VC-E c1-91", "StarClass":"K" }
+{ "timestamp":"2018-01-28T01:57:58Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:58:11Z", "event":"FSDJump", "StarSystem":"Stuemeae VC-E c1-91", "StarPos":[9.406,1238.313,25873.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.168, "FuelUsed":4.072817, "FuelLevel":27.927183 }
+{ "timestamp":"2018-01-28T01:58:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:58:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:58:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:58:33Z", "event":"Scan", "BodyName":"Stuemeae VC-E c1-91", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.621094, "Radius":500866944.000000, "AbsoluteMagnitude":7.000671, "Age_MY":8352, "SurfaceTemperature":4131.000000, "Luminosity":"Va", "RotationPeriod":271734.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T01:58:48Z", "event":"FuelScoop", "Scooped":4.072814, "Total":32.000000 }
+{ "timestamp":"2018-01-28T01:59:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena AA-A d1242", "StarClass":"G" }
+{ "timestamp":"2018-01-28T01:59:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T01:59:31Z", "event":"FSDJump", "StarSystem":"Nyuena AA-A d1242", "StarPos":[5.594,1264.000,25866.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.824, "FuelUsed":3.947609, "FuelLevel":28.052391 }
+{ "timestamp":"2018-01-28T01:59:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:59:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T01:59:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T01:59:52Z", "event":"Scan", "BodyName":"Nyuena AA-A d1242 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.910156, "Radius":640930560.000000, "AbsoluteMagnitude":5.097916, "Age_MY":758, "SurfaceTemperature":5659.000000, "Luminosity":"Vab", "SemiMajorAxis":769369664.000000, "Eccentricity":0.013199, "OrbitalInclination":-11.517437, "Periapsis":153.493073, "OrbitalPeriod":54199.234375, "RotationPeriod":265774.843750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:00:17Z", "event":"Scan", "BodyName":"Nyuena AA-A d1242 B", "DistanceFromArrivalLS":7.914472, "StarType":"M", "StellarMass":0.437500, "Radius":433031936.000000, "AbsoluteMagnitude":7.820129, "Age_MY":758, "SurfaceTemperature":3679.000000, "Luminosity":"Va", "SemiMajorAxis":1600563712.000000, "Eccentricity":0.013199, "OrbitalInclination":-11.517437, "Periapsis":333.493073, "OrbitalPeriod":54199.234375, "RotationPeriod":255694.140625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:00:55Z", "event":"Scan", "BodyName":"Nyuena AA-A d1242 C", "DistanceFromArrivalLS":325.100800, "StarType":"M", "StellarMass":0.425781, "Radius":404378208.000000, "AbsoluteMagnitude":8.519440, "Age_MY":758, "SurfaceTemperature":3241.000000, "Luminosity":"Va", "SemiMajorAxis":72059002880.000000, "Eccentricity":0.441957, "OrbitalInclination":31.183588, "Periapsis":67.847748, "OrbitalPeriod":11957996.000000, "RotationPeriod":173343.234375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:01:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena JR-W b1-0", "StarClass":"M" }
+{ "timestamp":"2018-01-28T02:01:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:01:34Z", "event":"FSDJump", "StarSystem":"Nyuena JR-W b1-0", "StarPos":[-0.313,1289.844,25863.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.783, "FuelUsed":3.832079, "FuelLevel":24.220312 }
+{ "timestamp":"2018-01-28T02:01:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:01:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:01:57Z", "event":"Scan", "BodyName":"Nyuena JR-W b1-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.238281, "Radius":293583840.000000, "AbsoluteMagnitude":10.697205, "Age_MY":12857, "SurfaceTemperature":2304.000000, "Luminosity":"Va", "SemiMajorAxis":6618911080448.000000, "Eccentricity":0.227723, "OrbitalInclination":6.238786, "Periapsis":138.602432, "OrbitalPeriod":119498932224.000000, "RotationPeriod":186365.890625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:02:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:02:26Z", "event":"FuelScoop", "Scooped":5.001297, "Total":29.221605 }
+{ "timestamp":"2018-01-28T02:02:27Z", "event":"FuelScoop", "Scooped":0.045202, "Total":29.266806 }
+{ "timestamp":"2018-01-28T02:02:48Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T02:03:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:05:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:05:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:05:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena DL-Y c152", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:05:50Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:06:03Z", "event":"FSDJump", "StarSystem":"Nyuena DL-Y c152", "StarPos":[1.875,1316.531,25864.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.811, "FuelUsed":3.872703, "FuelLevel":25.394102 }
+{ "timestamp":"2018-01-28T02:06:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:06:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:06:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:06:26Z", "event":"Scan", "BodyName":"Nyuena DL-Y c152", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.574219, "Radius":530815360.000000, "AbsoluteMagnitude":6.758331, "Age_MY":12604, "SurfaceTemperature":4243.000000, "Luminosity":"Va", "RotationPeriod":231601.875000, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena DL-Y c152 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.0113e+14, "InnerRad":8.9295e+08, "OuterRad":2.0057e+09 } ] }
+{ "timestamp":"2018-01-28T02:06:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:06:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:06:47Z", "event":"FuelScoop", "Scooped":5.001141, "Total":30.395245 }
+{ "timestamp":"2018-01-28T02:06:49Z", "event":"FuelScoop", "Scooped":1.604762, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:07:01Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T02:08:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:08:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena YE-A d1632", "StarClass":"G" }
+{ "timestamp":"2018-01-28T02:08:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:08:42Z", "event":"FSDJump", "StarSystem":"Nyuena YE-A d1632", "StarPos":[0.406,1341.875,25872.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.645, "FuelUsed":3.883614, "FuelLevel":28.116386 }
+{ "timestamp":"2018-01-28T02:08:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:09:04Z", "event":"Scan", "BodyName":"Nyuena YE-A d1632", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.910156, "Radius":706834048.000000, "AbsoluteMagnitude":5.137344, "Age_MY":916, "SurfaceTemperature":5340.000000, "Luminosity":"Va", "RotationPeriod":387755.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:09:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:09:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:09:50Z", "event":"FuelScoop", "Scooped":3.883613, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:10:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:10:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:10:22Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena BQ-Y c146", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:10:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:10:41Z", "event":"FSDJump", "StarSystem":"Nyuena BQ-Y c146", "StarPos":[-3.844,1368.625,25873.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.089, "FuelUsed":4.043682, "FuelLevel":27.956318 }
+{ "timestamp":"2018-01-28T02:10:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:10:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:10:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:11:02Z", "event":"Scan", "BodyName":"Nyuena BQ-Y c146", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.664063, "Radius":581479424.000000, "AbsoluteMagnitude":6.333939, "Age_MY":12106, "SurfaceTemperature":4470.000000, "Luminosity":"Va", "RotationPeriod":275445.750000, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena BQ-Y c146 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":3.019e+12, "InnerRad":9.7275e+08, "OuterRad":2.1053e+09 } ] }
+{ "timestamp":"2018-01-28T02:11:18Z", "event":"FuelScoop", "Scooped":4.043708, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:11:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:11:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:13:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena YE-A d4071", "StarClass":"F" }
+{ "timestamp":"2018-01-28T02:13:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:13:54Z", "event":"FSDJump", "StarSystem":"Nyuena YE-A d4071", "StarPos":[-6.938,1395.406,25875.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.058, "FuelUsed":4.032365, "FuelLevel":27.967636 }
+{ "timestamp":"2018-01-28T02:13:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:14:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:14:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:14:16Z", "event":"Scan", "BodyName":"Nyuena YE-A d4071 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.238281, "Radius":724408384.000000, "AbsoluteMagnitude":3.773117, "Age_MY":1208, "SurfaceTemperature":7221.000000, "Luminosity":"VI", "SemiMajorAxis":591861121024.000000, "Eccentricity":0.275941, "OrbitalInclination":-53.017513, "Periapsis":135.096054, "OrbitalPeriod":1086839168.000000, "RotationPeriod":561363.375000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:14:32Z", "event":"FuelScoop", "Scooped":4.032374, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:14:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:14:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:14:55Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T02:15:05Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena WJ-A d2973", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:15:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:15:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:15:23Z", "event":"FSDJump", "StarSystem":"Nyuena WJ-A d2973", "StarPos":[-6.938,1421.844,25874.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.459, "FuelUsed":3.817241, "FuelLevel":28.182758 }
+{ "timestamp":"2018-01-28T02:15:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:15:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:15:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:15:45Z", "event":"Scan", "BodyName":"Nyuena WJ-A d2973 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.867188, "Radius":619344768.000000, "AbsoluteMagnitude":5.569992, "Age_MY":460, "SurfaceTemperature":5164.000000, "Luminosity":"Vab", "SemiMajorAxis":521741056.000000, "Eccentricity":0.004875, "OrbitalInclination":-5.148169, "Periapsis":253.632690, "OrbitalPeriod":28705.373047, "RotationPeriod":295968.562500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:15:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:15:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:16:02Z", "event":"Scan", "BodyName":"Nyuena WJ-A d2973 B", "DistanceFromArrivalLS":5.151192, "StarType":"M", "StellarMass":0.445313, "Radius":400833664.000000, "AbsoluteMagnitude":8.034241, "Age_MY":460, "SurfaceTemperature":3640.000000, "Luminosity":"Va", "SemiMajorAxis":1016022016.000000, "Eccentricity":0.004875, "OrbitalInclination":-5.148169, "Periapsis":73.632683, "OrbitalPeriod":28705.373047, "RotationPeriod":197650.265625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:16:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:16:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:16:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena XZ-Y c235", "StarClass":"M" }
+{ "timestamp":"2018-01-28T02:16:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:17:06Z", "event":"FSDJump", "StarSystem":"Nyuena XZ-Y c235", "StarPos":[-8.344,1448.969,25873.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.187, "FuelUsed":3.978887, "FuelLevel":24.203871 }
+{ "timestamp":"2018-01-28T02:17:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:17:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:17:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:17:28Z", "event":"Scan", "BodyName":"Nyuena XZ-Y c235", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.500000, "Radius":421910048.000000, "AbsoluteMagnitude":7.862503, "Age_MY":6130, "SurfaceTemperature":3691.000000, "Luminosity":"Va", "RotationPeriod":269515.312500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:17:44Z", "event":"FuelScoop", "Scooped":5.013114, "Total":29.216970 }
+{ "timestamp":"2018-01-28T02:17:48Z", "event":"FuelScoop", "Scooped":2.783036, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:17:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:17:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:18:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena WJ-A d3113", "StarClass":"M" }
+{ "timestamp":"2018-01-28T02:18:20Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:18:33Z", "event":"FSDJump", "StarSystem":"Nyuena WJ-A d3113", "StarPos":[-11.656,1475.531,25875.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.922, "FuelUsed":3.982852, "FuelLevel":28.017147 }
+{ "timestamp":"2018-01-28T02:18:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:18:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:18:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:18:55Z", "event":"Scan", "BodyName":"Nyuena WJ-A d3113 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.441406, "Radius":379035584.000000, "AbsoluteMagnitude":8.625305, "Age_MY":586, "SurfaceTemperature":3267.000000, "Luminosity":"Va", "SemiMajorAxis":1542263537664.000000, "Eccentricity":0.293332, "OrbitalInclination":18.651997, "Periapsis":284.594818, "OrbitalPeriod":11528400896.000000, "RotationPeriod":149099.250000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:19:09Z", "event":"FuelScoop", "Scooped":3.982857, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:20:17Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena UO-A d1514", "StarClass":"F" }
+{ "timestamp":"2018-01-28T02:20:22Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:20:35Z", "event":"FSDJump", "StarSystem":"Nyuena UO-A d1514", "StarPos":[-10.406,1502.250,25880.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.103, "FuelUsed":4.032599, "FuelLevel":27.337402 }
+{ "timestamp":"2018-01-28T02:20:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:20:58Z", "event":"Scan", "BodyName":"Nyuena UO-A d1514", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.203125, "Radius":853095424.000000, "AbsoluteMagnitude":3.805969, "Age_MY":3602, "SurfaceTemperature":6604.000000, "Luminosity":"Vb", "RotationPeriod":417447.218750, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena UO-A d1514 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.9674e+15, "InnerRad":3.6954e+09, "OuterRad":5.9596e+11 } ] }
+{ "timestamp":"2018-01-28T02:21:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:21:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:21:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:21:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:21:53Z", "event":"FuelScoop", "Scooped":4.662584, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:22:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:22:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:22:28Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena TJ-Z c65", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:22:33Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:22:47Z", "event":"FSDJump", "StarSystem":"Nyuena TJ-Z c65", "StarPos":[-8.031,1527.938,25882.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.877, "FuelUsed":3.614562, "FuelLevel":28.385437 }
+{ "timestamp":"2018-01-28T02:22:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:22:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:22:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:23:09Z", "event":"Scan", "BodyName":"Nyuena TJ-Z c65 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.863281, "Radius":637895424.000000, "AbsoluteMagnitude":5.534561, "Age_MY":10070, "SurfaceTemperature":5130.000000, "Luminosity":"Va", "SemiMajorAxis":24666427097088.000000, "Eccentricity":0.072790, "OrbitalInclination":-53.319675, "Periapsis":257.962067, "OrbitalPeriod":291239723008.000000, "RotationPeriod":293943.375000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:23:22Z", "event":"FuelScoop", "Scooped":3.614582, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:23:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:23:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:23:53Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena YE-A e2084", "StarClass":"F" }
+{ "timestamp":"2018-01-28T02:23:59Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:24:12Z", "event":"FSDJump", "StarSystem":"Nyuena YE-A e2084", "StarPos":[-10.094,1554.656,25880.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.890, "FuelUsed":3.971308, "FuelLevel":28.028692 }
+{ "timestamp":"2018-01-28T02:24:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:24:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:24:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:24:34Z", "event":"Scan", "BodyName":"Nyuena YE-A e2084 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.066406, "Radius":781588480.000000, "AbsoluteMagnitude":4.169907, "Age_MY":230, "SurfaceTemperature":6345.000000, "Luminosity":"Vz", "SemiMajorAxis":212020822016.000000, "Eccentricity":0.138037, "OrbitalInclination":15.775899, "Periapsis":200.805801, "OrbitalPeriod":130580184.000000, "RotationPeriod":394915.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:24:51Z", "event":"FuelScoop", "Scooped":3.971285, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:25:27Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena PT-Z c129", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:25:32Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:25:45Z", "event":"FSDJump", "StarSystem":"Nyuena PT-Z c129", "StarPos":[-12.563,1580.719,25876.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.446, "FuelUsed":3.812588, "FuelLevel":28.187412 }
+{ "timestamp":"2018-01-28T02:25:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:25:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:25:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:26:07Z", "event":"Scan", "BodyName":"Nyuena PT-Z c129 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.808594, "Radius":605782016.000000, "AbsoluteMagnitude":6.147919, "Age_MY":11178, "SurfaceTemperature":4571.000000, "Luminosity":"Va", "SemiMajorAxis":1323076288512.000000, "Eccentricity":0.120623, "OrbitalInclination":37.442093, "Periapsis":97.943321, "OrbitalPeriod":3399713280.000000, "RotationPeriod":250376.890625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:26:21Z", "event":"FuelScoop", "Scooped":3.812578, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:26:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena PT-Z c45", "StarClass":"M" }
+{ "timestamp":"2018-01-28T02:27:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:27:13Z", "event":"FSDJump", "StarSystem":"Nyuena PT-Z c45", "StarPos":[-6.438,1606.250,25877.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.268, "FuelUsed":3.750135, "FuelLevel":28.249865 }
+{ "timestamp":"2018-01-28T02:27:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:27:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:27:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:27:35Z", "event":"Scan", "BodyName":"Nyuena PT-Z c45", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.492188, "Radius":440588000.000000, "AbsoluteMagnitude":8.094589, "Age_MY":9954, "SurfaceTemperature":3424.000000, "Luminosity":"Va", "RotationPeriod":227071.984375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:27:52Z", "event":"FuelScoop", "Scooped":3.750149, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:28:17Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena ST-A d876", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:28:22Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:28:35Z", "event":"FSDJump", "StarSystem":"Nyuena ST-A d876", "StarPos":[-5.094,1632.625,25882.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.855, "FuelUsed":3.958980, "FuelLevel":28.041019 }
+{ "timestamp":"2018-01-28T02:28:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:28:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:28:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:28:59Z", "event":"Scan", "BodyName":"Nyuena ST-A d876 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.710938, "Radius":550894208.000000, "AbsoluteMagnitude":6.600571, "Age_MY":1460, "SurfaceTemperature":4319.000000, "Luminosity":"Va", "SemiMajorAxis":200176058368.000000, "Eccentricity":0.296337, "OrbitalInclination":3.635838, "Periapsis":97.609779, "OrbitalPeriod":299562656.000000, "RotationPeriod":336419.156250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:29:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:29:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:29:16Z", "event":"FuelScoop", "Scooped":2.115380, "Total":30.156410 }
+{ "timestamp":"2018-01-28T02:29:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:29:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:29:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:29:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:30:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:30:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:30:04Z", "event":"Scan", "BodyName":"Nyuena ST-A d876 A 4", "DistanceFromArrivalLS":119.638084, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"sulfur dioxide atmosphere", "AtmosphereType":"SulphurDioxide", "AtmosphereComposition":[ { "Name":"SulphurDioxide", "Percent":100.000000 } ], "Volcanism":"", "MassEM":0.373264, "Radius":4504200.000000, "SurfaceGravity":7.333138, "SurfaceTemperature":391.715851, "SurfacePressure":76536.953125, "Landable":false, "SemiMajorAxis":62825396.000000, "Eccentricity":0.189502, "OrbitalInclination":2.683947, "Periapsis":125.352562, "OrbitalPeriod":556507.562500, "RotationPeriod":803351.062500, "AxialTilt":0.262866 }
+{ "timestamp":"2018-01-28T02:30:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:30:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:30:25Z", "event":"Scan", "BodyName":"Nyuena ST-A d876 A 5", "DistanceFromArrivalLS":120.010582, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"sulfur dioxide atmosphere", "AtmosphereType":"SulphurDioxide", "AtmosphereComposition":[ { "Name":"SulphurDioxide", "Percent":100.000000 } ], "Volcanism":"", "MassEM":0.344383, "Radius":4393197.000000, "SurfaceGravity":7.111979, "SurfaceTemperature":391.167542, "SurfacePressure":71640.359375, "Landable":false, "SemiMajorAxis":68094016.000000, "Eccentricity":0.189502, "OrbitalInclination":2.683947, "Periapsis":305.352570, "OrbitalPeriod":556507.562500, "RotationPeriod":771646.937500, "AxialTilt":-0.310489 }
+{ "timestamp":"2018-01-28T02:30:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:30:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:31:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:31:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:31:29Z", "event":"Scan", "BodyName":"Nyuena ST-A d876 A 6", "DistanceFromArrivalLS":160.783401, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":63.792496 }, { "Name":"SulphurDioxide", "Percent":36.207516 } ], "Volcanism":"", "MassEM":0.440490, "Radius":4740441.500000, "SurfaceGravity":7.812821, "SurfaceTemperature":578.244812, "SurfacePressure":240446.093750, "Landable":false, "SemiMajorAxis":48173424640.000000, "Eccentricity":0.008670, "OrbitalInclination":-0.749368, "Periapsis":348.186798, "OrbitalPeriod":6838631.500000, "RotationPeriod":6838711.000000, "AxialTilt":0.158750 }
+{ "timestamp":"2018-01-28T02:32:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena LD-A c1-100", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:32:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:32:26Z", "event":"FSDJump", "StarSystem":"Nyuena LD-A c1-100", "StarPos":[-10.563,1658.969,25883.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.954, "FuelUsed":3.946553, "FuelLevel":26.209856 }
+{ "timestamp":"2018-01-28T02:32:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:32:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:32:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:32:48Z", "event":"Scan", "BodyName":"Nyuena LD-A c1-100 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.660156, "Radius":504942144.000000, "AbsoluteMagnitude":6.691269, "Age_MY":7410, "SurfaceTemperature":4418.000000, "Luminosity":"Va", "SemiMajorAxis":20700783968256.000000, "Eccentricity":0.299914, "OrbitalInclination":32.779118, "Periapsis":8.101762, "OrbitalPeriod":390503759872.000000, "RotationPeriod":211832.203125, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena LD-A c1-100 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.1661e+14, "InnerRad":8.3827e+08, "OuterRad":2.1011e+09 } ] }
+{ "timestamp":"2018-01-28T02:33:05Z", "event":"FuelScoop", "Scooped":5.002094, "Total":31.211979 }
+{ "timestamp":"2018-01-28T02:33:06Z", "event":"FuelScoop", "Scooped":0.788017, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:33:13Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T02:33:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:33:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena LD-A c1-87", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:33:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:33:52Z", "event":"FSDJump", "StarSystem":"Nyuena LD-A c1-87", "StarPos":[-14.781,1685.563,25885.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.981, "FuelUsed":4.004344, "FuelLevel":27.995655 }
+{ "timestamp":"2018-01-28T02:33:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:34:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:34:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:34:09Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T02:34:14Z", "event":"Scan", "BodyName":"Nyuena LD-A c1-87 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.625000, "Radius":528565536.000000, "AbsoluteMagnitude":7.121475, "Age_MY":10956, "SurfaceTemperature":3911.000000, "Luminosity":"Va", "SemiMajorAxis":65419403264.000000, "Eccentricity":0.073396, "OrbitalInclination":0.473745, "Periapsis":249.256348, "OrbitalPeriod":36342296.000000, "RotationPeriod":251282.906250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:34:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:34:41Z", "event":"FuelScoop", "Scooped":4.004344, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:35:08Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena QY-A d1582", "StarClass":"F" }
+{ "timestamp":"2018-01-28T02:35:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:35:27Z", "event":"FSDJump", "StarSystem":"Nyuena QY-A d1582", "StarPos":[-17.750,1711.375,25883.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.028, "FuelUsed":3.666453, "FuelLevel":28.333548 }
+{ "timestamp":"2018-01-28T02:35:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:35:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:35:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:35:49Z", "event":"Scan", "BodyName":"Nyuena QY-A d1582 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.230469, "Radius":812109952.000000, "AbsoluteMagnitude":4.325211, "Age_MY":1320, "SurfaceTemperature":6006.000000, "Luminosity":"Vab", "SemiMajorAxis":4280267309056.000000, "Eccentricity":0.100921, "OrbitalInclination":65.431778, "Periapsis":314.019409, "OrbitalPeriod":27233585152.000000, "RotationPeriod":376731.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:35:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:35:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:36:06Z", "event":"FuelScoop", "Scooped":3.666452, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:36:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:36:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:36:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena HN-A c1-11", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:36:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:36:53Z", "event":"FSDJump", "StarSystem":"Nyuena HN-A c1-11", "StarPos":[-17.438,1738.000,25879.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.916, "FuelUsed":3.980816, "FuelLevel":28.019184 }
+{ "timestamp":"2018-01-28T02:36:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:37:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:37:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:37:14Z", "event":"Scan", "BodyName":"Nyuena HN-A c1-11", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.886719, "Radius":665954752.000000, "AbsoluteMagnitude":5.644775, "Age_MY":5158, "SurfaceTemperature":4895.000000, "Luminosity":"Va", "RotationPeriod":370469.906250, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena HN-A c1-11 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.2949e+14, "InnerRad":1.1191e+09, "OuterRad":2.3183e+09 }, { "Name":"Nyuena HN-A c1-11 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.9648e+16, "InnerRad":1.0598e+10, "OuterRad":1.6956e+11 } ] }
+{ "timestamp":"2018-01-28T02:37:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:37:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:37:38Z", "event":"FuelScoop", "Scooped":3.980806, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:37:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:37:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:37:49Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T02:38:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:38:36Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena OD-B d426", "StarClass":"F" }
+{ "timestamp":"2018-01-28T02:38:42Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:38:55Z", "event":"FSDJump", "StarSystem":"Nyuena OD-B d426", "StarPos":[-14.344,1763.125,25881.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.352, "FuelUsed":3.437667, "FuelLevel":28.562332 }
+{ "timestamp":"2018-01-28T02:38:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:39:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:39:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:39:17Z", "event":"Scan", "BodyName":"Nyuena OD-B d426 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.351563, "Radius":895163264.000000, "AbsoluteMagnitude":3.905457, "Age_MY":244, "SurfaceTemperature":6301.000000, "Luminosity":"Vab", "SemiMajorAxis":89439723520.000000, "Eccentricity":0.100311, "OrbitalInclination":33.781063, "Periapsis":50.960499, "OrbitalPeriod":60594604.000000, "RotationPeriod":243160.437500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:39:32Z", "event":"FuelScoop", "Scooped":3.437672, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:40:00Z", "event":"Friends", "Status":"Online", "Name":"Alesia" }
+{ "timestamp":"2018-01-28T02:40:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena OD-B d425", "StarClass":"F" }
+{ "timestamp":"2018-01-28T02:40:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:40:31Z", "event":"FSDJump", "StarSystem":"Nyuena OD-B d425", "StarPos":[-13.969,1789.344,25881.625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.223, "FuelUsed":3.734299, "FuelLevel":28.265701 }
+{ "timestamp":"2018-01-28T02:40:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:40:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:40:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:40:52Z", "event":"Scan", "BodyName":"Nyuena OD-B d425 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.359375, "Radius":910551360.000000, "AbsoluteMagnitude":3.199478, "Age_MY":896, "SurfaceTemperature":7350.000000, "Luminosity":"VI", "SemiMajorAxis":877901774848.000000, "Eccentricity":0.297610, "OrbitalInclination":-27.814699, "Periapsis":145.223206, "OrbitalPeriod":2096273152.000000, "RotationPeriod":225777.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:41:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:41:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:41:12Z", "event":"FuelScoop", "Scooped":3.734304, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:41:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena DX-A c1-52", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:41:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:42:04Z", "event":"FSDJump", "StarSystem":"Nyuena DX-A c1-52", "StarPos":[-16.469,1815.875,25886.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.091, "FuelUsed":4.044705, "FuelLevel":27.955296 }
+{ "timestamp":"2018-01-28T02:42:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:42:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:42:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:42:26Z", "event":"Scan", "BodyName":"Nyuena DX-A c1-52", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.843750, "Radius":589226560.000000, "AbsoluteMagnitude":5.928436, "Age_MY":13053, "SurfaceTemperature":4875.000000, "Luminosity":"Va", "RotationPeriod":254292.609375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:42:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:42:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:42:52Z", "event":"FuelScoop", "Scooped":4.044711, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:42:59Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T02:43:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:43:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena DX-A c1-23", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:43:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:43:58Z", "event":"FSDJump", "StarSystem":"Nyuena DX-A c1-23", "StarPos":[-20.656,1840.906,25879.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.261, "FuelUsed":3.747533, "FuelLevel":28.252468 }
+{ "timestamp":"2018-01-28T02:43:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:44:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:44:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:44:19Z", "event":"Scan", "BodyName":"Nyuena DX-A c1-23 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.640625, "Radius":538689856.000000, "AbsoluteMagnitude":6.717133, "Age_MY":10134, "SurfaceTemperature":4252.000000, "Luminosity":"Va", "SemiMajorAxis":32441204998144.000000, "Eccentricity":0.295862, "OrbitalInclination":-19.702293, "Periapsis":143.611923, "OrbitalPeriod":420921573376.000000, "RotationPeriod":264828.843750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:44:34Z", "event":"FuelScoop", "Scooped":3.747553, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:44:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:44:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:45:00Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena MI-B d42", "StarClass":"M" }
+{ "timestamp":"2018-01-28T02:45:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:45:19Z", "event":"FSDJump", "StarSystem":"Nyuena MI-B d42", "StarPos":[-31.313,1863.563,25879.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.037, "FuelUsed":3.333879, "FuelLevel":28.666121 }
+{ "timestamp":"2018-01-28T02:45:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:45:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:45:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:45:41Z", "event":"Scan", "BodyName":"Nyuena MI-B d42", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.347656, "Radius":326970720.000000, "AbsoluteMagnitude":9.227768, "Age_MY":1592, "SurfaceTemperature":3062.000000, "Luminosity":"Va", "RotationPeriod":178810.140625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:45:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:45:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:45:54Z", "event":"FuelScoop", "Scooped":3.333874, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:46:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:46:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:46:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena UO-A e978", "StarClass":"F" }
+{ "timestamp":"2018-01-28T02:46:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:46:48Z", "event":"FSDJump", "StarSystem":"Nyuena UO-A e978", "StarPos":[-24.813,1888.844,25877.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.173, "FuelUsed":3.716775, "FuelLevel":28.283224 }
+{ "timestamp":"2018-01-28T02:46:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:46:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:46:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:47:10Z", "event":"Scan", "BodyName":"Nyuena UO-A e978", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.027344, "Radius":752998400.000000, "AbsoluteMagnitude":4.344269, "Age_MY":130, "SurfaceTemperature":6210.000000, "Luminosity":"Vz", "RotationPeriod":397010.375000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:47:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:47:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:47:28Z", "event":"FuelScoop", "Scooped":3.716764, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:47:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:47:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:47:59Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena KN-B d626", "StarClass":"G" }
+{ "timestamp":"2018-01-28T02:48:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:48:18Z", "event":"FSDJump", "StarSystem":"Nyuena KN-B d626", "StarPos":[-26.313,1915.500,25877.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.704, "FuelUsed":3.904529, "FuelLevel":28.095470 }
+{ "timestamp":"2018-01-28T02:48:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:48:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:48:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:48:40Z", "event":"Scan", "BodyName":"Nyuena KN-B d626 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.933594, "Radius":720630336.000000, "AbsoluteMagnitude":4.673218, "Age_MY":8326, "SurfaceTemperature":5885.000000, "Luminosity":"Vab", "SemiMajorAxis":30226226610176.000000, "Eccentricity":0.176848, "OrbitalInclination":-13.772146, "Periapsis":116.261642, "OrbitalPeriod":296423424000.000000, "RotationPeriod":321099.093750, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena KN-B d626 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.2794e+14, "InnerRad":1.2205e+09, "OuterRad":2.3584e+09 }, { "Name":"Nyuena KN-B d626 A B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":3.5388e+15, "InnerRad":3.2106e+09, "OuterRad":2.0548e+11 } ] }
+{ "timestamp":"2018-01-28T02:48:54Z", "event":"FuelScoop", "Scooped":3.904532, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:49:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:49:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:49:08Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T02:49:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:50:17Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena KN-B d330", "StarClass":"G" }
+{ "timestamp":"2018-01-28T02:50:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:50:36Z", "event":"FSDJump", "StarSystem":"Nyuena KN-B d330", "StarPos":[-19.063,1939.750,25878.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.359, "FuelUsed":3.439968, "FuelLevel":28.560032 }
+{ "timestamp":"2018-01-28T02:50:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:50:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:50:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:50:58Z", "event":"Scan", "BodyName":"Nyuena KN-B d330", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.957031, "Radius":675145216.000000, "AbsoluteMagnitude":4.949799, "Age_MY":2248, "SurfaceTemperature":5705.000000, "Luminosity":"Vab", "RotationPeriod":665839.250000, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena KN-B d330 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.052e+14, "InnerRad":1.0929e+09, "OuterRad":2.378e+09 } ] }
+{ "timestamp":"2018-01-28T02:51:13Z", "event":"FuelScoop", "Scooped":4.069984, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:51:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:51:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:51:41Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena XL-B c1-15", "StarClass":"G" }
+{ "timestamp":"2018-01-28T02:51:46Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:51:59Z", "event":"FSDJump", "StarSystem":"Nyuena XL-B c1-15", "StarPos":[-22.719,1964.875,25876.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.503, "FuelUsed":3.488420, "FuelLevel":28.511580 }
+{ "timestamp":"2018-01-28T02:52:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:52:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:52:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:52:21Z", "event":"Scan", "BodyName":"Nyuena XL-B c1-15 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.851563, "Radius":591094272.000000, "AbsoluteMagnitude":5.353546, "Age_MY":4890, "SurfaceTemperature":5556.000000, "Luminosity":"Vab", "SemiMajorAxis":743420133376.000000, "Eccentricity":0.166681, "OrbitalInclination":15.580935, "Periapsis":152.866623, "OrbitalPeriod":580923584.000000, "RotationPeriod":255508.140625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:52:27Z", "event":"Friends", "Status":"Online", "Name":"Klutz" }
+{ "timestamp":"2018-01-28T02:52:36Z", "event":"FuelScoop", "Scooped":3.488429, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:53:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena IS-B d107", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:53:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:53:50Z", "event":"FSDJump", "StarSystem":"Nyuena IS-B d107", "StarPos":[-21.781,1989.125,25877.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.275, "FuelUsed":3.090904, "FuelLevel":28.909096 }
+{ "timestamp":"2018-01-28T02:53:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:53:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:54:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:54:13Z", "event":"Scan", "BodyName":"Nyuena IS-B d107 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.488281, "Radius":449714752.000000, "AbsoluteMagnitude":7.666565, "Age_MY":1070, "SurfaceTemperature":3740.000000, "Luminosity":"Va", "SemiMajorAxis":20078871445504.000000, "Eccentricity":0.209936, "OrbitalInclination":24.408703, "Periapsis":22.808325, "OrbitalPeriod":231702380544.000000, "RotationPeriod":287376.500000, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena IS-B d107 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.0062e+14, "InnerRad":7.4203e+08, "OuterRad":2.0071e+09 }, { "Name":"Nyuena IS-B d107 A B Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.6826e+13, "InnerRad":3.3949e+09, "OuterRad":1.3267e+11 } ] }
+{ "timestamp":"2018-01-28T02:54:26Z", "event":"FuelScoop", "Scooped":3.090909, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:54:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:54:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:54:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena TV-B c1-25", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:54:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:55:10Z", "event":"FSDJump", "StarSystem":"Nyuena TV-B c1-25", "StarPos":[-19.656,2015.063,25878.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.054, "FuelUsed":3.675890, "FuelLevel":28.324110 }
+{ "timestamp":"2018-01-28T02:55:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:55:32Z", "event":"Scan", "BodyName":"Nyuena TV-B c1-25", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.765625, "Radius":542234432.000000, "AbsoluteMagnitude":5.967804, "Age_MY":5892, "SurfaceTemperature":5036.000000, "Luminosity":"Vab", "RotationPeriod":236824.671875, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena TV-B c1-25 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.3029e+14, "InnerRad":8.9469e+08, "OuterRad":2.3783e+09 } ] }
+{ "timestamp":"2018-01-28T02:55:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:55:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:55:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:55:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:56:05Z", "event":"FuelScoop", "Scooped":3.675902, "Total":32.000000 }
+{ "timestamp":"2018-01-28T02:56:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena IS-B d313", "StarClass":"K" }
+{ "timestamp":"2018-01-28T02:56:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T02:56:51Z", "event":"FSDJump", "StarSystem":"Nyuena IS-B d313", "StarPos":[-22.844,2040.406,25870.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.570, "FuelUsed":3.856607, "FuelLevel":28.143393 }
+{ "timestamp":"2018-01-28T02:56:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:56:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:57:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:57:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:57:40Z", "event":"Scan", "BodyName":"Nyuena IS-B d313", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.566406, "Radius":453832384.000000, "AbsoluteMagnitude":7.288025, "Age_MY":1038, "SurfaceTemperature":4062.000000, "Luminosity":"Va", "RotationPeriod":217323.515625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T02:57:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:59:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:59:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T02:59:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T02:59:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:00:33Z", "event":"Friends", "Status":"Online", "Name":"Nolanus Raven" }
+{ "timestamp":"2018-01-28T03:00:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:00:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:01:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:01:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:03:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:03:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:03:13Z", "event":"Scan", "BodyName":"Nyuena IS-B d313 1", "DistanceFromArrivalLS":345.788177, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide rich atmosphere", "AtmosphereType":"CarbonDioxideRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":74.368042 }, { "Name":"CarbonDioxide", "Percent":13.189681 }, { "Name":"Oxygen", "Percent":12.070067 } ], "Volcanism":"", "MassEM":0.561962, "Radius":5108149.500000, "SurfaceGravity":8.583993, "SurfaceTemperature":233.525208, "SurfacePressure":73580.250000, "Landable":false, "SemiMajorAxis":103667294208.000000, "Eccentricity":0.000025, "OrbitalInclination":-0.000073, "Periapsis":239.413773, "OrbitalPeriod":24185364.000000, "RotationPeriod":144623.281250, "AxialTilt":0.457714 }
+{ "timestamp":"2018-01-28T03:03:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:03:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:04:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:04:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:05:00Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T03:05:03Z", "event":"Scan", "BodyName":"Nyuena IS-B d313 2", "DistanceFromArrivalLS":491.031311, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":49.981899 }, { "Name":"Nitrogen", "Percent":37.844673 }, { "Name":"Oxygen", "Percent":11.986377 } ], "Volcanism":"minor rocky magma volcanism", "MassEM":0.637407, "Radius":5315774.000000, "SurfaceGravity":8.990693, "SurfaceTemperature":242.964951, "SurfacePressure":190941.812500, "Landable":false, "SemiMajorAxis":419778208.000000, "Eccentricity":0.001358, "OrbitalInclination":-6.638071, "Periapsis":56.139935, "OrbitalPeriod":3808001.500000, "RotationPeriod":4718307.000000, "AxialTilt":0.306053 }
+{ "timestamp":"2018-01-28T03:05:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:05:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:05:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:05:44Z", "event":"Scan", "BodyName":"Nyuena IS-B d313 3", "DistanceFromArrivalLS":489.871460, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":95.084190 }, { "Name":"Oxygen", "Percent":4.841356 } ], "Volcanism":"minor silicate vapour geysers volcanism", "MassEM":1.190866, "Radius":6397366.500000, "SurfaceGravity":11.597645, "SurfaceTemperature":153.795441, "SurfacePressure":129230.195313, "Landable":false, "SemiMajorAxis":224684848.000000, "Eccentricity":0.001358, "OrbitalInclination":-6.638071, "Periapsis":236.139923, "OrbitalPeriod":3808001.500000, "RotationPeriod":6449250.500000, "AxialTilt":-1.160065 }
+{ "timestamp":"2018-01-28T03:05:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:05:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:05:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:06:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena GX-B d194", "StarClass":"F" }
+{ "timestamp":"2018-01-28T03:06:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:06:49Z", "event":"FSDJump", "StarSystem":"Nyuena GX-B d194", "StarPos":[-21.344,2065.031,25862.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.964, "FuelUsed":3.553654, "FuelLevel":24.589739 }
+{ "timestamp":"2018-01-28T03:06:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:07:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:07:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:07:13Z", "event":"Scan", "BodyName":"Nyuena GX-B d194 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.113281, "Radius":815357376.000000, "AbsoluteMagnitude":3.920715, "Age_MY":1062, "SurfaceTemperature":6579.000000, "Luminosity":"Vb", "SemiMajorAxis":75634319360.000000, "Eccentricity":0.104698, "OrbitalInclination":-41.460728, "Periapsis":316.737579, "OrbitalPeriod":49462472.000000, "RotationPeriod":422752.031250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:08:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:08:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:08:44Z", "event":"FuelScoop", "Scooped":5.008591, "Total":29.598316 }
+{ "timestamp":"2018-01-28T03:08:47Z", "event":"FuelScoop", "Scooped":2.401682, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:08:50Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T03:08:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:09:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena GX-B d60", "StarClass":"G" }
+{ "timestamp":"2018-01-28T03:09:20Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:09:34Z", "event":"FSDJump", "StarSystem":"Nyuena GX-B d60", "StarPos":[-14.844,2089.688,25870.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.724, "FuelUsed":3.911865, "FuelLevel":28.088135 }
+{ "timestamp":"2018-01-28T03:09:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:09:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:09:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:09:55Z", "event":"Scan", "BodyName":"Nyuena GX-B d60 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.855469, "Radius":652349568.000000, "AbsoluteMagnitude":5.175491, "Age_MY":1318, "SurfaceTemperature":5510.000000, "Luminosity":"Vab", "SemiMajorAxis":2291392053248.000000, "Eccentricity":0.310512, "OrbitalInclination":-122.972061, "Periapsis":316.962708, "OrbitalPeriod":16401965056.000000, "RotationPeriod":325996.000000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:10:10Z", "event":"FuelScoop", "Scooped":3.911862, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:10:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:10:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:10:27Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T03:10:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:10:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena GX-B d83", "StarClass":"A" }
+{ "timestamp":"2018-01-28T03:10:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:10:58Z", "event":"FSDJump", "StarSystem":"Nyuena GX-B d83", "StarPos":[-11.531,2114.563,25861.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.833, "FuelUsed":3.950868, "FuelLevel":28.049131 }
+{ "timestamp":"2018-01-28T03:10:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:11:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:11:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:11:19Z", "event":"Scan", "BodyName":"Nyuena GX-B d83", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.437500, "Radius":852968000.000000, "AbsoluteMagnitude":3.116791, "Age_MY":348, "SurfaceTemperature":7740.000000, "Luminosity":"VI", "RotationPeriod":138462.437500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:11:36Z", "event":"FuelScoop", "Scooped":3.950865, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:12:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena NK-C c1-4", "StarClass":"K" }
+{ "timestamp":"2018-01-28T03:12:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:12:20Z", "event":"FSDJump", "StarSystem":"Nyuena NK-C c1-4", "StarPos":[-8.406,2138.844,25867.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.298, "FuelUsed":3.419700, "FuelLevel":28.580299 }
+{ "timestamp":"2018-01-28T03:12:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:12:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:12:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:12:41Z", "event":"Scan", "BodyName":"Nyuena NK-C c1-4 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.804688, "Radius":598247168.000000, "AbsoluteMagnitude":5.630142, "Age_MY":11936, "SurfaceTemperature":5182.000000, "Luminosity":"Vab", "SemiMajorAxis":1154843148288.000000, "Eccentricity":0.405621, "OrbitalInclination":-1.243120, "Periapsis":146.777466, "OrbitalPeriod":3964773888.000000, "RotationPeriod":261080.812500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:12:57Z", "event":"FuelScoop", "Scooped":3.419689, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:13:27Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena EC-C d109", "StarClass":"F" }
+{ "timestamp":"2018-01-28T03:13:32Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:13:46Z", "event":"FSDJump", "StarSystem":"Nyuena EC-C d109", "StarPos":[-4.000,2164.313,25862.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.419, "FuelUsed":3.803112, "FuelLevel":28.196888 }
+{ "timestamp":"2018-01-28T03:13:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:13:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:13:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:14:07Z", "event":"Scan", "BodyName":"Nyuena EC-C d109 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.175781, "Radius":810433216.000000, "AbsoluteMagnitude":3.717514, "Age_MY":642, "SurfaceTemperature":6915.000000, "Luminosity":"VI", "SemiMajorAxis":33242417725440.000000, "Eccentricity":0.009606, "OrbitalInclination":-61.527222, "Periapsis":208.113663, "OrbitalPeriod":337320902656.000000, "RotationPeriod":408027.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:14:22Z", "event":"FuelScoop", "Scooped":3.803108, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:15:04Z", "event":"Friends", "Status":"Online", "Name":"Aquafunkalisticbooty" }
+{ "timestamp":"2018-01-28T03:15:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:15:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:16:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:16:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:16:07Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T03:16:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:16:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena EC-C d131", "StarClass":"F" }
+{ "timestamp":"2018-01-28T03:16:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:16:34Z", "event":"FSDJump", "StarSystem":"Nyuena EC-C d131", "StarPos":[-1.844,2185.094,25862.813], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":20.900, "FuelUsed":2.141930, "FuelLevel":29.858070 }
+{ "timestamp":"2018-01-28T03:16:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:16:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:16:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:16:57Z", "event":"Scan", "BodyName":"Nyuena EC-C d131 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.046875, "Radius":751130624.000000, "AbsoluteMagnitude":4.463776, "Age_MY":964, "SurfaceTemperature":6049.000000, "Luminosity":"Vb", "SemiMajorAxis":1260695846912.000000, "Eccentricity":0.001138, "OrbitalInclination":4.558983, "Periapsis":281.455994, "OrbitalPeriod":2159952640.000000, "RotationPeriod":377373.000000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:17:10Z", "event":"FuelScoop", "Scooped":2.141927, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:17:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:17:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:17:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena EC-C d257", "StarClass":"F" }
+{ "timestamp":"2018-01-28T03:17:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:18:04Z", "event":"FSDJump", "StarSystem":"Nyuena EC-C d257", "StarPos":[2.563,2211.344,25867.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.011, "FuelUsed":4.015181, "FuelLevel":27.984819 }
+{ "timestamp":"2018-01-28T03:18:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:18:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:18:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:18:26Z", "event":"Scan", "BodyName":"Nyuena EC-C d257 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":0.968750, "Radius":718592768.000000, "AbsoluteMagnitude":4.465485, "Age_MY":1606, "SurfaceTemperature":6182.000000, "Luminosity":"Vb", "SemiMajorAxis":1578375839744.000000, "Eccentricity":0.200788, "OrbitalInclination":-42.922188, "Periapsis":116.451294, "OrbitalPeriod":5428037120.000000, "RotationPeriod":402195.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:18:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:18:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:19:09Z", "event":"FuelScoop", "Scooped":4.015152, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:19:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena CH-C d88", "StarClass":"F" }
+{ "timestamp":"2018-01-28T03:19:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:19:57Z", "event":"FSDJump", "StarSystem":"Nyuena CH-C d88", "StarPos":[-1.000,2231.094,25873.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.076, "FuelUsed":2.186415, "FuelLevel":29.813585 }
+{ "timestamp":"2018-01-28T03:19:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:20:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:20:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:20:21Z", "event":"Scan", "BodyName":"Nyuena CH-C d88 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.398438, "Radius":912843712.000000, "AbsoluteMagnitude":3.271561, "Age_MY":1294, "SurfaceTemperature":7220.000000, "Luminosity":"Vb", "SemiMajorAxis":20247857152.000000, "Eccentricity":0.013384, "OrbitalInclination":-50.876347, "Periapsis":37.320065, "OrbitalPeriod":3462752.500000, "RotationPeriod":235948.281250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:20:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:20:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:20:57Z", "event":"FuelScoop", "Scooped":2.816421, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:21:40Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena HZ-C c1-6", "StarClass":"K" }
+{ "timestamp":"2018-01-28T03:21:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:21:59Z", "event":"FSDJump", "StarSystem":"Nyuena HZ-C c1-6", "StarPos":[-8.406,2256.625,25877.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.789, "FuelUsed":3.935193, "FuelLevel":28.064808 }
+{ "timestamp":"2018-01-28T03:21:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:22:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:22:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:22:21Z", "event":"Scan", "BodyName":"Nyuena HZ-C c1-6 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.585938, "Radius":534614656.000000, "AbsoluteMagnitude":7.073532, "Age_MY":8644, "SurfaceTemperature":3932.000000, "Luminosity":"Va", "SemiMajorAxis":2103213555712.000000, "Eccentricity":0.381253, "OrbitalInclination":23.124725, "Periapsis":146.435669, "OrbitalPeriod":5843731456.000000, "RotationPeriod":229799.640625, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena HZ-C c1-6 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.0695e+14, "InnerRad":8.1894e+08, "OuterRad":2.0192e+09 }, { "Name":"Nyuena HZ-C c1-6 A B Belt", "RingClass":"eRingClass_Rocky", "MassMT":4.8536e+14, "InnerRad":4.3758e+09, "OuterRad":2.8005e+11 } ] }
+{ "timestamp":"2018-01-28T03:22:35Z", "event":"FuelScoop", "Scooped":3.935196, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:22:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:22:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:23:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena HZ-C c1-10", "StarClass":"K" }
+{ "timestamp":"2018-01-28T03:23:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:23:23Z", "event":"FSDJump", "StarSystem":"Nyuena HZ-C c1-10", "StarPos":[-0.625,2276.250,25871.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.982, "FuelUsed":2.423979, "FuelLevel":29.576021 }
+{ "timestamp":"2018-01-28T03:23:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:23:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:23:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:23:44Z", "event":"Scan", "BodyName":"Nyuena HZ-C c1-10 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.683594, "Radius":557834752.000000, "AbsoluteMagnitude":6.623947, "Age_MY":11302, "SurfaceTemperature":4269.000000, "Luminosity":"Va", "SemiMajorAxis":4973823262720.000000, "Eccentricity":0.206246, "OrbitalInclination":-62.312927, "Periapsis":229.665375, "OrbitalPeriod":53346463744.000000, "RotationPeriod":251184.703125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:23:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:24:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:24:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:25:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:25:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:25:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:25:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:25:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:26:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:26:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:26:14Z", "event":"Scan", "BodyName":"Nyuena HZ-C c1-10 A 2", "DistanceFromArrivalLS":267.437988, "TidalLock":true, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"hot thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":98.301086 }, { "Name":"Argon", "Percent":1.137997 }, { "Name":"Water", "Percent":0.471461 } ], "Volcanism":"major rocky magma volcanism", "MassEM":1.701322, "Radius":7199550.000000, "SurfaceGravity":13.082334, "SurfaceTemperature":530.814392, "SurfacePressure":30873786.000000, "Landable":false, "SemiMajorAxis":187677168.000000, "Eccentricity":0.007735, "OrbitalInclination":5.386579, "Periapsis":118.131859, "OrbitalPeriod":7924085.500000, "RotationPeriod":19114668.000000, "AxialTilt":-1.006014 }
+{ "timestamp":"2018-01-28T03:26:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:26:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:26:57Z", "event":"Scan", "BodyName":"Nyuena HZ-C c1-10 A 3", "DistanceFromArrivalLS":270.415771, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":97.044960 }, { "Name":"Argon", "Percent":2.930624 } ], "Volcanism":"", "MassEM":0.353058, "Radius":4799341.500000, "SurfaceGravity":6.109310, "SurfaceTemperature":275.277771, "SurfacePressure":15545080.000000, "Landable":false, "SemiMajorAxis":904382016.000000, "Eccentricity":0.007735, "OrbitalInclination":5.386579, "Periapsis":298.131866, "OrbitalPeriod":7924085.500000, "RotationPeriod":8707561.000000, "AxialTilt":0.329749 }
+{ "timestamp":"2018-01-28T03:27:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:27:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:28:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:28:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:29:37Z", "event":"Scan", "BodyName":"Nyuena HZ-C c1-10 A 6", "DistanceFromArrivalLS":498.999786, "TidalLock":false, "TerraformState":"", "PlanetClass":"Icy body", "Atmosphere":"thick ammonia rich atmosphere", "AtmosphereType":"AmmoniaRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":87.285057 }, { "Name":"Ammonia", "Percent":11.391028 }, { "Name":"Argon", "Percent":0.872851 } ], "Volcanism":"water geysers volcanism", "MassEM":1.804243, "Radius":9270397.000000, "SurfaceGravity":8.367733, "SurfaceTemperature":478.651917, "SurfacePressure":335156672.000000, "Landable":false, "SemiMajorAxis":149420310528.000000, "Eccentricity":0.001209, "OrbitalInclination":0.054759, "Periapsis":121.390167, "OrbitalPeriod":38096168.000000, "RotationPeriod":104089.554688, "AxialTilt":0.331112 }
+{ "timestamp":"2018-01-28T03:29:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:29:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:29:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:30:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:30:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:30:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:31:21Z", "event":"Scan", "BodyName":"Nyuena HZ-C c1-10 A 7", "DistanceFromArrivalLS":633.918335, "TidalLock":false, "TerraformState":"", "PlanetClass":"Icy body", "Atmosphere":"thick ammonia rich atmosphere", "AtmosphereType":"AmmoniaRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":73.547371 }, { "Name":"Ammonia", "Percent":24.122011 }, { "Name":"Methane", "Percent":1.524332 } ], "Volcanism":"water geysers volcanism", "MassEM":1.709851, "Radius":9125888.000000, "SurfaceGravity":8.183092, "SurfaceTemperature":475.247650, "SurfacePressure":380399424.000000, "Landable":false, "SemiMajorAxis":190034264064.000000, "Eccentricity":0.000211, "OrbitalInclination":-0.018656, "Periapsis":261.599609, "OrbitalPeriod":54640512.000000, "RotationPeriod":173812.328125, "AxialTilt":-0.180677 }
+{ "timestamp":"2018-01-28T03:31:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:31:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:32:00Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena AM-C d64", "StarClass":"F" }
+{ "timestamp":"2018-01-28T03:32:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:32:18Z", "event":"FSDJump", "StarSystem":"Nyuena AM-C d64", "StarPos":[2.563,2297.625,25859.625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.437, "FuelUsed":3.092154, "FuelLevel":26.483868 }
+{ "timestamp":"2018-01-28T03:32:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:32:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:32:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:32:43Z", "event":"Scan", "BodyName":"Nyuena AM-C d64", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.242188, "Radius":872579968.000000, "AbsoluteMagnitude":3.394272, "Age_MY":4962, "SurfaceTemperature":7179.000000, "Luminosity":"Vb", "RotationPeriod":506577.687500, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena AM-C d64 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.9972e+15, "InnerRad":4.4137e+09, "OuterRad":4.4841e+11 } ] }
+{ "timestamp":"2018-01-28T03:32:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:32:56Z", "event":"FuelScoop", "Scooped":1.391503, "Total":27.875366 }
+{ "timestamp":"2018-01-28T03:33:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:33:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena AM-C d67", "StarClass":"K" }
+{ "timestamp":"2018-01-28T03:33:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:33:35Z", "event":"FSDJump", "StarSystem":"Nyuena AM-C d67", "StarPos":[-13.938,2314.688,25862.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.884, "FuelUsed":2.890644, "FuelLevel":24.984722 }
+{ "timestamp":"2018-01-28T03:33:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:33:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:33:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:33:57Z", "event":"Scan", "BodyName":"Nyuena AM-C d67 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.746094, "Radius":594193152.000000, "AbsoluteMagnitude":6.148285, "Age_MY":1330, "SurfaceTemperature":4615.000000, "Luminosity":"Va", "SemiMajorAxis":17191331168256.000000, "Eccentricity":0.010838, "OrbitalInclination":33.240593, "Periapsis":332.060791, "OrbitalPeriod":220042903552.000000, "RotationPeriod":330601.656250, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena AM-C d67 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.3041e+14, "InnerRad":9.8042e+08, "OuterRad":2.3697e+09 }, { "Name":"Nyuena AM-C d67 A B Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.3682e+15, "InnerRad":3.9262e+09, "OuterRad":6.0416e+11 } ] }
+{ "timestamp":"2018-01-28T03:34:13Z", "event":"FuelScoop", "Scooped":5.004376, "Total":29.989086 }
+{ "timestamp":"2018-01-28T03:34:16Z", "event":"FuelScoop", "Scooped":2.010913, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:34:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:34:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:34:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena ZC-F c9", "StarClass":"K" }
+{ "timestamp":"2018-01-28T03:34:56Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:35:09Z", "event":"FSDJump", "StarSystem":"Nyuena ZC-F c9", "StarPos":[-11.875,2340.188,25853.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.120, "FuelUsed":4.055187, "FuelLevel":27.944813 }
+{ "timestamp":"2018-01-28T03:35:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:35:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:35:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:35:31Z", "event":"Scan", "BodyName":"Nyuena ZC-F c9", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.746094, "Radius":636112512.000000, "AbsoluteMagnitude":6.073303, "Age_MY":4754, "SurfaceTemperature":4538.000000, "Luminosity":"Va", "RotationPeriod":284174.937500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:35:46Z", "event":"FuelScoop", "Scooped":4.055166, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:36:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena ZC-F c10", "StarClass":"K" }
+{ "timestamp":"2018-01-28T03:36:40Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:36:54Z", "event":"FSDJump", "StarSystem":"Nyuena ZC-F c10", "StarPos":[-15.156,2365.813,25846.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.790, "FuelUsed":3.935396, "FuelLevel":28.064604 }
+{ "timestamp":"2018-01-28T03:36:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:37:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:37:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:37:15Z", "event":"Scan", "BodyName":"Nyuena ZC-F c10", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.824219, "Radius":603680704.000000, "AbsoluteMagnitude":5.890076, "Age_MY":12778, "SurfaceTemperature":4859.000000, "Luminosity":"Va", "RotationPeriod":310056.531250, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena ZC-F c10 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.1666e+14, "InnerRad":1.1855e+09, "OuterRad":2.2625e+09 } ] }
+{ "timestamp":"2018-01-28T03:37:30Z", "event":"FuelScoop", "Scooped":3.935369, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:38:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:38:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:39:28Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena BO-D c1-5", "StarClass":"K" }
+{ "timestamp":"2018-01-28T03:39:33Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:39:47Z", "event":"FSDJump", "StarSystem":"Nyuena BO-D c1-5", "StarPos":[-8.188,2386.469,25861.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.356, "FuelUsed":3.781154, "FuelLevel":28.218845 }
+{ "timestamp":"2018-01-28T03:39:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:39:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:40:09Z", "event":"Scan", "BodyName":"Nyuena BO-D c1-5 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.613281, "Radius":553441216.000000, "AbsoluteMagnitude":6.338516, "Age_MY":9714, "SurfaceTemperature":4577.000000, "Luminosity":"Va", "SemiMajorAxis":4574693294080.000000, "Eccentricity":0.212172, "OrbitalInclination":-30.713062, "Periapsis":59.086426, "OrbitalPeriod":45495844864.000000, "RotationPeriod":237713.546875, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena BO-D c1-5 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.9691e+13, "InnerRad":1.0276e+09, "OuterRad":2.0502e+09 }, { "Name":"Nyuena BO-D c1-5 A B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":3.3326e+15, "InnerRad":3.495e+09, "OuterRad":2.2368e+11 } ] }
+{ "timestamp":"2018-01-28T03:40:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:40:28Z", "event":"FuelScoop", "Scooped":3.777164, "Total":31.995983 }
+{ "timestamp":"2018-01-28T03:41:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:41:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:41:34Z", "event":"Scan", "BodyName":"Nyuena BO-D c1-5 A 1", "DistanceFromArrivalLS":1170.975342, "TidalLock":false, "TerraformState":"", "PlanetClass":"Sudarsky class II gas giant", "Atmosphere":"", "AtmosphereComposition":[ { "Name":"Hydrogen", "Percent":74.433014 }, { "Name":"Helium", "Percent":25.566982 } ], "Volcanism":"", "MassEM":429.432098, "Radius":74930048.000000, "SurfaceGravity":30.485397, "SurfaceTemperature":176.248474, "SurfacePressure":0.000000, "Landable":false, "SemiMajorAxis":32523948.000000, "Eccentricity":0.093550, "OrbitalInclination":-0.356425, "Periapsis":135.471313, "OrbitalPeriod":13552083.000000, "RotationPeriod":162225.109375, "AxialTilt":-0.490634, "Rings":[ { "Name":"Nyuena BO-D c1-5 A 1 A Ring", "RingClass":"eRingClass_MetalRich", "MassMT":1.107e+12, "InnerRad":1.427e+08, "OuterRad":2.6265e+08 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2018-01-28T03:42:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena YQ-C d113", "StarClass":"F" }
+{ "timestamp":"2018-01-28T03:42:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:42:29Z", "event":"FSDJump", "StarSystem":"Nyuena YQ-C d113", "StarPos":[-4.094,2411.938,25859.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.824, "FuelUsed":3.596936, "FuelLevel":28.399048 }
+{ "timestamp":"2018-01-28T03:42:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:42:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:42:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:42:52Z", "event":"Scan", "BodyName":"Nyuena YQ-C d113", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.296875, "Radius":784963200.000000, "AbsoluteMagnitude":3.475388, "Age_MY":1528, "SurfaceTemperature":7429.000000, "Luminosity":"VI", "RotationPeriod":381983.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:43:05Z", "event":"FuelScoop", "Scooped":3.600960, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:43:37Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena YQ-C d0", "StarClass":"F" }
+{ "timestamp":"2018-01-28T03:43:43Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:43:56Z", "event":"FSDJump", "StarSystem":"Nyuena YQ-C d0", "StarPos":[-11.094,2430.000,25872.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.953, "FuelUsed":2.694529, "FuelLevel":29.305471 }
+{ "timestamp":"2018-01-28T03:43:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:44:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:44:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:44:18Z", "event":"Scan", "BodyName":"Nyuena YQ-C d0 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.417969, "Radius":853774656.000000, "AbsoluteMagnitude":3.301086, "Age_MY":2364, "SurfaceTemperature":7415.000000, "Luminosity":"VI", "SemiMajorAxis":146785239040.000000, "Eccentricity":0.023348, "OrbitalInclination":48.158070, "Periapsis":171.303360, "OrbitalPeriod":89968928.000000, "RotationPeriod":181819.515625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:44:53Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena ZS-D c1-3", "StarClass":"K" }
+{ "timestamp":"2018-01-28T03:44:58Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:45:12Z", "event":"FSDJump", "StarSystem":"Nyuena ZS-D c1-3", "StarPos":[-2.906,2444.281,25856.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.848, "FuelUsed":2.617833, "FuelLevel":26.687639 }
+{ "timestamp":"2018-01-28T03:45:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:45:34Z", "event":"Scan", "BodyName":"Nyuena ZS-D c1-3", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.453125, "Radius":429869408.000000, "AbsoluteMagnitude":7.808975, "Age_MY":5036, "SurfaceTemperature":3702.000000, "Luminosity":"Va", "RotationPeriod":183539.546875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-28T03:45:52Z", "event":"FuelScoop", "Scooped":5.003572, "Total":31.691217 }
+{ "timestamp":"2018-01-28T03:45:53Z", "event":"FuelScoop", "Scooped":0.308781, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:46:24Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Nyuena WV-C d37", "StarClass":"G" }
+{ "timestamp":"2018-01-28T03:46:29Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T03:46:42Z", "event":"FSDJump", "StarSystem":"Nyuena WV-C d37", "StarPos":[2.906,2469.000,25861.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.899, "FuelUsed":3.622465, "FuelLevel":28.377535 }
+{ "timestamp":"2018-01-28T03:46:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:46:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:46:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:47:06Z", "event":"Scan", "BodyName":"Nyuena WV-C d37", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.910156, "Radius":650099776.000000, "AbsoluteMagnitude":5.056335, "Age_MY":576, "SurfaceTemperature":5673.000000, "Luminosity":"Vab", "RotationPeriod":295817.000000, "AxialTilt":0.000000, "Rings":[ { "Name":"Nyuena WV-C d37 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.4062e+14, "InnerRad":9.9634e+08, "OuterRad":2.3385e+09 }, { "Name":"Nyuena WV-C d37 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.365e+15, "InnerRad":6.433e+10, "OuterRad":4.0847e+11 } ] }
+{ "timestamp":"2018-01-28T03:47:21Z", "event":"FuelScoop", "Scooped":3.622450, "Total":32.000000 }
+{ "timestamp":"2018-01-28T03:47:31Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T03:47:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:49:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:49:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:51:10Z", "event":"Scan", "BodyName":"Nyuena WV-C d37 7 b", "DistanceFromArrivalLS":3451.728027, "TidalLock":true, "TerraformState":"", "PlanetClass":"Icy body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.004243, "Radius":1422502.125000, "SurfaceGravity":0.835780, "SurfaceTemperature":94.328438, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"sulphur", "Percent":27.556293 }, { "Name":"carbon", "Percent":23.171988 }, { "Name":"phosphorus", "Percent":14.835104 }, { "Name":"iron", "Percent":12.397352 }, { "Name":"nickel", "Percent":9.376838 }, { "Name":"manganese", "Percent":5.119980 }, { "Name":"zinc", "Percent":3.369136 }, { "Name":"arsenic", "Percent":1.593567 }, { "Name":"tellurium", "Percent":0.922908 }, { "Name":"niobium", "Percent":0.847293 }, { "Name":"molybdenum", "Percent":0.809540 } ], "SemiMajorAxis":583357824.000000, "Eccentricity":0.000300, "OrbitalInclination":0.642174, "Periapsis":73.547958, "OrbitalPeriod":434804.843750, "RotationPeriod":434829.625000, "AxialTilt":-0.396485 }
+{ "timestamp":"2018-01-28T03:51:26Z", "event":"Scan", "BodyName":"Nyuena WV-C d37 7", "DistanceFromArrivalLS":3453.491943, "TidalLock":false, "TerraformState":"", "PlanetClass":"Sudarsky class I gas giant", "Atmosphere":"", "AtmosphereComposition":[ { "Name":"Hydrogen", "Percent":74.444153 }, { "Name":"Helium", "Percent":25.555855 } ], "Volcanism":"", "MassEM":103.993919, "Radius":59123368.000000, "SurfaceGravity":11.857661, "SurfaceTemperature":112.285591, "SurfacePressure":0.000000, "Landable":false, "SemiMajorAxis":40014196736.000000, "Eccentricity":0.084995, "OrbitalInclination":-3.519681, "Periapsis":180.127609, "OrbitalPeriod":57010660.000000, "RotationPeriod":54300.535156, "AxialTilt":0.046071, "Rings":[ { "Name":"Nyuena WV-C d37 7 A Ring", "RingClass":"eRingClass_Rocky", "MassMT":7.8585e+10, "InnerRad":1.0869e+08, "OuterRad":1.1965e+08 }, { "Name":"Nyuena WV-C d37 7 B Ring", "RingClass":"eRingClass_Icy", "MassMT":3.922e+11, "InnerRad":1.1975e+08, "OuterRad":1.6371e+08 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2018-01-28T03:51:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:51:43Z", "event":"Scan", "BodyName":"Nyuena WV-C d37 7 a", "DistanceFromArrivalLS":3452.506836, "TidalLock":true, "TerraformState":"", "PlanetClass":"Icy body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"carbon dioxide geysers volcanism", "MassEM":0.004068, "Radius":1402896.000000, "SurfaceGravity":0.823874, "SurfaceTemperature":94.756096, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"sulphur", "Percent":27.683588 }, { "Name":"carbon", "Percent":23.279030 }, { "Name":"phosphorus", "Percent":14.903635 }, { "Name":"iron", "Percent":12.454622 }, { "Name":"nickel", "Percent":9.420155 }, { "Name":"selenium", "Percent":4.332716 }, { "Name":"germanium", "Percent":3.579785 }, { "Name":"arsenic", "Percent":1.600928 }, { "Name":"cadmium", "Percent":0.967158 }, { "Name":"tellurium", "Percent":0.927171 }, { "Name":"niobium", "Percent":0.851207 } ], "SemiMajorAxis":377776256.000000, "Eccentricity":0.000200, "OrbitalInclination":-0.109899, "Periapsis":281.200378, "OrbitalPeriod":226591.578125, "RotationPeriod":226604.500000, "AxialTilt":0.058532 }
+{ "timestamp":"2018-01-28T03:51:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:53:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T03:54:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T03:57:16Z", "event":"SupercruiseExit", "StarSystem":"Nyuena WV-C d37", "Body":"Nyuena WV-C d37 7 b", "BodyType":"Planet" }
+{ "timestamp":"2018-01-28T03:57:16Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-28T03:59:51Z", "event":"Touchdown", "PlayerControlled":true, "Latitude":28.931934, "Longitude":110.771034 }
+{ "timestamp":"2018-01-28T04:08:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T04:08:50Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-28T04:08:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T04:09:14Z", "event":"Music", "MusicTrack":"Exploration" }

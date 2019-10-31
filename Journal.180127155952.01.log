@@ -1,0 +1,719 @@
+{ "timestamp":"2018-01-27T20:59:52Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r160439/r0 " }
+{ "timestamp":"2018-01-27T20:59:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T20:59:52Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-01-27T21:00:29Z", "event":"Friends", "Status":"Online", "Name":"Twenty9er" }
+{ "timestamp":"2018-01-27T21:00:29Z", "event":"Friends", "Status":"Online", "Name":"Tyy'sun Eson" }
+{ "timestamp":"2018-01-27T21:00:29Z", "event":"Friends", "Status":"Online", "Name":"King_INF3RN0" }
+{ "timestamp":"2018-01-27T21:00:29Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-01-27T21:00:34Z", "event":"Friends", "Status":"Online", "Name":"Twenty9er" }
+{ "timestamp":"2018-01-27T21:00:34Z", "event":"Friends", "Status":"Online", "Name":"Tyy'sun Eson" }
+{ "timestamp":"2018-01-27T21:00:34Z", "event":"Friends", "Status":"Online", "Name":"King_INF3RN0" }
+{ "timestamp":"2018-01-27T21:00:34Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-01-27T21:00:45Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-01-27T21:00:45Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2018-01-27T21:00:45Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":115 }, { "Name":"vanadium", "Count":162 }, { "Name":"sulphur", "Count":70 }, { "Name":"iron", "Count":96 }, { "Name":"germanium", "Count":96 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"molybdenum", "Count":66 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":43 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":56 }, { "Name":"cadmium", "Count":63 }, { "Name":"zirconium", "Count":7 }, { "Name":"selenium", "Count":12 }, { "Name":"tungsten", "Count":3 }, { "Name":"yttrium", "Count":12 }, { "Name":"chromium", "Count":34 } ], "Manufactured":[  ], "Encoded":[ { "Name":"bulkscandata", "Count":7 }, { "Name":"wakesolutions", "Count":1 }, { "Name":"scrambledemissiondata", "Count":2 }, { "Name":"legacyfirmware", "Count":4 }, { "Name":"shielddensityreports", "Count":3 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Count":3 }, { "Name":"securityfirmware", "Count":1 }, { "Name":"fsdtelemetry", "Count":1 } ] }
+{ "timestamp":"2018-01-27T21:00:45Z", "event":"LoadGame", "Commander":"JaredCrue", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":32.000000, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-01-27T21:00:45Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-01-27T21:00:45Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":71, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-01-27T21:01:10Z", "event":"Location", "Docked":false, "StarSystem":"Hypio Pri EN-Y c2-1879", "StarPos":[198.656,-478.313,24670.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Hypio Pri EN-Y c2-1879", "BodyType":"Star" }
+{ "timestamp":"2018-01-27T21:01:11Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:01:11Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-27T21:01:24Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T21:01:36Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-27T21:03:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:03:14Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-27T21:03:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:03:25Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-27T21:03:27Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T21:04:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:04:20Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-27T21:04:44Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T21:04:52Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-27T21:05:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri IT-W c3-4239", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:05:24Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:05:38Z", "event":"FSDJump", "StarSystem":"Hypio Pri IT-W c3-4239", "StarPos":[195.125,-470.063,24696.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.092, "FuelUsed":4.028422, "FuelLevel":27.341579 }
+{ "timestamp":"2018-01-27T21:05:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:05:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:05:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:06:00Z", "event":"Scan", "BodyName":"Hypio Pri IT-W c3-4239", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.750000, "Radius":553122816.000000, "AbsoluteMagnitude":6.241226, "Age_MY":8502, "SurfaceTemperature":4682.000000, "Luminosity":"Va", "RotationPeriod":234404.984375, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri IT-W c3-4239 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":7.0457e+13, "InnerRad":1.0261e+09, "OuterRad":2.1924e+09 }, { "Name":"Hypio Pri IT-W c3-4239 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.6359e+14, "InnerRad":2.5081e+09, "OuterRad":1.6052e+11 } ] }
+{ "timestamp":"2018-01-27T21:06:18Z", "event":"FuelScoop", "Scooped":4.658411, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:06:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:06:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:06:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri GY-W c3-1812", "StarClass":"G" }
+{ "timestamp":"2018-01-27T21:06:59Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:07:04Z", "event":"Friends", "Status":"Online", "Name":"Tyy'sun Eson" }
+{ "timestamp":"2018-01-27T21:07:12Z", "event":"FSDJump", "StarSystem":"Hypio Pri GY-W c3-1812", "StarPos":[190.781,-462.531,24721.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.119, "FuelUsed":4.054928, "FuelLevel":27.945072 }
+{ "timestamp":"2018-01-27T21:07:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:07:35Z", "event":"Scan", "BodyName":"Hypio Pri GY-W c3-1812", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.847656, "Radius":657698304.000000, "AbsoluteMagnitude":5.379333, "Age_MY":12990, "SurfaceTemperature":5236.000000, "Luminosity":"Va", "RotationPeriod":220149.078125, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri GY-W c3-1812 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":9.5626e+13, "InnerRad":1.0852e+09, "OuterRad":2.4644e+09 }, { "Name":"Hypio Pri GY-W c3-1812 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.2582e+15, "InnerRad":2.9897e+09, "OuterRad":2.8556e+11 } ] }
+{ "timestamp":"2018-01-27T21:07:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:07:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:08:09Z", "event":"FuelScoop", "Scooped":4.054943, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:08:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri KE-V c4-330", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:08:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:09:04Z", "event":"Friends", "Status":"Offline", "Name":"Tyy'sun Eson" }
+{ "timestamp":"2018-01-27T21:09:06Z", "event":"FSDJump", "StarSystem":"Hypio Pri KE-V c4-330", "StarPos":[189.375,-451.969,24746.625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.975, "FuelUsed":4.002229, "FuelLevel":27.997772 }
+{ "timestamp":"2018-01-27T21:09:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:09:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:09:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:09:33Z", "event":"Scan", "BodyName":"Hypio Pri KE-V c4-330", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.691406, "Radius":591540032.000000, "AbsoluteMagnitude":5.969208, "Age_MY":1520, "SurfaceTemperature":4820.000000, "Luminosity":"Va", "RotationPeriod":342715.281250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T21:09:50Z", "event":"FuelScoop", "Scooped":4.002248, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:10:20Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri WT-O b10-22", "StarClass":"M" }
+{ "timestamp":"2018-01-27T21:10:26Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:10:39Z", "event":"FSDJump", "StarSystem":"Hypio Pri WT-O b10-22", "StarPos":[186.531,-442.250,24771.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.857, "FuelUsed":3.959416, "FuelLevel":28.040585 }
+{ "timestamp":"2018-01-27T21:10:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:10:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:10:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:11:02Z", "event":"Scan", "BodyName":"Hypio Pri WT-O b10-22", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.445313, "Radius":425030144.000000, "AbsoluteMagnitude":8.499268, "Age_MY":9102, "SurfaceTemperature":3176.000000, "Luminosity":"Va", "RotationPeriod":207902.890625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T21:11:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:11:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:12:05Z", "event":"FuelScoop", "Scooped":3.959423, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:12:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:12:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:12:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri OK-T c5-5131", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:12:48Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:13:01Z", "event":"FSDJump", "StarSystem":"Hypio Pri OK-T c5-5131", "StarPos":[182.875,-432.000,24796.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.894, "FuelUsed":3.972646, "FuelLevel":28.027355 }
+{ "timestamp":"2018-01-27T21:13:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:13:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:13:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:13:23Z", "event":"Scan", "BodyName":"Hypio Pri OK-T c5-5131 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.527344, "Radius":450839648.000000, "AbsoluteMagnitude":7.146927, "Age_MY":3614, "SurfaceTemperature":4210.000000, "Luminosity":"Va", "SemiMajorAxis":24893212672.000000, "Eccentricity":0.182417, "OrbitalInclination":15.081010, "Periapsis":71.122414, "OrbitalPeriod":10444635.000000, "RotationPeriod":248844.546875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T21:14:12Z", "event":"FuelScoop", "Scooped":3.972635, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:14:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:14:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:14:55Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri QV-R c6-1425", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:15:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:15:13Z", "event":"FSDJump", "StarSystem":"Hypio Pri QV-R c6-1425", "StarPos":[180.250,-422.219,24821.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.002, "FuelUsed":4.012065, "FuelLevel":27.987934 }
+{ "timestamp":"2018-01-27T21:15:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:15:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:15:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:15:36Z", "event":"Scan", "BodyName":"Hypio Pri QV-R c6-1425 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.730469, "Radius":556815936.000000, "AbsoluteMagnitude":6.234222, "Age_MY":11688, "SurfaceTemperature":4674.000000, "Luminosity":"Va", "SemiMajorAxis":14930607603712.000000, "Eccentricity":0.076472, "OrbitalInclination":-44.309082, "Periapsis":260.541046, "OrbitalPeriod":116353646592.000000, "RotationPeriod":326446.343750, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri QV-R c6-1425 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.4189e+11, "InnerRad":9.1875e+08, "OuterRad":2.3312e+09 } ] }
+{ "timestamp":"2018-01-27T21:15:54Z", "event":"FuelScoop", "Scooped":3.801417, "Total":31.789335 }
+{ "timestamp":"2018-01-27T21:16:13Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri PV-R c6-2447", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:16:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:16:32Z", "event":"FSDJump", "StarSystem":"Hypio Pri PV-R c6-2447", "StarPos":[174.781,-412.625,24845.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.902, "FuelUsed":3.970471, "FuelLevel":27.818865 }
+{ "timestamp":"2018-01-27T21:16:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:16:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:16:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:16:55Z", "event":"Scan", "BodyName":"Hypio Pri PV-R c6-2447 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.687500, "Radius":579272000.000000, "AbsoluteMagnitude":6.101212, "Age_MY":12942, "SurfaceTemperature":4725.000000, "Luminosity":"Va", "SemiMajorAxis":2874971258880.000000, "Eccentricity":0.240248, "OrbitalInclination":-59.084064, "Periapsis":283.297668, "OrbitalPeriod":15217872896.000000, "RotationPeriod":235474.296875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T21:17:10Z", "event":"FuelScoop", "Scooped":4.181160, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:17:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri TB-Q c7-413", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:17:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:17:58Z", "event":"FSDJump", "StarSystem":"Hypio Pri TB-Q c7-413", "StarPos":[170.813,-404.188,24870.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.946, "FuelUsed":3.991788, "FuelLevel":28.008211 }
+{ "timestamp":"2018-01-27T21:17:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:18:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:18:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:18:19Z", "event":"Scan", "BodyName":"Hypio Pri TB-Q c7-413", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.746094, "Radius":632143424.000000, "AbsoluteMagnitude":5.938248, "Age_MY":6444, "SurfaceTemperature":4696.000000, "Luminosity":"Va", "RotationPeriod":455135.812500, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri TB-Q c7-413 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.1108e+14, "InnerRad":1.1021e+09, "OuterRad":2.1886e+09 }, { "Name":"Hypio Pri TB-Q c7-413 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.5327e+15, "InnerRad":2.4186e+09, "OuterRad":2.4571e+11 } ] }
+{ "timestamp":"2018-01-27T21:18:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:18:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:18:52Z", "event":"FuelScoop", "Scooped":3.991806, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:19:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:19:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:19:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri TU-C b17-15", "StarClass":"M" }
+{ "timestamp":"2018-01-27T21:19:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:19:42Z", "event":"FSDJump", "StarSystem":"Hypio Pri TU-C b17-15", "StarPos":[169.031,-393.938,24895.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.905, "FuelUsed":3.977135, "FuelLevel":28.022865 }
+{ "timestamp":"2018-01-27T21:19:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:19:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:19:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:20:04Z", "event":"Scan", "BodyName":"Hypio Pri TU-C b17-15", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.269531, "Radius":289253952.000000, "AbsoluteMagnitude":10.496399, "Age_MY":1628, "SurfaceTemperature":2431.000000, "Luminosity":"Va", "RotationPeriod":148822.234375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T21:20:13Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-01-27T21:20:28Z", "event":"FuelScoop", "Scooped":3.977129, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:20:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:20:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:21:05Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri WA-V d3-1069", "StarClass":"F" }
+{ "timestamp":"2018-01-27T21:21:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:21:24Z", "event":"FSDJump", "StarSystem":"Hypio Pri WA-V d3-1069", "StarPos":[163.438,-385.813,24921.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.108, "FuelUsed":4.050989, "FuelLevel":27.949011 }
+{ "timestamp":"2018-01-27T21:21:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:21:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:21:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:21:46Z", "event":"Scan", "BodyName":"Hypio Pri WA-V d3-1069", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.175781, "Radius":778765504.000000, "AbsoluteMagnitude":3.778397, "Age_MY":1440, "SurfaceTemperature":6956.000000, "Luminosity":"VI", "RotationPeriod":330816.625000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T21:22:05Z", "event":"FuelScoop", "Scooped":4.050986, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:22:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:22:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:22:38Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri ZS-M c9-1199", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:22:43Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:22:56Z", "event":"FSDJump", "StarSystem":"Hypio Pri ZS-M c9-1199", "StarPos":[163.625,-377.469,24946.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.158, "FuelUsed":4.069260, "FuelLevel":27.930740 }
+{ "timestamp":"2018-01-27T21:22:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:23:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:23:19Z", "event":"Scan", "BodyName":"Hypio Pri ZS-M c9-1199 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.632813, "Radius":485224160.000000, "AbsoluteMagnitude":7.068542, "Age_MY":11852, "SurfaceTemperature":4132.000000, "Luminosity":"Va", "SemiMajorAxis":4632337711104.000000, "Eccentricity":0.153174, "OrbitalInclination":-24.546030, "Periapsis":251.892044, "OrbitalPeriod":28998633472.000000, "RotationPeriod":277809.250000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T21:23:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:23:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:23:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:23:49Z", "event":"FuelScoop", "Scooped":4.069267, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:24:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:24:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:24:59Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri ZS-M c9-4507", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:25:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:25:18Z", "event":"FSDJump", "StarSystem":"Hypio Pri ZS-M c9-4507", "StarPos":[160.156,-371.188,24972.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.912, "FuelUsed":3.978955, "FuelLevel":28.021046 }
+{ "timestamp":"2018-01-27T21:25:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:25:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:25:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:25:41Z", "event":"Scan", "BodyName":"Hypio Pri ZS-M c9-4507 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.847656, "Radius":606185216.000000, "AbsoluteMagnitude":5.920578, "Age_MY":11690, "SurfaceTemperature":4815.000000, "Luminosity":"Va", "SemiMajorAxis":3343927738368.000000, "Eccentricity":0.113898, "OrbitalInclination":-62.712315, "Periapsis":16.292229, "OrbitalPeriod":10952125440.000000, "RotationPeriod":299512.687500, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri ZS-M c9-4507 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.2333e+14, "InnerRad":1.1273e+09, "OuterRad":2.2837e+09 } ] }
+{ "timestamp":"2018-01-27T21:26:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:26:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:27:01Z", "event":"FuelScoop", "Scooped":3.978944, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:27:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:27:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:27:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri DZ-K c10-4206", "StarClass":"G" }
+{ "timestamp":"2018-01-27T21:27:48Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:28:02Z", "event":"FSDJump", "StarSystem":"Hypio Pri DZ-K c10-4206", "StarPos":[154.750,-362.219,24997.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.932, "FuelUsed":3.986620, "FuelLevel":28.013380 }
+{ "timestamp":"2018-01-27T21:28:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:29:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:29:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:30:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:30:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:30:46Z", "event":"FuelScoop", "Scooped":3.986633, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:31:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:31:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:31:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri HF-J c11-1272", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:31:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:31:52Z", "event":"FSDJump", "StarSystem":"Hypio Pri HF-J c11-1272", "StarPos":[153.156,-351.656,25022.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.957, "FuelUsed":3.995303, "FuelLevel":28.004698 }
+{ "timestamp":"2018-01-27T21:31:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:32:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:32:14Z", "event":"Scan", "BodyName":"Hypio Pri HF-J c11-1272", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.714844, "Radius":548453312.000000, "AbsoluteMagnitude":6.025757, "Age_MY":6254, "SurfaceTemperature":4941.000000, "Luminosity":"Vab", "RotationPeriod":324110.937500, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri HF-J c11-1272 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.1987e+14, "InnerRad":9.0495e+08, "OuterRad":2.2761e+09 }, { "Name":"Hypio Pri HF-J c11-1272 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.5116e+14, "InnerRad":4.6613e+09, "OuterRad":2.9086e+11 } ] }
+{ "timestamp":"2018-01-27T21:32:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:32:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:32:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:32:41Z", "event":"FuelScoop", "Scooped":3.995329, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:33:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri FK-J c11-4078", "StarClass":"M" }
+{ "timestamp":"2018-01-27T21:33:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:33:53Z", "event":"FSDJump", "StarSystem":"Hypio Pri FK-J c11-4078", "StarPos":[149.031,-341.313,25047.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.168, "FuelUsed":4.072920, "FuelLevel":27.927080 }
+{ "timestamp":"2018-01-27T21:33:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:34:14Z", "event":"Scan", "BodyName":"Hypio Pri FK-J c11-4078 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.492188, "Radius":480469760.000000, "AbsoluteMagnitude":7.906372, "Age_MY":8170, "SurfaceTemperature":3424.000000, "Luminosity":"Va", "SemiMajorAxis":2181052235776.000000, "Eccentricity":0.107849, "OrbitalInclination":31.188969, "Periapsis":214.868958, "OrbitalPeriod":16370720768.000000, "RotationPeriod":222313.562500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T21:34:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:34:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:34:33Z", "event":"FuelScoop", "Scooped":4.072912, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:34:37Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T21:34:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:34:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:34:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:35:21Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri JQ-H c12-4149", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:35:26Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:35:40Z", "event":"FSDJump", "StarSystem":"Hypio Pri JQ-H c12-4149", "StarPos":[143.500,-328.563,25070.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.195, "FuelUsed":4.082748, "FuelLevel":27.917252 }
+{ "timestamp":"2018-01-27T21:35:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:35:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:35:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:36:17Z", "event":"FuelScoop", "Scooped":4.712735, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:36:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:36:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:37:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:37:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:37:24Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri GY-P d6-5957", "StarClass":"M" }
+{ "timestamp":"2018-01-27T21:37:30Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:37:43Z", "event":"FSDJump", "StarSystem":"Hypio Pri GY-P d6-5957", "StarPos":[140.000,-321.281,25096.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.928, "FuelUsed":3.985163, "FuelLevel":28.014837 }
+{ "timestamp":"2018-01-27T21:37:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:37:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:37:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:38:05Z", "event":"Scan", "BodyName":"Hypio Pri GY-P d6-5957 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.394531, "Radius":403274528.000000, "AbsoluteMagnitude":8.803513, "Age_MY":1996, "SurfaceTemperature":3040.000000, "Luminosity":"Va", "SemiMajorAxis":32512053084160.000000, "Eccentricity":0.035922, "OrbitalInclination":-1.844658, "Periapsis":110.603287, "OrbitalPeriod":212131921920.000000, "RotationPeriod":208546.875000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T21:38:21Z", "event":"FuelScoop", "Scooped":3.985169, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:38:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:38:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:39:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:39:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:39:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:39:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:39:37Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T21:41:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:41:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:41:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:45:07Z", "event":"Friends", "Status":"Online", "Name":"Rough Roads" }
+{ "timestamp":"2018-01-27T21:52:29Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri NW-F c13-5206", "StarClass":"M" }
+{ "timestamp":"2018-01-27T21:52:34Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:52:48Z", "event":"FSDJump", "StarSystem":"Hypio Pri NW-F c13-5206", "StarPos":[136.313,-314.469,25122.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.950, "FuelUsed":3.993291, "FuelLevel":28.006710 }
+{ "timestamp":"2018-01-27T21:52:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:52:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:52:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:53:10Z", "event":"Scan", "BodyName":"Hypio Pri NW-F c13-5206 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.523438, "Radius":465336320.000000, "AbsoluteMagnitude":7.640289, "Age_MY":5226, "SurfaceTemperature":3699.000000, "Luminosity":"Va", "SemiMajorAxis":608083968000.000000, "Eccentricity":0.155273, "OrbitalInclination":-42.424091, "Periapsis":195.403427, "OrbitalPeriod":1875875968.000000, "RotationPeriod":209825.656250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T21:53:26Z", "event":"FuelScoop", "Scooped":3.993272, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:53:38Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T21:54:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:54:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri QC-E c14-3239", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:54:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:54:49Z", "event":"FSDJump", "StarSystem":"Hypio Pri QC-E c14-3239", "StarPos":[129.063,-332.219,25141.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.081, "FuelUsed":4.040840, "FuelLevel":27.959160 }
+{ "timestamp":"2018-01-27T21:54:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:54:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:55:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:55:11Z", "event":"Scan", "BodyName":"Hypio Pri QC-E c14-3239 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.734375, "Radius":603426048.000000, "AbsoluteMagnitude":6.401733, "Age_MY":5162, "SurfaceTemperature":4320.000000, "Luminosity":"Va", "SemiMajorAxis":20343884349440.000000, "Eccentricity":0.070833, "OrbitalInclination":-48.614220, "Periapsis":141.620895, "OrbitalPeriod":113190576128.000000, "RotationPeriod":300232.906250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T21:55:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:55:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:55:30Z", "event":"FuelScoop", "Scooped":4.040840, "Total":32.000000 }
+{ "timestamp":"2018-01-27T21:56:00Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri SX-D c14-1240", "StarClass":"K" }
+{ "timestamp":"2018-01-27T21:56:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T21:56:19Z", "event":"FSDJump", "StarSystem":"Hypio Pri SX-D c14-1240", "StarPos":[125.313,-353.219,25157.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.180, "FuelUsed":4.077518, "FuelLevel":27.922482 }
+{ "timestamp":"2018-01-27T21:56:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:56:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:56:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:56:46Z", "event":"Scan", "BodyName":"Hypio Pri SX-D c14-1240 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.777344, "Radius":585024000.000000, "AbsoluteMagnitude":5.708115, "Age_MY":11520, "SurfaceTemperature":5147.000000, "Luminosity":"Vab", "SemiMajorAxis":20282523779072.000000, "Eccentricity":0.050120, "OrbitalInclination":57.020187, "Periapsis":36.625782, "OrbitalPeriod":213606416384.000000, "RotationPeriod":278277.062500, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri SX-D c14-1240 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.1189e+14, "InnerRad":1.1668e+09, "OuterRad":2.2188e+09 } ] }
+{ "timestamp":"2018-01-27T21:56:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T21:56:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T21:57:07Z", "event":"FuelScoop", "Scooped":2.067631, "Total":29.990128 }
+{ "timestamp":"2018-01-27T22:00:21Z", "event":"Friends", "Status":"Online", "Name":"Klutz" }
+{ "timestamp":"2018-01-27T22:04:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:04:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:04:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:04:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:06:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:06:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:06:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:06:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:06:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:06:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:07:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:07:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:07:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:07:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:09:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:09:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:09:33Z", "event":"Scan", "BodyName":"Hypio Pri SX-D c14-1240 B 1", "DistanceFromArrivalLS":198046.734375, "TidalLock":true, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":96.602280 }, { "Name":"Argon", "Percent":2.969647 }, { "Name":"Oxygen", "Percent":0.306289 } ], "Volcanism":"major rocky magma volcanism", "MassEM":1.833507, "Radius":7365616.000000, "SurfaceGravity":13.470194, "SurfaceTemperature":249.038574, "SurfacePressure":12238684.000000, "Landable":false, "SemiMajorAxis":66829889536.000000, "Eccentricity":0.000121, "OrbitalInclination":-0.119761, "Periapsis":207.429520, "OrbitalPeriod":14372290.000000, "RotationPeriod":14373367.000000, "AxialTilt":-0.418259 }
+{ "timestamp":"2018-01-27T22:09:56Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri PB-G b29-52", "StarClass":"M" }
+{ "timestamp":"2018-01-27T22:10:02Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:10:15Z", "event":"FSDJump", "StarSystem":"Hypio Pri PB-G b29-52", "StarPos":[117.031,-373.063,25174.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.142, "FuelUsed":3.993442, "FuelLevel":25.366688 }
+{ "timestamp":"2018-01-27T22:10:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:10:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:10:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:10:39Z", "event":"Scan", "BodyName":"Hypio Pri PB-G b29-52", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.339844, "Radius":374535904.000000, "AbsoluteMagnitude":8.988449, "Age_MY":8952, "SurfaceTemperature":3023.000000, "Luminosity":"Va", "RotationPeriod":151313.593750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:10:55Z", "event":"FuelScoop", "Scooped":5.009547, "Total":30.376223 }
+{ "timestamp":"2018-01-27T22:10:57Z", "event":"FuelScoop", "Scooped":1.623778, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:10:58Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T22:11:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:11:23Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T22:11:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:11:26Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T22:11:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:11:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:11:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:11:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri YY-B c15-4509", "StarClass":"K" }
+{ "timestamp":"2018-01-27T22:11:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:12:07Z", "event":"FSDJump", "StarSystem":"Hypio Pri YY-B c15-4509", "StarPos":[111.750,-392.969,25191.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.785, "FuelUsed":3.933556, "FuelLevel":28.066444 }
+{ "timestamp":"2018-01-27T22:12:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:12:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:12:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:12:29Z", "event":"Scan", "BodyName":"Hypio Pri YY-B c15-4509", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.828125, "Radius":646894784.000000, "AbsoluteMagnitude":5.575851, "Age_MY":1696, "SurfaceTemperature":5046.000000, "Luminosity":"Va", "RotationPeriod":313718.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:12:48Z", "event":"FuelScoop", "Scooped":3.933565, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:12:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:12:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:13:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:13:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:13:15Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri MZ-N d7-9556", "StarClass":"F" }
+{ "timestamp":"2018-01-27T22:13:20Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:13:33Z", "event":"FSDJump", "StarSystem":"Hypio Pri MZ-N d7-9556", "StarPos":[105.063,-414.719,25205.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.849, "FuelUsed":3.956378, "FuelLevel":28.043621 }
+{ "timestamp":"2018-01-27T22:13:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:13:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:13:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:13:55Z", "event":"Scan", "BodyName":"Hypio Pri MZ-N d7-9556", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.003906, "Radius":698322880.000000, "AbsoluteMagnitude":4.413879, "Age_MY":1302, "SurfaceTemperature":6346.000000, "Luminosity":"VI", "RotationPeriod":340156.375000, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri MZ-N d7-9556 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.3882e+15, "InnerRad":7.8731e+09, "OuterRad":5.0388e+11 } ] }
+{ "timestamp":"2018-01-27T22:14:14Z", "event":"FuelScoop", "Scooped":3.956381, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:14:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:14:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:14:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri OU-N d7-942", "StarClass":"M" }
+{ "timestamp":"2018-01-27T22:14:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:14:58Z", "event":"FSDJump", "StarSystem":"Hypio Pri OU-N d7-942", "StarPos":[101.031,-431.531,25220.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.746, "FuelUsed":2.635740, "FuelLevel":29.364260 }
+{ "timestamp":"2018-01-27T22:14:58Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2018-01-27T22:15:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:15:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:15:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:15:12Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T22:15:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:15:20Z", "event":"Scan", "BodyName":"Hypio Pri OU-N d7-942", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.187500, "Radius":250072640.000000, "AbsoluteMagnitude":11.216827, "Age_MY":592, "SurfaceTemperature":2215.000000, "Luminosity":"Va", "RotationPeriod":133879.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:15:24Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T22:15:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:15:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:15:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:15:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:16:01Z", "event":"FuelScoop", "Scooped":2.635725, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:18:06Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri CF-A c16-6026", "StarClass":"G" }
+{ "timestamp":"2018-01-27T22:18:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:18:25Z", "event":"FSDJump", "StarSystem":"Hypio Pri CF-A c16-6026", "StarPos":[98.625,-417.438,25243.625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.029, "FuelUsed":4.021595, "FuelLevel":27.978405 }
+{ "timestamp":"2018-01-27T22:18:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:18:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:18:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:18:47Z", "event":"Scan", "BodyName":"Hypio Pri CF-A c16-6026", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.851563, "Radius":630254336.000000, "AbsoluteMagnitude":5.316269, "Age_MY":3562, "SurfaceTemperature":5427.000000, "Luminosity":"Vab", "RotationPeriod":317082.093750, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri CF-A c16-6026 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.6306e+10, "InnerRad":1.0306e+09, "OuterRad":2.2872e+09 } ] }
+{ "timestamp":"2018-01-27T22:19:03Z", "event":"FuelScoop", "Scooped":4.021586, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:19:56Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri FL-Y c16-1213", "StarClass":"K" }
+{ "timestamp":"2018-01-27T22:20:02Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:20:15Z", "event":"FSDJump", "StarSystem":"Hypio Pri FL-Y c16-1213", "StarPos":[92.500,-403.313,25265.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.083, "FuelUsed":4.041378, "FuelLevel":27.958622 }
+{ "timestamp":"2018-01-27T22:20:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:20:40Z", "event":"Scan", "BodyName":"Hypio Pri FL-Y c16-1213", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.582031, "Radius":522028256.000000, "AbsoluteMagnitude":7.150742, "Age_MY":4726, "SurfaceTemperature":3909.000000, "Luminosity":"Va", "RotationPeriod":201748.187500, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri FL-Y c16-1213 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":9.4942e+13, "InnerRad":1.0184e+09, "OuterRad":2.0147e+09 } ] }
+{ "timestamp":"2018-01-27T22:20:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:20:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:21:06Z", "event":"FuelScoop", "Scooped":4.041352, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:21:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:21:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:21:37Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri GL-Y c16-113", "StarClass":"K" }
+{ "timestamp":"2018-01-27T22:21:42Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:21:56Z", "event":"FSDJump", "StarSystem":"Hypio Pri GL-Y c16-113", "StarPos":[95.125,-388.875,25288.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.177, "FuelUsed":4.075989, "FuelLevel":27.924011 }
+{ "timestamp":"2018-01-27T22:21:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:22:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:22:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:22:17Z", "event":"Scan", "BodyName":"Hypio Pri GL-Y c16-113", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.585938, "Radius":532810560.000000, "AbsoluteMagnitude":7.259033, "Age_MY":9650, "SurfaceTemperature":3774.000000, "Luminosity":"Va", "RotationPeriod":260772.546875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:22:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:22:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:22:38Z", "event":"FuelScoop", "Scooped":4.075991, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:23:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:23:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:23:39Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T22:23:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:24:02Z", "event":"Scan", "BodyName":"Hypio Pri GL-Y c16-113 1", "DistanceFromArrivalLS":284.508606, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"ammonia rich atmosphere", "AtmosphereType":"AmmoniaRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":93.293114 }, { "Name":"Ammonia", "Percent":5.921559 }, { "Name":"Methane", "Percent":0.734403 } ], "Volcanism":"", "MassEM":0.660689, "Radius":5370647.000000, "SurfaceGravity":9.129636, "SurfaceTemperature":276.960999, "SurfacePressure":426771.000000, "Landable":false, "SemiMajorAxis":85295161344.000000, "Eccentricity":0.000022, "OrbitalInclination":-0.021037, "Periapsis":299.271973, "OrbitalPeriod":17746698.000000, "RotationPeriod":17747604.000000, "AxialTilt":0.402464 }
+{ "timestamp":"2018-01-27T22:24:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:24:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:24:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:24:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:25:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:25:17Z", "event":"Scan", "BodyName":"Hypio Pri GL-Y c16-113 2", "DistanceFromArrivalLS":384.353210, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"carbon dioxide rich atmosphere", "AtmosphereType":"CarbonDioxideRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":59.569157 }, { "Name":"CarbonDioxide", "Percent":27.151760 }, { "Name":"Oxygen", "Percent":12.966726 } ], "Volcanism":"", "MassEM":0.616234, "Radius":5258156.000000, "SurfaceGravity":8.883587, "SurfaceTemperature":263.898895, "SurfacePressure":198211.312500, "Landable":false, "SemiMajorAxis":115232333824.000000, "Eccentricity":0.000062, "OrbitalInclination":0.074306, "Periapsis":109.694641, "OrbitalPeriod":27867142.000000, "RotationPeriod":49854.253906, "AxialTilt":-0.055173 }
+{ "timestamp":"2018-01-27T22:25:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:25:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:25:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:25:56Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri PF-M d8-9268", "StarClass":"F" }
+{ "timestamp":"2018-01-27T22:26:01Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:26:14Z", "event":"FSDJump", "StarSystem":"Hypio Pri PF-M d8-9268", "StarPos":[94.375,-377.281,25312.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.636, "FuelUsed":3.880256, "FuelLevel":28.119743 }
+{ "timestamp":"2018-01-27T22:26:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:26:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:26:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:26:54Z", "event":"Scan", "BodyName":"Hypio Pri PF-M d8-9268 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.125000, "Radius":818392576.000000, "AbsoluteMagnitude":4.241028, "Age_MY":1570, "SurfaceTemperature":6100.000000, "Luminosity":"Vab", "SemiMajorAxis":1935643508736.000000, "Eccentricity":0.051101, "OrbitalInclination":9.288067, "Periapsis":282.006012, "OrbitalPeriod":5971355136.000000, "RotationPeriod":399849.468750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:27:10Z", "event":"FuelScoop", "Scooped":3.880252, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:27:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:27:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:27:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:27:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:32:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:32:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:32:29Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri VJ-Q b37-66", "StarClass":"M" }
+{ "timestamp":"2018-01-27T22:32:34Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:32:47Z", "event":"FSDJump", "StarSystem":"Hypio Pri VJ-Q b37-66", "StarPos":[90.438,-362.688,25335.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.132, "FuelUsed":4.059274, "FuelLevel":27.940727 }
+{ "timestamp":"2018-01-27T22:32:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:32:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:33:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:33:09Z", "event":"Scan", "BodyName":"Hypio Pri VJ-Q b37-66", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.406250, "Radius":394529824.000000, "AbsoluteMagnitude":8.816971, "Age_MY":3072, "SurfaceTemperature":3064.000000, "Luminosity":"Va", "RotationPeriod":213775.828125, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri VJ-Q b37-66 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":5.4572e+10, "InnerRad":5.9648e+08, "OuterRad":1.7872e+09 } ] }
+{ "timestamp":"2018-01-27T22:33:26Z", "event":"FuelScoop", "Scooped":4.689268, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:33:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:33:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:33:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri LC-V c18-5854", "StarClass":"K" }
+{ "timestamp":"2018-01-27T22:33:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:34:10Z", "event":"FSDJump", "StarSystem":"Hypio Pri LC-V c18-5854", "StarPos":[87.656,-348.094,25357.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.093, "FuelUsed":4.045011, "FuelLevel":27.954988 }
+{ "timestamp":"2018-01-27T22:34:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:34:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:34:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:34:32Z", "event":"Scan", "BodyName":"Hypio Pri LC-V c18-5854", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.558594, "Radius":527992448.000000, "AbsoluteMagnitude":6.628876, "Age_MY":1326, "SurfaceTemperature":4383.000000, "Luminosity":"Va", "RotationPeriod":237587.109375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:34:47Z", "event":"FuelScoop", "Scooped":4.045018, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:34:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:34:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:35:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri NN-T c19-791", "StarClass":"K" }
+{ "timestamp":"2018-01-27T22:35:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:35:30Z", "event":"Friends", "Status":"Online", "Name":"Thor Wotansen" }
+{ "timestamp":"2018-01-27T22:35:31Z", "event":"FSDJump", "StarSystem":"Hypio Pri NN-T c19-791", "StarPos":[86.688,-333.250,25380.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.999, "FuelUsed":4.010913, "FuelLevel":27.989086 }
+{ "timestamp":"2018-01-27T22:35:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:35:42Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T22:35:53Z", "event":"Scan", "BodyName":"Hypio Pri NN-T c19-791", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.578125, "Radius":450776000.000000, "AbsoluteMagnitude":7.085770, "Age_MY":13021, "SurfaceTemperature":4270.000000, "Luminosity":"Va", "RotationPeriod":218087.906250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:36:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:36:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:36:26Z", "event":"FuelScoop", "Scooped":4.010906, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:36:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:36:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:37:02Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri DM-L b40-96", "StarClass":"K" }
+{ "timestamp":"2018-01-27T22:37:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:37:21Z", "event":"FSDJump", "StarSystem":"Hypio Pri DM-L b40-96", "StarPos":[85.031,-318.406,25402.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.954, "FuelUsed":3.994748, "FuelLevel":28.005253 }
+{ "timestamp":"2018-01-27T22:37:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:37:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:37:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:37:43Z", "event":"Scan", "BodyName":"Hypio Pri DM-L b40-96", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.437500, "Radius":454808768.000000, "AbsoluteMagnitude":7.639801, "Age_MY":1422, "SurfaceTemperature":3742.000000, "Luminosity":"Va", "RotationPeriod":217330.140625, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri DM-L b40-96 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.1387e+09, "InnerRad":7.7322e+08, "OuterRad":1.8319e+09 } ] }
+{ "timestamp":"2018-01-27T22:37:57Z", "event":"FuelScoop", "Scooped":3.994759, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:38:24Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri PY-R c20-2470", "StarClass":"K" }
+{ "timestamp":"2018-01-27T22:38:29Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:38:42Z", "event":"FSDJump", "StarSystem":"Hypio Pri PY-R c20-2470", "StarPos":[83.438,-303.844,25425.625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.032, "FuelUsed":4.023305, "FuelLevel":27.976694 }
+{ "timestamp":"2018-01-27T22:38:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:38:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:38:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:39:04Z", "event":"Scan", "BodyName":"Hypio Pri PY-R c20-2470", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.628906, "Radius":509102240.000000, "AbsoluteMagnitude":7.199631, "Age_MY":9664, "SurfaceTemperature":3914.000000, "Luminosity":"Va", "RotationPeriod":259003.140625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:39:18Z", "event":"FuelScoop", "Scooped":4.023315, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:39:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri VW-I d10-462", "StarClass":"F" }
+{ "timestamp":"2018-01-27T22:39:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:40:04Z", "event":"FSDJump", "StarSystem":"Hypio Pri VW-I d10-462", "StarPos":[79.031,-288.938,25447.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.116, "FuelUsed":4.053673, "FuelLevel":27.946327 }
+{ "timestamp":"2018-01-27T22:40:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:40:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:40:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:40:28Z", "event":"Scan", "BodyName":"Hypio Pri VW-I d10-462", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.179688, "Radius":721543040.000000, "AbsoluteMagnitude":4.165131, "Age_MY":692, "SurfaceTemperature":6611.000000, "Luminosity":"VI", "RotationPeriod":339523.437500, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri VW-I d10-462 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.3381e+14, "InnerRad":4.3291e+10, "OuterRad":1.7316e+11 } ] }
+{ "timestamp":"2018-01-27T22:40:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:40:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:40:47Z", "event":"FuelScoop", "Scooped":4.053679, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:41:04Z", "event":"Scan", "BodyName":"Hypio Pri VW-I d10-462 2", "DistanceFromArrivalLS":79.539772, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":64.307251 }, { "Name":"Silicates", "Percent":32.907158 }, { "Name":"Nitrogen", "Percent":2.142350 } ], "Volcanism":"major silicate vapour geysers volcanism", "MassEM":15.481050, "Radius":12733526.000000, "SurfaceGravity":38.055061, "SurfaceTemperature":3083.307373, "SurfacePressure":320893280.000000, "Landable":false, "SemiMajorAxis":23844749312.000000, "Eccentricity":0.000087, "OrbitalInclination":0.000139, "Periapsis":20.253069, "OrbitalPeriod":1831025.875000, "RotationPeriod":1848776.625000, "AxialTilt":-0.284893 }
+{ "timestamp":"2018-01-27T22:41:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:41:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:44:41Z", "event":"Scan", "BodyName":"Hypio Pri VW-I d10-462 4", "DistanceFromArrivalLS":920.059021, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"thick ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":81.698189 }, { "Name":"Nitrogen", "Percent":14.712424 }, { "Name":"Oxygen", "Percent":3.185020 } ], "Volcanism":"metallic magma volcanism", "MassEM":2.608616, "Radius":8029272.000000, "SurfaceGravity":16.127504, "SurfaceTemperature":375.858124, "SurfacePressure":1511290.375000, "Landable":false, "SemiMajorAxis":4603645440.000000, "Eccentricity":0.147563, "OrbitalInclination":1.926048, "Periapsis":158.611298, "OrbitalPeriod":12453960.000000, "RotationPeriod":8462174.000000, "AxialTilt":-0.129372 }
+{ "timestamp":"2018-01-27T22:44:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:44:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:44:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:44:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:45:08Z", "event":"Scan", "BodyName":"Hypio Pri VW-I d10-462 3", "DistanceFromArrivalLS":917.226746, "TidalLock":false, "TerraformState":"", "PlanetClass":"Gas giant with water based life", "Atmosphere":"", "AtmosphereComposition":[ { "Name":"Hydrogen", "Percent":73.251053 }, { "Name":"Helium", "Percent":26.677975 }, { "Name":"Oxygen", "Percent":0.070988 } ], "Volcanism":"", "MassEM":67.233154, "Radius":34826232.000000, "SurfaceGravity":22.094284, "SurfaceTemperature":216.452072, "SurfacePressure":0.000000, "Landable":false, "SemiMajorAxis":178614896.000000, "Eccentricity":0.147563, "OrbitalInclination":1.926048, "Periapsis":338.611298, "OrbitalPeriod":12453960.000000, "RotationPeriod":73996.500000, "AxialTilt":2.906743, "Rings":[ { "Name":"Hypio Pri VW-I d10-462 3 A Ring", "RingClass":"eRingClass_Rocky", "MassMT":5.155e+10, "InnerRad":6.1633e+07, "OuterRad":7.6454e+07 }, { "Name":"Hypio Pri VW-I d10-462 3 B Ring", "RingClass":"eRingClass_Rocky", "MassMT":3.5752e+11, "InnerRad":7.6554e+07, "OuterRad":1.4156e+08 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2018-01-27T22:45:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:45:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:45:56Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri TE-Q c21-7953", "StarClass":"M" }
+{ "timestamp":"2018-01-27T22:46:01Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:46:15Z", "event":"FSDJump", "StarSystem":"Hypio Pri TE-Q c21-7953", "StarPos":[75.344,-274.906,25470.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.798, "FuelUsed":3.938142, "FuelLevel":28.061859 }
+{ "timestamp":"2018-01-27T22:46:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:46:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:46:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:46:37Z", "event":"Scan", "BodyName":"Hypio Pri TE-Q c21-7953", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.503906, "Radius":439208416.000000, "AbsoluteMagnitude":7.895752, "Age_MY":12859, "SurfaceTemperature":3590.000000, "Luminosity":"Va", "RotationPeriod":189570.062500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:46:51Z", "event":"FuelScoop", "Scooped":3.938142, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:47:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri RJ-Q c21-6906", "StarClass":"M" }
+{ "timestamp":"2018-01-27T22:47:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:47:48Z", "event":"FSDJump", "StarSystem":"Hypio Pri RJ-Q c21-6906", "StarPos":[71.938,-260.625,25492.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.919, "FuelUsed":3.981797, "FuelLevel":28.018204 }
+{ "timestamp":"2018-01-27T22:47:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:47:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:47:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:48:10Z", "event":"Scan", "BodyName":"Hypio Pri RJ-Q c21-6906", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.531250, "Radius":430994304.000000, "AbsoluteMagnitude":7.876663, "Age_MY":4006, "SurfaceTemperature":3640.000000, "Luminosity":"Va", "RotationPeriod":223719.812500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:48:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:48:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:48:43Z", "event":"FuelScoop", "Scooped":3.981821, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:48:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:48:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:49:01Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T22:49:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:49:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri VP-O c22-3416", "StarClass":"G" }
+{ "timestamp":"2018-01-27T22:49:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:49:31Z", "event":"FSDJump", "StarSystem":"Hypio Pri VP-O c22-3416", "StarPos":[70.094,-244.875,25514.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.094, "FuelUsed":4.045855, "FuelLevel":27.954145 }
+{ "timestamp":"2018-01-27T22:49:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:49:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:49:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:49:52Z", "event":"Scan", "BodyName":"Hypio Pri VP-O c22-3416 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.773438, "Radius":650524224.000000, "AbsoluteMagnitude":5.312820, "Age_MY":7844, "SurfaceTemperature":5346.000000, "Luminosity":"Vab", "SemiMajorAxis":20597620867072.000000, "Eccentricity":0.103329, "OrbitalInclination":53.358608, "Periapsis":84.175644, "OrbitalPeriod":425674047488.000000, "RotationPeriod":326673.656250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:50:07Z", "event":"FuelScoop", "Scooped":4.045848, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:50:38Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri ZV-M c23-2345", "StarClass":"K" }
+{ "timestamp":"2018-01-27T22:50:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:50:57Z", "event":"FSDJump", "StarSystem":"Hypio Pri ZV-M c23-2345", "StarPos":[66.406,-231.531,25538.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.979, "FuelUsed":4.003882, "FuelLevel":27.996117 }
+{ "timestamp":"2018-01-27T22:50:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:51:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:51:19Z", "event":"Scan", "BodyName":"Hypio Pri ZV-M c23-2345 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.742188, "Radius":551679488.000000, "AbsoluteMagnitude":5.996338, "Age_MY":5170, "SurfaceTemperature":4960.000000, "Luminosity":"Vab", "SemiMajorAxis":376896389120.000000, "Eccentricity":0.019759, "OrbitalInclination":18.966780, "Periapsis":52.923088, "OrbitalPeriod":418325664.000000, "RotationPeriod":201606.781250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:51:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:51:38Z", "event":"FuelScoop", "Scooped":4.003884, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:51:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:51:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:52:53Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri XA-N c23-7523", "StarClass":"K" }
+{ "timestamp":"2018-01-27T22:52:58Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:53:12Z", "event":"FSDJump", "StarSystem":"Hypio Pri XA-N c23-7523", "StarPos":[66.313,-217.344,25561.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.051, "FuelUsed":4.029957, "FuelLevel":27.970043 }
+{ "timestamp":"2018-01-27T22:53:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:53:33Z", "event":"Scan", "BodyName":"Hypio Pri XA-N c23-7523 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.808594, "Radius":602513344.000000, "AbsoluteMagnitude":5.661880, "Age_MY":8922, "SurfaceTemperature":5126.000000, "Luminosity":"Vab", "SemiMajorAxis":21816141824.000000, "Eccentricity":0.158120, "OrbitalInclination":-21.659866, "Periapsis":126.015686, "OrbitalPeriod":15181608.000000, "RotationPeriod":275511.781250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:53:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:53:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:54:01Z", "event":"FuelScoop", "Scooped":4.029952, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:54:03Z", "event":"Friends", "Status":"Online", "Name":"Zhixian Wu" }
+{ "timestamp":"2018-01-27T22:54:12Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T22:54:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:54:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:54:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:55:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri BH-L c24-4327", "StarClass":"K" }
+{ "timestamp":"2018-01-27T22:55:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:55:49Z", "event":"FSDJump", "StarSystem":"Hypio Pri BH-L c24-4327", "StarPos":[64.406,-204.031,25584.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.049, "FuelUsed":4.029325, "FuelLevel":27.970676 }
+{ "timestamp":"2018-01-27T22:55:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:56:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:56:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:56:25Z", "event":"Scan", "BodyName":"Hypio Pri BH-L c24-4327 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.734375, "Radius":618814144.000000, "AbsoluteMagnitude":5.766205, "Age_MY":9242, "SurfaceTemperature":4938.000000, "Luminosity":"Vab", "SemiMajorAxis":19229017374720.000000, "Eccentricity":0.076660, "OrbitalInclination":-86.158089, "Periapsis":194.264847, "OrbitalPeriod":236470239232.000000, "RotationPeriod":339273.218750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:56:40Z", "event":"FuelScoop", "Scooped":4.029310, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:57:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri BH-L c24-1004", "StarClass":"K" }
+{ "timestamp":"2018-01-27T22:57:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:57:27Z", "event":"Friends", "Status":"Online", "Name":"Katie Chan" }
+{ "timestamp":"2018-01-27T22:57:30Z", "event":"FSDJump", "StarSystem":"Hypio Pri BH-L c24-1004", "StarPos":[61.438,-193.969,25609.625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.170, "FuelUsed":4.073182, "FuelLevel":27.926819 }
+{ "timestamp":"2018-01-27T22:57:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:57:52Z", "event":"Scan", "BodyName":"Hypio Pri BH-L c24-1004", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.773438, "Radius":619493312.000000, "AbsoluteMagnitude":5.713150, "Age_MY":10872, "SurfaceTemperature":4996.000000, "Luminosity":"Va", "RotationPeriod":291772.531250, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri BH-L c24-1004 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.1878e+14, "InnerRad":1.0609e+09, "OuterRad":2.215e+09 }, { "Name":"Hypio Pri BH-L c24-1004 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":5.1398e+14, "InnerRad":4.3075e+09, "OuterRad":4.3761e+11 } ] }
+{ "timestamp":"2018-01-27T22:57:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:58:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:58:28Z", "event":"FuelScoop", "Scooped":4.073183, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:58:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:58:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:58:58Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri GK-T b50-78", "StarClass":"M" }
+{ "timestamp":"2018-01-27T22:59:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T22:59:17Z", "event":"FSDJump", "StarSystem":"Hypio Pri GK-T b50-78", "StarPos":[61.813,-181.781,25633.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.171, "FuelUsed":4.073480, "FuelLevel":27.926521 }
+{ "timestamp":"2018-01-27T22:59:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:59:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:59:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T22:59:39Z", "event":"Scan", "BodyName":"Hypio Pri GK-T b50-78", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.308594, "Radius":303326112.000000, "AbsoluteMagnitude":9.580734, "Age_MY":452, "SurfaceTemperature":2931.000000, "Luminosity":"Va", "RotationPeriod":167943.390625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T22:59:54Z", "event":"FuelScoop", "Scooped":4.073495, "Total":32.000000 }
+{ "timestamp":"2018-01-27T22:59:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T22:59:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:00:17Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri HY-H c26-1055", "StarClass":"K" }
+{ "timestamp":"2018-01-27T23:00:22Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:00:35Z", "event":"FSDJump", "StarSystem":"Hypio Pri HY-H c26-1055", "StarPos":[58.000,-169.188,25657.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.933, "FuelUsed":3.987194, "FuelLevel":28.012806 }
+{ "timestamp":"2018-01-27T23:00:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:00:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:00:57Z", "event":"Scan", "BodyName":"Hypio Pri HY-H c26-1055 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.691406, "Radius":545927552.000000, "AbsoluteMagnitude":6.217087, "Age_MY":3718, "SurfaceTemperature":4739.000000, "Luminosity":"Va", "SemiMajorAxis":26358342221824.000000, "Eccentricity":0.057528, "OrbitalInclination":38.955109, "Periapsis":324.796539, "OrbitalPeriod":252963520512.000000, "RotationPeriod":243596.546875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T23:01:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:01:20Z", "event":"FuelScoop", "Scooped":3.987188, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:01:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri HY-H c26-851", "StarClass":"K" }
+{ "timestamp":"2018-01-27T23:01:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:02:06Z", "event":"FSDJump", "StarSystem":"Hypio Pri HY-H c26-851", "StarPos":[55.125,-155.438,25680.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.977, "FuelUsed":4.002939, "FuelLevel":27.997061 }
+{ "timestamp":"2018-01-27T23:02:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:02:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:02:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:02:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:02:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:02:28Z", "event":"Scan", "BodyName":"Hypio Pri HY-H c26-851 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.761719, "Radius":573604928.000000, "AbsoluteMagnitude":6.308502, "Age_MY":5818, "SurfaceTemperature":4527.000000, "Luminosity":"Va", "SemiMajorAxis":8926424727552.000000, "Eccentricity":0.160548, "OrbitalInclination":-18.811529, "Periapsis":335.968170, "OrbitalPeriod":109558611968.000000, "RotationPeriod":284034.968750, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri HY-H c26-851 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.2992e+14, "InnerRad":9.4645e+08, "OuterRad":2.3042e+09 } ] }
+{ "timestamp":"2018-01-27T23:02:47Z", "event":"FuelScoop", "Scooped":4.002912, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:03:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri IJ-G c27-3102", "StarClass":"K" }
+{ "timestamp":"2018-01-27T23:03:24Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:03:38Z", "event":"FSDJump", "StarSystem":"Hypio Pri IJ-G c27-3102", "StarPos":[51.156,-142.375,25703.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.935, "FuelUsed":3.987418, "FuelLevel":28.012583 }
+{ "timestamp":"2018-01-27T23:03:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:03:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:03:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:03:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:03:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:04:00Z", "event":"Scan", "BodyName":"Hypio Pri IJ-G c27-3102", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.589844, "Radius":528841440.000000, "AbsoluteMagnitude":6.487839, "Age_MY":9394, "SurfaceTemperature":4524.000000, "Luminosity":"Va", "RotationPeriod":225230.390625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T23:04:45Z", "event":"FuelScoop", "Scooped":4.617431, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:05:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:05:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:05:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri IJ-G c27-5207", "StarClass":"K" }
+{ "timestamp":"2018-01-27T23:05:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:05:41Z", "event":"FSDJump", "StarSystem":"Hypio Pri IJ-G c27-5207", "StarPos":[48.344,-128.438,25726.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.093, "FuelUsed":4.045116, "FuelLevel":27.954884 }
+{ "timestamp":"2018-01-27T23:05:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:06:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:06:04Z", "event":"Scan", "BodyName":"Hypio Pri IJ-G c27-5207 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.734375, "Radius":584917824.000000, "AbsoluteMagnitude":6.469391, "Age_MY":9618, "SurfaceTemperature":4320.000000, "Luminosity":"Va", "SemiMajorAxis":4998663503872.000000, "Eccentricity":0.242286, "OrbitalInclination":-62.514240, "Periapsis":111.325119, "OrbitalPeriod":11077678080.000000, "RotationPeriod":284817.156250, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri IJ-G c27-5207 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.842e+13, "InnerRad":9.2254e+08, "OuterRad":2.1771e+09 }, { "Name":"Hypio Pri IJ-G c27-5207 A B Belt", "RingClass":"eRingClass_Rocky", "MassMT":2.4931e+15, "InnerRad":4.9472e+09, "OuterRad":3.1662e+11 } ] }
+{ "timestamp":"2018-01-27T23:06:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:06:24Z", "event":"FuelScoop", "Scooped":4.045106, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:07:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri MP-E c28-1545", "StarClass":"K" }
+{ "timestamp":"2018-01-27T23:07:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:07:23Z", "event":"FSDJump", "StarSystem":"Hypio Pri MP-E c28-1545", "StarPos":[47.281,-112.313,25748.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.996, "FuelUsed":4.010063, "FuelLevel":27.989937 }
+{ "timestamp":"2018-01-27T23:07:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:07:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:07:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:07:45Z", "event":"Scan", "BodyName":"Hypio Pri MP-E c28-1545", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.769531, "Radius":611151872.000000, "AbsoluteMagnitude":6.147827, "Age_MY":7060, "SurfaceTemperature":4551.000000, "Luminosity":"Va", "RotationPeriod":376418.000000, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri MP-E c28-1545 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.1925e+14, "InnerRad":1.0232e+09, "OuterRad":2.2113e+09 }, { "Name":"Hypio Pri MP-E c28-1545 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.206e+14, "InnerRad":3.0154e+09, "OuterRad":3.0634e+11 } ] }
+{ "timestamp":"2018-01-27T23:08:04Z", "event":"FuelScoop", "Scooped":4.010071, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:08:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri FK-C d14-9181", "StarClass":"K" }
+{ "timestamp":"2018-01-27T23:08:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:08:53Z", "event":"FSDJump", "StarSystem":"Hypio Pri FK-C d14-9181", "StarPos":[47.656,-98.406,25771.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.175, "FuelUsed":4.074946, "FuelLevel":27.925053 }
+{ "timestamp":"2018-01-27T23:08:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:09:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:09:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:09:14Z", "event":"Scan", "BodyName":"Hypio Pri FK-C d14-9181", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.718750, "Radius":553419968.000000, "AbsoluteMagnitude":6.146423, "Age_MY":552, "SurfaceTemperature":4784.000000, "Luminosity":"Vab", "RotationPeriod":259511.765625, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri FK-C d14-9181 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.9619e+12, "InnerRad":1.0307e+09, "OuterRad":2.1615e+09 }, { "Name":"Hypio Pri FK-C d14-9181 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.9892e+15, "InnerRad":1.3664e+11, "OuterRad":3.4432e+11 } ] }
+{ "timestamp":"2018-01-27T23:09:33Z", "event":"FuelScoop", "Scooped":4.074946, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:09:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:09:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:10:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Hypio Pri FK-C d14-10495", "StarClass":"G" }
+{ "timestamp":"2018-01-27T23:10:07Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:10:20Z", "event":"FSDJump", "StarSystem":"Hypio Pri FK-C d14-10495", "StarPos":[42.156,-84.313,25794.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.010, "FuelUsed":4.015066, "FuelLevel":27.984934 }
+{ "timestamp":"2018-01-27T23:10:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:10:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:10:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:10:42Z", "event":"Scan", "BodyName":"Hypio Pri FK-C d14-10495", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.035156, "Radius":781079040.000000, "AbsoluteMagnitude":4.769302, "Age_MY":4678, "SurfaceTemperature":5529.000000, "Luminosity":"Vab", "RotationPeriod":409572.406250, "AxialTilt":0.000000, "Rings":[ { "Name":"Hypio Pri FK-C d14-10495 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.4278e+14, "InnerRad":1.1871e+09, "OuterRad":2.441e+09 } ] }
+{ "timestamp":"2018-01-27T23:10:58Z", "event":"FuelScoop", "Scooped":4.015053, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:12:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenae UR-F c2199", "StarClass":"K" }
+{ "timestamp":"2018-01-27T23:12:58Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:13:11Z", "event":"FSDJump", "StarSystem":"Juenae UR-F c2199", "StarPos":[36.969,-72.188,25817.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.084, "FuelUsed":4.041776, "FuelLevel":27.958225 }
+{ "timestamp":"2018-01-27T23:13:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:13:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:13:37Z", "event":"Scan", "BodyName":"Juenae UR-F c2199 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.476563, "Radius":396503744.000000, "AbsoluteMagnitude":7.884705, "Age_MY":12844, "SurfaceTemperature":3788.000000, "Luminosity":"Va", "SemiMajorAxis":4359377911808.000000, "Eccentricity":0.023361, "OrbitalInclination":-7.514452, "Periapsis":309.403168, "OrbitalPeriod":65221496832.000000, "RotationPeriod":192180.687500, "AxialTilt":0.000000, "Rings":[ { "Name":"Juenae UR-F c2199 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":6.7586e+09, "InnerRad":6.5423e+08, "OuterRad":2.0062e+09 } ] }
+{ "timestamp":"2018-01-27T23:13:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:13:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:13:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:13:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:13:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:14:05Z", "event":"FuelScoop", "Scooped":4.041777, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:14:16Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T23:14:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:15:00Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenae XV-C d7405", "StarClass":"G" }
+{ "timestamp":"2018-01-27T23:15:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:15:19Z", "event":"FSDJump", "StarSystem":"Juenae XV-C d7405", "StarPos":[30.844,-59.500,25840.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.185, "FuelUsed":4.079386, "FuelLevel":27.920614 }
+{ "timestamp":"2018-01-27T23:15:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:15:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:15:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:15:41Z", "event":"Scan", "BodyName":"Juenae XV-C d7405 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.886719, "Radius":686627904.000000, "AbsoluteMagnitude":5.035965, "Age_MY":1360, "SurfaceTemperature":5546.000000, "Luminosity":"Vab", "SemiMajorAxis":1087940591616.000000, "Eccentricity":0.062489, "OrbitalInclination":-45.717693, "Periapsis":136.466293, "OrbitalPeriod":5742111744.000000, "RotationPeriod":282835.218750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T23:15:57Z", "event":"FuelScoop", "Scooped":4.079391, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:16:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:16:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:16:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:16:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:16:25Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenae SF-I b2-83", "StarClass":"M" }
+{ "timestamp":"2018-01-27T23:16:30Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:16:44Z", "event":"FSDJump", "StarSystem":"Juenae SF-I b2-83", "StarPos":[28.563,-46.094,25864.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.124, "FuelUsed":4.056342, "FuelLevel":27.943659 }
+{ "timestamp":"2018-01-27T23:16:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:16:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:16:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:17:05Z", "event":"Scan", "BodyName":"Juenae SF-I b2-83 A", "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.402344, "Radius":398286624.000000, "AbsoluteMagnitude":8.339279, "Age_MY":3194, "SurfaceTemperature":3404.000000, "Luminosity":"Va", "SemiMajorAxis":1926237388800.000000, "Eccentricity":0.118867, "OrbitalInclination":-23.022034, "Periapsis":61.110130, "OrbitalPeriod":14041515008.000000, "RotationPeriod":254429.468750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T23:17:21Z", "event":"FuelScoop", "Scooped":4.056362, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:17:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:17:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:17:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenae WC-E c1-2228", "StarClass":"K" }
+{ "timestamp":"2018-01-27T23:17:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:18:08Z", "event":"FSDJump", "StarSystem":"Juenae WC-E c1-2228", "StarPos":[27.531,-29.844,25886.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":27.195, "FuelUsed":4.082755, "FuelLevel":27.917246 }
+{ "timestamp":"2018-01-27T23:18:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:18:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:18:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:18:31Z", "event":"Scan", "BodyName":"Juenae WC-E c1-2228 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.585938, "Radius":473932448.000000, "AbsoluteMagnitude":7.219650, "Age_MY":5834, "SurfaceTemperature":4038.000000, "Luminosity":"Va", "SemiMajorAxis":695942381568.000000, "Eccentricity":0.026962, "OrbitalInclination":18.070499, "Periapsis":353.851440, "OrbitalPeriod":1356364288.000000, "RotationPeriod":236935.812500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-01-27T23:18:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:18:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:18:57Z", "event":"FuelScoop", "Scooped":4.082775, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:19:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:19:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:19:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae KM-W c1-342", "StarClass":"K" }
+{ "timestamp":"2018-01-27T23:19:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:19:49Z", "event":"FSDJump", "StarSystem":"Stuemeae KM-W c1-342", "StarPos":[26.344,-20.563,25899.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":16.043, "FuelUsed":1.120368, "FuelLevel":30.879631 }
+{ "timestamp":"2018-01-27T23:19:50Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2018-01-27T23:19:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:20:11Z", "event":"Scan", "BodyName":"Stuemeae KM-W c1-342", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.542969, "Radius":437956128.000000, "AbsoluteMagnitude":7.650406, "Age_MY":6292, "SurfaceTemperature":3804.000000, "Luminosity":"Va", "RotationPeriod":200813.156250, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae KM-W c1-342 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.1084e+14, "InnerRad":7.2263e+08, "OuterRad":2.1019e+09 } ] }
+{ "timestamp":"2018-01-27T23:20:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:20:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:20:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:21:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:21:12Z", "event":"FuelScoop", "Scooped":1.120365, "Total":32.000000 }
+{ "timestamp":"2018-01-27T23:21:31Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T23:21:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:22:52Z", "event":"Friends", "Status":"Online", "Name":"Alex 'Alkhol' Hardin" }
+{ "timestamp":"2018-01-27T23:27:07Z", "event":"Friends", "Status":"Online", "Name":"Rough Roads" }
+{ "timestamp":"2018-01-27T23:29:19Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-27T23:29:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:33:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Sagittarius A*", "StarClass":"SupermassiveBlackHole" }
+{ "timestamp":"2018-01-27T23:33:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-27T23:34:06Z", "event":"FSDJump", "StarSystem":"Sagittarius A*", "StarPos":[25.219,-20.906,25899.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":1.379, "FuelUsed":0.002731, "FuelLevel":31.367270 }
+{ "timestamp":"2018-01-27T23:34:07Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2018-01-27T23:34:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:34:18Z", "event":"Friends", "Status":"Online", "Name":"Natalie Portman" }
+{ "timestamp":"2018-01-27T23:35:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:35:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:37:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:37:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:38:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:38:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:42:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:42:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:50:27Z", "event":"SupercruiseExit", "StarSystem":"Sagittarius A*", "Body":"Sagittarius A*", "BodyType":"Star" }
+{ "timestamp":"2018-01-27T23:50:28Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-27T23:51:25Z", "event":"DataScanned", "Type":"TouristBeacon" }
+{ "timestamp":"2018-01-27T23:51:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:51:37Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-01-27T23:52:01Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=ABW Galactic Travel Agency;", "From_Localised":"ABW Galactic Travel Agency", "Message":"$PassengerLiner_Passthrough01;", "Message_Localised":"Due to a technical issue, all entertainment scheduled for this evening is cancelled. Sorry for the inconvenience.", "Channel":"npc" }
+{ "timestamp":"2018-01-27T23:52:15Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=DG Space Tours;", "From_Localised":"DG Space Tours", "Message":"$PassengerLiner_Passthrough02;", "Message_Localised":"The promenade areas are now open, passengers are advised that we will be jumping out of normal space shortly.", "Channel":"npc" }
+{ "timestamp":"2018-01-27T23:53:34Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Dugandzic;", "From_Localised":"Dugandzic", "Message":"$Pirate_OnStartScanCargo06;", "Message_Localised":"Let's see what you are carrying.", "Channel":"npc" }
+{ "timestamp":"2018-01-27T23:53:44Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Dugandzic;", "From_Localised":"Dugandzic", "Message":"$Pirate_OnNoCargoFound02;", "Message_Localised":"Bah, nothing.", "Channel":"npc" }
+{ "timestamp":"2018-01-27T23:53:44Z", "event":"Scanned", "ScanType":"Cargo" }
+{ "timestamp":"2018-01-27T23:53:45Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Dugandzic;", "From_Localised":"Dugandzic", "Message":"$Pirate_NotEnoughCargo08;", "Message_Localised":"You're not worth bothering with.", "Channel":"npc" }
+{ "timestamp":"2018-01-27T23:54:20Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-01-27T23:54:25Z", "event":"SupercruiseEntry", "StarSystem":"Sagittarius A*" }
+{ "timestamp":"2018-01-27T23:54:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:54:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:54:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:55:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:55:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-27T23:55:27Z", "event":"Friends", "Status":"Online", "Name":"Huskeer42" }
+{ "timestamp":"2018-01-27T23:56:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-27T23:56:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:00:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:00:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:02:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:02:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:02:27Z", "event":"Scan", "BodyName":"Source 2", "DistanceFromArrivalLS":108262.429688, "StarType":"B", "StellarMass":15.000000, "Radius":3759770624.000000, "AbsoluteMagnitude":-6.283340, "Age_MY":782, "SurfaceTemperature":32112.000000, "Luminosity":"V", "SemiMajorAxis":17951237341184.000000, "Eccentricity":0.881000, "OrbitalInclination":-5.192616, "Periapsis":172.536301, "OrbitalPeriod":57710156.000000, "RotationPeriod":161617.015625, "AxialTilt":-0.242302 }
+{ "timestamp":"2018-01-28T00:02:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:02:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:12:13Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T00:14:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:14:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:14:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:14:43Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T00:14:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:14:55Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T00:15:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:15:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Stuemeae FG-Y d3871", "StarClass":"G" }
+{ "timestamp":"2018-01-28T00:16:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-01-28T00:16:13Z", "event":"FSDJump", "StarSystem":"Stuemeae FG-Y d3871", "StarPos":[25.688,5.938,25898.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.869, "FuelUsed":3.931278, "FuelLevel":26.805992 }
+{ "timestamp":"2018-01-28T00:16:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:16:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:16:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:16:34Z", "event":"Scan", "BodyName":"Stuemeae FG-Y d3871 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.941406, "Radius":609411456.000000, "AbsoluteMagnitude":5.481506, "Age_MY":2026, "SurfaceTemperature":5313.000000, "Luminosity":"Vab", "SemiMajorAxis":21260272664576.000000, "Eccentricity":0.160659, "OrbitalInclination":12.408435, "Periapsis":40.688545, "OrbitalPeriod":271299411968.000000, "RotationPeriod":360877.687500, "AxialTilt":0.000000, "Rings":[ { "Name":"Stuemeae FG-Y d3871 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.475e+14, "InnerRad":9.4734e+08, "OuterRad":2.365e+09 }, { "Name":"Stuemeae FG-Y d3871 A B Belt", "RingClass":"eRingClass_Rocky", "MassMT":7.1503e+15, "InnerRad":3.3846e+09, "OuterRad":3.4385e+11 } ] }
+{ "timestamp":"2018-01-28T00:16:52Z", "event":"FuelScoop", "Scooped":5.005078, "Total":31.811045 }
+{ "timestamp":"2018-01-28T00:16:52Z", "event":"FuelScoop", "Scooped":0.188954, "Total":32.000000 }
+{ "timestamp":"2018-01-28T00:17:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-01-28T00:17:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-01-28T00:18:14Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-01-28T00:19:03Z", "event":"Music", "MusicTrack":"Supercruise" }

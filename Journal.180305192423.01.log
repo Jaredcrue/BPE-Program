@@ -1,0 +1,525 @@
+{ "timestamp":"2018-03-06T00:24:23Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"3.0.1.401 EDH", "build":"r165575/r0 " }
+{ "timestamp":"2018-03-06T00:24:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T00:24:23Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-03-06T00:24:58Z", "event":"Friends", "Status":"Online", "Name":"Art Fusky" }
+{ "timestamp":"2018-03-06T00:24:58Z", "event":"Friends", "Status":"Online", "Name":"Aquafunkalisticbooty" }
+{ "timestamp":"2018-03-06T00:24:58Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-03-06T00:24:58Z", "event":"Friends", "Status":"Online", "Name":"Leigh Fury" }
+{ "timestamp":"2018-03-06T00:25:54Z", "event":"Friends", "Status":"Online", "Name":"Art Fusky" }
+{ "timestamp":"2018-03-06T00:25:54Z", "event":"Friends", "Status":"Online", "Name":"Aquafunkalisticbooty" }
+{ "timestamp":"2018-03-06T00:25:54Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-03-06T00:25:54Z", "event":"Friends", "Status":"Online", "Name":"Leigh Fury" }
+{ "timestamp":"2018-03-06T00:26:12Z", "event":"Commander", "Name":"JaredCrue" }
+{ "timestamp":"2018-03-06T00:26:12Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":174 }, { "Name":"vanadium", "Count":210 }, { "Name":"sulphur", "Count":156 }, { "Name":"iron", "Count":172 }, { "Name":"germanium", "Count":114 }, { "Name":"arsenic", "Count":66 }, { "Name":"polonium", "Count":15 }, { "Name":"tin", "Count":13 }, { "Name":"phosphorus", "Count":119 }, { "Name":"zinc", "Count":69 }, { "Name":"niobium", "Count":68 }, { "Name":"cadmium", "Count":63 }, { "Name":"selenium", "Count":12 }, { "Name":"yttrium", "Count":24 }, { "Name":"chromium", "Count":82 }, { "Name":"carbon", "Count":129 }, { "Name":"molybdenum", "Count":0 }, { "Name":"antimony", "Count":0 }, { "Name":"zirconium", "Count":0 }, { "Name":"tungsten", "Count":9 }, { "Name":"tellurium", "Count":0 }, { "Name":"manganese", "Count":39 } ], "Manufactured":[ { "Name":"mechanicalequipment", "Name_Localised":"Mechanical Equipment", "Count":0 }, { "Name":"gridresistors", "Name_Localised":"Grid Resistors", "Count":0 }, { "Name":"mechanicalscrap", "Name_Localised":"Mechanical Scrap", "Count":0 }, { "Name":"biotechconductors", "Name_Localised":"Biotech Conductors", "Count":0 }, { "Name":"wornshieldemitters", "Name_Localised":"Worn Shield Emitters", "Count":0 } ], "Encoded":[ { "Name":"bulkscandata", "Name_Localised":"Anomalous Bulk Scan Data", "Count":7 }, { "Name":"wakesolutions", "Name_Localised":"Strange Wake Solutions", "Count":1 }, { "Name":"scrambledemissiondata", "Name_Localised":"Exceptional Scrambled Emission Data", "Count":2 }, { "Name":"legacyfirmware", "Name_Localised":"Specialised Legacy Firmware", "Count":4 }, { "Name":"shielddensityreports", "Name_Localised":"Untypical Shield Scans ", "Count":3 }, { "Name":"shieldcyclerecordings", "Name_Localised":"Distorted Shield Cycle Recordings", "Count":9 }, { "Name":"disruptedwakeechoes", "Name_Localised":"Atypical Disrupted Wake Echoes", "Count":3 }, { "Name":"securityfirmware", "Name_Localised":"Security Firmware Patch", "Count":1 }, { "Name":"fsdtelemetry", "Name_Localised":"Anomalous FSD Telemetry", "Count":1 } ] }
+{ "timestamp":"2018-03-06T00:26:12Z", "event":"LoadGame", "Commander":"JaredCrue", "Horizons":true, "Ship":"Asp", "Ship_Localised":"Asp Explorer", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "FuelLevel":30.684414, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":18126822, "Loan":0 }
+{ "timestamp":"2018-03-06T00:26:12Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":7, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-03-06T00:26:12Z", "event":"Progress", "Combat":30, "Trade":67, "Explore":72, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-03-06T00:26:12Z", "event":"Reputation", "Empire":15.330100, "Federation":1.429300 }
+{ "timestamp":"2018-03-06T00:26:15Z", "event":"Loadout", "Ship":"Asp", "ShipID":1, "ShipName":"asp long runner", "ShipIdent":"bpe271", "HullValue":6135160, "ModulesValue":33950049, "Rebuy":2004263, "Modules":[ { "Slot":"PaintJob", "Item":"PaintJob_Asp_Stripe1_04", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Armour", "Item":"Asp_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size3_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":507912 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":59633 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":0.994898, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1293 }, { "Slot":"Radar", "Item":"Int_Sensors_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":79444 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Starblazer", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_Black", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_SingleLine_White", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Slot01_Size6", "Item":"Int_FuelScoop_Size6_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":28763610 }, { "Slot":"Slot02_Size5", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":18812 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class4", "On":false, "Priority":2, "AmmoInClip":4300, "Health":1.000000, "Value":874800 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"Slot07_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"VesselVoice", "Item":"VoicePack_Verity", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipCockpit", "Item":"Asp_Cockpit", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":false, "Priority":0, "Health":1.000000 } ] }
+{ "timestamp":"2018-03-06T00:26:28Z", "event":"Location", "Docked":false, "StarSystem":"Pyrooe Dryoae RC-F b45-0", "SystemAddress":704777193345, "StarPos":[2520.34375,-62.18750,62618.34375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Pyrooe Dryoae RC-F b45-0", "BodyID":0, "BodyType":"Star" }
+{ "timestamp":"2018-03-06T00:26:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T00:26:28Z", "event":"Missions", "Active":[  ], "Failed":[  ], "Complete":[  ] }
+{ "timestamp":"2018-03-06T00:26:28Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2018-03-06T00:26:28Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-06T00:26:29Z", "event":"Statistics", "Bank_Account":{ "Current_Wealth":258980285, "Spent_On_Ships":186990802, "Spent_On_Outfitting":64210181, "Spent_On_Repairs":541782, "Spent_On_Fuel":10032, "Spent_On_Ammo_Consumables":2602, "Insurance_Claims":0, "Spent_On_Insurance":0 }, "Combat":{ "Bounties_Claimed":0, "Bounty_Hunting_Profit":0, "Combat_Bonds":0, "Combat_Bond_Profits":0, "Assassinations":0, "Assassination_Profits":0, "Highest_Single_Reward":0, "Skimmers_Killed":7 }, "Crime":{ "Notoriety":0, "Fines":8, "Total_Fines":17474, "Bounties_Received":0, "Total_Bounties":0, "Highest_Bounty":0 }, "Smuggling":{ "Black_Markets_Traded_With":0, "Black_Markets_Profits":0, "Resources_Smuggled":0, "Average_Profit":0, "Highest_Single_Transaction":0 }, "Trading":{ "Markets_Traded_With":11, "Market_Profits":106589, "Resources_Traded":47, "Average_Profit":5329.45, "Highest_Single_Transaction":20622 }, "Mining":{ "Mining_Profits":411, "Quantity_Mined":3, "Materials_Collected":2027 }, "Exploration":{ "Systems_Visited":6139, "Exploration_Profits":258841824, "Planets_Scanned_To_Level_2":17, "Planets_Scanned_To_Level_3":2529, "Highest_Payout":4090900, "Total_Hyperspace_Distance":139038, "Total_Hyperspace_Jumps":6266, "Greatest_Distance_From_Start":62621.477157737, "Time_Played":1427100 }, "Passengers":{ "Passengers_Missions_Bulk":0, "Passengers_Missions_VIP":0, "Passengers_Missions_Delivered":0, "Passengers_Missions_Ejected":0 }, "Search_And_Rescue":{ "SearchRescue_Traded":1, "SearchRescue_Profit":2780, "SearchRescue_Count":1 }, "Crafting":{ "Count_Of_Used_Engineers":0, "Recipes_Generated":0, "Recipes_Generated_Rank_1":0, "Recipes_Generated_Rank_2":0, "Recipes_Generated_Rank_3":0, "Recipes_Generated_Rank_4":0, "Recipes_Generated_Rank_5":0 }, "Crew":{  }, "Multicrew":{ "Multicrew_Time_Total":155, "Multicrew_Gunner_Time_Total":0, "Multicrew_Fighter_Time_Total":0, "Multicrew_Credits_Total":0, "Multicrew_Fines_Total":0 }, "Material_Trader_Stats":{ "Trades_Completed":0, "Materials_Traded":0 } }
+{ "timestamp":"2018-03-06T00:26:55Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-03-06T00:27:00Z", "event":"SupercruiseEntry", "StarSystem":"Pyrooe Dryoae RC-F b45-0", "SystemAddress":704777193345 }
+{ "timestamp":"2018-03-06T00:27:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:27:40Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-06T00:27:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:30:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T00:30:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:31:05Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrooe Dryoae IO-P c22-0", "SystemAddress":88080368578, "StarClass":"K" }
+{ "timestamp":"2018-03-06T00:31:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T00:31:23Z", "event":"FSDJump", "StarSystem":"Pyrooe Dryoae IO-P c22-0", "SystemAddress":88080368578, "StarPos":[2495.21875,-60.18750,62615.40625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.375, "FuelUsed":3.416020, "FuelLevel":27.268394 }
+{ "timestamp":"2018-03-06T00:31:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:31:29Z", "event":"DiscoveryScan", "SystemAddress":88080368578, "Bodies":4 }
+{ "timestamp":"2018-03-06T00:31:29Z", "event":"DiscoveryScan", "SystemAddress":88080368578, "Bodies":21 }
+{ "timestamp":"2018-03-06T00:31:37Z", "event":"FuelScoop", "Scooped":5.001887, "Total":31.640266 }
+{ "timestamp":"2018-03-06T00:31:38Z", "event":"FuelScoop", "Scooped":0.359734, "Total":32.000000 }
+{ "timestamp":"2018-03-06T00:32:40Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae HS-H d11-1", "SystemAddress":45357195747, "StarClass":"A" }
+{ "timestamp":"2018-03-06T00:32:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T00:32:58Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae HS-H d11-1", "SystemAddress":45357195747, "StarPos":[2480.96875,-67.71875,62634.78125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.203, "FuelUsed":3.388509, "FuelLevel":28.611492 }
+{ "timestamp":"2018-03-06T00:32:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:33:04Z", "event":"DiscoveryScan", "SystemAddress":45357195747, "Bodies":1 }
+{ "timestamp":"2018-03-06T00:33:04Z", "event":"DiscoveryScan", "SystemAddress":45357195747, "Bodies":11 }
+{ "timestamp":"2018-03-06T00:33:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T00:33:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:33:33Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae HS-H d11-1", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.699219, "Radius":923159040.000000, "AbsoluteMagnitude":2.550949, "Age_MY":824, "SurfaceTemperature":8475.000000, "Luminosity":"VI", "RotationPeriod":79797.515625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-06T00:42:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T00:42:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:48:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T00:48:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:48:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T00:48:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:49:59Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae HS-H d11-1 1", "BodyID":2, "Parents":[ {"Null":1}, {"Star":0} ], "DistanceFromArrivalLS":1196.214478, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":99.009689 }, { "Name":"SulphurDioxide", "Percent":0.990097 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.767643, "Radius":5612356.500000, "SurfaceGravity":9.713552, "SurfaceTemperature":818.865540, "SurfacePressure":13566548.000000, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.666906, "Metal":0.333094 }, "SemiMajorAxis":134763760.000000, "Eccentricity":0.192296, "OrbitalInclination":2.167080, "Periapsis":58.011154, "OrbitalPeriod":1615688.375000, "RotationPeriod":1255693.625000, "AxialTilt":-0.318896 }
+{ "timestamp":"2018-03-06T00:50:11Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-06T00:50:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:50:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T00:50:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:50:35Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae HS-H d11-1 2", "BodyID":3, "Parents":[ {"Null":1}, {"Star":0} ], "DistanceFromArrivalLS":1196.661133, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.981850 }, { "Name":"SulphurDioxide", "Percent":1.018039 } ], "Volcanism":"", "MassEM":0.542088, "Radius":5049599.000000, "SurfaceGravity":8.473551, "SurfaceTemperature":789.006592, "SurfacePressure":10040556.000000, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.666906, "Metal":0.333094 }, "SemiMajorAxis":190836976.000000, "Eccentricity":0.192296, "OrbitalInclination":2.167080, "Periapsis":238.011154, "OrbitalPeriod":1615688.375000, "RotationPeriod":2110420.500000, "AxialTilt":0.104486 }
+{ "timestamp":"2018-03-06T00:50:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T00:50:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:53:57Z", "event":"ModuleInfo" }
+{ "timestamp":"2018-03-06T00:54:23Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae HS-H d11-1 3", "BodyID":4, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":1699.229492, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"thick nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":99.992714 } ], "Volcanism":"minor silicate vapour geysers volcanism", "MassEM":1.161029, "Radius":6351196.000000, "SurfaceGravity":11.472061, "SurfaceTemperature":241.066986, "SurfacePressure":624223.937500, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.666912, "Metal":0.333088 }, "SemiMajorAxis":509140631552.000000, "Eccentricity":0.000626, "OrbitalInclination":-0.068865, "Periapsis":328.690887, "OrbitalPeriod":151986848.000000, "RotationPeriod":70113.031250, "AxialTilt":0.479961 }
+{ "timestamp":"2018-03-06T00:54:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T00:54:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:56:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T00:56:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T00:56:24Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae HS-H d11-1 4", "BodyID":5, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":2167.784912, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":83.303703 }, { "Name":"Oxygen", "Percent":12.401555 }, { "Name":"CarbonDioxide", "Percent":3.565755 } ], "Volcanism":"", "MassEM":0.358240, "Radius":4445074.000000, "SurfaceGravity":7.226452, "SurfaceTemperature":272.950256, "SurfacePressure":45005.683594, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.666913, "Metal":0.333087 }, "SemiMajorAxis":647752122368.000000, "Eccentricity":0.003846, "OrbitalInclination":-0.558836, "Periapsis":349.848511, "OrbitalPeriod":218103440.000000, "RotationPeriod":103079.492188, "AxialTilt":0.295039 }
+{ "timestamp":"2018-03-06T00:56:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T00:56:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:03:10Z", "event":"Friends", "Status":"Online", "Name":"Twenty9er" }
+{ "timestamp":"2018-03-06T01:06:37Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae HS-H d11-1 5", "BodyID":7, "Parents":[ {"Null":6}, {"Star":0} ], "DistanceFromArrivalLS":2923.199219, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":71.143677 }, { "Name":"Oxygen", "Percent":19.632603 }, { "Name":"CarbonDioxide", "Percent":8.879005 } ], "Volcanism":"", "MassEM":0.554854, "Radius":5085655.500000, "SurfaceGravity":8.550562, "SurfaceTemperature":234.247177, "SurfacePressure":75961.695313, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.666913, "Metal":0.333087 }, "SemiMajorAxis":1114299008.000000, "Eccentricity":0.133902, "OrbitalInclination":-2.177850, "Periapsis":50.231979, "OrbitalPeriod":32671272.000000, "RotationPeriod":48933.476563, "AxialTilt":-0.327504 }
+{ "timestamp":"2018-03-06T01:06:53Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae HS-H d11-1 6", "BodyID":8, "Parents":[ {"Null":6}, {"Star":0} ], "DistanceFromArrivalLS":2916.631348, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"methane rich atmosphere", "AtmosphereType":"MethaneRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":98.793549 }, { "Name":"Methane", "Percent":1.162912 } ], "Volcanism":"", "MassEM":0.533896, "Radius":5026153.000000, "SurfaceGravity":8.423548, "SurfaceTemperature":242.052719, "SurfacePressure":340633.812500, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.666913, "Metal":0.333087 }, "SemiMajorAxis":1158040832.000000, "Eccentricity":0.133902, "OrbitalInclination":-2.177850, "Periapsis":230.231949, "OrbitalPeriod":32671272.000000, "RotationPeriod":166783.093750, "AxialTilt":0.482973 }
+{ "timestamp":"2018-03-06T01:06:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:07:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:16:11Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae HS-H d11-1 7", "BodyID":9, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":3606.580811, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick methane rich atmosphere", "AtmosphereType":"MethaneRich", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":32.673256 }, { "Name":"Methane", "Percent":32.673256 }, { "Name":"Nitrogen", "Percent":32.673256 } ], "Volcanism":"minor silicate vapour geysers volcanism", "MassEM":1.165467, "Radius":6355424.500000, "SurfaceGravity":11.500596, "SurfaceTemperature":412.633972, "SurfacePressure":1915276.625000, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.665313, "Metal":0.334687 }, "SemiMajorAxis":1077035794432.000000, "Eccentricity":0.012415, "OrbitalInclination":-0.004405, "Periapsis":171.715546, "OrbitalPeriod":467621600.000000, "RotationPeriod":66034.343750, "AxialTilt":1.507225 }
+{ "timestamp":"2018-03-06T01:16:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:16:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:21:12Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae HS-H d11-1 8", "BodyID":12, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":5461.730957, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick methane atmosphere", "AtmosphereType":"Methane", "AtmosphereComposition":[ { "Name":"Methane", "Percent":49.713074 }, { "Name":"Nitrogen", "Percent":49.713074 }, { "Name":"Ammonia", "Percent":0.479131 } ], "Volcanism":"minor silicate vapour geysers volcanism", "MassEM":1.252646, "Radius":6481650.000000, "SurfaceGravity":11.884110, "SurfaceTemperature":313.114471, "SurfacePressure":1332729.250000, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.659662, "Metal":0.340338 }, "SemiMajorAxis":1634039627776.000000, "Eccentricity":0.002787, "OrbitalInclination":-0.037759, "Periapsis":152.840256, "OrbitalPeriod":873862784.000000, "RotationPeriod":109758.546875, "AxialTilt":0.441356 }
+{ "timestamp":"2018-03-06T01:22:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:22:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:23:33Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae HS-H d11-1 8 a", "BodyID":13, "Parents":[ {"Planet":12}, {"Star":0} ], "DistanceFromArrivalLS":5455.330078, "TidalLock":false, "TerraformState":"", "PlanetClass":"Rocky body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.047423, "Radius":2463517.750000, "SurfaceGravity":3.114517, "SurfaceTemperature":127.887566, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":20.569164 }, { "Name":"sulphur", "Percent":18.173805 }, { "Name":"nickel", "Percent":15.557652 }, { "Name":"carbon", "Percent":15.282289 }, { "Name":"phosphorus", "Percent":9.783984 }, { "Name":"manganese", "Percent":8.494855 }, { "Name":"zinc", "Percent":5.589929 }, { "Name":"arsenic", "Percent":2.420026 }, { "Name":"cadmium", "Percent":1.597289 }, { "Name":"tellurium", "Percent":1.401549 }, { "Name":"tungsten", "Percent":1.129454 } ], "Composition":{ "Ice":0.000000, "Rock":0.858430, "Metal":0.141570 }, "SemiMajorAxis":2968552448.000000, "Eccentricity":0.000000, "OrbitalInclination":-64.250618, "Periapsis":170.940811, "OrbitalPeriod":44643096.000000, "RotationPeriod":147366.718750, "AxialTilt":-0.321627 }
+{ "timestamp":"2018-03-06T01:24:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:24:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:25:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae EL-D b46-0", "SystemAddress":703971886985, "StarClass":"M" }
+{ "timestamp":"2018-03-06T01:25:24Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:25:37Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae EL-D b46-0", "SystemAddress":703971886985, "StarPos":[2456.46875,-59.62500,62638.00000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.002, "FuelUsed":3.562560, "FuelLevel":24.418934 }
+{ "timestamp":"2018-03-06T01:25:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:25:43Z", "event":"DiscoveryScan", "SystemAddress":703971886985, "Bodies":1 }
+{ "timestamp":"2018-03-06T01:25:43Z", "event":"DiscoveryScan", "SystemAddress":703971886985, "Bodies":2 }
+{ "timestamp":"2018-03-06T01:25:53Z", "event":"FuelScoop", "Scooped":5.005482, "Total":29.424421 }
+{ "timestamp":"2018-03-06T01:25:56Z", "event":"FuelScoop", "Scooped":2.575586, "Total":32.000000 }
+{ "timestamp":"2018-03-06T01:26:22Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae CL-D b46-0", "SystemAddress":703435016073, "StarClass":"M" }
+{ "timestamp":"2018-03-06T01:26:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:26:41Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae CL-D b46-0", "SystemAddress":703435016073, "StarPos":[2434.93750,-48.84375,62645.81250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.315, "FuelUsed":3.411659, "FuelLevel":27.958342 }
+{ "timestamp":"2018-03-06T01:26:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:26:47Z", "event":"DiscoveryScan", "SystemAddress":703435016073, "Bodies":1 }
+{ "timestamp":"2018-03-06T01:26:47Z", "event":"DiscoveryScan", "SystemAddress":703435016073, "Bodies":7 }
+{ "timestamp":"2018-03-06T01:26:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:26:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:27:13Z", "event":"FuelScoop", "Scooped":4.041651, "Total":32.000000 }
+{ "timestamp":"2018-03-06T01:27:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae QV-N c23-0", "SystemAddress":87946150858, "StarClass":"K" }
+{ "timestamp":"2018-03-06T01:27:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:27:57Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae QV-N c23-0", "SystemAddress":87946150858, "StarPos":[2416.34375,-61.09375,62660.53125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.691, "FuelUsed":3.900133, "FuelLevel":28.099867 }
+{ "timestamp":"2018-03-06T01:27:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:28:03Z", "event":"DiscoveryScan", "SystemAddress":87946150858, "Bodies":13 }
+{ "timestamp":"2018-03-06T01:28:12Z", "event":"FuelScoop", "Scooped":3.900134, "Total":32.000000 }
+{ "timestamp":"2018-03-06T01:28:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:28:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:29:02Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae QV-N c23-0", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.800781, "Radius":586488512.000000, "AbsoluteMagnitude":5.806030, "Age_MY":5162, "SurfaceTemperature":5026.000000, "Luminosity":"Vab", "RotationPeriod":249475.218750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-06T01:29:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:29:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:30:51Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae QV-N c23-0 4", "BodyID":6, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":1207.550171, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.077919, "Radius":2748492.750000, "SurfaceGravity":4.111160, "SurfaceTemperature":128.385986, "SurfacePressure":15.086166, "Landable":true, "Materials":[ { "Name":"iron", "Percent":22.938108 }, { "Name":"nickel", "Percent":17.349424 }, { "Name":"sulphur", "Percent":16.224718 }, { "Name":"carbon", "Percent":13.643307 }, { "Name":"manganese", "Percent":9.473205 }, { "Name":"phosphorus", "Percent":8.734678 }, { "Name":"germanium", "Percent":4.796041 }, { "Name":"arsenic", "Percent":2.144855 }, { "Name":"cadmium", "Percent":1.781248 }, { "Name":"molybdenum", "Percent":1.497845 }, { "Name":"ruthenium", "Percent":1.416574 } ], "Composition":{ "Ice":0.000000, "Rock":0.669980, "Metal":0.330020 }, "SemiMajorAxis":362338254848.000000, "Eccentricity":0.001838, "OrbitalInclination":-1.486904, "Periapsis":349.661407, "OrbitalPeriod":132920280.000000, "RotationPeriod":154815.687500, "AxialTilt":1.257649 }
+{ "timestamp":"2018-03-06T01:30:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:31:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:31:29Z", "event":"ModuleInfo" }
+{ "timestamp":"2018-03-06T01:32:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:32:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:32:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:32:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:32:40Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae QV-N c23-0 4 a", "BodyID":7, "Parents":[ {"Planet":6}, {"Star":0} ], "DistanceFromArrivalLS":1207.459839, "TidalLock":true, "TerraformState":"", "PlanetClass":"Rocky body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.000741, "Radius":629368.125000, "SurfaceGravity":0.745806, "SurfaceTemperature":128.350693, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":20.453133 }, { "Name":"sulphur", "Percent":18.278358 }, { "Name":"nickel", "Percent":15.469891 }, { "Name":"carbon", "Percent":15.370207 }, { "Name":"phosphorus", "Percent":9.840269 }, { "Name":"manganese", "Percent":8.446935 }, { "Name":"zinc", "Percent":5.558396 }, { "Name":"zirconium", "Percent":2.375030 }, { "Name":"cadmium", "Percent":1.588278 }, { "Name":"niobium", "Percent":1.397863 }, { "Name":"yttrium", "Percent":1.221641 } ], "Composition":{ "Ice":0.000000, "Rock":0.861082, "Metal":0.138918 }, "SemiMajorAxis":342650240.000000, "Eccentricity":0.000000, "OrbitalInclination":-82.547379, "Periapsis":304.538239, "OrbitalPeriod":7117366.000000, "RotationPeriod":7151137.000000, "AxialTilt":-0.232631 }
+{ "timestamp":"2018-03-06T01:32:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:33:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:33:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:33:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:33:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:33:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:34:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:34:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:36:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:36:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:36:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:36:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:37:03Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae QV-N c23-0 2 a", "BodyID":4, "Parents":[ {"Planet":3}, {"Star":0} ], "DistanceFromArrivalLS":676.964661, "TidalLock":true, "TerraformState":"", "PlanetClass":"Rocky body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.001899, "Radius":859219.625000, "SurfaceGravity":1.025108, "SurfaceTemperature":172.217667, "SurfacePressure":64.351639, "Landable":true, "Materials":[ { "Name":"iron", "Percent":19.823736 }, { "Name":"sulphur", "Percent":17.715925 }, { "Name":"nickel", "Percent":14.993843 }, { "Name":"carbon", "Percent":14.897259 }, { "Name":"phosphorus", "Percent":9.537480 }, { "Name":"chromium", "Percent":8.915392 }, { "Name":"manganese", "Percent":8.187000 }, { "Name":"zirconium", "Percent":2.301944 }, { "Name":"niobium", "Percent":1.354847 }, { "Name":"yttrium", "Percent":1.184048 }, { "Name":"tungsten", "Percent":1.088522 } ], "Composition":{ "Ice":0.000000, "Rock":0.861083, "Metal":0.138917 }, "SemiMajorAxis":268010592.000000, "Eccentricity":0.000000, "OrbitalInclination":38.116508, "Periapsis":322.827209, "OrbitalPeriod":4291956.500000, "RotationPeriod":4331871.500000, "AxialTilt":0.166949 }
+{ "timestamp":"2018-03-06T01:37:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:37:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:37:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:37:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:37:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:37:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:39:54Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae QV-N c23-0 1 a", "BodyID":2, "Parents":[ {"Planet":1}, {"Star":0} ], "DistanceFromArrivalLS":454.585083, "TidalLock":true, "TerraformState":"", "PlanetClass":"Rocky body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.001201, "Radius":738431.625000, "SurfaceGravity":0.877820, "SurfaceTemperature":209.299988, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":19.746790 }, { "Name":"sulphur", "Percent":17.647181 }, { "Name":"nickel", "Percent":14.935645 }, { "Name":"carbon", "Percent":14.839450 }, { "Name":"phosphorus", "Percent":9.500471 }, { "Name":"chromium", "Percent":8.880788 }, { "Name":"zinc", "Percent":5.366439 }, { "Name":"vanadium", "Percent":4.849125 }, { "Name":"cadmium", "Percent":1.533428 }, { "Name":"tellurium", "Percent":1.351090 }, { "Name":"niobium", "Percent":1.349588 } ], "Composition":{ "Ice":0.000000, "Rock":0.861084, "Metal":0.138916 }, "SemiMajorAxis":122204688.000000, "Eccentricity":0.000000, "OrbitalInclination":23.249367, "Periapsis":191.753922, "OrbitalPeriod":1062414.875000, "RotationPeriod":1066420.875000, "AxialTilt":-0.403717 }
+{ "timestamp":"2018-03-06T01:40:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:40:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:40:36Z", "event":"Friends", "Status":"Online", "Name":"John Allbright" }
+{ "timestamp":"2018-03-06T01:40:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae GS-H d11-5", "SystemAddress":182779372003, "StarClass":"G" }
+{ "timestamp":"2018-03-06T01:40:59Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:41:12Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae GS-H d11-5", "SystemAddress":182779372003, "StarPos":[2399.84375,-60.68750,62680.81250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.149, "FuelUsed":3.708152, "FuelLevel":28.291847 }
+{ "timestamp":"2018-03-06T01:41:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:41:18Z", "event":"DiscoveryScan", "SystemAddress":182779372003, "Bodies":1 }
+{ "timestamp":"2018-03-06T01:41:19Z", "event":"DiscoveryScan", "SystemAddress":182779372003, "Bodies":3 }
+{ "timestamp":"2018-03-06T01:41:26Z", "event":"FuelScoop", "Scooped":3.708146, "Total":32.000000 }
+{ "timestamp":"2018-03-06T01:41:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:41:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:41:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:41:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:42:28Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae VW-L c24-0", "SystemAddress":87879009234, "StarClass":"M" }
+{ "timestamp":"2018-03-06T01:42:34Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:42:47Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae VW-L c24-0", "SystemAddress":87879009234, "StarPos":[2388.71875,-65.40625,62702.90625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.183, "FuelUsed":3.381759, "FuelLevel":28.618240 }
+{ "timestamp":"2018-03-06T01:42:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:42:53Z", "event":"DiscoveryScan", "SystemAddress":87879009234, "Bodies":1 }
+{ "timestamp":"2018-03-06T01:42:54Z", "event":"DiscoveryScan", "SystemAddress":87879009234, "Bodies":8 }
+{ "timestamp":"2018-03-06T01:42:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:42:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:43:14Z", "event":"FuelScoop", "Scooped":2.990816, "Total":31.609045 }
+{ "timestamp":"2018-03-06T01:43:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae QJ-W b49-0", "SystemAddress":702898145193, "StarClass":"M" }
+{ "timestamp":"2018-03-06T01:43:38Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:43:51Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae QJ-W b49-0", "SystemAddress":702898145193, "StarPos":[2389.09375,-45.65625,62718.25000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.013, "FuelUsed":3.317599, "FuelLevel":28.291447 }
+{ "timestamp":"2018-03-06T01:43:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:43:58Z", "event":"DiscoveryScan", "SystemAddress":702898145193, "Bodies":10 }
+{ "timestamp":"2018-03-06T01:43:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:44:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:44:16Z", "event":"FuelScoop", "Scooped":3.708545, "Total":32.000000 }
+{ "timestamp":"2018-03-06T01:44:30Z", "event":"SendText", "To":"John Allbright", "Message":"o7" }
+{ "timestamp":"2018-03-06T01:44:35Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-06T01:44:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:44:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:44:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:45:13Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae XH-K c25-0", "SystemAddress":87879042010, "StarClass":"K" }
+{ "timestamp":"2018-03-06T01:45:18Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:45:32Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae XH-K c25-0", "SystemAddress":87879042010, "StarPos":[2377.18750,-60.34375,62736.18750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.062, "FuelUsed":3.678437, "FuelLevel":28.321564 }
+{ "timestamp":"2018-03-06T01:45:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:45:38Z", "event":"DiscoveryScan", "SystemAddress":87879042010, "Bodies":12 }
+{ "timestamp":"2018-03-06T01:45:46Z", "event":"FuelScoop", "Scooped":3.678445, "Total":32.000000 }
+{ "timestamp":"2018-03-06T01:45:48Z", "event":"ReceiveText", "From":"John Allbright", "Message":"o7 cmdr. Hows it going?", "Channel":"player" }
+{ "timestamp":"2018-03-06T01:46:20Z", "event":"SendText", "To":"John Allbright", "Message":"Good, you?" }
+{ "timestamp":"2018-03-06T01:46:47Z", "event":"SendText", "To":"John Allbright", "Message":"I'm looking for a good planet to land on tonight." }
+{ "timestamp":"2018-03-06T01:46:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:47:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:47:09Z", "event":"ReceiveText", "From":"John Allbright", "Message":"very well thanks. make it to bp yet?", "Channel":"player" }
+{ "timestamp":"2018-03-06T01:47:21Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-06T01:47:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:47:57Z", "event":"SendText", "To":"John Allbright", "Message":"no, your way ahead of me.  ;)" }
+{ "timestamp":"2018-03-06T01:48:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:48:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:48:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:49:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:49:13Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae XH-K c25-0 1", "BodyID":6, "Parents":[ {"Null":5}, {"Star":0} ], "DistanceFromArrivalLS":408.961395, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.005990, "Radius":1200444.625000, "SurfaceGravity":1.656672, "SurfaceTemperature":175.505188, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":22.177227 }, { "Name":"nickel", "Percent":16.773924 }, { "Name":"sulphur", "Percent":16.080965 }, { "Name":"carbon", "Percent":13.522427 }, { "Name":"chromium", "Percent":9.973836 }, { "Name":"phosphorus", "Percent":8.657290 }, { "Name":"zinc", "Percent":6.026940 }, { "Name":"zirconium", "Percent":2.575233 }, { "Name":"molybdenum", "Percent":1.448160 }, { "Name":"tin", "Percent":1.439373 }, { "Name":"yttrium", "Percent":1.324619 } ], "Composition":{ "Ice":0.000000, "Rock":0.692272, "Metal":0.307728 }, "SemiMajorAxis":53378676.000000, "Eccentricity":0.071711, "OrbitalInclination":4.150577, "Periapsis":64.513474, "OrbitalPeriod":2017913.000000, "RotationPeriod":2567006.500000, "AxialTilt":0.489345 }
+{ "timestamp":"2018-03-06T01:49:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:49:34Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae XH-K c25-0 2", "BodyID":7, "Parents":[ {"Null":5}, {"Star":0} ], "DistanceFromArrivalLS":408.984161, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.009688, "Radius":1392246.500000, "SurfaceGravity":1.992119, "SurfaceTemperature":175.505188, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":25.498047 }, { "Name":"nickel", "Percent":19.285654 }, { "Name":"sulphur", "Percent":17.835926 }, { "Name":"carbon", "Percent":14.998166 }, { "Name":"phosphorus", "Percent":9.602084 }, { "Name":"zirconium", "Percent":2.960849 }, { "Name":"selenium", "Percent":2.791473 }, { "Name":"arsenic", "Percent":2.359627 }, { "Name":"cadmium", "Percent":1.980039 }, { "Name":"ruthenium", "Percent":1.574667 }, { "Name":"mercury", "Percent":1.113458 } ], "Composition":{ "Ice":0.000000, "Rock":0.657280, "Metal":0.342720 }, "SemiMajorAxis":33002074.000000, "Eccentricity":0.071711, "OrbitalInclination":4.150577, "Periapsis":244.513474, "OrbitalPeriod":2017913.000000, "RotationPeriod":-3264678.000000, "AxialTilt":-2.457139 }
+{ "timestamp":"2018-03-06T01:49:35Z", "event":"ReceiveText", "From":"John Allbright", "Message":"not too far ahead. How many jumps you have left?", "Channel":"player" }
+{ "timestamp":"2018-03-06T01:49:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:50:40Z", "event":"SendText", "To":"John Allbright", "Message":"260 jumps, I may change the route to the BPE Expedition soon." }
+{ "timestamp":"2018-03-06T01:51:31Z", "event":"SendText", "To":"John Allbright", "Message":"BPE Expedition Route." }
+{ "timestamp":"2018-03-06T01:51:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:51:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:52:18Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae TP-U b50-0", "SystemAddress":702629709745, "StarClass":"M" }
+{ "timestamp":"2018-03-06T01:52:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:52:36Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae TP-U b50-0", "SystemAddress":702629709745, "StarPos":[2357.12500,-59.37500,62739.31250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":20.328, "FuelUsed":2.001091, "FuelLevel":29.998909 }
+{ "timestamp":"2018-03-06T01:52:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:52:42Z", "event":"DiscoveryScan", "SystemAddress":702629709745, "Bodies":4 }
+{ "timestamp":"2018-03-06T01:52:49Z", "event":"ReceiveText", "From":"John Allbright", "Message":"I assume you mean the mainline route to bp?", "Channel":"player" }
+{ "timestamp":"2018-03-06T01:52:57Z", "event":"SendText", "To":"John Allbright", "Message":"Yes" }
+{ "timestamp":"2018-03-06T01:53:12Z", "event":"SendText", "To":"John Allbright", "Message":"How far are you from bp?" }
+{ "timestamp":"2018-03-06T01:53:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:53:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:53:35Z", "event":"FuelScoop", "Scooped":2.001086, "Total":32.000000 }
+{ "timestamp":"2018-03-06T01:54:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae SP-U b50-0", "SystemAddress":702361274289, "StarClass":"M" }
+{ "timestamp":"2018-03-06T01:54:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:54:22Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae SP-U b50-0", "SystemAddress":702361274289, "StarPos":[2345.34375,-62.06250,62743.87500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":12.917, "FuelUsed":0.658778, "FuelLevel":31.341223 }
+{ "timestamp":"2018-03-06T01:54:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:54:28Z", "event":"DiscoveryScan", "SystemAddress":702361274289, "Bodies":1 }
+{ "timestamp":"2018-03-06T01:54:28Z", "event":"DiscoveryScan", "SystemAddress":702361274289, "Bodies":3 }
+{ "timestamp":"2018-03-06T01:54:31Z", "event":"FuelScoop", "Scooped":0.658773, "Total":32.000000 }
+{ "timestamp":"2018-03-06T01:54:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:54:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:55:08Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae WV-S b51-0", "SystemAddress":702361274297, "StarClass":"M" }
+{ "timestamp":"2018-03-06T01:55:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:55:27Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae WV-S b51-0", "SystemAddress":702361274297, "StarPos":[2335.56250,-59.37500,62756.71875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":16.366, "FuelUsed":1.171813, "FuelLevel":30.198187 }
+{ "timestamp":"2018-03-06T01:55:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:55:33Z", "event":"DiscoveryScan", "SystemAddress":702361274297, "Bodies":1 }
+{ "timestamp":"2018-03-06T01:55:34Z", "event":"DiscoveryScan", "SystemAddress":702361274297, "Bodies":1 }
+{ "timestamp":"2018-03-06T01:55:37Z", "event":"FuelScoop", "Scooped":1.801816, "Total":32.000000 }
+{ "timestamp":"2018-03-06T01:55:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:55:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:55:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:55:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:56:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae TK-U b50-0", "SystemAddress":702092773297, "StarClass":"M" }
+{ "timestamp":"2018-03-06T01:56:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:56:15Z", "event":"ReceiveText", "From":"John Allbright", "Message":"98 jumps left.", "Channel":"player" }
+{ "timestamp":"2018-03-06T01:56:27Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae TK-U b50-0", "SystemAddress":702092773297, "StarPos":[2318.93750,-66.78125,62748.81250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":19.843, "FuelUsed":1.886172, "FuelLevel":30.113829 }
+{ "timestamp":"2018-03-06T01:56:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:56:34Z", "event":"DiscoveryScan", "SystemAddress":702092773297, "Bodies":16 }
+{ "timestamp":"2018-03-06T01:56:34Z", "event":"DiscoveryScan", "SystemAddress":702092773297, "Bodies":8 }
+{ "timestamp":"2018-03-06T01:56:48Z", "event":"SendText", "To":"John Allbright", "Message":"Sweet!" }
+{ "timestamp":"2018-03-06T01:56:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:57:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:57:12Z", "event":"FuelScoop", "Scooped":1.886173, "Total":32.000000 }
+{ "timestamp":"2018-03-06T01:57:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:57:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:57:38Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae SK-U b50-0", "SystemAddress":701824337841, "StarClass":"M" }
+{ "timestamp":"2018-03-06T01:57:43Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T01:57:50Z", "event":"ReceiveText", "From":"John Allbright", "Message":"probably 50 jumps today. Might not be able to play tomorrow.", "Channel":"player" }
+{ "timestamp":"2018-03-06T01:57:57Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae SK-U b50-0", "SystemAddress":701824337841, "StarPos":[2300.71875,-81.62500,62736.84375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.373, "FuelUsed":3.786963, "FuelLevel":28.213037 }
+{ "timestamp":"2018-03-06T01:57:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:58:03Z", "event":"DiscoveryScan", "SystemAddress":701824337841, "Bodies":8 }
+{ "timestamp":"2018-03-06T01:58:10Z", "event":"FuelScoop", "Scooped":3.786984, "Total":32.000000 }
+{ "timestamp":"2018-03-06T01:58:24Z", "event":"SendText", "To":"John Allbright", "Message":"Work?" }
+{ "timestamp":"2018-03-06T01:58:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:58:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:58:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:58:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:59:08Z", "event":"SendText", "To":"John Allbright", "Message":"Just found an unexplored AW.  :)" }
+{ "timestamp":"2018-03-06T01:59:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T01:59:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T01:59:30Z", "event":"ReceiveText", "From":"John Allbright", "Message":"got lotta stuff to do.", "Channel":"player" }
+{ "timestamp":"2018-03-06T01:59:39Z", "event":"SendText", "To":"John Allbright", "Message":"I see" }
+{ "timestamp":"2018-03-06T02:00:05Z", "event":"SendText", "To":"John Allbright", "Message":"AW is close to the star 300 Ls." }
+{ "timestamp":"2018-03-06T02:00:58Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae SK-U b50-0 1", "BodyID":1, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":255.884216, "TidalLock":true, "TerraformState":"", "PlanetClass":"Ammonia world", "Atmosphere":"thick  atmosphere", "AtmosphereType":"AmmoniaOxygen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":94.484100 }, { "Name":"Argon", "Percent":5.424734 }, { "Name":"Helium", "Percent":0.065257 } ], "Volcanism":"minor metallic magma volcanism", "MassEM":5.310631, "Radius":11421289.000000, "SurfaceGravity":16.226515, "SurfaceTemperature":182.084595, "SurfacePressure":118131960.000000, "Landable":false, "Composition":{ "Ice":0.399055, "Rock":0.402952, "Metal":0.197992 }, "SemiMajorAxis":76714680320.000000, "Eccentricity":0.000064, "OrbitalInclination":-0.003426, "Periapsis":4.409119, "OrbitalPeriod":18921050.000000, "RotationPeriod":18922604.000000, "AxialTilt":-0.109516 }
+{ "timestamp":"2018-03-06T02:01:06Z", "event":"SendText", "To":"John Allbright", "Message":"I hope that everything works out." }
+{ "timestamp":"2018-03-06T02:01:43Z", "event":"ReceiveText", "From":"John Allbright", "Message":"?", "Channel":"player" }
+{ "timestamp":"2018-03-06T02:02:11Z", "event":"SendText", "To":"John Allbright", "Message":"with the stuff you have to do." }
+{ "timestamp":"2018-03-06T02:03:59Z", "event":"ReceiveText", "From":"John Allbright", "Message":"just alot of errands and stuff I might be on late but idk.", "Channel":"player" }
+{ "timestamp":"2018-03-06T02:05:20Z", "event":"SupercruiseExit", "StarSystem":"Pyrae Dryoae SK-U b50-0", "SystemAddress":701824337841, "Body":"Pyrae Dryoae SK-U b50-0 1", "BodyID":1, "BodyType":"Planet" }
+{ "timestamp":"2018-03-06T02:05:20Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-06T02:09:18Z", "event":"SendText", "To":"John Allbright", "Message":"Sent you a DM in Discord." }
+{ "timestamp":"2018-03-06T02:09:31Z", "event":"SendText", "To":"John Allbright", "Message":"It's the Ammonia World" }
+{ "timestamp":"2018-03-06T02:09:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:09:47Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-06T02:09:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:09:51Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-06T02:10:00Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-03-06T02:10:05Z", "event":"SupercruiseEntry", "StarSystem":"Pyrae Dryoae SK-U b50-0", "SystemAddress":701824337841 }
+{ "timestamp":"2018-03-06T02:10:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:10:21Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae SK-U b50-0", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.375000, "Radius":395782080.000000, "AbsoluteMagnitude":8.938171, "Age_MY":10888, "SurfaceTemperature":2975.000000, "Luminosity":"Va", "RotationPeriod":207244.296875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-06T02:10:51Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae SW-L c24-0", "SystemAddress":87677682642, "StarClass":"K" }
+{ "timestamp":"2018-03-06T02:10:56Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T02:11:09Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae SW-L c24-0", "SystemAddress":87677682642, "StarPos":[2279.65625,-85.96875,62723.31250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.408, "FuelUsed":3.456746, "FuelLevel":28.543255 }
+{ "timestamp":"2018-03-06T02:11:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:11:16Z", "event":"DiscoveryScan", "SystemAddress":87677682642, "Bodies":8 }
+{ "timestamp":"2018-03-06T02:11:24Z", "event":"FuelScoop", "Scooped":3.456745, "Total":32.000000 }
+{ "timestamp":"2018-03-06T02:11:46Z", "event":"ReceiveText", "From":"John Allbright", "Message":"you found an AW? I haven't found anything since wp12.", "Channel":"player" }
+{ "timestamp":"2018-03-06T02:12:39Z", "event":"SendText", "To":"John Allbright", "Message":"I did find a bunch of WW, but they were already discovered." }
+{ "timestamp":"2018-03-06T02:12:57Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Pyrae Dryoae JY-F d12-1", "SystemAddress":45323641323, "StarClass":"F" }
+{ "timestamp":"2018-03-06T02:13:02Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-06T02:13:16Z", "event":"FSDJump", "StarSystem":"Pyrae Dryoae JY-F d12-1", "SystemAddress":45323641323, "StarPos":[2256.43750,-90.06250,62712.81250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.809, "FuelUsed":3.591647, "FuelLevel":28.408352 }
+{ "timestamp":"2018-03-06T02:13:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:13:22Z", "event":"DiscoveryScan", "SystemAddress":45323641323, "Bodies":16 }
+{ "timestamp":"2018-03-06T02:13:29Z", "event":"FuelScoop", "Scooped":3.591649, "Total":32.000000 }
+{ "timestamp":"2018-03-06T02:13:31Z", "event":"ReceiveText", "From":"John Allbright", "Message":"did you scan them?", "Channel":"player" }
+{ "timestamp":"2018-03-06T02:14:03Z", "event":"SendText", "To":"John Allbright", "Message":"I should of." }
+{ "timestamp":"2018-03-06T02:14:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:14:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:14:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:14:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:15:53Z", "event":"SendText", "To":"John Allbright", "Message":"I might have found a good system for mining. 8 landables, none bland." }
+{ "timestamp":"2018-03-06T02:16:18Z", "event":"ReceiveText", "From":"John Allbright", "Message":"you wont get the bonus but you still make money from it.", "Channel":"player" }
+{ "timestamp":"2018-03-06T02:16:44Z", "event":"SendText", "To":"John Allbright", "Message":"yep" }
+{ "timestamp":"2018-03-06T02:17:15Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae JY-F d12-1 1", "BodyID":1, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":56.331348, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.076446, "Radius":2732097.750000, "SurfaceGravity":4.081969, "SurfaceTemperature":964.904907, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":22.907076 }, { "Name":"nickel", "Percent":17.325953 }, { "Name":"sulphur", "Percent":16.241365 }, { "Name":"carbon", "Percent":13.657308 }, { "Name":"manganese", "Percent":9.460389 }, { "Name":"phosphorus", "Percent":8.743642 }, { "Name":"zinc", "Percent":6.225286 }, { "Name":"selenium", "Percent":2.541911 }, { "Name":"tungsten", "Percent":1.257829 }, { "Name":"mercury", "Percent":1.000314 }, { "Name":"polonium", "Percent":0.638930 } ], "Composition":{ "Ice":0.000000, "Rock":0.670469, "Metal":0.329531 }, "SemiMajorAxis":16888685568.000000, "Eccentricity":0.000066, "OrbitalInclination":0.002155, "Periapsis":81.031250, "OrbitalPeriod":1091199.250000, "RotationPeriod":1091232.250000, "AxialTilt":0.184933 }
+{ "timestamp":"2018-03-06T02:17:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:17:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:17:50Z", "event":"ReceiveText", "From":"John Allbright", "Message":"looking for jumponium?", "Channel":"player" }
+{ "timestamp":"2018-03-06T02:18:05Z", "event":"SendText", "To":"John Allbright", "Message":"first planet has polo.  :)" }
+{ "timestamp":"2018-03-06T02:18:33Z", "event":"SendText", "To":"John Allbright", "Message":"Yes, premiums incase I get stuck out here." }
+{ "timestamp":"2018-03-06T02:18:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:18:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:19:32Z", "event":"ReceiveText", "From":"John Allbright", "Message":"Good idea.", "Channel":"player" }
+{ "timestamp":"2018-03-06T02:19:44Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae JY-F d12-1 2", "BodyID":2, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":98.508698, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.222426, "Radius":3822736.000000, "SurfaceGravity":6.066610, "SurfaceTemperature":729.683411, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":21.487272 }, { "Name":"nickel", "Percent":16.252071 }, { "Name":"sulphur", "Percent":15.062035 }, { "Name":"carbon", "Percent":12.665610 }, { "Name":"chromium", "Percent":9.663540 }, { "Name":"manganese", "Percent":8.874023 }, { "Name":"phosphorus", "Percent":8.108742 }, { "Name":"germanium", "Percent":4.430843 }, { "Name":"niobium", "Percent":1.468540 }, { "Name":"tin", "Percent":1.387282 }, { "Name":"polonium", "Percent":0.600042 } ], "Composition":{ "Ice":0.000000, "Rock":0.659249, "Metal":0.340751 }, "SemiMajorAxis":29532207104.000000, "Eccentricity":0.000011, "OrbitalInclination":-0.144839, "Periapsis":189.276382, "OrbitalPeriod":2523214.500000, "RotationPeriod":2523290.500000, "AxialTilt":1.510588 }
+{ "timestamp":"2018-03-06T02:20:18Z", "event":"SendText", "To":"John Allbright", "Message":"The area around bp is sparce." }
+{ "timestamp":"2018-03-06T02:20:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:20:41Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae JY-F d12-1 2 a", "BodyID":3, "Parents":[ {"Planet":2}, {"Star":0} ], "DistanceFromArrivalLS":98.520462, "TidalLock":true, "TerraformState":"", "PlanetClass":"Rocky body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"minor rocky magma volcanism", "MassEM":0.013142, "Radius":1623541.625000, "SurfaceGravity":1.987177, "SurfaceTemperature":729.683411, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":21.112663 }, { "Name":"sulphur", "Percent":18.882080 }, { "Name":"nickel", "Percent":15.968734 }, { "Name":"carbon", "Percent":15.877874 }, { "Name":"phosphorus", "Percent":10.165288 }, { "Name":"zinc", "Percent":5.737631 }, { "Name":"vanadium", "Percent":5.184536 }, { "Name":"selenium", "Percent":2.955205 }, { "Name":"cadmium", "Percent":1.639494 }, { "Name":"tin", "Percent":1.301841 }, { "Name":"antimony", "Percent":1.174654 } ], "Composition":{ "Ice":0.000000, "Rock":0.860370, "Metal":0.139630 }, "SemiMajorAxis":41560336.000000, "Eccentricity":0.000000, "OrbitalInclination":3.859658, "Periapsis":316.827271, "OrbitalPeriod":173732.625000, "RotationPeriod":178791.375000, "AxialTilt":-0.130353 }
+{ "timestamp":"2018-03-06T02:20:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:20:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:20:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:21:33Z", "event":"ReceiveText", "From":"John Allbright", "Message":"just checked my mats. only thing I need is arsenic.", "Channel":"player" }
+{ "timestamp":"2018-03-06T02:21:45Z", "event":"ModuleInfo" }
+{ "timestamp":"2018-03-06T02:22:23Z", "event":"SendText", "To":"John Allbright", "Message":"I need polo and ytt." }
+{ "timestamp":"2018-03-06T02:22:38Z", "event":"SendText", "To":"John Allbright", "Message":"rest are over 60 units" }
+{ "timestamp":"2018-03-06T02:22:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:22:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:23:08Z", "event":"ReceiveText", "From":"John Allbright", "Message":"true but i think you could make out of a tight spot with 50% distance. better safe then sorry though.", "Channel":"player" }
+{ "timestamp":"2018-03-06T02:23:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:23:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:23:34Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae JY-F d12-1 3", "BodyID":4, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":137.297501, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.490872, "Radius":4903412.000000, "SurfaceGravity":8.137318, "SurfaceTemperature":618.133789, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":21.140045 }, { "Name":"nickel", "Percent":15.989445 }, { "Name":"sulphur", "Percent":14.988523 }, { "Name":"carbon", "Percent":12.603796 }, { "Name":"chromium", "Percent":9.507381 }, { "Name":"manganese", "Percent":8.730623 }, { "Name":"phosphorus", "Percent":8.069166 }, { "Name":"zinc", "Percent":5.745073 }, { "Name":"tungsten", "Percent":1.160801 }, { "Name":"tellurium", "Percent":1.141996 }, { "Name":"mercury", "Percent":0.923151 } ], "Composition":{ "Ice":0.000000, "Rock":0.670469, "Metal":0.329531 }, "SemiMajorAxis":41152843776.000000, "Eccentricity":0.000254, "OrbitalInclination":0.023170, "Periapsis":157.167496, "OrbitalPeriod":4150592.750000, "RotationPeriod":4150718.000000, "AxialTilt":0.472753 }
+{ "timestamp":"2018-03-06T02:25:18Z", "event":"SendText", "To":"John Allbright", "Message":"Yes they would work most of the time, but I want to look at the new planets." }
+{ "timestamp":"2018-03-06T02:26:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:26:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:27:38Z", "event":"ReceiveText", "From":"John Allbright", "Message":"yeah. New planets are great. I used to pass up HMCs but now they make want to explore them again.", "Channel":"player" }
+{ "timestamp":"2018-03-06T02:28:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:28:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:28:39Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae JY-F d12-1 4", "BodyID":5, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":187.285202, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.560196, "Radius":5105735.500000, "SurfaceGravity":8.565112, "SurfaceTemperature":529.208557, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":23.576681 }, { "Name":"nickel", "Percent":17.832415 }, { "Name":"sulphur", "Percent":16.716124 }, { "Name":"carbon", "Percent":14.056529 }, { "Name":"phosphorus", "Percent":8.999230 }, { "Name":"zinc", "Percent":6.407259 }, { "Name":"vanadium", "Percent":5.789612 }, { "Name":"selenium", "Percent":2.616215 }, { "Name":"tin", "Percent":1.520370 }, { "Name":"ruthenium", "Percent":1.456010 }, { "Name":"mercury", "Percent":1.029555 } ], "Composition":{ "Ice":0.000000, "Rock":0.670469, "Metal":0.329531 }, "SemiMajorAxis":56145010688.000000, "Eccentricity":0.000044, "OrbitalInclination":0.007221, "Periapsis":28.319454, "OrbitalPeriod":6614196.000000, "RotationPeriod":6614395.500000, "AxialTilt":0.282693 }
+{ "timestamp":"2018-03-06T02:28:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:28:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:29:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:29:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:30:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:30:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:32:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:32:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:32:36Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae JY-F d12-1 5", "BodyID":6, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":251.979782, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"major rocky magma volcanism", "MassEM":0.775303, "Radius":5613921.500000, "SurfaceGravity":9.805014, "SurfaceTemperature":456.302338, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":22.921598 }, { "Name":"nickel", "Percent":17.336937 }, { "Name":"sulphur", "Percent":16.038666 }, { "Name":"carbon", "Percent":13.486855 }, { "Name":"chromium", "Percent":10.308604 }, { "Name":"phosphorus", "Percent":8.634516 }, { "Name":"germanium", "Percent":4.718141 }, { "Name":"selenium", "Percent":2.510186 }, { "Name":"niobium", "Percent":1.566569 }, { "Name":"tin", "Percent":1.480156 }, { "Name":"antimony", "Percent":0.997766 } ], "Composition":{ "Ice":0.000000, "Rock":0.657472, "Metal":0.342528 }, "SemiMajorAxis":75519565824.000000, "Eccentricity":0.000336, "OrbitalInclination":0.000473, "Periapsis":118.472664, "OrbitalPeriod":10318096.000000, "RotationPeriod":10318407.000000, "AxialTilt":1.490565 }
+{ "timestamp":"2018-03-06T02:32:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:32:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:33:11Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae JY-F d12-1 5 a", "BodyID":7, "Parents":[ {"Planet":6}, {"Star":0} ], "DistanceFromArrivalLS":252.160736, "TidalLock":true, "TerraformState":"", "PlanetClass":"Rocky body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.053065, "Radius":2555846.750000, "SurfaceGravity":3.237806, "SurfaceTemperature":456.302338, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":19.266090 }, { "Name":"sulphur", "Percent":17.230600 }, { "Name":"nickel", "Percent":14.572063 }, { "Name":"carbon", "Percent":14.489150 }, { "Name":"phosphorus", "Percent":9.276202 }, { "Name":"chromium", "Percent":8.664601 }, { "Name":"manganese", "Percent":7.956698 }, { "Name":"zinc", "Percent":5.235802 }, { "Name":"niobium", "Percent":1.316735 }, { "Name":"yttrium", "Percent":1.150741 }, { "Name":"mercury", "Percent":0.841318 } ], "Composition":{ "Ice":0.000000, "Rock":0.860370, "Metal":0.139630 }, "SemiMajorAxis":105791536.000000, "Eccentricity":0.000000, "OrbitalInclination":89.925194, "Periapsis":56.851681, "OrbitalPeriod":376257.562500, "RotationPeriod":388920.906250, "AxialTilt":-0.254873 }
+{ "timestamp":"2018-03-06T02:33:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:34:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:35:47Z", "event":"Friends", "Status":"Offline", "Name":"Art Fusky" }
+{ "timestamp":"2018-03-06T02:37:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:37:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:38:03Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Pyrae Dryoae JY-F d12-1 8 a", "BodyID":12, "Parents":[ {"Planet":11}, {"Star":0} ], "DistanceFromArrivalLS":457.961060, "TidalLock":true, "TerraformState":"", "PlanetClass":"Rocky body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.019725, "Radius":1853851.125000, "SurfaceGravity":2.287623, "SurfaceTemperature":338.365540, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":20.627085 }, { "Name":"sulphur", "Percent":18.447794 }, { "Name":"nickel", "Percent":15.601462 }, { "Name":"carbon", "Percent":15.512683 }, { "Name":"phosphorus", "Percent":9.931486 }, { "Name":"chromium", "Percent":9.276685 }, { "Name":"vanadium", "Percent":5.065294 }, { "Name":"zirconium", "Percent":2.395230 }, { "Name":"tin", "Percent":1.271899 }, { "Name":"tungsten", "Percent":1.132634 }, { "Name":"technetium", "Percent":0.737748 } ], "Composition":{ "Ice":0.000000, "Rock":0.860369, "Metal":0.139631 }, "SemiMajorAxis":202707472.000000, "Eccentricity":0.000000, "OrbitalInclination":-89.019768, "Periapsis":120.271034, "OrbitalPeriod":787636.437500, "RotationPeriod":793543.812500, "AxialTilt":-0.364532 }
+{ "timestamp":"2018-03-06T02:38:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:38:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:38:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:39:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:40:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:40:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:44:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:44:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:46:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T02:46:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-06T02:47:32Z", "event":"ApproachBody", "StarSystem":"Pyrae Dryoae JY-F d12-1", "SystemAddress":45323641323, "Body":"Pyrae Dryoae JY-F d12-1 2", "BodyID":2 }
+{ "timestamp":"2018-03-06T02:48:38Z", "event":"SupercruiseExit", "StarSystem":"Pyrae Dryoae JY-F d12-1", "SystemAddress":45323641323, "Body":"Pyrae Dryoae JY-F d12-1 2", "BodyID":2, "BodyType":"Planet" }
+{ "timestamp":"2018-03-06T02:48:39Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-06T02:53:22Z", "event":"Touchdown", "PlayerControlled":true, "Latitude":28.125969, "Longitude":92.509773 }
+{ "timestamp":"2018-03-06T02:53:39Z", "event":"Friends", "Status":"Online", "Name":"Aquafunkalisticbooty" }
+{ "timestamp":"2018-03-06T02:53:53Z", "event":"SendText", "To":"John Allbright", "Message":"for sure.  :)" }
+{ "timestamp":"2018-03-06T02:59:03Z", "event":"ReceiveText", "From":"John Allbright", "Message":"Just 300lys shy of my 65,000ly club mebership :)", "Channel":"player" }
+{ "timestamp":"2018-03-06T03:01:30Z", "event":"SendText", "To":"John Allbright", "Message":"Awesome!  Bring me a drink from there." }
+{ "timestamp":"2018-03-06T03:02:37Z", "event":"SendText", "To":"John Allbright", "Message":"62,745 currently for me." }
+{ "timestamp":"2018-03-06T03:02:58Z", "event":"ReceiveText", "From":"John Allbright", "Message":"saving the rest of my Lavian Brandy for Beagle Point.", "Channel":"player" }
+{ "timestamp":"2018-03-06T03:03:27Z", "event":"SendText", "To":"John Allbright", "Message":"Can I have some then, I have a still.  ;)" }
+{ "timestamp":"2018-03-06T03:05:46Z", "event":"ReceiveText", "From":"John Allbright", "Message":"when you make it to BP ill send some over in a limpet. ", "Channel":"player" }
+{ "timestamp":"2018-03-06T03:06:28Z", "event":"SendText", "To":"John Allbright", "Message":"Mmmm" }
+{ "timestamp":"2018-03-06T03:07:13Z", "event":"SendText", "To":"John Allbright", "Message":"  I'll get my still running." }
+{ "timestamp":"2018-03-06T03:07:22Z", "event":"LaunchSRV", "Loadout":"starter", "PlayerControlled":true }
+{ "timestamp":"2018-03-06T03:08:23Z", "event":"ModuleInfo" }
+{ "timestamp":"2018-03-06T03:08:44Z", "event":"Synthesis", "Name":"Fuel Basic", "Materials":[ { "Name":"sulphur", "Count":1 }, { "Name":"phosphorus", "Count":1 } ] }
+{ "timestamp":"2018-03-06T03:13:22Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T03:13:31Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:13:36Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T03:13:44Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:13:51Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:13:59Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:16:26Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:16:31Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:16:39Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:16:44Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-03-06T03:16:49Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T03:19:33Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:19:38Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-03-06T03:19:45Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:19:49Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:19:57Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T03:21:38Z", "event":"Liftoff", "PlayerControlled":false }
+{ "timestamp":"2018-03-06T03:22:17Z", "event":"ReceiveText", "From":"John Allbright", "Message":"One red dwarf after another...zzz..", "Channel":"player" }
+{ "timestamp":"2018-03-06T03:22:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-06T03:22:51Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-06T03:22:54Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-06T03:23:15Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-06T03:23:47Z", "event":"SendText", "To":"John Allbright", "Message":" Looks like you're in the middle of nowhere." }
+{ "timestamp":"2018-03-06T03:23:53Z", "event":"SendText", "To":"John Allbright", "Message":":)" }
+{ "timestamp":"2018-03-06T03:24:37Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-03-06T03:24:43Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:24:49Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-03-06T03:24:54Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-03-06T03:27:10Z", "event":"MaterialCollected", "Category":"Raw", "Name":"manganese", "Count":3 }
+{ "timestamp":"2018-03-06T03:27:13Z", "event":"ReceiveText", "From":"John Allbright", "Message":"it is inky black out here thats for sure.", "Channel":"player" }
+{ "timestamp":"2018-03-06T03:27:18Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-03-06T03:27:24Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:27:30Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-03-06T03:27:36Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:28:23Z", "event":"SendText", "To":"John Allbright", "Message":"The planet i'm on only has one star in view other than the system star." }
+{ "timestamp":"2018-03-06T03:28:59Z", "event":"SendText", "To":"John Allbright", "Message":"Actually there's a few." }
+{ "timestamp":"2018-03-06T03:34:41Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-03-06T03:34:48Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-03-06T03:34:55Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:35:02Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:35:08Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:36:33Z", "event":"ReceiveText", "From":"John Allbright", "Message":"find any polonuim yet?", "Channel":"player" }
+{ "timestamp":"2018-03-06T03:37:08Z", "event":"SendText", "To":"John Allbright", "Message":"not yet, found some germanium though." }
+{ "timestamp":"2018-03-06T03:37:28Z", "event":"SendText", "To":"John Allbright", "Message":"132 basics now" }
+{ "timestamp":"2018-03-06T03:38:39Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:38:45Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:38:52Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T03:38:57Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T03:39:27Z", "event":"ReceiveText", "From":"John Allbright", "Message":"i hate the drop rates on rare materials. It's a PITA.", "Channel":"player" }
+{ "timestamp":"2018-03-06T03:40:17Z", "event":"SendText", "To":"John Allbright", "Message":"Indeed" }
+{ "timestamp":"2018-03-06T03:41:04Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:41:13Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:41:22Z", "event":"MaterialCollected", "Category":"Raw", "Name":"tin", "Count":3 }
+{ "timestamp":"2018-03-06T03:41:30Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:41:50Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T03:41:57Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T03:42:11Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T03:42:19Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:43:24Z", "event":"ReceiveText", "From":"John Allbright", "Message":"found 2 discovered ww's. scanners on..paycheck time! :)", "Channel":"player" }
+{ "timestamp":"2018-03-06T03:43:44Z", "event":"SendText", "To":"John Allbright", "Message":"$$$", "Message_Localised":"$" }
+{ "timestamp":"2018-03-06T03:43:57Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T03:44:04Z", "event":"MaterialCollected", "Category":"Raw", "Name":"manganese", "Count":3 }
+{ "timestamp":"2018-03-06T03:44:11Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:44:17Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-03-06T03:45:10Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-03-06T03:45:19Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:45:23Z", "event":"MaterialCollected", "Category":"Raw", "Name":"niobium", "Count":3 }
+{ "timestamp":"2018-03-06T03:45:27Z", "event":"MaterialCollected", "Category":"Raw", "Name":"manganese", "Count":3 }
+{ "timestamp":"2018-03-06T03:45:31Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-03-06T03:45:53Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:45:58Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:46:04Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T03:47:30Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:47:36Z", "event":"MaterialCollected", "Category":"Raw", "Name":"manganese", "Count":3 }
+{ "timestamp":"2018-03-06T03:47:46Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T03:47:53Z", "event":"MaterialCollected", "Category":"Raw", "Name":"tin", "Count":3 }
+{ "timestamp":"2018-03-06T03:48:03Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T03:48:30Z", "event":"HullDamage", "Health":0.799427, "PlayerPilot":true }
+{ "timestamp":"2018-03-06T03:49:18Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-03-06T03:49:26Z", "event":"MaterialCollected", "Category":"Raw", "Name":"manganese", "Count":3 }
+{ "timestamp":"2018-03-06T03:49:33Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:49:43Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T03:49:50Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:50:02Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:50:05Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:50:11Z", "event":"MaterialCollected", "Category":"Raw", "Name":"manganese", "Count":3 }
+{ "timestamp":"2018-03-06T03:50:16Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:50:21Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:50:26Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T03:50:32Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:51:45Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:51:49Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-03-06T03:51:58Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:52:06Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-03-06T03:52:13Z", "event":"MaterialCollected", "Category":"Raw", "Name":"tin", "Count":3 }
+{ "timestamp":"2018-03-06T03:54:17Z", "event":"ReceiveText", "From":"John Allbright", "Message":"I really hate that.", "Channel":"player" }
+{ "timestamp":"2018-03-06T03:54:31Z", "event":"SendText", "To":"John Allbright", "Message":"??" }
+{ "timestamp":"2018-03-06T03:55:18Z", "event":"ReceiveText", "From":"John Allbright", "Message":"game crashed.", "Channel":"player" }
+{ "timestamp":"2018-03-06T03:55:21Z", "event":"Touchdown", "PlayerControlled":false }
+{ "timestamp":"2018-03-06T03:55:23Z", "event":"SendText", "To":"John Allbright", "Message":"Darn" }
+{ "timestamp":"2018-03-06T03:55:58Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:56:05Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-03-06T03:56:12Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T03:56:22Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:56:29Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:56:34Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T03:56:51Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:56:56Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T03:57:03Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T03:57:08Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:57:14Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T03:57:20Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T03:58:00Z", "event":"SendText", "To":"John Allbright", "Message":"No polo, though there are many rocks. smh" }
+{ "timestamp":"2018-03-06T03:58:22Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-03-06T03:58:28Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T03:58:33Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:58:38Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T03:58:43Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-03-06T03:58:48Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T03:58:53Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T04:00:34Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T04:00:40Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T04:00:46Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T04:00:56Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T04:01:01Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T04:01:04Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-03-06T04:01:20Z", "event":"HullDamage", "Health":0.595294, "PlayerPilot":true }
+{ "timestamp":"2018-03-06T04:01:58Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T04:02:02Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2018-03-06T04:02:08Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-03-06T04:02:13Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-03-06T04:02:18Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2018-03-06T04:02:22Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-03-06T04:03:43Z", "event":"DockSRV" }
+{ "timestamp":"2018-03-06T04:13:10Z", "event":"SendText", "To":"John Allbright", "Message":"I'm going to bed." }
+{ "timestamp":"2018-03-06T04:13:24Z", "event":"SendText", "To":"John Allbright", "Message":"Safe Travels Commander 07" }
+{ "timestamp":"2018-03-06T04:13:28Z", "event":"SendText", "To":"John Allbright", "Message":"o7" }
+{ "timestamp":"2018-03-06T04:15:43Z", "event":"ReceiveText", "From":"John Allbright", "Message":"o7 cmdr.", "Channel":"player" }
+{ "timestamp":"2018-03-06T04:19:32Z", "event":"Shutdown" }

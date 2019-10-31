@@ -1,0 +1,865 @@
+{ "timestamp":"2018-03-31T23:40:55Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"3.0.5.402 EDH", "build":"r168330/r0 " }
+{ "timestamp":"2018-03-31T23:40:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-31T23:40:56Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2018-03-31T23:41:33Z", "event":"Friends", "Status":"Online", "Name":"Art Fusky" }
+{ "timestamp":"2018-03-31T23:41:33Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-03-31T23:41:33Z", "event":"Friends", "Status":"Online", "Name":"omicrontheta" }
+{ "timestamp":"2018-03-31T23:41:33Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-03-31T23:41:33Z", "event":"Friends", "Status":"Online", "Name":"Steyla" }
+{ "timestamp":"2018-03-31T23:41:55Z", "event":"Commander", "Name":"JaredCrue" }
+{ "timestamp":"2018-03-31T23:41:55Z", "event":"Materials", "Raw":[ { "Name":"nickel", "Count":241 }, { "Name":"vanadium", "Count":169 }, { "Name":"sulphur", "Count":276 }, { "Name":"iron", "Count":267 }, { "Name":"germanium", "Count":127 }, { "Name":"arsenic", "Count":56 }, { "Name":"polonium", "Count":13 }, { "Name":"tin", "Count":22 }, { "Name":"phosphorus", "Count":195 }, { "Name":"zinc", "Count":77 }, { "Name":"niobium", "Count":78 }, { "Name":"cadmium", "Count":102 }, { "Name":"selenium", "Count":12 }, { "Name":"yttrium", "Count":22 }, { "Name":"chromium", "Count":250 }, { "Name":"carbon", "Count":208 }, { "Name":"molybdenum", "Count":45 }, { "Name":"tungsten", "Count":9 }, { "Name":"tellurium", "Count":21 }, { "Name":"manganese", "Count":44 } ], "Manufactured":[ { "Name":"mechanicalequipment", "Name_Localised":"Mechanical Equipment", "Count":15 }, { "Name":"mechanicalscrap", "Name_Localised":"Mechanical Scrap", "Count":18 }, { "Name":"wornshieldemitters", "Name_Localised":"Worn Shield Emitters", "Count":9 }, { "Name":"salvagedalloys", "Name_Localised":"Salvaged Alloys", "Count":12 }, { "Name":"chemicalprocessors", "Name_Localised":"Chemical Processors", "Count":17 }, { "Name":"conductivecomponents", "Name_Localised":"Conductive Components", "Count":12 }, { "Name":"refinedfocuscrystals", "Name_Localised":"Refined Focus Crystals", "Count":9 }, { "Name":"shieldemitters", "Name_Localised":"Shield Emitters", "Count":12 }, { "Name":"compoundshielding", "Name_Localised":"Compound Shielding", "Count":1 }, { "Name":"focuscrystals", "Name_Localised":"Focus Crystals", "Count":5 }, { "Name":"heatdispersionplate", "Name_Localised":"Heat Dispersion Plate", "Count":9 }, { "Name":"mechanicalcomponents", "Name_Localised":"Mechanical Components", "Count":12 }, { "Name":"chemicalmanipulators", "Name_Localised":"Chemical Manipulators", "Count":1 }, { "Name":"heatvanes", "Name_Localised":"Heat Vanes", "Count":3 }, { "Name":"heatexchangers", "Name_Localised":"Heat Exchangers", "Count":9 }, { "Name":"heatconductionwiring", "Name_Localised":"Heat Conduction Wiring", "Count":9 }, { "Name":"conductiveceramics", "Name_Localised":"Conductive Ceramics", "Count":3 }, { "Name":"basicconductors", "Name_Localised":"Basic Conductors", "Count":3 }, { "Name":"uncutfocuscrystals", "Name_Localised":"Flawed Focus Crystals", "Count":11 } ], "Encoded":[ { "Name":"bulkscandata", "Name_Localised":"Anomalous Bulk Scan Data", "Count":16 }, { "Name":"wakesolutions", "Name_Localised":"Strange Wake Solutions", "Count":19 }, { "Name":"scrambledemissiondata", "Name_Localised":"Exceptional Scrambled Emission Data", "Count":8 }, { "Name":"legacyfirmware", "Name_Localised":"Specialised Legacy Firmware", "Count":7 }, { "Name":"shielddensityreports", "Name_Localised":"Untypical Shield Scans ", "Count":6 }, { "Name":"shieldcyclerecordings", "Name_Localised":"Distorted Shield Cycle Recordings", "Count":27 }, { "Name":"disruptedwakeechoes", "Name_Localised":"Atypical Disrupted Wake Echoes", "Count":124 }, { "Name":"securityfirmware", "Name_Localised":"Security Firmware Patch", "Count":1 }, { "Name":"fsdtelemetry", "Name_Localised":"Anomalous FSD Telemetry", "Count":31 }, { "Name":"shieldsoakanalysis", "Name_Localised":"Inconsistent Shield Soak Analysis", "Count":6 }, { "Name":"shieldpatternanalysis", "Name_Localised":"Aberrant Shield Pattern Analysis", "Count":3 }, { "Name":"dataminedwake", "Name_Localised":"Datamined Wake Exceptions", "Count":4 }, { "Name":"scanarchives", "Name_Localised":"Unidentified Scan Archives", "Count":6 }, { "Name":"scandatabanks", "Name_Localised":"Classified Scan Databanks", "Count":3 }, { "Name":"decodedemissiondata", "Name_Localised":"Decoded Emission Data", "Count":3 }, { "Name":"emissiondata", "Name_Localised":"Unexpected Emission Data", "Count":6 }, { "Name":"consumerfirmware", "Name_Localised":"Modified Consumer Firmware", "Count":3 }, { "Name":"symmetrickeys", "Name_Localised":"Open Symmetric Keys", "Count":1 }, { "Name":"encryptionarchives", "Name_Localised":"Atypical Encryption Archives", "Count":5 } ] }
+{ "timestamp":"2018-03-31T23:41:55Z", "event":"LoadGame", "Commander":"JaredCrue", "Horizons":true, "Ship":"Anaconda", "ShipID":7, "ShipName":"Hawking Explorer", "ShipIdent":"BPE271", "FuelLevel":32.000000, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"FleetComm", "Credits":432688504, "Loan":0 }
+{ "timestamp":"2018-03-31T23:41:55Z", "event":"Rank", "Combat":0, "Trade":2, "Explore":8, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2018-03-31T23:41:55Z", "event":"Progress", "Combat":35, "Trade":88, "Explore":100, "Empire":100, "Federation":80, "CQC":0 }
+{ "timestamp":"2018-03-31T23:41:55Z", "event":"Reputation", "Empire":15.330100, "Federation":92.230202 }
+{ "timestamp":"2018-03-31T23:41:59Z", "event":"Friends", "Status":"Online", "Name":"Art Fusky" }
+{ "timestamp":"2018-03-31T23:41:59Z", "event":"Friends", "Status":"Online", "Name":"BlindiRL" }
+{ "timestamp":"2018-03-31T23:41:59Z", "event":"Friends", "Status":"Online", "Name":"omicrontheta" }
+{ "timestamp":"2018-03-31T23:41:59Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-03-31T23:41:59Z", "event":"Friends", "Status":"Online", "Name":"Steyla" }
+{ "timestamp":"2018-03-31T23:42:03Z", "event":"Loadout", "Ship":"Anaconda", "ShipID":7, "ShipName":"Hawking Explorer", "ShipIdent":"BPE271", "HullValue":125004659, "ModulesValue":105796079, "Rebuy":11540038, "Modules":[ { "Slot":"TinyHardpoint1", "Item":"Hpt_CloudScanner_Size0_Class5", "On":true, "Priority":0, "Health":1.000000, "Value":962702 }, { "Slot":"TinyHardpoint2", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":1.000000, "Value":3072 }, { "Slot":"TinyHardpoint3", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":1.000000, "Value":3072 }, { "Slot":"TinyHardpoint4", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":1.000000, "Value":3072 }, { "Slot":"Armour", "Item":"Anaconda_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"PaintJob", "Item":"PaintJob_Anaconda_Vibrant_Green", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size5_Class5", "On":true, "Priority":1, "Health":1.000000, "Value":3794047 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":165879 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size6_Class5", "On":true, "Priority":0, "Health":1.000000, "Value":14197539, "Engineering":{ "Engineer":"Felicity Farseer", "EngineerID":300100, "BlueprintID":128673694, "BlueprintName":"FSD_LongRange", "Level":5, "Quality":1.000000, "ExperimentalEffect":"special_fsd_heavy", "ExperimentalEffect_Localised":"Mass Manager", "Modifiers":[ { "Label":"Mass", "Value":52.000000, "OriginalValue":40.000000, "LessIsGood":1 }, { "Label":"Integrity", "Value":110.262009, "OriginalValue":141.000000, "LessIsGood":0 }, { "Label":"PowerDraw", "Value":0.862500, "OriginalValue":0.750000, "LessIsGood":1 }, { "Label":"FSDOptimalMass", "Value":2901.599854, "OriginalValue":1800.000000, "LessIsGood":0 } ] } }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size5_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":69713 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1135 }, { "Slot":"Radar", "Item":"Int_Sensors_Size8_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1530326 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":85779 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Elite", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Elite", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Elite", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipName0", "Item":"Nameplate_Expedition01_White", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipName1", "Item":"Nameplate_Expedition02_White", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipID0", "Item":"Nameplate_ShipID_White", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipID1", "Item":"Nameplate_ShipID_White", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"Slot01_Size7", "Item":"Int_FuelScoop_Size7_Class5", "On":true, "Priority":0, "Health":1.000000, "Value":80011016 }, { "Slot":"Slot02_Size6", "Item":"Int_FighterBay_Size5_Class1", "On":true, "Priority":0, "Health":1.000000, "Value":505128 }, { "Slot":"Slot03_Size6", "Item":"Int_ShieldGenerator_Size3_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":16508 }, { "Slot":"Slot04_Size6", "Item":"Int_CargoRack_Size4_Class1", "On":true, "Priority":1, "Health":1.000000, "Value":30124 }, { "Slot":"Slot05_Size5", "Item":"Int_DroneControl_FuelTransfer_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1053 }, { "Slot":"Slot06_Size5", "Item":"Int_DroneControl_Repair_Size1_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1053 }, { "Slot":"Slot07_Size5", "Item":"Int_Repairer_Size4_Class4", "On":false, "Priority":0, "AmmoInClip":5900, "Health":1.000000, "Value":1381747 }, { "Slot":"Slot08_Size4", "Item":"Int_Repairer_Size4_Class4", "On":false, "Priority":0, "AmmoInClip":5900, "Health":1.000000, "Value":1381747 }, { "Slot":"Slot09_Size4", "Item":"Int_BuggyBay_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":75816 }, { "Slot":"Slot10_Size4", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":219375, "Engineering":{ "Engineer":"Felicity Farseer", "EngineerID":300100, "BlueprintID":128740154, "BlueprintName":"Sensor_FastScan", "Level":3, "Quality":1.000000, "Modifiers":[ { "Label":"Mass", "Value":2.080000, "OriginalValue":1.300000, "LessIsGood":1 }, { "Label":"DSS_RateMult", "Value":50.000000, "OriginalValue":0.000000, "LessIsGood":0 } ] } }, { "Slot":"Slot13_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1355738 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":438 }, { "Slot":"VesselVoice", "Item":"VoicePack_Verity", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"ShipCockpit", "Item":"Anaconda_Cockpit", "On":true, "Priority":1, "Health":1.000000 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":true, "Priority":2, "Health":1.000000 } ] }
+{ "timestamp":"2018-03-31T23:42:15Z", "event":"Location", "Docked":false, "StarSystem":"Juenoe DM-L d8-957", "SystemAddress":32890985239499, "StarPos":[-8433.59375,-727.40625,26588.03125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Juenoe DM-L d8-957", "BodyID":0, "BodyType":"Star" }
+{ "timestamp":"2018-03-31T23:42:15Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":602940 }
+{ "timestamp":"2018-03-31T23:42:16Z", "event":"Statistics", "Bank_Account":{ "Current_Wealth":725418340, "Spent_On_Ships":427091961, "Spent_On_Outfitting":485714197, "Spent_On_Repairs":1931209, "Spent_On_Fuel":10811, "Spent_On_Ammo_Consumables":8652, "Insurance_Claims":0, "Spent_On_Insurance":0 }, "Combat":{ "Bounties_Claimed":1, "Bounty_Hunting_Profit":750, "Combat_Bonds":0, "Combat_Bond_Profits":0, "Assassinations":0, "Assassination_Profits":0, "Highest_Single_Reward":1000, "Skimmers_Killed":8 }, "Crime":{ "Notoriety":0, "Fines":8, "Total_Fines":17474, "Bounties_Received":0, "Total_Bounties":0, "Highest_Bounty":0 }, "Smuggling":{ "Black_Markets_Traded_With":0, "Black_Markets_Profits":0, "Resources_Smuggled":0, "Average_Profit":0, "Highest_Single_Transaction":0 }, "Trading":{ "Markets_Traded_With":12, "Market_Profits":244184, "Resources_Traded":55, "Average_Profit":11099.272727273, "Highest_Single_Transaction":137325 }, "Mining":{ "Mining_Profits":411, "Quantity_Mined":3, "Materials_Collected":3659 }, "Exploration":{ "Systems_Visited":10142, "Exploration_Profits":787795624, "Planets_Scanned_To_Level_2":17, "Planets_Scanned_To_Level_3":6204, "Highest_Payout":4090900, "Total_Hyperspace_Distance":263637, "Total_Hyperspace_Jumps":10325, "Greatest_Distance_From_Start":65222.47204614, "Time_Played":2110680 }, "Passengers":{ "Passengers_Missions_Bulk":0, "Passengers_Missions_VIP":0, "Passengers_Missions_Delivered":0, "Passengers_Missions_Ejected":0 }, "Search_And_Rescue":{ "SearchRescue_Traded":6, "SearchRescue_Profit":140105, "SearchRescue_Count":2 }, "Crafting":{ "Count_Of_Used_Engineers":2, "Recipes_Generated":45, "Recipes_Generated_Rank_1":6, "Recipes_Generated_Rank_2":8, "Recipes_Generated_Rank_3":10, "Recipes_Generated_Rank_4":13, "Recipes_Generated_Rank_5":8 }, "Crew":{  }, "Multicrew":{ "Multicrew_Time_Total":155, "Multicrew_Gunner_Time_Total":0, "Multicrew_Fighter_Time_Total":0, "Multicrew_Credits_Total":0, "Multicrew_Fines_Total":0 }, "Material_Trader_Stats":{ "Trades_Completed":5, "Materials_Traded":86, "Encoded_Materials_Traded":50, "Grade_2_Materials_Traded":19, "Grade_3_Materials_Traded":14, "Grade_4_Materials_Traded":53 } }
+{ "timestamp":"2018-03-31T23:42:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-31T23:42:16Z", "event":"Missions", "Active":[  ], "Failed":[  ], "Complete":[  ] }
+{ "timestamp":"2018-03-31T23:42:16Z", "event":"Cargo", "Inventory":[ { "Name":"drones", "Name_Localised":"Limpet", "Count":16, "Stolen":0 } ] }
+{ "timestamp":"2018-03-31T23:42:16Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-31T23:42:22Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-03-31T23:42:24Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-31T23:44:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:44:06Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-03-31T23:44:26Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenoe OK-T c18-132", "SystemAddress":36353575692194, "StarClass":"K" }
+{ "timestamp":"2018-03-31T23:44:32Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-31T23:44:45Z", "event":"FSDJump", "StarSystem":"Juenoe OK-T c18-132", "SystemAddress":36353575692194, "StarPos":[-8426.06250,-723.65625,26642.65625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.269, "FuelUsed":7.763094, "FuelLevel":24.236906 }
+{ "timestamp":"2018-03-31T23:44:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:44:51Z", "event":"DiscoveryScan", "SystemAddress":36353575692194, "Bodies":1 }
+{ "timestamp":"2018-03-31T23:44:52Z", "event":"DiscoveryScan", "SystemAddress":36353575692194, "Bodies":11 }
+{ "timestamp":"2018-03-31T23:44:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:45:02Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe OK-T c18-132", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.742188, "Radius":527461824.000000, "AbsoluteMagnitude":5.972061, "Age_MY":10914, "SurfaceTemperature":5101.000000, "Luminosity":"Vab", "RotationPeriod":241748.109375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-31T23:45:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:45:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:45:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:45:25Z", "event":"FuelScoop", "Scooped":5.016607, "Total":29.253508 }
+{ "timestamp":"2018-03-31T23:45:27Z", "event":"FuelScoop", "Scooped":2.746493, "Total":32.000000 }
+{ "timestamp":"2018-03-31T23:46:32Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe OK-T c18-132 1", "BodyID":1, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":542.245361, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":99.989456 } ], "Volcanism":"major rocky magma volcanism", "MassEM":1.756796, "Radius":7176005.000000, "SurfaceGravity":13.597698, "SurfaceTemperature":193.967392, "SurfacePressure":608309.812500, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.669713, "Metal":0.330287 }, "SemiMajorAxis":162554085376.000000, "Eccentricity":0.000053, "OrbitalInclination":-0.089682, "Periapsis":46.843044, "OrbitalPeriod":41486020.000000, "RotationPeriod":190617.718750, "AxialTilt":-0.173402 }
+{ "timestamp":"2018-03-31T23:47:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenoe RT-R e4-417", "SystemAddress":1792089745900, "StarClass":"B" }
+{ "timestamp":"2018-03-31T23:47:06Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-31T23:47:19Z", "event":"FSDJump", "StarSystem":"Juenoe RT-R e4-417", "SystemAddress":1792089745900, "StarPos":[-8422.28125,-718.43750,26698.15625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.873, "FuelUsed":7.985096, "FuelLevel":24.014904 }
+{ "timestamp":"2018-03-31T23:47:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:47:26Z", "event":"DiscoveryScan", "SystemAddress":1792089745900, "Bodies":1 }
+{ "timestamp":"2018-03-31T23:47:26Z", "event":"DiscoveryScan", "SystemAddress":1792089745900, "Bodies":16 }
+{ "timestamp":"2018-03-31T23:47:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:47:36Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe RT-R e4-417", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":3.707031, "Radius":1582724992.000000, "AbsoluteMagnitude":-0.318802, "Age_MY":290, "SurfaceTemperature":12531.000000, "Luminosity":"IVab", "RotationPeriod":94041.554688, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-31T23:47:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:47:58Z", "event":"FuelScoop", "Scooped":5.001011, "Total":29.015915 }
+{ "timestamp":"2018-03-31T23:48:01Z", "event":"FuelScoop", "Scooped":2.984082, "Total":32.000000 }
+{ "timestamp":"2018-03-31T23:48:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenoe LY-H d10-1335", "SystemAddress":45878966342619, "StarClass":"F" }
+{ "timestamp":"2018-03-31T23:48:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-31T23:48:49Z", "event":"FSDJump", "StarSystem":"Juenoe LY-H d10-1335", "SystemAddress":45878966342619, "StarPos":[-8411.43750,-713.09375,26752.59375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.764, "FuelUsed":7.944344, "FuelLevel":24.055656 }
+{ "timestamp":"2018-03-31T23:48:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:48:55Z", "event":"DiscoveryScan", "SystemAddress":45878966342619, "Bodies":1 }
+{ "timestamp":"2018-03-31T23:48:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:48:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:49:06Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe LY-H d10-1335", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.199219, "Radius":738459328.000000, "AbsoluteMagnitude":3.937744, "Age_MY":2268, "SurfaceTemperature":6886.000000, "Luminosity":"VI", "RotationPeriod":324994.843750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-03-31T23:49:25Z", "event":"FuelScoop", "Scooped":5.009260, "Total":27.994917 }
+{ "timestamp":"2018-03-31T23:49:29Z", "event":"FuelScoop", "Scooped":4.005094, "Total":32.000000 }
+{ "timestamp":"2018-03-31T23:49:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:49:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:49:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:49:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:49:56Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenoe FJ-M c22-358", "SystemAddress":98476049770434, "StarClass":"K" }
+{ "timestamp":"2018-03-31T23:50:01Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-31T23:50:15Z", "event":"FSDJump", "StarSystem":"Juenoe FJ-M c22-358", "SystemAddress":98476049770434, "StarPos":[-8401.53125,-711.31250,26807.43750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.760, "FuelUsed":7.943375, "FuelLevel":24.056625 }
+{ "timestamp":"2018-03-31T23:50:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:50:21Z", "event":"DiscoveryScan", "SystemAddress":98476049770434, "Bodies":10 }
+{ "timestamp":"2018-03-31T23:50:21Z", "event":"DiscoveryScan", "SystemAddress":98476049770434, "Bodies":29 }
+{ "timestamp":"2018-03-31T23:50:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:50:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:50:32Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe FJ-M c22-358", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.644531, "Radius":563416960.000000, "AbsoluteMagnitude":6.285507, "Age_MY":4798, "SurfaceTemperature":4592.000000, "Luminosity":"Va", "RotationPeriod":218303.109375, "AxialTilt":0.000000, "Rings":[ { "Name":"Juenoe FJ-M c22-358 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":9.4599e+13, "InnerRad":9.9734e+08, "OuterRad":2.0844e+09 }, { "Name":"Juenoe FJ-M c22-358 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.2243e+15, "InnerRad":2.6342e+09, "OuterRad":6.7437e+11 } ] }
+{ "timestamp":"2018-03-31T23:50:46Z", "event":"FuelScoop", "Scooped":5.003980, "Total":29.060619 }
+{ "timestamp":"2018-03-31T23:50:49Z", "event":"FuelScoop", "Scooped":2.939377, "Total":32.000000 }
+{ "timestamp":"2018-03-31T23:51:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenoe NV-I c24-165", "SystemAddress":45424613730258, "StarClass":"K" }
+{ "timestamp":"2018-03-31T23:51:22Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-31T23:51:35Z", "event":"FSDJump", "StarSystem":"Juenoe NV-I c24-165", "SystemAddress":45424613730258, "StarPos":[-8391.06250,-709.34375,26862.06250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.654, "FuelUsed":7.904293, "FuelLevel":24.095707 }
+{ "timestamp":"2018-03-31T23:51:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:51:41Z", "event":"DiscoveryScan", "SystemAddress":45424613730258, "Bodies":9 }
+{ "timestamp":"2018-03-31T23:51:42Z", "event":"DiscoveryScan", "SystemAddress":45424613730258, "Bodies":11 }
+{ "timestamp":"2018-03-31T23:51:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:51:53Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe NV-I c24-165 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.613281, "Radius":562249536.000000, "AbsoluteMagnitude":7.086166, "Age_MY":2474, "SurfaceTemperature":3823.000000, "Luminosity":"Va", "SemiMajorAxis":25029498634240.000000, "Eccentricity":0.148408, "OrbitalInclination":16.580715, "Periapsis":250.238098, "OrbitalPeriod":213307604992.000000, "RotationPeriod":322450.500000, "AxialTilt":0.000000, "Rings":[ { "Name":"Juenoe NV-I c24-165 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":9.2385e+08, "InnerRad":1.0199e+09, "OuterRad":2.0502e+09 } ] }
+{ "timestamp":"2018-03-31T23:52:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:52:21Z", "event":"FuelScoop", "Scooped":5.002902, "Total":29.098595 }
+{ "timestamp":"2018-03-31T23:52:24Z", "event":"FuelScoop", "Scooped":2.901392, "Total":32.000000 }
+{ "timestamp":"2018-03-31T23:54:45Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe NV-I c24-165 A 6", "BodyID":19, "Parents":[ {"Star":1}, {"Null":0} ], "DistanceFromArrivalLS":1891.805298, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick argon rich atmosphere", "AtmosphereType":"ArgonRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":98.553123 }, { "Name":"Argon", "Percent":0.911946 }, { "Name":"Methane", "Percent":0.534093 } ], "Volcanism":"", "MassEM":0.440259, "Radius":4753475.500000, "SurfaceGravity":7.765959, "SurfaceTemperature":135.716248, "SurfacePressure":3810155.500000, "Landable":false, "Composition":{ "Ice":0.009441, "Rock":0.658511, "Metal":0.332049 }, "SemiMajorAxis":567209164800.000000, "Eccentricity":0.000504, "OrbitalInclination":0.010222, "Periapsis":106.124237, "OrbitalPeriod":297454208.000000, "RotationPeriod":60869.117188, "AxialTilt":-0.315753 }
+{ "timestamp":"2018-03-31T23:54:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:54:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:55:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenoe SB-H c25-296", "SystemAddress":81433686648794, "StarClass":"M" }
+{ "timestamp":"2018-03-31T23:55:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-31T23:55:30Z", "event":"FSDJump", "StarSystem":"Juenoe SB-H c25-296", "SystemAddress":81433686648794, "StarPos":[-8382.09375,-708.62500,26917.21875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.885, "FuelUsed":7.990012, "FuelLevel":24.009987 }
+{ "timestamp":"2018-03-31T23:55:30Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":603735 }
+{ "timestamp":"2018-03-31T23:55:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:55:36Z", "event":"DiscoveryScan", "SystemAddress":81433686648794, "Bodies":4 }
+{ "timestamp":"2018-03-31T23:55:36Z", "event":"DiscoveryScan", "SystemAddress":81433686648794, "Bodies":10 }
+{ "timestamp":"2018-03-31T23:55:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:55:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:55:47Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe SB-H c25-296 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.511719, "Radius":417962176.000000, "AbsoluteMagnitude":8.082794, "Age_MY":10700, "SurfaceTemperature":3525.000000, "Luminosity":"Va", "SemiMajorAxis":657776574464.000000, "Eccentricity":0.213835, "OrbitalInclination":-23.625753, "Periapsis":97.127571, "OrbitalPeriod":1432980864.000000, "RotationPeriod":163355.484375, "AxialTilt":0.000000, "Rings":[ { "Name":"Juenoe SB-H c25-296 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.0023e+14, "InnerRad":6.9748e+08, "OuterRad":1.9301e+09 } ] }
+{ "timestamp":"2018-03-31T23:55:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:56:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:56:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:56:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:56:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:56:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:57:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenoe WH-F c26-35", "SystemAddress":9690552936418, "StarClass":"K" }
+{ "timestamp":"2018-03-31T23:57:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-03-31T23:57:21Z", "event":"FSDJump", "StarSystem":"Juenoe WH-F c26-35", "SystemAddress":9690552936418, "StarPos":[-8371.28125,-705.56250,26971.96875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.891, "FuelUsed":7.732671, "FuelLevel":16.277317 }
+{ "timestamp":"2018-03-31T23:57:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:57:27Z", "event":"DiscoveryScan", "SystemAddress":9690552936418, "Bodies":5 }
+{ "timestamp":"2018-03-31T23:57:28Z", "event":"DiscoveryScan", "SystemAddress":9690552936418, "Bodies":30 }
+{ "timestamp":"2018-03-31T23:57:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:57:38Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe WH-F c26-35 A", "BodyID":2, "Parents":[ {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.554688, "Radius":480108928.000000, "AbsoluteMagnitude":7.531525, "Age_MY":12634, "SurfaceTemperature":3734.000000, "Luminosity":"Va", "SemiMajorAxis":7093275648.000000, "Eccentricity":0.028050, "OrbitalInclination":-8.550791, "Periapsis":275.265625, "OrbitalPeriod":2178269.000000, "RotationPeriod":186385.984375, "AxialTilt":0.000000, "Rings":[ { "Name":"Juenoe WH-F c26-35 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.2569e+13, "InnerRad":7.2564e+08, "OuterRad":1.9827e+09 } ] }
+{ "timestamp":"2018-03-31T23:57:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:57:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:57:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:58:28Z", "event":"FuelScoop", "Scooped":5.002160, "Total":21.279474 }
+{ "timestamp":"2018-03-31T23:58:47Z", "event":"FuelScoop", "Scooped":5.008554, "Total":26.288044 }
+{ "timestamp":"2018-03-31T23:58:52Z", "event":"FuelScoop", "Scooped":5.004376, "Total":31.292418 }
+{ "timestamp":"2018-03-31T23:58:53Z", "event":"FuelScoop", "Scooped":0.707578, "Total":32.000000 }
+{ "timestamp":"2018-03-31T23:59:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-03-31T23:59:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-03-31T23:59:19Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe WH-F c26-35 A 1", "BodyID":9, "Parents":[ {"Star":2}, {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":13.603808, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.015378, "Radius":1624897.750000, "SurfaceGravity":2.321470, "SurfaceTemperature":995.339966, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":21.944777 }, { "Name":"nickel", "Percent":16.598110 }, { "Name":"sulphur", "Percent":15.522631 }, { "Name":"carbon", "Percent":13.052925 }, { "Name":"manganese", "Percent":9.062969 }, { "Name":"phosphorus", "Percent":8.356707 }, { "Name":"zinc", "Percent":5.963769 }, { "Name":"vanadium", "Percent":5.388874 }, { "Name":"cadmium", "Percent":1.704111 }, { "Name":"tin", "Percent":1.431551 }, { "Name":"antimony", "Percent":0.973576 } ], "Composition":{ "Ice":0.000000, "Rock":0.669543, "Metal":0.330457 }, "SemiMajorAxis":4083227904.000000, "Eccentricity":0.011777, "OrbitalInclination":-0.580472, "Periapsis":110.367134, "OrbitalPeriod":191055.703125, "RotationPeriod":191055.734375, "AxialTilt":0.116988 }
+{ "timestamp":"2018-03-31T23:59:34Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe WH-F c26-35 B", "BodyID":3, "Parents":[ {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":75.667442, "StarType":"M", "StellarMass":0.242188, "Radius":304833088.000000, "AbsoluteMagnitude":10.705078, "Age_MY":12634, "SurfaceTemperature":2257.000000, "Luminosity":"Va", "SemiMajorAxis":16245888000.000000, "Eccentricity":0.028050, "OrbitalInclination":-8.550791, "Periapsis":95.265617, "OrbitalPeriod":2178269.000000, "RotationPeriod":121365.632813, "AxialTilt":0.000000, "Rings":[ { "Name":"Juenoe WH-F c26-35 B A Belt", "RingClass":"eRingClass_Rocky", "MassMT":3.1876e+13, "InnerRad":5.0297e+08, "OuterRad":1.588e+09 } ] }
+{ "timestamp":"2018-04-01T00:00:53Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:00:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:00:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:01:00Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe WH-F c26-35 B 2", "BodyID":20, "Parents":[ {"Star":3}, {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":84.219681, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"major rocky magma volcanism", "MassEM":0.002966, "Radius":946556.187500, "SurfaceGravity":1.319398, "SurfaceTemperature":835.030396, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":22.534595 }, { "Name":"nickel", "Percent":17.044226 }, { "Name":"sulphur", "Percent":15.939837 }, { "Name":"carbon", "Percent":13.403752 }, { "Name":"chromium", "Percent":10.134556 }, { "Name":"phosphorus", "Percent":8.581313 }, { "Name":"zinc", "Percent":6.124060 }, { "Name":"arsenic", "Percent":2.114199 }, { "Name":"niobium", "Percent":1.540119 }, { "Name":"yttrium", "Percent":1.345965 }, { "Name":"tungsten", "Percent":1.237376 } ], "Composition":{ "Ice":0.000000, "Rock":0.669543, "Metal":0.330457 }, "SemiMajorAxis":2828514560.000000, "Eccentricity":0.000822, "OrbitalInclination":1.252091, "Periapsis":52.327900, "OrbitalPeriod":166701.890625, "RotationPeriod":160555.375000, "AxialTilt":-0.292474 }
+{ "timestamp":"2018-04-01T00:01:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:01:19Z", "event":"Friends", "Status":"Offline", "Name":"Steyla" }
+{ "timestamp":"2018-04-01T00:02:08Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe WH-F c26-35 B 1", "BodyID":19, "Parents":[ {"Star":3}, {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":72.242592, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"minor silicate vapour geysers volcanism", "MassEM":0.002038, "Radius":836342.375000, "SurfaceGravity":1.161453, "SurfaceTemperature":889.555969, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":22.664265 }, { "Name":"nickel", "Percent":17.142302 }, { "Name":"sulphur", "Percent":16.031561 }, { "Name":"carbon", "Percent":13.480881 }, { "Name":"chromium", "Percent":10.192873 }, { "Name":"phosphorus", "Percent":8.630692 }, { "Name":"germanium", "Percent":4.754697 }, { "Name":"selenium", "Percent":2.509075 }, { "Name":"cadmium", "Percent":1.759983 }, { "Name":"molybdenum", "Percent":1.479963 }, { "Name":"yttrium", "Percent":1.353709 } ], "Composition":{ "Ice":0.000000, "Rock":0.669543, "Metal":0.330457 }, "SemiMajorAxis":2296977152.000000, "Eccentricity":0.003175, "OrbitalInclination":-0.003514, "Periapsis":3.725370, "OrbitalPeriod":121993.828125, "RotationPeriod":115974.226563, "AxialTilt":0.037867 }
+{ "timestamp":"2018-04-01T00:02:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:02:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:02:24Z", "event":"ModuleInfo" }
+{ "timestamp":"2018-04-01T00:02:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:02:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:03:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:03:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:04:33Z", "event":"ApproachBody", "StarSystem":"Juenoe WH-F c26-35", "SystemAddress":9690552936418, "Body":"Juenoe WH-F c26-35 B 1", "BodyID":19 }
+{ "timestamp":"2018-04-01T00:05:07Z", "event":"SupercruiseExit", "StarSystem":"Juenoe WH-F c26-35", "SystemAddress":9690552936418, "Body":"Juenoe WH-F c26-35 B 1", "BodyID":19, "BodyType":"Planet" }
+{ "timestamp":"2018-04-01T00:05:07Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":604312 }
+{ "timestamp":"2018-04-01T00:05:07Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-04-01T00:07:15Z", "event":"Touchdown", "PlayerControlled":true, "Latitude":4.856791, "Longitude":-10.821350 }
+{ "timestamp":"2018-04-01T00:07:24Z", "event":"LaunchSRV", "Loadout":"starter", "PlayerControlled":true }
+{ "timestamp":"2018-04-01T00:10:39Z", "event":"Friends", "Status":"Online", "Name":"Art Fusky" }
+{ "timestamp":"2018-04-01T00:12:54Z", "event":"Liftoff", "PlayerControlled":false }
+{ "timestamp":"2018-04-01T00:13:10Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2018-04-01T00:13:15Z", "event":"MaterialCollected", "Category":"Raw", "Name":"selenium", "Count":3 }
+{ "timestamp":"2018-04-01T00:13:26Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-04-01T00:13:32Z", "event":"MaterialCollected", "Category":"Raw", "Name":"selenium", "Count":3 }
+{ "timestamp":"2018-04-01T00:13:45Z", "event":"MaterialCollected", "Category":"Raw", "Name":"molybdenum", "Count":3 }
+{ "timestamp":"2018-04-01T00:14:52Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-04-01T00:14:58Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-04-01T00:15:05Z", "event":"MaterialCollected", "Category":"Raw", "Name":"molybdenum", "Count":3 }
+{ "timestamp":"2018-04-01T00:15:14Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2018-04-01T00:16:02Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2018-04-01T00:16:28Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-04-01T00:16:39Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2018-04-01T00:16:46Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2018-04-01T00:17:03Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T00:17:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:17:52Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-04-01T00:17:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:18:00Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-04-01T00:19:26Z", "event":"HullDamage", "Health":0.768566, "PlayerPilot":true }
+{ "timestamp":"2018-04-01T00:21:54Z", "event":"Touchdown", "PlayerControlled":false }
+{ "timestamp":"2018-04-01T00:23:07Z", "event":"DockSRV" }
+{ "timestamp":"2018-04-01T00:23:58Z", "event":"Friends", "Status":"Online", "Name":"John Allbright" }
+{ "timestamp":"2018-04-01T00:24:35Z", "event":"ReceiveText", "From":"Art Fusky", "Message":"o7", "Channel":"player" }
+{ "timestamp":"2018-04-01T00:24:44Z", "event":"SendText", "To":"Art Fusky", "Message":"o7" }
+{ "timestamp":"2018-04-01T00:24:50Z", "event":"SendText", "To":"omicrontheta", "Message":"o7" }
+{ "timestamp":"2018-04-01T00:25:26Z", "event":"Liftoff", "PlayerControlled":true, "Latitude":4.965800, "Longitude":-10.871344 }
+{ "timestamp":"2018-04-01T00:25:34Z", "event":"ReceiveText", "From":"omicrontheta", "Message":"looks like i am a bit of a ways away from you :)", "Channel":"player" }
+{ "timestamp":"2018-04-01T00:26:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:26:05Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-04-01T00:26:07Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T00:26:22Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-04-01T00:26:34Z", "event":"Friends", "Status":"Online", "Name":"Rough Roads" }
+{ "timestamp":"2018-04-01T00:26:43Z", "event":"SendText", "To":"omicrontheta", "Message":"Far away ;)" }
+{ "timestamp":"2018-04-01T00:27:03Z", "event":"SendText", "To":"omicrontheta", "Message":"I'm just enjoying the trip." }
+{ "timestamp":"2018-04-01T00:27:30Z", "event":"SendText", "To":"omicrontheta", "Message":"Drove my SRV around for a bit." }
+{ "timestamp":"2018-04-01T00:27:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:27:52Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2018-04-01T00:27:53Z", "event":"Friends", "Status":"Online", "Name":"Zhixian Wu" }
+{ "timestamp":"2018-04-01T00:27:59Z", "event":"ReceiveText", "From":"omicrontheta", "Message":"nice, i am headed to wp11 about 1000ly to go. :)", "Channel":"player" }
+{ "timestamp":"2018-04-01T00:28:18Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2018-04-01T00:28:23Z", "event":"SupercruiseEntry", "StarSystem":"Juenoe WH-F c26-35", "SystemAddress":9690552936418 }
+{ "timestamp":"2018-04-01T00:28:23Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":605708 }
+{ "timestamp":"2018-04-01T00:28:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:29:20Z", "event":"LeaveBody", "StarSystem":"Juenoe WH-F c26-35", "SystemAddress":9690552936418, "Body":"Juenoe WH-F c26-35 B 1", "BodyID":19 }
+{ "timestamp":"2018-04-01T00:34:00Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenoe EU-B c28-354", "SystemAddress":97376605251570, "StarClass":"K" }
+{ "timestamp":"2018-04-01T00:34:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T00:34:18Z", "event":"FSDJump", "StarSystem":"Juenoe EU-B c28-354", "SystemAddress":97376605251570, "StarPos":[-8369.12500,-705.06250,27027.78125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.856, "FuelUsed":7.979392, "FuelLevel":24.020609 }
+{ "timestamp":"2018-04-01T00:34:18Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":606063 }
+{ "timestamp":"2018-04-01T00:34:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:34:24Z", "event":"DiscoveryScan", "SystemAddress":97376605251570, "Bodies":1 }
+{ "timestamp":"2018-04-01T00:34:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:34:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:34:35Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe EU-B c28-354", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.773438, "Radius":557856000.000000, "AbsoluteMagnitude":5.819855, "Age_MY":8684, "SurfaceTemperature":5137.000000, "Luminosity":"Vab", "RotationPeriod":317973.625000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T00:40:44Z", "event":"FuelScoop", "Scooped":5.015679, "Total":29.036285 }
+{ "timestamp":"2018-04-01T00:40:47Z", "event":"FuelScoop", "Scooped":2.963718, "Total":32.000000 }
+{ "timestamp":"2018-04-01T00:40:55Z", "event":"FuelScoop", "Scooped":0.342450, "Total":31.272449 }
+{ "timestamp":"2018-04-01T00:40:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:40:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:41:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Juenoe IA-A c29-35", "SystemAddress":9690552936442, "StarClass":"K" }
+{ "timestamp":"2018-04-01T00:41:24Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T00:41:37Z", "event":"FSDJump", "StarSystem":"Juenoe IA-A c29-35", "SystemAddress":9690552936442, "StarPos":[-8357.87500,-705.50000,27081.87500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.253, "FuelUsed":7.733617, "FuelLevel":23.538834 }
+{ "timestamp":"2018-04-01T00:41:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:41:43Z", "event":"DiscoveryScan", "SystemAddress":9690552936442, "Bodies":5 }
+{ "timestamp":"2018-04-01T00:41:43Z", "event":"DiscoveryScan", "SystemAddress":9690552936442, "Bodies":16 }
+{ "timestamp":"2018-04-01T00:41:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:41:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:41:54Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Juenoe IA-A c29-35 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.656250, "Radius":498319968.000000, "AbsoluteMagnitude":6.700317, "Age_MY":4170, "SurfaceTemperature":4438.000000, "Luminosity":"Va", "SemiMajorAxis":21920078626816.000000, "Eccentricity":0.207691, "OrbitalInclination":-16.461552, "Periapsis":150.686523, "OrbitalPeriod":185016041472.000000, "RotationPeriod":252290.421875, "AxialTilt":0.000000, "Rings":[ { "Name":"Juenoe IA-A c29-35 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":3.0453e+11, "InnerRad":9.1726e+08, "OuterRad":2.097e+09 } ] }
+{ "timestamp":"2018-04-01T00:42:08Z", "event":"FuelScoop", "Scooped":5.001277, "Total":28.540119 }
+{ "timestamp":"2018-04-01T00:42:11Z", "event":"FuelScoop", "Scooped":3.459865, "Total":32.000000 }
+{ "timestamp":"2018-04-01T00:42:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou UI-B d5380", "SystemAddress":184864124818435, "StarClass":"G" }
+{ "timestamp":"2018-04-01T00:42:50Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T00:43:04Z", "event":"FSDJump", "StarSystem":"Eoch Blou UI-B d5380", "SystemAddress":184864124818435, "StarPos":[-8352.71875,-701.18750,27137.25000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.781, "FuelUsed":7.951206, "FuelLevel":24.048794 }
+{ "timestamp":"2018-04-01T00:43:04Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":606589 }
+{ "timestamp":"2018-04-01T00:43:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:43:10Z", "event":"DiscoveryScan", "SystemAddress":184864124818435, "Bodies":1 }
+{ "timestamp":"2018-04-01T00:43:20Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou UI-B d5380", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.160156, "Radius":767601216.000000, "AbsoluteMagnitude":4.522049, "Age_MY":2026, "SurfaceTemperature":5904.000000, "Luminosity":"Vab", "RotationPeriod":506280.625000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T00:43:35Z", "event":"FuelScoop", "Scooped":5.010442, "Total":29.059221 }
+{ "timestamp":"2018-04-01T00:43:38Z", "event":"FuelScoop", "Scooped":2.940774, "Total":32.000000 }
+{ "timestamp":"2018-04-01T00:44:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou VI-Z c1-367", "SystemAddress":100950085183506, "StarClass":"M" }
+{ "timestamp":"2018-04-01T00:44:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T00:45:08Z", "event":"FSDJump", "StarSystem":"Eoch Blou VI-Z c1-367", "SystemAddress":100950085183506, "StarPos":[-8342.62500,-703.46875,27191.90625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.627, "FuelUsed":7.894532, "FuelLevel":24.105469 }
+{ "timestamp":"2018-04-01T00:45:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:45:14Z", "event":"DiscoveryScan", "SystemAddress":100950085183506, "Bodies":10 }
+{ "timestamp":"2018-04-01T00:45:15Z", "event":"DiscoveryScan", "SystemAddress":100950085183506, "Bodies":32 }
+{ "timestamp":"2018-04-01T00:45:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:45:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:45:25Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou VI-Z c1-367", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.539063, "Radius":508741440.000000, "AbsoluteMagnitude":7.484344, "Age_MY":6152, "SurfaceTemperature":3667.000000, "Luminosity":"Va", "RotationPeriod":196612.484375, "AxialTilt":0.000000, "Rings":[ { "Name":"Eoch Blou VI-Z c1-367 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.0311e+14, "InnerRad":8.3942e+08, "OuterRad":2.0592e+09 }, { "Name":"Eoch Blou VI-Z c1-367 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.0235e+13, "InnerRad":1.0005e+10, "OuterRad":1.5865e+11 } ] }
+{ "timestamp":"2018-04-01T00:47:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:47:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:47:23Z", "event":"FuelScoop", "Scooped":5.007376, "Total":29.112848 }
+{ "timestamp":"2018-04-01T00:47:25Z", "event":"FuelScoop", "Scooped":2.887154, "Total":32.000000 }
+{ "timestamp":"2018-04-01T00:49:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:49:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:49:41Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T00:49:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:50:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou YO-Z d1073", "SystemAddress":36876731667467, "StarClass":"A" }
+{ "timestamp":"2018-04-01T00:50:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T00:50:23Z", "event":"FSDJump", "StarSystem":"Eoch Blou YO-Z d1073", "SystemAddress":36876731667467, "StarPos":[-8334.00000,-700.00000,27246.71875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.595, "FuelUsed":7.882382, "FuelLevel":24.117619 }
+{ "timestamp":"2018-04-01T00:50:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:50:29Z", "event":"DiscoveryScan", "SystemAddress":36876731667467, "Bodies":1 }
+{ "timestamp":"2018-04-01T00:50:41Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou YO-Z d1073", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.683594, "Radius":1016824832.000000, "AbsoluteMagnitude":2.515701, "Age_MY":1516, "SurfaceTemperature":8141.000000, "Luminosity":"Vab", "RotationPeriod":92705.976563, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T00:50:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:50:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:51:03Z", "event":"FuelScoop", "Scooped":5.001316, "Total":29.118933 }
+{ "timestamp":"2018-04-01T00:51:06Z", "event":"FuelScoop", "Scooped":2.881060, "Total":32.000000 }
+{ "timestamp":"2018-04-01T00:51:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T00:51:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T00:51:17Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T00:51:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:01:15Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T01:01:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:03:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou HB-U c4-278", "SystemAddress":76485951465514, "StarClass":"K" }
+{ "timestamp":"2018-04-01T01:03:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:03:25Z", "event":"FSDJump", "StarSystem":"Eoch Blou HB-U c4-278", "SystemAddress":76485951465514, "StarPos":[-8325.37500,-692.78125,27301.34375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.771, "FuelUsed":7.947384, "FuelLevel":24.052616 }
+{ "timestamp":"2018-04-01T01:03:25Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":607810 }
+{ "timestamp":"2018-04-01T01:03:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:03:31Z", "event":"DiscoveryScan", "SystemAddress":76485951465514, "Bodies":9 }
+{ "timestamp":"2018-04-01T01:03:32Z", "event":"DiscoveryScan", "SystemAddress":76485951465514, "Bodies":23 }
+{ "timestamp":"2018-04-01T01:03:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:03:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:03:42Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou HB-U c4-278", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.683594, "Radius":541364224.000000, "AbsoluteMagnitude":6.162613, "Age_MY":3766, "SurfaceTemperature":4819.000000, "Luminosity":"Vab", "RotationPeriod":386920.250000, "AxialTilt":0.000000, "Rings":[ { "Name":"Eoch Blou HB-U c4-278 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.2172e+14, "InnerRad":8.9325e+08, "OuterRad":2.2316e+09 } ] }
+{ "timestamp":"2018-04-01T01:03:56Z", "event":"FuelScoop", "Scooped":5.004221, "Total":29.056818 }
+{ "timestamp":"2018-04-01T01:03:58Z", "event":"FuelScoop", "Scooped":2.943181, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:04:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:04:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:04:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:04:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:04:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou GB-W d2-2136", "SystemAddress":73401133552667, "StarClass":"A" }
+{ "timestamp":"2018-04-01T01:04:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:04:41Z", "event":"FSDJump", "StarSystem":"Eoch Blou GB-W d2-2136", "SystemAddress":73401133552667, "StarPos":[-8311.59375,-692.62500,27355.25000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.640, "FuelUsed":7.898793, "FuelLevel":24.101208 }
+{ "timestamp":"2018-04-01T01:04:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:04:48Z", "event":"DiscoveryScan", "SystemAddress":73401133552667, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:04:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:04:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:04:58Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou GB-W d2-2136", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.675781, "Radius":929675072.000000, "AbsoluteMagnitude":2.823853, "Age_MY":1220, "SurfaceTemperature":7931.000000, "Luminosity":"Vb", "RotationPeriod":74272.265625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:05:12Z", "event":"FuelScoop", "Scooped":5.009777, "Total":29.110966 }
+{ "timestamp":"2018-04-01T01:05:15Z", "event":"FuelScoop", "Scooped":2.889024, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:05:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou HB-W d2-1160", "SystemAddress":39866045682715, "StarClass":"G" }
+{ "timestamp":"2018-04-01T01:05:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:06:04Z", "event":"FSDJump", "StarSystem":"Eoch Blou HB-W d2-1160", "SystemAddress":39866045682715, "StarPos":[-8302.21875,-689.96875,27409.96875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.580, "FuelUsed":7.876868, "FuelLevel":24.123131 }
+{ "timestamp":"2018-04-01T01:06:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:06:11Z", "event":"DiscoveryScan", "SystemAddress":39866045682715, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:06:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:06:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:06:21Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou HB-W d2-1160", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.000000, "Radius":671685568.000000, "AbsoluteMagnitude":5.067337, "Age_MY":1330, "SurfaceTemperature":5567.000000, "Luminosity":"Vab", "RotationPeriod":330500.093750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:06:36Z", "event":"FuelScoop", "Scooped":5.012877, "Total":29.136003 }
+{ "timestamp":"2018-04-01T01:06:39Z", "event":"FuelScoop", "Scooped":2.863997, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:07:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou YZ-M c8-370", "SystemAddress":101774786013258, "StarClass":"K" }
+{ "timestamp":"2018-04-01T01:07:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:07:25Z", "event":"FSDJump", "StarSystem":"Eoch Blou YZ-M c8-370", "SystemAddress":101774786013258, "StarPos":[-8294.56250,-690.00000,27464.71875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.283, "FuelUsed":7.768077, "FuelLevel":24.231922 }
+{ "timestamp":"2018-04-01T01:07:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:07:32Z", "event":"DiscoveryScan", "SystemAddress":101774786013258, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:07:32Z", "event":"DiscoveryScan", "SystemAddress":101774786013258, "Bodies":10 }
+{ "timestamp":"2018-04-01T01:07:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:07:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:07:43Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou YZ-M c8-370", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.656250, "Radius":526145888.000000, "AbsoluteMagnitude":6.688339, "Age_MY":4698, "SurfaceTemperature":4331.000000, "Luminosity":"Va", "RotationPeriod":324834.937500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:07:58Z", "event":"Friends", "Status":"Online", "Name":"DansPCMods" }
+{ "timestamp":"2018-04-01T01:08:00Z", "event":"FuelScoop", "Scooped":5.013936, "Total":29.245859 }
+{ "timestamp":"2018-04-01T01:08:01Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T01:08:03Z", "event":"FuelScoop", "Scooped":2.754142, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:08:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:09:06Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou GB-X e1-7846", "SystemAddress":33699405982228, "StarClass":"B" }
+{ "timestamp":"2018-04-01T01:09:11Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:09:24Z", "event":"FSDJump", "StarSystem":"Eoch Blou GB-X e1-7846", "SystemAddress":33699405982228, "StarPos":[-8280.96875,-685.40625,27518.09375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.270, "FuelUsed":7.763424, "FuelLevel":24.236576 }
+{ "timestamp":"2018-04-01T01:09:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:09:30Z", "event":"DiscoveryScan", "SystemAddress":33699405982228, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:09:31Z", "event":"DiscoveryScan", "SystemAddress":33699405982228, "Bodies":2 }
+{ "timestamp":"2018-04-01T01:09:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:09:42Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou GB-X e1-7846 A", "BodyID":2, "Parents":[ {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":5.425781, "Radius":1960253696.000000, "AbsoluteMagnitude":-1.826599, "Age_MY":290, "SurfaceTemperature":15932.000000, "Luminosity":"IVa", "SemiMajorAxis":1921518796800.000000, "Eccentricity":0.002968, "OrbitalInclination":33.109028, "Periapsis":156.215317, "OrbitalPeriod":2142253184.000000, "RotationPeriod":91448.328125, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:09:43Z", "event":"FuelScoop", "Scooped":5.001219, "Total":29.237778 }
+{ "timestamp":"2018-04-01T01:09:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:09:46Z", "event":"FuelScoop", "Scooped":2.762245, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:12:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:12:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:12:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:12:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:13:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:13:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:13:58Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou PN-S d4-219", "SystemAddress":7533531878443, "StarClass":"F" }
+{ "timestamp":"2018-04-01T01:14:03Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:14:16Z", "event":"FSDJump", "StarSystem":"Eoch Blou PN-S d4-219", "SystemAddress":7533531878443, "StarPos":[-8272.31250,-687.15625,27573.03125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.643, "FuelUsed":7.900044, "FuelLevel":24.099957 }
+{ "timestamp":"2018-04-01T01:14:16Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":608461 }
+{ "timestamp":"2018-04-01T01:14:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:14:22Z", "event":"DiscoveryScan", "SystemAddress":7533531878443, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:14:26Z", "event":"DiscoveryScan", "SystemAddress":7533531878443, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:14:36Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou PN-S d4-219 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.285156, "Radius":811494464.000000, "AbsoluteMagnitude":4.082199, "Age_MY":1634, "SurfaceTemperature":6354.000000, "Luminosity":"Vb", "SemiMajorAxis":18235246247936.000000, "Eccentricity":0.136594, "OrbitalInclination":31.179115, "Periapsis":31.855658, "OrbitalPeriod":185987481600.000000, "RotationPeriod":402261.812500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:15:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:15:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:15:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:15:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:16:11Z", "event":"FuelScoop", "Scooped":5.017625, "Total":29.117599 }
+{ "timestamp":"2018-04-01T01:16:14Z", "event":"FuelScoop", "Scooped":3.952390, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:17:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:17:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:18:10Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou KH-V e2-7150", "SystemAddress":30710108744220, "StarClass":"B" }
+{ "timestamp":"2018-04-01T01:18:15Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:18:28Z", "event":"FSDJump", "StarSystem":"Eoch Blou KH-V e2-7150", "SystemAddress":30710108744220, "StarPos":[-8261.93750,-690.12500,27627.75000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.773, "FuelUsed":7.948140, "FuelLevel":24.051861 }
+{ "timestamp":"2018-04-01T01:18:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:18:34Z", "event":"DiscoveryScan", "SystemAddress":30710108744220, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:18:35Z", "event":"DiscoveryScan", "SystemAddress":30710108744220, "Bodies":4 }
+{ "timestamp":"2018-04-01T01:18:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:18:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:18:44Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T01:18:46Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou KH-V e2-7150 A", "BodyID":2, "Parents":[ {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":2.621094, "Radius":1152452480.000000, "AbsoluteMagnitude":0.809036, "Age_MY":64, "SurfaceTemperature":11327.000000, "Luminosity":"Vz", "SemiMajorAxis":76810805248.000000, "Eccentricity":0.229269, "OrbitalInclination":-23.839388, "Periapsis":219.077621, "OrbitalPeriod":27253726.000000, "RotationPeriod":61356.472656, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:18:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:19:20Z", "event":"FuelScoop", "Scooped":5.001788, "Total":29.053646 }
+{ "timestamp":"2018-04-01T01:19:23Z", "event":"FuelScoop", "Scooped":2.946365, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:20:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou XZ-O d6-5215", "SystemAddress":179194784764987, "StarClass":"G" }
+{ "timestamp":"2018-04-01T01:20:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:20:29Z", "event":"FSDJump", "StarSystem":"Eoch Blou XZ-O d6-5215", "SystemAddress":179194784764987, "StarPos":[-8256.78125,-685.28125,27683.09375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.794, "FuelUsed":7.956278, "FuelLevel":24.043722 }
+{ "timestamp":"2018-04-01T01:20:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:20:36Z", "event":"DiscoveryScan", "SystemAddress":179194784764987, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:20:37Z", "event":"DiscoveryScan", "SystemAddress":179194784764987, "Bodies":2 }
+{ "timestamp":"2018-04-01T01:20:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:20:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:20:47Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou XZ-O d6-5215 A", "BodyID":2, "Parents":[ {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.015625, "Radius":672895360.000000, "AbsoluteMagnitude":4.846558, "Age_MY":3338, "SurfaceTemperature":5852.000000, "Luminosity":"Vb", "SemiMajorAxis":870398427136.000000, "Eccentricity":0.146257, "OrbitalInclination":72.143089, "Periapsis":284.975891, "OrbitalPeriod":3992480000.000000, "RotationPeriod":360525.437500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:21:03Z", "event":"FuelScoop", "Scooped":5.011503, "Total":29.055218 }
+{ "timestamp":"2018-04-01T01:21:05Z", "event":"FuelScoop", "Scooped":2.944777, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:21:07Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-04-01T01:21:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:21:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:21:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou BR-A c15-108", "SystemAddress":29756841502850, "StarClass":"K" }
+{ "timestamp":"2018-04-01T01:21:38Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:21:52Z", "event":"FSDJump", "StarSystem":"Eoch Blou BR-A c15-108", "SystemAddress":29756841502850, "StarPos":[-8251.43750,-684.93750,27738.56250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.727, "FuelUsed":7.931287, "FuelLevel":24.068712 }
+{ "timestamp":"2018-04-01T01:21:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:21:58Z", "event":"DiscoveryScan", "SystemAddress":29756841502850, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:21:59Z", "event":"DiscoveryScan", "SystemAddress":29756841502850, "Bodies":5 }
+{ "timestamp":"2018-04-01T01:22:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:22:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:22:09Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou BR-A c15-108", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.878906, "Radius":652264704.000000, "AbsoluteMagnitude":5.619461, "Age_MY":4784, "SurfaceTemperature":4975.000000, "Luminosity":"Va", "RotationPeriod":282779.843750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:22:24Z", "event":"FuelScoop", "Scooped":5.009923, "Total":29.078630 }
+{ "timestamp":"2018-04-01T01:22:27Z", "event":"FuelScoop", "Scooped":2.921362, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:22:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou FX-Y c15-257", "SystemAddress":70713649637514, "StarClass":"K" }
+{ "timestamp":"2018-04-01T01:22:59Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:23:12Z", "event":"FSDJump", "StarSystem":"Eoch Blou FX-Y c15-257", "SystemAddress":70713649637514, "StarPos":[-8243.65625,-690.03125,27793.50000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.719, "FuelUsed":7.928523, "FuelLevel":24.071478 }
+{ "timestamp":"2018-04-01T01:23:12Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":608997 }
+{ "timestamp":"2018-04-01T01:23:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:23:19Z", "event":"DiscoveryScan", "SystemAddress":70713649637514, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:23:19Z", "event":"DiscoveryScan", "SystemAddress":70713649637514, "Bodies":8 }
+{ "timestamp":"2018-04-01T01:23:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:23:29Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou FX-Y c15-257", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.632813, "Radius":570697088.000000, "AbsoluteMagnitude":6.301346, "Age_MY":8918, "SurfaceTemperature":4546.000000, "Luminosity":"Va", "RotationPeriod":231754.671875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:23:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:23:50Z", "event":"FuelScoop", "Scooped":5.005468, "Total":29.076944 }
+{ "timestamp":"2018-04-01T01:23:55Z", "event":"FuelScoop", "Scooped":2.903686, "Total":31.980631 }
+{ "timestamp":"2018-04-01T01:24:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:24:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:24:57Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou FX-Y c15-257 1", "BodyID":1, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":183.657761, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.052280, "Radius":2415614.000000, "SurfaceGravity":3.570996, "SurfaceTemperature":293.761688, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":21.846979 }, { "Name":"nickel", "Percent":16.524139 }, { "Name":"sulphur", "Percent":15.317628 }, { "Name":"carbon", "Percent":12.880538 }, { "Name":"chromium", "Percent":9.825313 }, { "Name":"phosphorus", "Percent":8.246342 }, { "Name":"zinc", "Percent":5.937191 }, { "Name":"vanadium", "Percent":5.364858 }, { "Name":"cadmium", "Percent":1.696517 }, { "Name":"tin", "Percent":1.401888 }, { "Name":"antimony", "Percent":0.958607 } ], "Composition":{ "Ice":0.000000, "Rock":0.666990, "Metal":0.333010 }, "SemiMajorAxis":55063056384.000000, "Eccentricity":0.000575, "OrbitalInclination":0.000441, "Periapsis":229.794724, "OrbitalPeriod":8857869.000000, "RotationPeriod":8857919.000000, "AxialTilt":-0.098874 }
+{ "timestamp":"2018-04-01T01:25:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:25:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:25:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:25:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:25:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:25:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:25:55Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T01:25:58Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou FX-Y c15-257 2", "BodyID":2, "Parents":[ {"Star":0} ], "DistanceFromArrivalLS":303.642181, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"thin carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":97.148819 }, { "Name":"SulphurDioxide", "Percent":2.851182 } ], "Volcanism":"", "MassEM":0.123198, "Radius":3174312.000000, "SurfaceGravity":4.873204, "SurfaceTemperature":249.681992, "SurfacePressure":382.343994, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.662066, "Metal":0.337934 }, "SemiMajorAxis":90881155072.000000, "Eccentricity":0.001647, "OrbitalInclination":-0.007855, "Periapsis":147.953964, "OrbitalPeriod":18782334.000000, "RotationPeriod":1151236.250000, "AxialTilt":2.441230 }
+{ "timestamp":"2018-04-01T01:26:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:26:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou ON-T e3-5907", "SystemAddress":25371464395300, "StarClass":"B" }
+{ "timestamp":"2018-04-01T01:26:49Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:27:02Z", "event":"FSDJump", "StarSystem":"Eoch Blou ON-T e3-5907", "SystemAddress":25371464395300, "StarPos":[-8231.62500,-688.81250,27848.06250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.887, "FuelUsed":7.989598, "FuelLevel":23.991034 }
+{ "timestamp":"2018-04-01T01:27:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:27:08Z", "event":"DiscoveryScan", "SystemAddress":25371464395300, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:27:08Z", "event":"DiscoveryScan", "SystemAddress":25371464395300, "Bodies":13 }
+{ "timestamp":"2018-04-01T01:27:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:27:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:27:19Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou ON-T e3-5907", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":3.765625, "Radius":1450175104.000000, "AbsoluteMagnitude":-0.644089, "Age_MY":106, "SurfaceTemperature":14109.000000, "Luminosity":"Vz", "RotationPeriod":63574.941406, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:27:32Z", "event":"FuelScoop", "Scooped":5.009609, "Total":29.000641 }
+{ "timestamp":"2018-04-01T01:27:35Z", "event":"FuelScoop", "Scooped":2.999356, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:28:06Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou JS-J d9-3945", "SystemAddress":135557917037651, "StarClass":"G" }
+{ "timestamp":"2018-04-01T01:28:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:28:25Z", "event":"FSDJump", "StarSystem":"Eoch Blou JS-J d9-3945", "SystemAddress":135557917037651, "StarPos":[-8226.53125,-685.65625,27903.34375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.605, "FuelUsed":7.885984, "FuelLevel":24.114016 }
+{ "timestamp":"2018-04-01T01:28:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:28:31Z", "event":"DiscoveryScan", "SystemAddress":135557917037651, "Bodies":5 }
+{ "timestamp":"2018-04-01T01:28:32Z", "event":"DiscoveryScan", "SystemAddress":135557917037651, "Bodies":26 }
+{ "timestamp":"2018-04-01T01:28:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:28:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:28:42Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou JS-J d9-3945", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.000000, "Radius":728377408.000000, "AbsoluteMagnitude":4.731949, "Age_MY":872, "SurfaceTemperature":5775.000000, "Luminosity":"Vab", "RotationPeriod":353291.312500, "AxialTilt":0.000000, "Rings":[ { "Name":"Eoch Blou JS-J d9-3945 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.5174e+14, "InnerRad":1.2018e+09, "OuterRad":2.6273e+09 }, { "Name":"Eoch Blou JS-J d9-3945 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":6.194e+12, "InnerRad":2.848e+10, "OuterRad":2.8511e+11 } ] }
+{ "timestamp":"2018-04-01T01:29:02Z", "event":"FuelScoop", "Scooped":5.013710, "Total":29.127739 }
+{ "timestamp":"2018-04-01T01:29:05Z", "event":"FuelScoop", "Scooped":2.872267, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:29:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou KS-J d9-236", "SystemAddress":8117664207955, "StarClass":"A" }
+{ "timestamp":"2018-04-01T01:29:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:29:50Z", "event":"FSDJump", "StarSystem":"Eoch Blou KS-J d9-236", "SystemAddress":8117664207955, "StarPos":[-8213.78125,-676.09375,27955.53125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":54.567, "FuelUsed":7.509229, "FuelLevel":24.490772 }
+{ "timestamp":"2018-04-01T01:29:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:29:57Z", "event":"DiscoveryScan", "SystemAddress":8117664207955, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:29:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:30:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:30:07Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou KS-J d9-236", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.722656, "Radius":886397376.000000, "AbsoluteMagnitude":3.148163, "Age_MY":1346, "SurfaceTemperature":7538.000000, "Luminosity":"VI", "RotationPeriod":68609.382813, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:30:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:30:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:30:25Z", "event":"FuelScoop", "Scooped":5.002367, "Total":29.493120 }
+{ "timestamp":"2018-04-01T01:30:27Z", "event":"FuelScoop", "Scooped":2.506878, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:30:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:30:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:30:57Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou WV-R c19-317", "SystemAddress":87206391163050, "StarClass":"K" }
+{ "timestamp":"2018-04-01T01:31:03Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:31:16Z", "event":"FSDJump", "StarSystem":"Eoch Blou WV-R c19-317", "SystemAddress":87206391163050, "StarPos":[-8212.93750,-678.15625,27958.84375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":3.992, "FuelUsed":0.008371, "FuelLevel":31.991629 }
+{ "timestamp":"2018-04-01T01:31:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:31:17Z", "event":"Friends", "Status":"Online", "Name":"Klutz" }
+{ "timestamp":"2018-04-01T01:31:22Z", "event":"DiscoveryScan", "SystemAddress":87206391163050, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:31:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:31:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:31:28Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T01:31:33Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou WV-R c19-317", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.660156, "Radius":536715936.000000, "AbsoluteMagnitude":6.643158, "Age_MY":7564, "SurfaceTemperature":4333.000000, "Luminosity":"Va", "RotationPeriod":257335.015625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:32:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:32:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:32:21Z", "event":"FuelScoop", "Scooped":0.008372, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:32:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:32:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:32:59Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou AC-Q c20-76", "SystemAddress":20960815589554, "StarClass":"K" }
+{ "timestamp":"2018-04-01T01:33:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:33:18Z", "event":"FSDJump", "StarSystem":"Eoch Blou AC-Q c20-76", "SystemAddress":20960815589554, "StarPos":[-8206.40625,-676.56250,28013.93750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.502, "FuelUsed":7.848321, "FuelLevel":24.151680 }
+{ "timestamp":"2018-04-01T01:33:18Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":609603 }
+{ "timestamp":"2018-04-01T01:33:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:33:24Z", "event":"DiscoveryScan", "SystemAddress":20960815589554, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:33:25Z", "event":"DiscoveryScan", "SystemAddress":20960815589554, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:33:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:33:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:33:35Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou AC-Q c20-76 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.792969, "Radius":609496384.000000, "AbsoluteMagnitude":5.869232, "Age_MY":11266, "SurfaceTemperature":4859.000000, "Luminosity":"Va", "SemiMajorAxis":2666060578816.000000, "Eccentricity":0.377327, "OrbitalInclination":70.003555, "Periapsis":70.047058, "OrbitalPeriod":27906793472.000000, "RotationPeriod":289240.937500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:33:50Z", "event":"FuelScoop", "Scooped":5.004313, "Total":29.155985 }
+{ "timestamp":"2018-04-01T01:33:53Z", "event":"FuelScoop", "Scooped":2.844025, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:34:38Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou SE-G d11-382", "SystemAddress":13134186009699, "StarClass":"G" }
+{ "timestamp":"2018-04-01T01:34:43Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:34:56Z", "event":"FSDJump", "StarSystem":"Eoch Blou SE-G d11-382", "SystemAddress":13134186009699, "StarPos":[-8198.25000,-673.06250,28069.00000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.773, "FuelUsed":7.947929, "FuelLevel":24.052071 }
+{ "timestamp":"2018-04-01T01:34:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:35:02Z", "event":"DiscoveryScan", "SystemAddress":13134186009699, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:35:03Z", "event":"DiscoveryScan", "SystemAddress":13134186009699, "Bodies":51 }
+{ "timestamp":"2018-04-01T01:35:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:35:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:35:13Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou SE-G d11-382 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.050781, "Radius":660754688.000000, "AbsoluteMagnitude":5.229660, "Age_MY":5422, "SurfaceTemperature":5407.000000, "Luminosity":"Vab", "SemiMajorAxis":7150624571392.000000, "Eccentricity":0.036753, "OrbitalInclination":39.191975, "Periapsis":312.693787, "OrbitalPeriod":36690358272.000000, "RotationPeriod":255189.656250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:35:29Z", "event":"FuelScoop", "Scooped":5.003535, "Total":29.055618 }
+{ "timestamp":"2018-04-01T01:35:32Z", "event":"FuelScoop", "Scooped":2.944390, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:35:59Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou XZ-P e5-8803", "SystemAddress":37809693878836, "StarClass":"B" }
+{ "timestamp":"2018-04-01T01:36:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:36:18Z", "event":"FSDJump", "StarSystem":"Eoch Blou XZ-P e5-8803", "SystemAddress":37809693878836, "StarPos":[-8191.37500,-676.56250,28124.31250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.848, "FuelUsed":7.976247, "FuelLevel":24.023752 }
+{ "timestamp":"2018-04-01T01:36:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:36:24Z", "event":"DiscoveryScan", "SystemAddress":37809693878836, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:36:24Z", "event":"DiscoveryScan", "SystemAddress":37809693878836, "Bodies":16 }
+{ "timestamp":"2018-04-01T01:36:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:36:35Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou XZ-P e5-8803 A", "BodyID":2, "Parents":[ {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":3.097656, "Radius":1380663424.000000, "AbsoluteMagnitude":0.549026, "Age_MY":682, "SurfaceTemperature":10987.000000, "Luminosity":"Vab", "SemiMajorAxis":9274633216.000000, "Eccentricity":0.487890, "OrbitalInclination":53.004818, "Periapsis":68.952911, "OrbitalPeriod":1245712.375000, "RotationPeriod":71120.304688, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:36:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:36:59Z", "event":"FuelScoop", "Scooped":5.006759, "Total":29.030529 }
+{ "timestamp":"2018-04-01T01:37:02Z", "event":"FuelScoop", "Scooped":2.969468, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:37:05Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T01:37:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:38:10Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou VG-H c25-241", "SystemAddress":66315737344218, "StarClass":"K" }
+{ "timestamp":"2018-04-01T01:38:15Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:38:28Z", "event":"FSDJump", "StarSystem":"Eoch Blou VG-H c25-241", "SystemAddress":66315737344218, "StarPos":[-8183.46875,-669.68750,28178.46875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.160, "FuelUsed":7.723030, "FuelLevel":24.276970 }
+{ "timestamp":"2018-04-01T01:38:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:38:34Z", "event":"DiscoveryScan", "SystemAddress":66315737344218, "Bodies":7 }
+{ "timestamp":"2018-04-01T01:38:55Z", "event":"DiscoveryScan", "SystemAddress":66315737344218, "Bodies":18 }
+{ "timestamp":"2018-04-01T01:38:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:39:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:39:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:39:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:39:06Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou VG-H c25-241 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.660156, "Radius":483844512.000000, "AbsoluteMagnitude":6.511520, "Age_MY":4668, "SurfaceTemperature":4704.000000, "Luminosity":"Vab", "SemiMajorAxis":9408360742912.000000, "Eccentricity":0.191282, "OrbitalInclination":54.905243, "Periapsis":104.315201, "OrbitalPeriod":70229319680.000000, "RotationPeriod":195514.500000, "AxialTilt":0.000000, "Rings":[ { "Name":"Eoch Blou VG-H c25-241 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.1199e+14, "InnerRad":9.2154e+08, "OuterRad":2.1011e+09 }, { "Name":"Eoch Blou VG-H c25-241 A B Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.6833e+15, "InnerRad":6.6027e+09, "OuterRad":4.2258e+11 } ] }
+{ "timestamp":"2018-04-01T01:39:22Z", "event":"FuelScoop", "Scooped":5.004148, "Total":29.281115 }
+{ "timestamp":"2018-04-01T01:39:25Z", "event":"FuelScoop", "Scooped":2.718887, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:40:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:40:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:40:36Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T01:41:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:41:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:42:09Z", "event":"Friends", "Status":"Online", "Name":"Steyla" }
+{ "timestamp":"2018-04-01T01:42:34Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T01:42:37Z", "event":"Friends", "Status":"Offline", "Name":"omicrontheta" }
+{ "timestamp":"2018-04-01T01:43:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:53:58Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou KC-V f2-3132", "SystemAddress":1681616528669, "StarClass":"B" }
+{ "timestamp":"2018-04-01T01:54:03Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:54:17Z", "event":"FSDJump", "StarSystem":"Eoch Blou KC-V f2-3132", "SystemAddress":1681616528669, "StarPos":[-8169.46875,-659.03125,28231.53125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.903, "FuelUsed":7.961741, "FuelLevel":22.968258 }
+{ "timestamp":"2018-04-01T01:54:17Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":610862 }
+{ "timestamp":"2018-04-01T01:54:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:54:23Z", "event":"DiscoveryScan", "SystemAddress":1681616528669, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:54:23Z", "event":"DiscoveryScan", "SystemAddress":1681616528669, "Bodies":20 }
+{ "timestamp":"2018-04-01T01:54:34Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou KC-V f2-3132", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":7.042969, "Radius":2382949120.000000, "AbsoluteMagnitude":-2.975082, "Age_MY":6, "SurfaceTemperature":18823.000000, "Luminosity":"Vz", "RotationPeriod":119568.000000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:54:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:54:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:54:59Z", "event":"FuelScoop", "Scooped":5.008310, "Total":27.976547 }
+{ "timestamp":"2018-04-01T01:55:03Z", "event":"FuelScoop", "Scooped":4.023453, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:55:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:55:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:55:08Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T01:55:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:55:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou ZK-O e6-5890", "SystemAddress":25298454153788, "StarClass":"B" }
+{ "timestamp":"2018-04-01T01:55:49Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:56:02Z", "event":"FSDJump", "StarSystem":"Eoch Blou ZK-O e6-5890", "SystemAddress":25298454153788, "StarPos":[-8156.15625,-659.31250,28285.53125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.617, "FuelUsed":7.890892, "FuelLevel":24.109108 }
+{ "timestamp":"2018-04-01T01:56:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:56:08Z", "event":"DiscoveryScan", "SystemAddress":25298454153788, "Bodies":1 }
+{ "timestamp":"2018-04-01T01:56:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:56:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:56:19Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Eoch Blou ZK-O e6-5890", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":4.660156, "Radius":1865080960.000000, "AbsoluteMagnitude":-1.572052, "Age_MY":350, "SurfaceTemperature":15404.000000, "Luminosity":"IVa", "RotationPeriod":84017.359375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T01:56:34Z", "event":"FuelScoop", "Scooped":5.002263, "Total":29.111378 }
+{ "timestamp":"2018-04-01T01:56:36Z", "event":"FuelScoop", "Scooped":2.888628, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:56:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T01:56:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:56:51Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T01:57:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:57:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eoch Blou DC-B d14-2914", "SystemAddress":100133060351099, "StarClass":"F" }
+{ "timestamp":"2018-04-01T01:57:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:57:49Z", "event":"FSDJump", "StarSystem":"Eoch Blou DC-B d14-2914", "SystemAddress":100133060351099, "StarPos":[-8139.21875,-662.96875,28338.56250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.790, "FuelUsed":7.954535, "FuelLevel":24.045465 }
+{ "timestamp":"2018-04-01T01:57:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:57:55Z", "event":"DiscoveryScan", "SystemAddress":100133060351099, "Bodies":5 }
+{ "timestamp":"2018-04-01T01:57:56Z", "event":"DiscoveryScan", "SystemAddress":100133060351099, "Bodies":30 }
+{ "timestamp":"2018-04-01T01:57:58Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T01:58:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:58:55Z", "event":"FuelScoop", "Scooped":5.001752, "Total":29.047222 }
+{ "timestamp":"2018-04-01T01:58:58Z", "event":"FuelScoop", "Scooped":2.952791, "Total":32.000000 }
+{ "timestamp":"2018-04-01T01:59:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou VN-B d743", "SystemAddress":25538068354179, "StarClass":"F" }
+{ "timestamp":"2018-04-01T01:59:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T01:59:49Z", "event":"FSDJump", "StarSystem":"Dryio Blou VN-B d743", "SystemAddress":25538068354179, "StarPos":[-8128.21875,-664.09375,28393.15625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.702, "FuelUsed":7.921705, "FuelLevel":24.078295 }
+{ "timestamp":"2018-04-01T01:59:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T01:59:55Z", "event":"DiscoveryScan", "SystemAddress":25538068354179, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:01:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:01:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:01:40Z", "event":"FuelScoop", "Scooped":5.012185, "Total":29.090487 }
+{ "timestamp":"2018-04-01T02:01:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:01:43Z", "event":"FuelScoop", "Scooped":2.909512, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:01:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:02:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou VN-B d4080", "SystemAddress":140196515288195, "StarClass":"A" }
+{ "timestamp":"2018-04-01T02:02:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:02:30Z", "event":"FSDJump", "StarSystem":"Dryio Blou VN-B d4080", "SystemAddress":140196515288195, "StarPos":[-8110.40625,-658.87500,28445.84375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.861, "FuelUsed":7.981044, "FuelLevel":24.018955 }
+{ "timestamp":"2018-04-01T02:02:30Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":611355 }
+{ "timestamp":"2018-04-01T02:02:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:02:36Z", "event":"DiscoveryScan", "SystemAddress":140196515288195, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:02:36Z", "event":"DiscoveryScan", "SystemAddress":140196515288195, "Bodies":9 }
+{ "timestamp":"2018-04-01T02:02:47Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou VN-B d4080", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.679688, "Radius":1047855744.000000, "AbsoluteMagnitude":2.713852, "Age_MY":2292, "SurfaceTemperature":7662.000000, "Luminosity":"Vab", "RotationPeriod":82064.695313, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:03:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:03:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:03:19Z", "event":"FuelScoop", "Scooped":5.002327, "Total":29.021278 }
+{ "timestamp":"2018-04-01T02:03:22Z", "event":"FuelScoop", "Scooped":2.978722, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:03:53Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou DU-X c2-411", "SystemAddress":113045115775258, "StarClass":"M" }
+{ "timestamp":"2018-04-01T02:03:58Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:04:11Z", "event":"FSDJump", "StarSystem":"Dryio Blou DU-X c2-411", "SystemAddress":113045115775258, "StarPos":[-8096.09375,-653.75000,28499.28125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.558, "FuelUsed":7.868573, "FuelLevel":24.131428 }
+{ "timestamp":"2018-04-01T02:04:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:04:18Z", "event":"DiscoveryScan", "SystemAddress":113045115775258, "Bodies":7 }
+{ "timestamp":"2018-04-01T02:04:18Z", "event":"DiscoveryScan", "SystemAddress":113045115775258, "Bodies":7 }
+{ "timestamp":"2018-04-01T02:04:29Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou DU-X c2-411", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.476563, "Radius":396652320.000000, "AbsoluteMagnitude":8.226151, "Age_MY":8794, "SurfaceTemperature":3501.000000, "Luminosity":"Va", "RotationPeriod":200689.906250, "AxialTilt":0.000000, "Rings":[ { "Name":"Dryio Blou DU-X c2-411 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":9.2521e+13, "InnerRad":7.4643e+08, "OuterRad":1.8849e+09 } ] }
+{ "timestamp":"2018-04-01T02:04:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:04:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:05:04Z", "event":"FuelScoop", "Scooped":5.012775, "Total":29.144203 }
+{ "timestamp":"2018-04-01T02:05:08Z", "event":"FuelScoop", "Scooped":2.855788, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:05:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:05:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:05:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou PA-S b7-1", "SystemAddress":2761527677505, "StarClass":"M" }
+{ "timestamp":"2018-04-01T02:05:50Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:06:04Z", "event":"FSDJump", "StarSystem":"Dryio Blou PA-S b7-1", "SystemAddress":2761527677505, "StarPos":[-8082.90625,-646.28125,28553.09375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.906, "FuelUsed":7.997563, "FuelLevel":24.002438 }
+{ "timestamp":"2018-04-01T02:06:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:06:10Z", "event":"DiscoveryScan", "SystemAddress":2761527677505, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:06:11Z", "event":"DiscoveryScan", "SystemAddress":2761527677505, "Bodies":8 }
+{ "timestamp":"2018-04-01T02:06:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:06:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:06:21Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou PA-S b7-1", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.367188, "Radius":399751168.000000, "AbsoluteMagnitude":8.426788, "Age_MY":8850, "SurfaceTemperature":3330.000000, "Luminosity":"Va", "RotationPeriod":159783.140625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:06:37Z", "event":"FuelScoop", "Scooped":5.012553, "Total":29.015007 }
+{ "timestamp":"2018-04-01T02:06:40Z", "event":"FuelScoop", "Scooped":2.984984, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:07:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou MG-U c4-199", "SystemAddress":54771066612010, "StarClass":"G" }
+{ "timestamp":"2018-04-01T02:07:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:07:22Z", "event":"FSDJump", "StarSystem":"Dryio Blou MG-U c4-199", "SystemAddress":54771066612010, "StarPos":[-8063.25000,-642.09375,28605.25000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.894, "FuelUsed":7.993121, "FuelLevel":24.006880 }
+{ "timestamp":"2018-04-01T02:07:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:07:28Z", "event":"DiscoveryScan", "SystemAddress":54771066612010, "Bodies":15 }
+{ "timestamp":"2018-04-01T02:07:29Z", "event":"DiscoveryScan", "SystemAddress":54771066612010, "Bodies":39 }
+{ "timestamp":"2018-04-01T02:07:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:07:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:07:39Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou MG-U c4-199 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.808594, "Radius":550554624.000000, "AbsoluteMagnitude":5.569260, "Age_MY":9766, "SurfaceTemperature":5478.000000, "Luminosity":"Vab", "SemiMajorAxis":11620645339136.000000, "Eccentricity":0.439397, "OrbitalInclination":-27.070791, "Periapsis":325.669159, "OrbitalPeriod":306683707392.000000, "RotationPeriod":248748.125000, "AxialTilt":0.000000, "Rings":[ { "Name":"Dryio Blou MG-U c4-199 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":6.2764e+13, "InnerRad":8.7715e+08, "OuterRad":2.2481e+09 } ] }
+{ "timestamp":"2018-04-01T02:07:55Z", "event":"FuelScoop", "Scooped":5.010715, "Total":29.017622 }
+{ "timestamp":"2018-04-01T02:07:58Z", "event":"FuelScoop", "Scooped":2.982381, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:08:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:08:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:08:22Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou IG-W d2-559", "SystemAddress":19215893271707, "StarClass":"A" }
+{ "timestamp":"2018-04-01T02:08:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:08:41Z", "event":"FSDJump", "StarSystem":"Dryio Blou IG-W d2-559", "SystemAddress":19215893271707, "StarPos":[-8042.25000,-639.62500,28656.62500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.556, "FuelUsed":7.868359, "FuelLevel":24.131641 }
+{ "timestamp":"2018-04-01T02:08:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:08:47Z", "event":"DiscoveryScan", "SystemAddress":19215893271707, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:08:47Z", "event":"DiscoveryScan", "SystemAddress":19215893271707, "Bodies":2 }
+{ "timestamp":"2018-04-01T02:08:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:08:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:08:57Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou IG-W d2-559 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.582031, "Radius":908534976.000000, "AbsoluteMagnitude":2.687271, "Age_MY":1796, "SurfaceTemperature":8279.000000, "Luminosity":"VI", "SemiMajorAxis":22772854030336.000000, "Eccentricity":0.078314, "OrbitalInclination":-18.381681, "Periapsis":98.128143, "OrbitalPeriod":266752524288.000000, "RotationPeriod":100671.523438, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:09:13Z", "event":"FuelScoop", "Scooped":5.003994, "Total":29.135647 }
+{ "timestamp":"2018-04-01T02:09:17Z", "event":"FuelScoop", "Scooped":1.211718, "Total":30.347370 }
+{ "timestamp":"2018-04-01T02:09:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou WC-E b15-4", "SystemAddress":9359402816129, "StarClass":"M" }
+{ "timestamp":"2018-04-01T02:09:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:10:00Z", "event":"FSDJump", "StarSystem":"Dryio Blou WC-E b15-4", "SystemAddress":9359402816129, "StarPos":[-8024.90625,-639.71875,28708.84375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.024, "FuelUsed":7.621655, "FuelLevel":22.725716 }
+{ "timestamp":"2018-04-01T02:10:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:10:06Z", "event":"DiscoveryScan", "SystemAddress":9359402816129, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:10:08Z", "event":"DiscoveryScan", "SystemAddress":9359402816129, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:10:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:10:11Z", "event":"Friends", "Status":"Online", "Name":"Ragnar Starquester" }
+{ "timestamp":"2018-04-01T02:10:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:10:18Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou WC-E b15-4 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.214844, "Radius":288044128.000000, "AbsoluteMagnitude":10.874557, "Age_MY":3794, "SurfaceTemperature":2233.000000, "Luminosity":"Va", "SemiMajorAxis":19143856226304.000000, "Eccentricity":0.094426, "OrbitalInclination":-30.884434, "Periapsis":275.726563, "OrbitalPeriod":545380532224.000000, "RotationPeriod":123927.632813, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:10:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:10:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:10:35Z", "event":"FuelScoop", "Scooped":5.002196, "Total":27.727909 }
+{ "timestamp":"2018-04-01T02:10:39Z", "event":"FuelScoop", "Scooped":2.417204, "Total":30.145119 }
+{ "timestamp":"2018-04-01T02:11:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou DF-N c8-306", "SystemAddress":84183069763914, "StarClass":"K" }
+{ "timestamp":"2018-04-01T02:11:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:11:30Z", "event":"FSDJump", "StarSystem":"Dryio Blou DF-N c8-306", "SystemAddress":84183069763914, "StarPos":[-8009.56250,-634.03125,28762.28125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.887, "FuelUsed":7.929948, "FuelLevel":22.215172 }
+{ "timestamp":"2018-04-01T02:11:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:11:36Z", "event":"DiscoveryScan", "SystemAddress":84183069763914, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:11:37Z", "event":"DiscoveryScan", "SystemAddress":84183069763914, "Bodies":22 }
+{ "timestamp":"2018-04-01T02:11:47Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou DF-N c8-306 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.570313, "Radius":501503712.000000, "AbsoluteMagnitude":7.440292, "Age_MY":8902, "SurfaceTemperature":3731.000000, "Luminosity":"Va", "SemiMajorAxis":7381276688384.000000, "Eccentricity":0.405264, "OrbitalInclination":20.807896, "Periapsis":257.025574, "OrbitalPeriod":84285063168.000000, "RotationPeriod":222416.015625, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:12:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:12:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:12:22Z", "event":"FuelScoop", "Scooped":5.014163, "Total":27.229351 }
+{ "timestamp":"2018-04-01T02:12:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:12:26Z", "event":"FuelScoop", "Scooped":4.770650, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:12:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:12:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou LR-J c10-239", "SystemAddress":65766249998682, "StarClass":"K" }
+{ "timestamp":"2018-04-01T02:12:59Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:13:12Z", "event":"FSDJump", "StarSystem":"Dryio Blou LR-J c10-239", "SystemAddress":65766249998682, "StarPos":[-7992.37500,-631.53125,28815.31250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.803, "FuelUsed":7.959557, "FuelLevel":24.040443 }
+{ "timestamp":"2018-04-01T02:13:12Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":611997 }
+{ "timestamp":"2018-04-01T02:13:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:13:19Z", "event":"DiscoveryScan", "SystemAddress":65766249998682, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:13:19Z", "event":"DiscoveryScan", "SystemAddress":65766249998682, "Bodies":2 }
+{ "timestamp":"2018-04-01T02:13:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:13:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:13:29Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou LR-J c10-239 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.769531, "Radius":596443008.000000, "AbsoluteMagnitude":5.623306, "Age_MY":4932, "SurfaceTemperature":5198.000000, "Luminosity":"Vab", "SemiMajorAxis":32089430818816.000000, "Eccentricity":0.435375, "OrbitalInclination":18.357878, "Periapsis":184.638275, "OrbitalPeriod":643215065088.000000, "RotationPeriod":470246.437500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:13:45Z", "event":"FuelScoop", "Scooped":5.007468, "Total":29.047890 }
+{ "timestamp":"2018-04-01T02:13:48Z", "event":"FuelScoop", "Scooped":2.952129, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:14:03Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T02:14:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:14:14Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou VY-Q d5-301", "SystemAddress":10351097550003, "StarClass":"A" }
+{ "timestamp":"2018-04-01T02:14:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:14:32Z", "event":"FSDJump", "StarSystem":"Dryio Blou VY-Q d5-301", "SystemAddress":10351097550003, "StarPos":[-7970.50000,-629.18750,28866.68750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.887, "FuelUsed":7.990914, "FuelLevel":24.009087 }
+{ "timestamp":"2018-04-01T02:14:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:14:39Z", "event":"DiscoveryScan", "SystemAddress":10351097550003, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:14:39Z", "event":"DiscoveryScan", "SystemAddress":10351097550003, "Bodies":21 }
+{ "timestamp":"2018-04-01T02:14:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:14:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:14:51Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou VY-Q d5-301 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.578125, "Radius":876442880.000000, "AbsoluteMagnitude":2.951370, "Age_MY":930, "SurfaceTemperature":7932.000000, "Luminosity":"VI", "SemiMajorAxis":4367628894208.000000, "Eccentricity":0.102689, "OrbitalInclination":12.738205, "Periapsis":155.927429, "OrbitalPeriod":18978154496.000000, "RotationPeriod":100079.312500, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:15:10Z", "event":"FuelScoop", "Scooped":5.005985, "Total":29.015070 }
+{ "timestamp":"2018-04-01T02:15:13Z", "event":"FuelScoop", "Scooped":2.984930, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:15:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:15:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:15:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou VY-Q d5-4757", "SystemAddress":163458091717811, "StarClass":"F" }
+{ "timestamp":"2018-04-01T02:15:50Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:16:03Z", "event":"FSDJump", "StarSystem":"Dryio Blou VY-Q d5-4757", "SystemAddress":163458091717811, "StarPos":[-7952.00000,-631.40625,28918.78125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.326, "FuelUsed":7.783163, "FuelLevel":24.216837 }
+{ "timestamp":"2018-04-01T02:16:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:16:10Z", "event":"DiscoveryScan", "SystemAddress":163458091717811, "Bodies":4 }
+{ "timestamp":"2018-04-01T02:16:10Z", "event":"DiscoveryScan", "SystemAddress":163458091717811, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:16:11Z", "event":"DiscoveryScan", "SystemAddress":163458091717811, "Bodies":22 }
+{ "timestamp":"2018-04-01T02:16:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:16:21Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou VY-Q d5-4757 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.160156, "Radius":696879552.000000, "AbsoluteMagnitude":4.633774, "Age_MY":388, "SurfaceTemperature":6039.000000, "Luminosity":"Vb", "SemiMajorAxis":33231627878400.000000, "Eccentricity":0.068459, "OrbitalInclination":10.362832, "Periapsis":112.804794, "OrbitalPeriod":180819247104.000000, "RotationPeriod":325411.812500, "AxialTilt":0.000000, "Rings":[ { "Name":"Dryio Blou VY-Q d5-4757 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.4181e+14, "InnerRad":1.1294e+09, "OuterRad":2.5356e+09 } ] }
+{ "timestamp":"2018-04-01T02:16:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:16:53Z", "event":"FuelScoop", "Scooped":5.004941, "Total":29.221758 }
+{ "timestamp":"2018-04-01T02:16:55Z", "event":"FuelScoop", "Scooped":0.379511, "Total":29.601265 }
+{ "timestamp":"2018-04-01T02:18:55Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou VY-Q d5-4757 A 6 a", "BodyID":15, "Parents":[ {"Planet":14}, {"Star":1}, {"Null":0} ], "DistanceFromArrivalLS":1667.251953, "TidalLock":false, "TerraformState":"", "PlanetClass":"Ammonia world", "Atmosphere":"thin  atmosphere", "AtmosphereType":"AmmoniaOxygen", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.947090 }, { "Name":"SulphurDioxide", "Percent":1.033235 } ], "Volcanism":"", "MassEM":0.158973, "Radius":3630402.750000, "SurfaceGravity":4.807538, "SurfaceTemperature":204.869843, "SurfacePressure":8611.662109, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.859930, "Metal":0.140070 }, "SemiMajorAxis":2039164544.000000, "Eccentricity":0.000000, "OrbitalInclination":-87.453941, "Periapsis":307.090729, "OrbitalPeriod":10983000.000000, "RotationPeriod":52433.503906, "AxialTilt":-0.140294 }
+{ "timestamp":"2018-04-01T02:19:28Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou VY-Q d5-4757 A 6", "BodyID":14, "Parents":[ {"Star":1}, {"Null":0} ], "DistanceFromArrivalLS":1663.300293, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":92.013184 }, { "Name":"Oxygen", "Percent":4.766051 }, { "Name":"CarbonDioxide", "Percent":1.580424 } ], "Volcanism":"major silicate vapour geysers volcanism", "MassEM":6.803380, "Radius":10403579.000000, "SurfaceGravity":25.053513, "SurfaceTemperature":218.726990, "SurfacePressure":614335.812500, "Landable":false, "Composition":{ "Ice":0.000000, "Rock":0.665216, "Metal":0.334784 }, "SemiMajorAxis":498560434176.000000, "Eccentricity":0.005850, "OrbitalInclination":0.509164, "Periapsis":39.501801, "OrbitalPeriod":178141568.000000, "RotationPeriod":80826.703125, "AxialTilt":-2.506545 }
+{ "timestamp":"2018-04-01T02:22:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:22:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:23:56Z", "event":"Friends", "Status":"Online", "Name":"omicrontheta" }
+{ "timestamp":"2018-04-01T02:25:26Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou ZE-P d6-2144", "SystemAddress":73676095362235, "StarClass":"A" }
+{ "timestamp":"2018-04-01T02:25:31Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:25:45Z", "event":"FSDJump", "StarSystem":"Dryio Blou ZE-P d6-2144", "SystemAddress":73676095362235, "StarPos":[-7943.09375,-629.15625,28973.25000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.238, "FuelUsed":7.675069, "FuelLevel":21.926197 }
+{ "timestamp":"2018-04-01T02:25:45Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":612750 }
+{ "timestamp":"2018-04-01T02:25:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:25:51Z", "event":"DiscoveryScan", "SystemAddress":73676095362235, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:25:52Z", "event":"DiscoveryScan", "SystemAddress":73676095362235, "Bodies":29 }
+{ "timestamp":"2018-04-01T02:25:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:26:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:26:03Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou ZE-P d6-2144", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.238281, "Radius":905245120.000000, "AbsoluteMagnitude":3.096710, "Age_MY":3760, "SurfaceTemperature":7548.000000, "Luminosity":"Vb", "RotationPeriod":316565.531250, "AxialTilt":0.000000, "Rings":[ { "Name":"Dryio Blou ZE-P d6-2144 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":3.3988e+15, "InnerRad":2.9411e+10, "OuterRad":2.9644e+11 } ] }
+{ "timestamp":"2018-04-01T02:26:22Z", "event":"FuelScoop", "Scooped":5.009974, "Total":26.936159 }
+{ "timestamp":"2018-04-01T02:26:28Z", "event":"FuelScoop", "Scooped":5.001053, "Total":31.937225 }
+{ "timestamp":"2018-04-01T02:26:28Z", "event":"FuelScoop", "Scooped":0.062775, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:27:02Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou KC-C b30-21", "SystemAddress":46743871968001, "StarClass":"M" }
+{ "timestamp":"2018-04-01T02:27:07Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:27:21Z", "event":"FSDJump", "StarSystem":"Dryio Blou KC-C b30-21", "SystemAddress":46743871968001, "StarPos":[-7930.28125,-620.40625,29026.65625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.614, "FuelUsed":7.889394, "FuelLevel":24.110607 }
+{ "timestamp":"2018-04-01T02:27:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:27:27Z", "event":"DiscoveryScan", "SystemAddress":46743871968001, "Bodies":4 }
+{ "timestamp":"2018-04-01T02:27:28Z", "event":"DiscoveryScan", "SystemAddress":46743871968001, "Bodies":22 }
+{ "timestamp":"2018-04-01T02:27:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:27:39Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou KC-C b30-21 A", "BodyID":2, "Parents":[ {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.437500, "Radius":438932480.000000, "AbsoluteMagnitude":8.509445, "Age_MY":11716, "SurfaceTemperature":3118.000000, "Luminosity":"Va", "SemiMajorAxis":1143725752320.000000, "Eccentricity":0.137978, "OrbitalInclination":93.502434, "Periapsis":325.197113, "OrbitalPeriod":6038433792.000000, "RotationPeriod":199360.984375, "AxialTilt":0.000000, "Rings":[ { "Name":"Dryio Blou KC-C b30-21 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":2.3073e+13, "InnerRad":7.2424e+08, "OuterRad":1.922e+09 } ] }
+{ "timestamp":"2018-04-01T02:27:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:27:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:27:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:28:04Z", "event":"FuelScoop", "Scooped":5.009493, "Total":29.120108 }
+{ "timestamp":"2018-04-01T02:28:07Z", "event":"FuelScoop", "Scooped":2.879902, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:28:12Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T02:28:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:28:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou DL-N d7-2686", "SystemAddress":92299073557699, "StarClass":"F" }
+{ "timestamp":"2018-04-01T02:28:48Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:29:01Z", "event":"FSDJump", "StarSystem":"Dryio Blou DL-N d7-2686", "SystemAddress":92299073557699, "StarPos":[-7912.25000,-618.65625,29079.12500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.508, "FuelUsed":7.850109, "FuelLevel":24.149891 }
+{ "timestamp":"2018-04-01T02:29:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:29:07Z", "event":"DiscoveryScan", "SystemAddress":92299073557699, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:29:09Z", "event":"DiscoveryScan", "SystemAddress":92299073557699, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:29:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:29:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:29:20Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou DL-N d7-2686 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.332031, "Radius":902549568.000000, "AbsoluteMagnitude":3.719910, "Age_MY":2082, "SurfaceTemperature":6549.000000, "Luminosity":"Vab", "SemiMajorAxis":2610238062592.000000, "Eccentricity":0.127301, "OrbitalInclination":-37.394032, "Periapsis":136.023468, "OrbitalPeriod":24425019392.000000, "RotationPeriod":240546.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:29:36Z", "event":"FuelScoop", "Scooped":5.001590, "Total":29.151474 }
+{ "timestamp":"2018-04-01T02:29:39Z", "event":"FuelScoop", "Scooped":2.848526, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:29:47Z", "event":"FuelScoop", "Scooped":1.070001, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:30:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou GH-T b34-78", "SystemAddress":172088734405417, "StarClass":"M" }
+{ "timestamp":"2018-04-01T02:30:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:30:34Z", "event":"FSDJump", "StarSystem":"Dryio Blou GH-T b34-78", "SystemAddress":172088734405417, "StarPos":[-7900.90625,-615.00000,29133.09375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.269, "FuelUsed":7.762556, "FuelLevel":24.237444 }
+{ "timestamp":"2018-04-01T02:30:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:30:41Z", "event":"DiscoveryScan", "SystemAddress":172088734405417, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:30:42Z", "event":"DiscoveryScan", "SystemAddress":172088734405417, "Bodies":8 }
+{ "timestamp":"2018-04-01T02:30:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:30:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:30:52Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou GH-T b34-78 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.429688, "Radius":408028896.000000, "AbsoluteMagnitude":8.489212, "Age_MY":1172, "SurfaceTemperature":3249.000000, "Luminosity":"Va", "SemiMajorAxis":1653955887104.000000, "Eccentricity":0.033842, "OrbitalInclination":-12.887100, "Periapsis":318.939331, "OrbitalPeriod":10672401408.000000, "RotationPeriod":234829.046875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:31:08Z", "event":"FuelScoop", "Scooped":5.007375, "Total":29.244835 }
+{ "timestamp":"2018-04-01T02:31:11Z", "event":"FuelScoop", "Scooped":2.755157, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:32:06Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou KN-R b35-52", "SystemAddress":114914129761073, "StarClass":"M" }
+{ "timestamp":"2018-04-01T02:32:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:32:25Z", "event":"FSDJump", "StarSystem":"Dryio Blou KN-R b35-52", "SystemAddress":114914129761073, "StarPos":[-7896.96875,-612.34375,29138.59375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":7.267, "FuelUsed":0.039729, "FuelLevel":31.960272 }
+{ "timestamp":"2018-04-01T02:32:25Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":613150 }
+{ "timestamp":"2018-04-01T02:32:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:32:31Z", "event":"DiscoveryScan", "SystemAddress":114914129761073, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:32:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:32:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:32:43Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou KN-R b35-52", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.367188, "Radius":375766944.000000, "AbsoluteMagnitude":9.243439, "Age_MY":3242, "SurfaceTemperature":2846.000000, "Luminosity":"Va", "RotationPeriod":162016.359375, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:32:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:32:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:33:03Z", "event":"FuelScoop", "Scooped":0.039729, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:33:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou TZ-N b37-126", "SystemAddress":277642119107393, "StarClass":"M" }
+{ "timestamp":"2018-04-01T02:33:40Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:33:53Z", "event":"FSDJump", "StarSystem":"Dryio Blou TZ-N b37-126", "SystemAddress":277642119107393, "StarPos":[-7883.59375,-609.43750,29192.62500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.738, "FuelUsed":7.934863, "FuelLevel":24.065136 }
+{ "timestamp":"2018-04-01T02:33:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:34:00Z", "event":"DiscoveryScan", "SystemAddress":277642119107393, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:34:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:34:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:34:05Z", "event":"Friends", "Status":"Offline", "Name":"John Allbright" }
+{ "timestamp":"2018-04-01T02:34:10Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou TZ-N b37-126", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.285156, "Radius":336373408.000000, "AbsoluteMagnitude":9.402313, "Age_MY":2274, "SurfaceTemperature":2900.000000, "Luminosity":"Va", "RotationPeriod":132984.796875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:34:25Z", "event":"FuelScoop", "Scooped":5.013823, "Total":29.078959 }
+{ "timestamp":"2018-04-01T02:34:29Z", "event":"FuelScoop", "Scooped":2.921045, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:34:55Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou AG-S c19-640", "SystemAddress":175992492042666, "StarClass":"K" }
+{ "timestamp":"2018-04-01T02:35:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:35:14Z", "event":"FSDJump", "StarSystem":"Dryio Blou AG-S c19-640", "SystemAddress":175992492042666, "StarPos":[-7868.65625,-605.46875,29245.93750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.508, "FuelUsed":7.850441, "FuelLevel":24.149559 }
+{ "timestamp":"2018-04-01T02:35:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:35:20Z", "event":"DiscoveryScan", "SystemAddress":175992492042666, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:35:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:35:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:35:31Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou AG-S c19-640", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.500000, "Radius":441734176.000000, "AbsoluteMagnitude":7.658112, "Age_MY":5258, "SurfaceTemperature":3781.000000, "Luminosity":"Va", "RotationPeriod":212481.781250, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:35:47Z", "event":"FuelScoop", "Scooped":5.010581, "Total":29.160152 }
+{ "timestamp":"2018-04-01T02:35:50Z", "event":"FuelScoop", "Scooped":2.839852, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:35:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:35:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:36:13Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou JS-O c21-548", "SystemAddress":150703791712698, "StarClass":"K" }
+{ "timestamp":"2018-04-01T02:36:18Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:36:32Z", "event":"FSDJump", "StarSystem":"Dryio Blou JS-O c21-548", "SystemAddress":150703791712698, "StarPos":[-7853.31250,-602.96875,29299.25000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.533, "FuelUsed":7.859774, "FuelLevel":24.140226 }
+{ "timestamp":"2018-04-01T02:36:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:36:38Z", "event":"DiscoveryScan", "SystemAddress":150703791712698, "Bodies":4 }
+{ "timestamp":"2018-04-01T02:36:38Z", "event":"DiscoveryScan", "SystemAddress":150703791712698, "Bodies":20 }
+{ "timestamp":"2018-04-01T02:36:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:36:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:36:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:36:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:36:48Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou JS-O c21-548 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.781250, "Radius":613486656.000000, "AbsoluteMagnitude":5.734283, "Age_MY":8634, "SurfaceTemperature":4996.000000, "Luminosity":"Va", "SemiMajorAxis":1224893530112.000000, "Eccentricity":0.167717, "OrbitalInclination":-21.016562, "Periapsis":287.217010, "OrbitalPeriod":3316693248.000000, "RotationPeriod":257653.531250, "AxialTilt":0.000000, "Rings":[ { "Name":"Dryio Blou JS-O c21-548 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":7.322e+09, "InnerRad":1.2051e+09, "OuterRad":2.2225e+09 } ] }
+{ "timestamp":"2018-04-01T02:37:07Z", "event":"FuelScoop", "Scooped":5.008285, "Total":29.148521 }
+{ "timestamp":"2018-04-01T02:37:09Z", "event":"FuelScoop", "Scooped":2.851483, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:37:37Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou ZB-A b45-44", "SystemAddress":97322749088641, "StarClass":"M" }
+{ "timestamp":"2018-04-01T02:37:42Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:37:56Z", "event":"FSDJump", "StarSystem":"Dryio Blou ZB-A b45-44", "SystemAddress":97322749088641, "StarPos":[-7835.65625,-601.03125,29352.00000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.660, "FuelUsed":7.906507, "FuelLevel":24.093493 }
+{ "timestamp":"2018-04-01T02:37:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:38:02Z", "event":"DiscoveryScan", "SystemAddress":97322749088641, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:38:02Z", "event":"DiscoveryScan", "SystemAddress":97322749088641, "Bodies":12 }
+{ "timestamp":"2018-04-01T02:38:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:38:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:38:12Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou ZB-A b45-44 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.402344, "Radius":425051360.000000, "AbsoluteMagnitude":8.522491, "Age_MY":8566, "SurfaceTemperature":3159.000000, "Luminosity":"Va", "SemiMajorAxis":2257631576064.000000, "Eccentricity":0.156876, "OrbitalInclination":-37.741791, "Periapsis":180.499176, "OrbitalPeriod":16732524544.000000, "RotationPeriod":254356.421875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:38:28Z", "event":"FuelScoop", "Scooped":5.003949, "Total":29.097445 }
+{ "timestamp":"2018-04-01T02:38:31Z", "event":"FuelScoop", "Scooped":2.902552, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:38:34Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T02:38:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:38:55Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou SE-L c23-48", "SystemAddress":13264905349578, "StarClass":"G" }
+{ "timestamp":"2018-04-01T02:39:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:39:13Z", "event":"FSDJump", "StarSystem":"Dryio Blou SE-L c23-48", "SystemAddress":13264905349578, "StarPos":[-7821.87500,-591.53125,29405.06250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.640, "FuelUsed":7.899249, "FuelLevel":24.100750 }
+{ "timestamp":"2018-04-01T02:39:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:39:20Z", "event":"DiscoveryScan", "SystemAddress":13264905349578, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:39:20Z", "event":"DiscoveryScan", "SystemAddress":13264905349578, "Bodies":12 }
+{ "timestamp":"2018-04-01T02:39:31Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou SE-L c23-48 A", "BodyID":2, "Parents":[ {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.839844, "Radius":600412096.000000, "AbsoluteMagnitude":5.380173, "Age_MY":8950, "SurfaceTemperature":5479.000000, "Luminosity":"Vab", "SemiMajorAxis":9983645696.000000, "Eccentricity":0.109070, "OrbitalInclination":-48.305634, "Periapsis":63.383675, "OrbitalPeriod":2117611.500000, "RotationPeriod":339681.875000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:39:50Z", "event":"FuelScoop", "Scooped":5.013056, "Total":29.113810 }
+{ "timestamp":"2018-04-01T02:39:53Z", "event":"FuelScoop", "Scooped":2.886191, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:42:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou AR-H c25-135", "SystemAddress":37179283253722, "StarClass":"K" }
+{ "timestamp":"2018-04-01T02:42:15Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:42:28Z", "event":"FSDJump", "StarSystem":"Dryio Blou AR-H c25-135", "SystemAddress":37179283253722, "StarPos":[-7804.00000,-594.00000,29457.78125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.721, "FuelUsed":7.928980, "FuelLevel":24.071020 }
+{ "timestamp":"2018-04-01T02:42:28Z", "event":"Powerplay", "Power":"Felicia Winters", "Rank":0, "Merits":0, "Votes":0, "TimePledged":613753 }
+{ "timestamp":"2018-04-01T02:42:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:42:34Z", "event":"DiscoveryScan", "SystemAddress":37179283253722, "Bodies":4 }
+{ "timestamp":"2018-04-01T02:42:35Z", "event":"DiscoveryScan", "SystemAddress":37179283253722, "Bodies":40 }
+{ "timestamp":"2018-04-01T02:42:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:42:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:42:46Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou AR-H c25-135 A", "BodyID":1, "Parents":[ {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.503906, "Radius":432543744.000000, "AbsoluteMagnitude":7.448349, "Age_MY":2302, "SurfaceTemperature":4010.000000, "Luminosity":"Va", "SemiMajorAxis":1006736965632.000000, "Eccentricity":0.110395, "OrbitalInclination":49.883526, "Periapsis":65.302528, "OrbitalPeriod":10369514496.000000, "RotationPeriod":260608.281250, "AxialTilt":0.000000, "Rings":[ { "Name":"Dryio Blou AR-H c25-135 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":6.4327e+09, "InnerRad":7.739e+08, "OuterRad":1.9202e+09 } ] }
+{ "timestamp":"2018-04-01T02:43:05Z", "event":"FuelScoop", "Scooped":5.009065, "Total":29.080074 }
+{ "timestamp":"2018-04-01T02:43:09Z", "event":"FuelScoop", "Scooped":2.919921, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:43:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:43:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:43:29Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou HZ-L b52-36", "SystemAddress":79731099915201, "StarClass":"M" }
+{ "timestamp":"2018-04-01T02:43:34Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:43:47Z", "event":"FSDJump", "StarSystem":"Dryio Blou HZ-L b52-36", "SystemAddress":79731099915201, "StarPos":[-7788.03125,-590.59375,29511.09375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.757, "FuelUsed":7.941909, "FuelLevel":24.058090 }
+{ "timestamp":"2018-04-01T02:43:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:43:53Z", "event":"DiscoveryScan", "SystemAddress":79731099915201, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:43:54Z", "event":"DiscoveryScan", "SystemAddress":79731099915201, "Bodies":6 }
+{ "timestamp":"2018-04-01T02:43:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:44:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:44:04Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou HZ-L b52-36", "BodyID":0, "DistanceFromArrivalLS":0.000000, "StarType":"M", "StellarMass":0.261719, "Radius":278981056.000000, "AbsoluteMagnitude":10.623444, "Age_MY":12650, "SurfaceTemperature":2404.000000, "Luminosity":"Va", "RotationPeriod":127656.171875, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:44:22Z", "event":"FuelScoop", "Scooped":5.001551, "Total":29.059629 }
+{ "timestamp":"2018-04-01T02:44:25Z", "event":"FuelScoop", "Scooped":2.940383, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:44:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Dryio Blou BB-D d13-583", "SystemAddress":20040577340659, "StarClass":"G" }
+{ "timestamp":"2018-04-01T02:44:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2018-04-01T02:45:10Z", "event":"FSDJump", "StarSystem":"Dryio Blou BB-D d13-583", "SystemAddress":20040577340659, "StarPos":[-7769.93750,-579.31250,29562.71875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemSecondEconomy":"$economy_None;", "SystemSecondEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":55.855, "FuelUsed":7.978386, "FuelLevel":24.021614 }
+{ "timestamp":"2018-04-01T02:45:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:45:16Z", "event":"DiscoveryScan", "SystemAddress":20040577340659, "Bodies":1 }
+{ "timestamp":"2018-04-01T02:45:17Z", "event":"DiscoveryScan", "SystemAddress":20040577340659, "Bodies":4 }
+{ "timestamp":"2018-04-01T02:45:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:45:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:45:28Z", "event":"Scan", "ScanType":"Detailed", "BodyName":"Dryio Blou BB-D d13-583 A", "BodyID":2, "Parents":[ {"Null":1}, {"Null":0} ], "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.171875, "Radius":837770944.000000, "AbsoluteMagnitude":4.319580, "Age_MY":1628, "SurfaceTemperature":5921.000000, "Luminosity":"Vab", "SemiMajorAxis":74167394304.000000, "Eccentricity":0.248826, "OrbitalInclination":-21.656588, "Periapsis":162.420624, "OrbitalPeriod":20419188.000000, "RotationPeriod":507694.125000, "AxialTilt":0.000000 }
+{ "timestamp":"2018-04-01T02:45:42Z", "event":"FuelScoop", "Scooped":5.201316, "Total":29.222937 }
+{ "timestamp":"2018-04-01T02:45:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:45:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:45:45Z", "event":"FuelScoop", "Scooped":2.777068, "Total":32.000000 }
+{ "timestamp":"2018-04-01T02:45:56Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T02:46:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:54:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2018-04-01T02:54:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T02:54:38Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2018-04-01T02:58:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2018-04-01T03:04:03Z", "event":"Shutdown" }
